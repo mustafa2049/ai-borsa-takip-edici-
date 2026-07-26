@@ -2,6 +2,11 @@
 
 Tüm önemli değişiklikler bu dosyada listelenir. Sürümleme [Semantic Versioning](https://semver.org/lang/tr/) kurallarına uyar.
 
+## [0.6.0] - 2026-07-26
+
+### Eklendi
+- **Borsa terimleri sözlüğü:** Borsayı iyi bilmeyen kullanıcılar için, F/K, PD/DD, ROE, Net Kâr Marjı, RSI, MACD, Hareketli Ortalama, 52 Hafta Aralığı, Hedef Fiyat, Stop-Loss, AI Güven Skoru, Beta, Volatilite, Sharpe Oranı ve Maks. Kayıp gibi terimlerin yanına tıklanabilir "?" ikonları eklendi. Tıklanınca ne anlama geldiği ve nasıl yorumlanması gerektiği sade Türkçe ile açıklanan bir bilgi kutusu açılıyor. Hisse detay, Ana Sayfa sinyal kartları ve tüm Portföy sayfalarında aktif.
+
 ## [0.5.0] - 2026-07-26
 
 AI motorunda kullanıcı geri bildirimiyle 5 iyileştirme birden yapıldı:

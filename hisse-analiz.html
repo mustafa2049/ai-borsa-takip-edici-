@@ -202,17 +202,17 @@
 </svg>
 <div class="absolute bottom-0 flex flex-col items-center">
 <span class="font-headline-lg-mobile text-headline-lg-mobile text-primary font-bold neon-glow" id="ai-signal-text">GÜÇLÜ AL</span>
-<span class="font-label-caps text-label-caps text-on-surface-variant mt-1" id="ai-confidence">Güven Skoru: %92</span>
+<span class="font-label-caps text-label-caps text-on-surface-variant mt-1" data-term="confidence" id="ai-confidence">Güven Skoru: %92</span>
 </div>
 </div>
 <!-- Metrics -->
 <div class="grid grid-cols-2 gap-4 mb-6">
 <div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
-<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">HEDEF FİYAT</span>
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="target">HEDEF FİYAT</span>
 <span class="block font-data-display text-data-display text-on-surface" id="ai-target">320.00 TL</span>
 </div>
 <div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
-<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">STOP-LOSS</span>
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="stoploss">STOP-LOSS</span>
 <span class="block font-data-display text-data-display text-error" id="ai-stop">270.00 TL</span>
 </div>
 <div class="col-span-2 bg-surface-container/50 rounded-lg p-3 border border-white/5 flex justify-between items-center">
@@ -220,11 +220,11 @@
 <span class="font-data-display text-data-display text-on-surface text-sm" id="ai-timeframe">2-4 Hafta</span>
 </div>
 <div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
-<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">HAREKETLİ ORT.</span>
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="sma">HAREKETLİ ORT.</span>
 <span class="block font-data-display text-data-display text-primary" id="ma-status">AL (20/50/200)</span>
 </div>
 <div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
-<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">MACD GÖSTERGESİ</span>
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="macd">MACD GÖSTERGESİ</span>
 <span class="block font-data-display text-data-display text-primary" id="macd-status">POZİTİF KESİŞİM</span>
 </div>
 <div class="col-span-2 grid grid-cols-2 gap-4" id="stock-extra-metrics"></div></div>

@@ -142,7 +142,7 @@
             '<div class="flex items-end justify-between mt-2"><div>' +
             '<span class="font-data-display text-data-display text-on-surface">' + fmt(s.price) + " TL</span>" +
             pctHtml(s.change_pct, "text-body-sm ml-2 font-semibold") + "</div>" +
-            '<div class="flex items-center gap-1 text-label-caps text-on-surface-variant">' +
+            '<div class="flex items-center gap-1 text-label-caps text-on-surface-variant" data-term="confidence">' +
             '<span class="material-symbols-outlined text-[16px]">bolt</span>' +
             'AI Güven: <span class="text-on-surface">' + conf + "</span></div></div></a>";
     }
@@ -461,17 +461,17 @@
         var extra = document.getElementById("stock-extra-metrics");
         if (extra) {
             extra.innerHTML =
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">RSI (14)</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="rsi">RSI (14)</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.rsi_14 == null ? "—" : fmt(s.rsi_14, 1)) + "</span></div>" +
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">52 HAFTA</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="52w">52 HAFTA</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface text-sm">' + fmt(s.low_52w, 0) + " - " + fmt(s.high_52w, 0) + "</span></div>" +
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">F/K ORANI</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="fk">F/K ORANI</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.pe_ratio == null ? "Veri yok" : fmt(s.pe_ratio, 1)) + "</span></div>" +
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">PD/DD ORANI</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="pd_dd">PD/DD ORANI</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.pb_ratio == null ? "Veri yok" : fmt(s.pb_ratio, 1)) + "</span></div>" +
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">ÖZKAYNAK KÂRLILIĞI</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="roe">ÖZKAYNAK KÂRLILIĞI</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.roe == null ? "Veri yok" : "%" + fmt(s.roe, 1)) + "</span></div>" +
-                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">NET KÂR MARJI</span>' +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1" data-term="profit_margin">NET KÂR MARJI</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.profit_margin == null ? "Veri yok" : "%" + fmt(s.profit_margin, 1)) + "</span></div>";
         }
 
@@ -961,6 +961,60 @@
             "Geçmiş Sinyal Doğruluğu: %" + fmt(overall.accuracy_pct, 0) + " (" + overall.evaluated + " sinyal, " + accuracy.eval_days + "+ gün önce verilen)</span>";
     }
 
+    /* ---------- Sozluk (borsa terimleri icin "?" ipucu) ---------- */
+
+    var GLOSSARY = {
+        fk: { title: "F/K Oranı (Fiyat/Kazanç)", text: "Hissenin fiyatının, şirketin yıllık kârına oranı. Düşük olması hissenin 'ucuz' sayılabileceğini gösterir; ama normal seviye sektöre göre değişir, tek başına karar verdirmemeli." },
+        pd_dd: { title: "PD/DD Oranı (Piyasa Değeri/Defter Değeri)", text: "Şirketin borsadaki değerinin, muhasebe kayıtlarındaki net varlık değerine oranı. 1'e yakın veya altı, teorik olarak ucuz kabul edilir." },
+        roe: { title: "Özkaynak Kârlılığı (ROE)", text: "Şirketin kendi öz sermayesini ne kadar verimli kâra çevirdiğini gösteren yüzde. Genelde yüksek olması olumlu sayılır." },
+        profit_margin: { title: "Net Kâr Marjı", text: "Şirketin toplam satışlarının yüzde kaçının net kâra dönüştüğü. Yüksek marj, güçlü kârlılık gücü demektir." },
+        rsi: { title: "RSI (Göreceli Güç Endeksi)", text: "0-100 arası değişen bir gösterge. 70 üzeri genelde 'aşırı alım' (düşüş riski), 30 altı 'aşırı satım' (tepki alımı ihtimali) olarak yorumlanır." },
+        macd: { title: "MACD Göstergesi", text: "Fiyat trendinin yön ve gücündeki değişimi ölçen bir teknik gösterge. Pozitif kesişim genelde yükseliş, negatif kesişim düşüş sinyali sayılır." },
+        sma: { title: "Hareketli Ortalama", text: "Son 20/50 günün ortalama fiyatı. Güncel fiyat bu ortalamanın üzerindeyse kısa vadeli trendin yukarı yönlü olduğu düşünülür." },
+        "52w": { title: "52 Hafta Aralığı", text: "Hissenin son 1 yıl içindeki en düşük ve en yüksek fiyatı. Fiyatın bu aralıktaki yeri, göreceli olarak ucuz mu pahalı mı olduğu hakkında fikir verir." },
+        target: { title: "Hedef Fiyat", text: "AI'nın mevcut verilere göre öngördüğü olası yükseliş seviyesi. Bir garanti değil, bir tahmindir." },
+        stoploss: { title: "Stop-Loss (Zarar Durdur)", text: "Olası bir kayıp durumunda satışın düşünülebileceği fiyat seviyesi. Riski sınırlamak için kullanılan bir referans noktasıdır, kesin bir kural değildir." },
+        confidence: { title: "AI Güven Skoru", text: "Modelin kendi sinyaline ne kadar 'emin' olduğunu gösteren 0-100 arası bir puan. Yüksek skor, sinyalin doğru çıkacağının garantisi değildir." },
+        beta: { title: "Beta", text: "Portföyün/hissenin BIST 100 endeksine göre ne kadar sert hareket ettiğini gösterir. 1'den büyükse endeksten daha oynak, 1'den küçükse daha sakin demektir." },
+        volatility: { title: "Volatilite", text: "Fiyatın ne kadar dalgalı hareket ettiğinin ölçüsü (yıllıklaştırılmış yüzde). Yüksek volatilite, hem kazanç hem kayıp potansiyelinin daha büyük olduğu anlamına gelir." },
+        sharpe: { title: "Sharpe Oranı", text: "Alınan riske karşılık elde edilen getiriyi ölçer. Genel olarak 1 üzeri iyi, 2 üzeri çok iyi kabul edilir; negatifse risk karşılığı yeterli getiri alınamadığını gösterir." },
+        maxdd: { title: "Maksimum Kayıp (Max Drawdown)", text: "Geçmişte en yüksek noktadan en düşük noktaya kadar yaşanan en büyük değer kaybı. Portföyün 'en kötü senaryoda' ne kadar erimiş olduğunu gösterir." }
+    };
+
+    function closeAllGlossaryTips() {
+        document.querySelectorAll(".glossary-tip").forEach(function (t) { t.remove(); });
+    }
+
+    function initGlossary() {
+        document.querySelectorAll("[data-term]").forEach(function (el) {
+            if (el.querySelector(".glossary-btn")) return; // zaten eklenmis
+            var entry = GLOSSARY[el.getAttribute("data-term")];
+            if (!entry) return;
+            var btn = document.createElement("button");
+            btn.type = "button";
+            btn.className = "glossary-btn inline-flex items-center justify-center w-3.5 h-3.5 rounded-full border border-current text-[9px] leading-none ml-1 opacity-60 hover:opacity-100 align-middle";
+            btn.textContent = "?";
+            btn.setAttribute("aria-label", entry.title + " açıklaması");
+            btn.addEventListener("click", function (ev) {
+                ev.stopPropagation();
+                closeAllGlossaryTips();
+                var tip = document.createElement("div");
+                tip.className = "glossary-tip fixed z-[200] max-w-[260px] bg-surface-container-high border border-white/10 rounded-lg shadow-2xl p-3 text-left";
+                tip.innerHTML = '<p class="text-label-caps text-secondary mb-1">' + esc(entry.title) + "</p>" +
+                    '<p class="text-body-sm text-on-surface-variant">' + esc(entry.text) + "</p>";
+                document.body.appendChild(tip);
+                var r = btn.getBoundingClientRect();
+                var left = Math.max(8, Math.min(r.left, window.innerWidth - 270));
+                var top = r.bottom + 6;
+                if (r.bottom + 160 > window.innerHeight) top = r.top - tip.offsetHeight - 6;
+                tip.style.top = top + "px";
+                tip.style.left = left + "px";
+            });
+            el.appendChild(btn);
+        });
+    }
+    document.addEventListener("click", closeAllGlossaryTips);
+
     /* ---------- Surum rozeti ---------- */
 
     function renderVersionBadge(version) {
@@ -1002,6 +1056,7 @@
             initSearch(signals, funds, ipos);
             initPortfolio(signals, funds, history);
             if (version) renderVersionBadge(version);
+            initGlossary();
         });
     });
 })();
