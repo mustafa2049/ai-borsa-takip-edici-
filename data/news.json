@@ -1,157 +1,125 @@
 {
-  "updated_at": "2026-07-26T15:49:23+03:00",
+  "updated_at": "2026-07-26T16:57:06+03:00",
   "news": [
     {
-      "title": "Ucuza yaşayacağını sandı, masraflar katlandı: Tiny house'tan vazgeçiren maliyetler",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/ucuza-yasayacagini-sandi-masraflar-katlandi-tiny-housetan-vazgeciren-maliyetler-galeri-833702",
+      "title": "Baker Hughes kazançları Chart anlaşması ile test ediliyor",
+      "url": "https://tr.investing.com/news/earnings/baker-hughes-kazanclar-chart-anlasmas-ile-test-ediliyor-93CH-3995800",
+      "source": "Investing Türkiye",
+      "published": "2026-07-26T13:38:21"
+    },
+    {
+      "title": "Filenin Sultanları yine tarih yazdı: Milletler Ligi'nde şampiyon Türkiye",
+      "url": "https://www.dunya.com/spor/filenin-sultanlari-yine-tarih-yazdi-milletler-liginde-sampiyon-turkiye-haberi-833707",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T12:33:00",
-      "ai": {
-        "impact": "Tiny house maliyetlerinin artması, Türkiye'de konut piyasasına etkileri sınırlı olabilir. Ancak, global olarak sürdürülebilir yaşam trendini etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Cide'deki selin geliş anı kameraya yansıdı",
-      "url": "https://www.dunya.com/video-galeri/gundem/cidedeki-selin-gelis-ani-kameraya-yansidi-video-833701",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T12:22:00",
-      "ai": {
-        "impact": "Cide'deki sel, yerel ekonomi ve altyapıya kısa vadeli negatif etkileri olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
-      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T12:17:14",
-      "ai": {
-        "impact": "İngiltere'nin yeni başbakanının Trump'a karşı çıkma ihtimali, ABD-İngiltere ilişkilerini etkileyebilir ve global piyasalarda belirsizlik yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Dev şirketten kâr alarmı! Beklentisini düşürdü, tek bir nedeni var",
-      "url": "https://www.dunya.com/ekonomi/dev-sirketten-kar-alarmi-beklentisini-dusurdu-tek-bir-nedeni-var-haberi-833700",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T11:54:00",
-      "ai": {
-        "impact": "Dev şirketin kâr alarmı, şirketin hisse senedi performansını ve sektördeki diğer şirketleri negatif etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "GOZDE, Gerçeğe Uygun Değer çağrısı sonrası %48 getiri sağladı",
-      "url": "https://tr.investing.com/news/investment-ideas/gozde-gercege-uygun-deger-cagrs-sonras-48-getiri-saglad-93CH-3995764",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:42:20",
-      "ai": {
-        "impact": "GOZDE'nin %48 getiri sağlaması, şirketin hisse senedi performansını pozitif etkileyebilir ve yatırımcı güvenini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Adil Değer analizi BARMA’nın %46’lık düşüşünü önceden tahmin etti",
-      "url": "https://tr.investing.com/news/investment-ideas/adil-deger-analizi-barmann-46lk-dususunu-onceden-tahmin-etti-93CH-3995763",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:37:52",
-      "ai": {
-        "impact": "Adil Değer analizi, BARMA'nın düşüşünü önceden tahmin etmesi, analizin güvenilirliğini artırabilir ve yatırımcıların kararlarını etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
-      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T11:33:11",
-      "ai": {
-        "impact": "Wall Street analistlerinin uzun vadeli büyüme potansiyeli olan hisseleri desteklemesi, bu hisselerin performansını pozitif etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "ABD-İran hattında diplomasi yeniden hız kazandı",
-      "url": "https://www.dunya.com/dunya/abd-iran-hattinda-diplomasi-yeniden-hiz-kazandi-haberi-833699",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T11:32:00",
-      "ai": {
-        "impact": "ABD-İran arasındaki diplomasi hızlanması, bölgesel ve global politik gerginliği azaltabilir ve enerji piyasalarına pozitif etkileri olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Goldman, Warsh’ın Para Politikası Görev Güçlerini Değerlendirdi",
-      "url": "https://tr.investing.com/news/economy-news/goldman-warshn-para-politikas-gorev-guclerini-degerlendirdi-3995761",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:13:43"
-    },
-    {
-      "title": "NioCorp hissesi, Fair Value fırsatı işaretledikten sonra %75 getiri sağladı",
-      "url": "https://tr.investing.com/news/investment-ideas/niocorp-hissesi-fair-value-frsat-isaretledikten-sonra-75-getiri-saglad-93CH-3995759",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:12:22"
-    },
-    {
-      "title": "InvestingPro’nun Gerçeğe Uygun Değeri Navitas’ı tespit etti",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-navitas-tespit-etti-93CH-3995758",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:03:45"
-    },
-    {
-      "title": "Kabine yarın toplanıyor: Gündemde ekonomi ve bölgesel gelişmeler var",
-      "url": "https://www.dunya.com/gundem/kabine-yarin-toplaniyor-gundemde-ekonomi-ve-bolgesel-gelismeler-var-haberi-833698",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T11:03:00"
-    },
-    {
-      "title": "UniCredit CEO’su Commerzbank anlaşmasının muhtemel olduğunu söyledi",
-      "url": "https://tr.investing.com/news/stock-market-news/unicredit-ceosu-commerzbank-anlasmasnn-muhtemel-oldugunu-soyledi-93CH-3995757",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T10:56:06"
-    },
-    {
-      "title": "Türkiye uzayda yeni döneme giriyor: Türksat filosuna \"Biruni\" geliyor",
-      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/turkiye-uzayda-yeni-doneme-giriyor-turksat-filosuna-biruni-geliyor-haberi-833697",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T10:54:00"
-    },
-    {
-      "title": "Hindistan ABD’ye ihracatının %45’inin yeni tarifelerden muaf olduğunu açıkladı",
-      "url": "https://tr.investing.com/news/economy-news/hindistan-abdye-ihracatnn-45inin-yeni-tarifelerden-muaf-oldugunu-acklad-3995755",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T10:27:00"
+      "published": "2026-07-26T13:36:00"
     },
     {
       "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
       "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-26T10:14:39"
+      "published": "2026-07-26T13:34:14"
     },
     {
-      "title": "Fed kararı öncesi kritik bekleyiş: Gözler tek riske çevrildi",
-      "url": "https://www.dunya.com/ekonomi/fed-karari-oncesi-kritik-bekleyis-gozler-tek-riske-cevrildi-haberi-833696",
+      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
+      "url": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-26T13:30:02"
+    },
+    {
+      "title": "Düğünde yaktığı meşale yüzüne patladı",
+      "url": "https://www.dunya.com/video-galeri/gundem/dugunde-yaktigi-mesale-yuzune-patladi-video-833706",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T10:08:00"
+      "published": "2026-07-26T13:30:00"
     },
     {
-      "title": "Çin'de Noul Tayfunu: 715 binden fazla kişi tahliye edildi",
-      "url": "https://www.dunya.com/dunya/cinde-noul-tayfunu-715-binden-fazla-kisi-tahliye-edildi-haberi-833695",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T10:07:00"
-    },
-    {
-      "title": "Fransız itfaiyeciler Bordeaux’yu tehdit eden yangınlarla mücadele ediyor",
-      "url": "https://tr.investing.com/news/economy-news/fransz-itfaiyeciler-bordeauxyu-tehdit-eden-yangnlarla-mucadele-ediyor-3995752",
+      "title": "ABD’deki kurumsal erozyonun abartıldığını söyleyen strateji",
+      "url": "https://tr.investing.com/news/stock-market-news/abddeki-kurumsal-erozyonun-abartldgn-soyleyen-strateji-3995771",
       "source": "Investing Türkiye",
-      "published": "2026-07-26T09:54:04"
+      "published": "2026-07-26T13:08:43"
     },
     {
-      "title": "Rus gazı Avrupa'yı ikiye böldü: Fiyat dengesi sarsıcı şekilde değişti",
-      "url": "https://www.dunya.com/ekonomi/rus-gazi-avrupayi-ikiye-boldu-fiyat-dengesi-sarsici-sekilde-degisti-haberi-833694",
+      "title": "Hürmüz Boğazı'nda patlama: Gemi mayına çarptı",
+      "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-patlama-gemi-mayina-carpti-haberi-833704",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T09:50:00"
+      "published": "2026-07-26T13:01:00"
+    },
+    {
+      "title": "Yargıtay, CHP'nin \"mutlak butlan\" kararını ön incelemeye aldı",
+      "url": "https://www.dunya.com/gundem/yargitay-chpnin-mutlak-butlan-kararini-on-incelemeye-aldi-haberi-833705",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T13:00:00"
+    },
+    {
+      "title": "Hindistan muson risklerine rağmen bütçe revizyonu gerekmediğini söyledi",
+      "url": "https://tr.investing.com/news/economy-news/hindistan-muson-risklerine-ragmen-butce-revizyonu-gerekmedigini-soyledi-93CH-3995769",
+      "source": "Investing Türkiye",
+      "published": "2026-07-26T12:50:40"
+    },
+    {
+      "title": "Agresif geri alım yapan şirketler yapay zeka döneminde S&P 500’ün gerisinde kaldı",
+      "url": "https://tr.investing.com/news/stock-market-news/agresif-geri-alm-yapan-sirketler-yapay-zeka-doneminde-sp-500un-gerisinde-kald-3995768",
+      "source": "Investing Türkiye",
+      "published": "2026-07-26T12:43:21"
+    },
+    {
+      "title": "Altın ve gümüşte yarışın kazananı belli oldu",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-yarisin-kazanani-belli-oldu-galeri-833703",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T12:38:00"
+    },
+    {
+      "title": "Ucuza yaşayacağını sandı, masraflar katlandı: Tiny house'tan vazgeçiren maliyetler",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/ucuza-yasayacagini-sandi-masraflar-katlandi-tiny-housetan-vazgeciren-maliyetler-galeri-833702",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T12:33:00"
+    },
+    {
+      "title": "Cide'deki selin geliş anı kameraya yansıdı",
+      "url": "https://www.dunya.com/video-galeri/gundem/cidedeki-selin-gelis-ani-kameraya-yansidi-video-833701",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T12:22:00"
+    },
+    {
+      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-26T12:17:14"
+    },
+    {
+      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+      "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-26T12:00:01"
+    },
+    {
+      "title": "Dev şirketten kâr alarmı! Beklentisini düşürdü, tek bir nedeni var",
+      "url": "https://www.dunya.com/ekonomi/dev-sirketten-kar-alarmi-beklentisini-dusurdu-tek-bir-nedeni-var-haberi-833700",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T11:54:00"
+    },
+    {
+      "title": "GOZDE, Gerçeğe Uygun Değer çağrısı sonrası %48 getiri sağladı",
+      "url": "https://tr.investing.com/news/investment-ideas/gozde-gercege-uygun-deger-cagrs-sonras-48-getiri-saglad-93CH-3995764",
+      "source": "Investing Türkiye",
+      "published": "2026-07-26T11:42:20"
+    },
+    {
+      "title": "Adil Değer analizi BARMA’nın %46’lık düşüşünü önceden tahmin etti",
+      "url": "https://tr.investing.com/news/investment-ideas/adil-deger-analizi-barmann-46lk-dususunu-onceden-tahmin-etti-93CH-3995763",
+      "source": "Investing Türkiye",
+      "published": "2026-07-26T11:37:52"
+    },
+    {
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-26T11:33:11"
+    },
+    {
+      "title": "ABD-İran hattında diplomasi yeniden hız kazandı",
+      "url": "https://www.dunya.com/dunya/abd-iran-hattinda-diplomasi-yeniden-hiz-kazandi-haberi-833699",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-26T11:32:00"
     }
   ]
 }

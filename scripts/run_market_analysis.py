@@ -29,33 +29,42 @@ def main() -> None:
     now = datetime.now(ZoneInfo("Europe/Istanbul")).isoformat(timespec="seconds")
     version = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
 
-    print("1/6 Ticker verileri cekiliyor...")
+    print("1/7 Ticker verileri cekiliyor...")
     ticker = bist_service.get_ticker_bar(config.TICKER_SYMBOLS)
 
-    print("2/6 BIST hisse verileri cekiliyor...")
-    snapshots, history = bist_service.get_watchlist_data(config.BIST_WATCHLIST)
+    print("2/7 BIST hisse verileri cekiliyor...")
+    snapshots, stock_history = bist_service.get_watchlist_data(config.BIST_WATCHLIST)
     print(f"    {len(snapshots)}/{len(config.BIST_WATCHLIST)} hisse alindi.")
 
-    print("3/6 TEFAS fon getirileri cekiliyor...")
-    funds = tefas_service.get_fund_returns(config.TEFAS_WATCHLIST)
+    print("3/7 BIST 100 endeks gecmisi cekiliyor (beta hesaplarinda kullanilir)...")
+    benchmark_history = bist_service.get_benchmark_history()
+    print(f"    {len(benchmark_history)} gunluk kapanis alindi.")
+
+    print("4/7 TEFAS fon getirileri cekiliyor...")
+    funds, fund_history = tefas_service.get_fund_returns(config.TEFAS_WATCHLIST)
     print(f"    {len(funds)} fon alindi.")
 
-    print("4/6 Halka arz listesi cekiliyor...")
+    print("5/7 Halka arz listesi cekiliyor...")
     ipos = ipo_service.get_ipo_list()
     print(f"    {len(ipos)} halka arz kaydi alindi.")
 
-    print("5/6 Haberler cekiliyor...")
+    print("6/7 Haberler cekiliyor...")
     news = news_service.get_news(config.NEWS_FEEDS, config.NEWS_LIMIT)
     print(f"    {len(news)} haber alindi.")
 
-    print("6/6 AI analizleri uretiliyor (Groq)...")
+    print("7/7 AI analizleri uretiliyor (Groq)...")
     news_titles = [n["title"] for n in news]
     snapshots = ai_engine.analyze_stocks(snapshots, news_titles)
     funds = ai_engine.evaluate_funds(funds, config.TEFAS_AI_LIMIT)
     news = ai_engine.summarize_news(news, config.NEWS_AI_LIMIT)
     overview = ai_engine.market_overview(ticker, snapshots)
 
-    _write("history.json", {"updated_at": now, "series": history}, compact=True)
+    _write("history.json", {
+        "updated_at": now,
+        "stocks": stock_history,
+        "funds": fund_history,
+        "benchmark": {"XU100": benchmark_history},
+    }, compact=True)
     _write("market_summary.json", {"updated_at": now, "overview": overview, "ticker": ticker})
     _write("signals.json", {"updated_at": now, "signals": snapshots})
     _write("funds.json", {"updated_at": now, "funds": funds})

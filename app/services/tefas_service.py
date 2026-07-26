@@ -4,6 +4,7 @@ Yeni TEFAS API'si toplu sorguyu desteklemedigi icin config.TEFAS_WATCHLIST'teki
 fonlar tek tek cekilir ve donemsel getiriler fiyat serisinden hesaplanir.
 """
 
+import math
 import time
 from datetime import date, timedelta
 
@@ -23,15 +24,18 @@ def _return_pct(prices, days: int):
     return round((last - old) / old * 100, 2)
 
 
-def get_fund_returns(watchlist: list[str]) -> list[dict]:
-    """Izleme listesindeki fonlarin 1A/3A/6A/1Y getirilerini hesaplar.
+def get_fund_returns(watchlist: list[str]) -> tuple[list[dict], dict[str, list]]:
+    """Izleme listesindeki fonlarin 1A/3A/6A/1Y getirilerini ve fiyat serisini hesaplar.
 
     Erisilemeyen fon atlanir; sonuc 1 aylik getiriye gore sirali doner.
+    Ikinci deger, risk hesaplarinda (volatilite/beta) kullanilmak uzere
+    fon basina [tarih, fiyat] serisidir.
     """
     crawler = Crawler()
     end = date.today()
     start = end - timedelta(days=400)
     funds = []
+    series: dict[str, list] = {}
 
     for code in watchlist:
         try:
@@ -47,9 +51,15 @@ def get_fund_returns(watchlist: list[str]) -> list[dict]:
             continue
 
         rows = sorted(
-            ({"date": r["date"], "price": float(r["price"])} for _, r in data.iterrows()),
+            (
+                {"date": r["date"], "price": float(r["price"])}
+                for _, r in data.iterrows()
+                if r["price"] is not None and not math.isnan(float(r["price"]))
+            ),
             key=lambda r: r["date"],
         )
+        if len(rows) < 25:
+            continue
         funds.append({
             "code": code,
             "name": data.iloc[0]["title"],
@@ -59,7 +69,8 @@ def get_fund_returns(watchlist: list[str]) -> list[dict]:
             "return_6m": _return_pct(rows, 182),
             "return_1y": _return_pct(rows, 365),
         })
+        series[code] = [[r["date"].strftime("%Y-%m-%d"), round(r["price"], 6)] for r in rows]
         time.sleep(0.3)
 
     funds.sort(key=lambda f: (f["return_1m"] is None, -(f["return_1m"] or 0)))
-    return funds
+    return funds, series

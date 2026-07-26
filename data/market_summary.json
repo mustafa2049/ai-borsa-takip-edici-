@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-07-26T15:49:23+03:00",
-  "overview": "Gunun piyasa gorunumu genel olarak dusus yonunde sekilde gelişti. BIST 100 endeksi %0.95 oraninda duserek 13943.9 seviyesine geriledi. DAX endeksinin %1.36 oraninda artisi disinda diger ana endeksler dusus yonunde hareket etti. Hisse sinyalleri ise karisik bir sekilde gorunuyor, bazı hisseler al sinyali verirken digerleri sat sinyali veriyor.",
+  "updated_at": "2026-07-26T16:57:06+03:00",
+  "overview": null,
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13943.9,
-      "change_pct": -0.95
+      "value": 14077.7,
+      "change_pct": -0.43
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7411.98,
-      "change_pct": 0.05
+      "value": 7408.3,
+      "change_pct": -1.21
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 24975.82,
-      "change_pct": -0.64
+      "value": 25137.69,
+      "change_pct": -2.15
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 25099.0,
-      "change_pct": 1.36
+      "value": 24763.12,
+      "change_pct": -1.56
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 64611.15,
-      "change_pct": -2.73
+      "value": 66422.6,
+      "change_pct": 0.46
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
       "value": 47.33,
-      "change_pct": 0.02
+      "change_pct": 0.03
     },
     {
       "name": "EUR/TRY",
@@ -59,7 +59,7 @@
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6194.25,
+      "value": 6194.38,
       "change_pct": null
     }
   ]

@@ -513,35 +513,33 @@
         return '<svg class="w-full h-full" viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="none">' + parts.join("") + "</svg>";
     }
 
-    function initChart() {
+    function initChart(history) {
         var canvas = document.getElementById("chart-canvas");
         if (!canvas) return;
         var symbol = (new URLSearchParams(window.location.search).get("s") || "THYAO").toUpperCase();
-        loadJSON("history").then(function (h) {
-            var series = (h.series || {})[symbol];
-            if (!series || series.length < 5) return;
-            var ranges = { "1A": 22, "3A": 66, "6A": 130, "1Y": 100000 };
-            var passive = "flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md";
-            var active = "flex-1 py-1 text-label-caps font-label-caps bg-surface-container text-primary shadow-sm rounded-md";
+        var series = ((history || {}).stocks || {})[symbol];
+        if (!series || series.length < 5) return;
+        var ranges = { "1A": 22, "3A": 66, "6A": 130, "1Y": 100000 };
+        var passive = "flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md";
+        var active = "flex-1 py-1 text-label-caps font-label-caps bg-surface-container text-primary shadow-sm rounded-md";
 
-            function draw(key) {
-                canvas.innerHTML = candleSvg(series.slice(-ranges[key]));
-            }
-            var tabs = document.getElementById("chart-tabs");
-            if (tabs) {
-                tabs.innerHTML = Object.keys(ranges).map(function (k) {
-                    return '<button data-range="' + k + '" class="' + (k === "3A" ? active : passive) + '">' + k + "</button>";
-                }).join("");
-                tabs.querySelectorAll("button").forEach(function (btn) {
-                    btn.addEventListener("click", function () {
-                        tabs.querySelectorAll("button").forEach(function (b) { b.className = passive; });
-                        btn.className = active;
-                        draw(btn.getAttribute("data-range"));
-                    });
+        function draw(key) {
+            canvas.innerHTML = candleSvg(series.slice(-ranges[key]));
+        }
+        var tabs = document.getElementById("chart-tabs");
+        if (tabs) {
+            tabs.innerHTML = Object.keys(ranges).map(function (k) {
+                return '<button data-range="' + k + '" class="' + (k === "3A" ? active : passive) + '">' + k + "</button>";
+            }).join("");
+            tabs.querySelectorAll("button").forEach(function (btn) {
+                btn.addEventListener("click", function () {
+                    tabs.querySelectorAll("button").forEach(function (b) { b.className = passive; });
+                    btn.className = active;
+                    draw(btn.getAttribute("data-range"));
                 });
-            }
-            draw("3A");
-        }).catch(function () { /* grafik verisi yoksa placeholder kalir */ });
+            });
+        }
+        draw("3A");
     }
 
     /* ---------- Arama ---------- */
@@ -622,7 +620,7 @@
         return "₺" + fmt(v);
     }
 
-    function initPortfolio(signals, fundsData) {
+    function initPortfolio(signals, fundsData, history) {
         var section = document.getElementById("pf-holdings-section");
         if (!section) return;
         var funds = fundsData.funds || [];
@@ -720,6 +718,133 @@
                 '<div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-secondary-fixed-dim"></div><span class="text-body-sm">Yatırım Fonları</span></div><span class="font-bold">%' + fp + "</span></div></div></div>";
         }
 
+        /* --- Risk analizi: gercek fiyat gecmisinden beta/volatilite/sharpe/maks. kayip --- */
+
+        function buildValueSeries(entries) {
+            var bench = ((history || {}).benchmark || {}).XU100 || [];
+            if (bench.length < 30) return null;
+            var priced = [];
+            entries.forEach(function (e) {
+                var raw = e.h.type === "fund" ? (history.funds || {})[e.h.code] : (history.stocks || {})[e.h.code];
+                if (!raw || raw.length < 30) return;
+                var map = {};
+                raw.forEach(function (row) { map[row[0]] = e.h.type === "fund" ? row[1] : row[4]; });
+                priced.push({ qty: e.h.qty, map: map });
+            });
+            if (!priced.length) return null;
+
+            var dates = bench.map(function (r) { return r[0]; });
+            var lastKnown = priced.map(function () { return null; });
+            var values = dates.map(function (d) {
+                var v = 0, ok = true;
+                for (var j = 0; j < priced.length; j++) {
+                    if (priced[j].map[d] != null) lastKnown[j] = priced[j].map[d];
+                    if (lastKnown[j] == null) { ok = false; continue; } // fiyat gecmisi henuz baslamamis (yeni islem gormus varlik)
+                    v += priced[j].qty * lastKnown[j];
+                }
+                return ok ? v : null;
+            });
+            return {
+                values: values,
+                benchCloses: bench.map(function (r) { return r[1]; }),
+                pricedCount: priced.length,
+                totalCount: entries.length
+            };
+        }
+
+        function toReturns(arr) {
+            var out = [];
+            for (var i = 1; i < arr.length; i++) {
+                out.push(arr[i] == null || !arr[i - 1] ? null : arr[i] / arr[i - 1] - 1);
+            }
+            return out;
+        }
+
+        function mean(a) { return a.reduce(function (s, x) { return s + x; }, 0) / a.length; }
+        function stdev(a, m) { return Math.sqrt(mean(a.map(function (x) { return (x - m) * (x - m); }))); }
+
+        function computeRiskMetrics(entries) {
+            var built = buildValueSeries(entries);
+            if (!built) return null;
+            var portRet = toReturns(built.values), benchRet = toReturns(built.benchCloses);
+            var pr = [], br = [];
+            for (var i = 0; i < Math.min(portRet.length, benchRet.length); i++) {
+                if (portRet[i] != null && benchRet[i] != null && isFinite(portRet[i]) && isFinite(benchRet[i])) {
+                    pr.push(portRet[i]); br.push(benchRet[i]);
+                }
+            }
+            if (pr.length < 20) return null;
+
+            var mp = mean(pr), mb = mean(br);
+            var sp = stdev(pr, mp), sb = stdev(br, mb);
+            var cov = mean(pr.map(function (x, i) { return (x - mp) * (br[i] - mb); }));
+            var beta = sb ? cov / (sb * sb) : null;
+            var volAnnual = sp * Math.sqrt(252) * 100;
+            var sharpe = sp ? (mp * 252) / (sp * Math.sqrt(252)) : null; // risksiz faiz oranı basitlik icin 0 kabul edilir
+
+            var peak = -Infinity, maxDD = 0;
+            built.values.forEach(function (v) {
+                if (v == null) return;
+                if (v > peak) peak = v;
+                var dd = peak ? (v - peak) / peak : 0;
+                if (dd < maxDD) maxDD = dd;
+            });
+
+            // Risk skoru: volatilite + piyasadan (beta=1) sapmayi birlestiren sezgisel bir olcek, 0-100 araligina sikistirilir
+            var riskScore = Math.max(0, Math.min(100, Math.round(volAnnual * 1.6 + Math.abs((beta || 1) - 1) * 20)));
+            return {
+                beta: beta, volatilityAnnual: volAnnual, sharpe: sharpe, maxDrawdown: maxDD * 100,
+                riskScore: riskScore, partial: built.pricedCount < built.totalCount, sampleDays: pr.length
+            };
+        }
+
+        function renderRisk(entries) {
+            var scoreEl = document.getElementById("pf-risk-score");
+            if (!scoreEl) return; // bu sayfada risk paneli yok
+            var labelEl = document.getElementById("pf-risk-label");
+            var arcEl = document.getElementById("pf-risk-arc");
+            var betaEl = document.getElementById("pf-beta");
+            var volEl = document.getElementById("pf-vol");
+            var sharpeEl = document.getElementById("pf-sharpe");
+            var maxddEl = document.getElementById("pf-maxdd");
+            var summaryEl = document.getElementById("pf-risk-summary");
+            var metrics = entries.length ? computeRiskMetrics(entries) : null;
+
+            if (!metrics) {
+                scoreEl.textContent = "—/100";
+                if (labelEl) labelEl.textContent = entries.length ? "Yetersiz Veri" : "Veri Yok";
+                if (arcEl) arcEl.setAttribute("stroke-dasharray", "0 251.2");
+                [betaEl, volEl, sharpeEl, maxddEl].forEach(function (el) { if (el) el.textContent = "—"; });
+                if (summaryEl) summaryEl.innerHTML = '<span class="font-bold text-primary">Risk Özeti:</span> ' + (entries.length ?
+                    "Risk analizi için portföyünüzdeki varlıkların yeterli fiyat geçmişi bulunmuyor." :
+                    "Risk analizini görüntülemek için portföyünüze en az bir hisse veya fon ekleyin.");
+                return;
+            }
+
+            var tier = metrics.riskScore < 20 ? "Düşük" : metrics.riskScore < 40 ? "Orta" :
+                metrics.riskScore < 60 ? "Orta-Yüksek" : metrics.riskScore < 80 ? "Yüksek" : "Çok Yüksek";
+            scoreEl.textContent = metrics.riskScore + "/100";
+            if (labelEl) labelEl.textContent = tier;
+            if (arcEl) arcEl.setAttribute("stroke-dasharray", (metrics.riskScore / 100 * 125.6).toFixed(1) + " 251.2");
+            if (betaEl) betaEl.textContent = metrics.beta == null ? "—" : fmt(metrics.beta, 2);
+            if (volEl) volEl.textContent = "%" + fmt(metrics.volatilityAnnual, 1);
+            if (sharpeEl) sharpeEl.textContent = metrics.sharpe == null ? "—" : fmt(metrics.sharpe, 2);
+            if (maxddEl) maxddEl.textContent = "-%" + fmt(Math.abs(metrics.maxDrawdown), 1);
+            if (summaryEl) {
+                var tierText = {
+                    "Düşük": "düşük volatiliteli, görece istikrarlı",
+                    "Orta": "dengeli bir risk profiline sahip",
+                    "Orta-Yüksek": "piyasa ortalamasının bir miktar üzerinde risk taşıyan",
+                    "Yüksek": "yüksek volatiliteli ve dalgalanmaya açık",
+                    "Çok Yüksek": "oldukça yüksek risk ve volatilite içeren"
+                }[tier];
+                summaryEl.innerHTML = '<span class="font-bold text-primary">Risk Özeti:</span> Portföyünüz son ' + metrics.sampleDays +
+                    " işlem gününe göre " + tierText + " bir görünüm sergiliyor (yıllıklaştırılmış volatilite %" + fmt(metrics.volatilityAnnual, 1) +
+                    ", BIST 100'e göre beta " + (metrics.beta == null ? "—" : fmt(metrics.beta, 2)) + ")." +
+                    (metrics.partial ? " Not: bazı varlıklar için yeterli fiyat geçmişi bulunmadığından hesaplama mevcut verilerle sınırlıdır." : "");
+            }
+        }
+
         function render() {
             var list = pfLoad();
             var entries = [], totV = 0, totC = 0, totD = 0, hasDaily = false;
@@ -768,6 +893,7 @@
             }
             section.insertAdjacentHTML("beforeend", html);
             renderAlloc(entries, totV);
+            renderRisk(entries);
 
             var addBtn = document.getElementById("pf-add-btn");
             if (addBtn) addBtn.addEventListener("click", function () {
@@ -820,7 +946,7 @@
 
         Promise.allSettled([
             loadJSON("market_summary"), loadJSON("signals"), loadJSON("funds"),
-            loadJSON("ipos"), loadJSON("news"), loadJSON("version")
+            loadJSON("ipos"), loadJSON("news"), loadJSON("version"), loadJSON("history")
         ]).then(function (results) {
             var summary = results[0].value || { ticker: [] };
             var signals = (results[1].value || {}).signals || [];
@@ -828,6 +954,7 @@
             var ipos = (results[3].value || {}).ipos || [];
             var news = results[4].value || { news: [] };
             var version = results[5].value;
+            var history = results[6].value || { stocks: {}, funds: {}, benchmark: {} };
 
             renderTicker(summary);
             renderSignals(signals);
@@ -836,9 +963,9 @@
             renderFundsSection(funds);
             renderMarketsPage(signals, funds, summary);
             renderStockDetail(signals);
-            initChart();
+            initChart(history);
             initSearch(signals, funds, ipos);
-            initPortfolio(signals, funds);
+            initPortfolio(signals, funds, history);
             if (version) renderVersionBadge(version);
         });
     });

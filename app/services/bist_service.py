@@ -69,16 +69,10 @@ def _ohlc_series(hist: pd.DataFrame) -> list[list]:
     """Grafik icin kompakt gunluk OHLC serisi: [tarih, acilis, yuksek, dusuk, kapanis]."""
     series = []
     for ts, row in hist.iterrows():
-        try:
-            series.append([
-                ts.strftime("%Y-%m-%d"),
-                round(float(row["Open"]), 2),
-                round(float(row["High"]), 2),
-                round(float(row["Low"]), 2),
-                round(float(row["Close"]), 2),
-            ])
-        except (TypeError, ValueError):
-            continue
+        o, h, low, c = _num(row["Open"]), _num(row["High"]), _num(row["Low"]), _num(row["Close"])
+        if None in (o, h, low, c):
+            continue  # eksik/NaN gunler (tatil vb.) JSON'a NaN olarak sizmasin diye atlanir
+        series.append([ts.strftime("%Y-%m-%d"), o, h, low, c])
     return series
 
 
@@ -96,6 +90,22 @@ def get_watchlist_data(symbols: list[str]) -> tuple[list[dict], dict[str, list]]
             history[symbol] = _ohlc_series(hist)
         time.sleep(0.4)  # yfinance rate limitine takilmamak icin
     return snapshots, history
+
+
+def get_benchmark_history(symbol: str = "XU100.IS", period: str = "1y") -> list[list]:
+    """Portfoy beta/risk hesaplari icin kapanis fiyati serisi (tarih, kapanis)."""
+    try:
+        hist = yf.Ticker(symbol).history(period=period, auto_adjust=False)
+    except Exception:
+        return []
+    if hist is None or hist.empty:
+        return []
+    out = []
+    for ts, close in hist["Close"].items():
+        v = _num(close, 4)
+        if v is not None:
+            out.append([ts.strftime("%Y-%m-%d"), v])
+    return out
 
 
 def get_ticker_bar(ticker_symbols: dict[str, str]) -> list[dict]:

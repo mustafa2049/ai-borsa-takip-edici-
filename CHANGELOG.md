@@ -2,6 +2,16 @@
 
 Tüm önemli değişiklikler bu dosyada listelenir. Sürümleme [Semantic Versioning](https://semver.org/lang/tr/) kurallarına uyar.
 
+## [0.4.0] - 2026-07-26
+
+### Eklendi
+- **Gerçek portföy risk analizi:** Portföy sayfalarındaki "AI Risk Analizi" panelindeki Beta, Volatilite, Sharpe Oranı ve Maks. Kayıp değerleri artık sabit demo sayıları değil; portföydeki hisse/fonların 1 yıllık gerçek fiyat geçmişinden ve BIST 100 endeksinden hesaplanıyor.
+- Backend: `data/history.json` yeniden yapılandırıldı (`stocks`, `funds`, `benchmark` anahtarları) ve TEFAS fonları için de fiyat serisi, BIST 100 için de 1 yıllık kapanış serisi eklendi.
+- Risk skoru (0-100), yıllıklaştırılmış volatilite ve piyasaya göre beta sapmasından hesaplanan bir gösterge; portföy boşsa veya yeterli veri yoksa panel bunu açıkça belirtiyor.
+
+### Düzeltildi
+- TEFAS/yfinance kaynaklı `NaN` fiyat değerleri artık JSON'a sızmadan filtreleniyor (önceki sürümde bazı fonlarda geçersiz JSON üretebiliyordu).
+
 ## [0.3.0] - 2026-07-26
 
 ### Eklendi
