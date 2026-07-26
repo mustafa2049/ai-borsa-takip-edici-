@@ -17,10 +17,11 @@ import config
 from app.services import ai_engine, bist_service, ipo_service, news_service, tefas_service
 
 
-def _write(name: str, payload) -> None:
+def _write(name: str, payload, compact: bool = False) -> None:
     out = ROOT / config.DATA_DIR / name
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    indent = None if compact else 2
+    out.write_text(json.dumps(payload, ensure_ascii=False, indent=indent), encoding="utf-8")
     print(f"[ok] {out.relative_to(ROOT)} yazildi.")
 
 
@@ -32,7 +33,7 @@ def main() -> None:
     ticker = bist_service.get_ticker_bar(config.TICKER_SYMBOLS)
 
     print("2/6 BIST hisse verileri cekiliyor...")
-    snapshots = bist_service.get_watchlist_snapshots(config.BIST_WATCHLIST)
+    snapshots, history = bist_service.get_watchlist_data(config.BIST_WATCHLIST)
     print(f"    {len(snapshots)}/{len(config.BIST_WATCHLIST)} hisse alindi.")
 
     print("3/6 TEFAS fon getirileri cekiliyor...")
@@ -54,6 +55,7 @@ def main() -> None:
     news = ai_engine.summarize_news(news, config.NEWS_AI_LIMIT)
     overview = ai_engine.market_overview(ticker, snapshots)
 
+    _write("history.json", {"updated_at": now, "series": history}, compact=True)
     _write("market_summary.json", {"updated_at": now, "overview": overview, "ticker": ticker})
     _write("signals.json", {"updated_at": now, "signals": snapshots})
     _write("funds.json", {"updated_at": now, "funds": funds})

@@ -124,8 +124,8 @@
 <section class="glass-panel glass-inner-stroke rounded-xl p-panel-padding flex flex-col gap-stack-sm relative overflow-hidden">
 <div class="absolute -right-10 -top-10 w-40 h-40 bg-primary/10 rounded-full blur-3xl pointer-events-none"></div>
 <p class="font-body-sm text-body-sm text-on-surface-variant uppercase tracking-wider">Toplam Varlık</p>
-<h2 class="font-headline-lg-mobile text-headline-lg-mobile md:font-headline-lg md:text-headline-lg font-bold">₺1.452.890,50</h2>
-<div class="flex items-center gap-2 mt-1">
+<h2 class="font-headline-lg-mobile text-headline-lg-mobile md:font-headline-lg md:text-headline-lg font-bold" id="pf-total">₺1.452.890,50</h2>
+<div class="flex items-center gap-2 mt-1" id="pf-daily">
 <span class="font-data-display text-data-display text-neon-emerald flex items-center">
 <span class="material-symbols-outlined text-sm mr-1">arrow_upward</span>
                     +₺24.500,00 (+1.71%)
@@ -169,7 +169,7 @@
 </div>
 </section>
 <!-- Asset Distribution -->
-<section class="glass-panel glass-inner-stroke rounded-xl p-panel-padding flex flex-col gap-stack-md"><h3 class="font-headline-md text-headline-md">Varlık Dağılımı</h3><div class="flex flex-col md:flex-row items-center gap-6"><div class="relative w-40 h-40 flex items-center justify-center"><svg class="w-full h-full -rotate-90" viewbox="0 0 36 36"><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#313540" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#4edea3" stroke-dasharray="65 100" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#ffb95f" stroke-dasharray="25 100" stroke-dashoffset="-65" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#86948a" stroke-dasharray="10 100" stroke-dashoffset="-90" stroke-width="3.5"></circle></svg><div class="absolute flex flex-col items-center"><span class="text-headline-md font-bold">%100</span><span class="text-label-caps opacity-60">Toplam</span></div></div><div class="flex-1 grid grid-cols-1 gap-3 w-full"><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-primary"></div><span class="text-body-sm">Hisse Senetleri</span></div><span class="font-bold">%65</span></div><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-secondary-fixed-dim"></div><span class="text-body-sm">Yatırım Fonları</span></div><span class="font-bold">%25</span></div><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-outline"></div><span class="text-body-sm">Nakit</span></div><span class="font-bold">%10</span></div></div></div></section>
+<section class="glass-panel glass-inner-stroke rounded-xl p-panel-padding flex flex-col gap-stack-md" id="pf-alloc"><h3 class="font-headline-md text-headline-md">Varlık Dağılımı</h3><div class="flex flex-col md:flex-row items-center gap-6"><div class="relative w-40 h-40 flex items-center justify-center"><svg class="w-full h-full -rotate-90" viewbox="0 0 36 36"><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#313540" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#4edea3" stroke-dasharray="65 100" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#ffb95f" stroke-dasharray="25 100" stroke-dashoffset="-65" stroke-width="3.5"></circle><circle cx="18" cy="18" fill="transparent" r="15.9" stroke="#86948a" stroke-dasharray="10 100" stroke-dashoffset="-90" stroke-width="3.5"></circle></svg><div class="absolute flex flex-col items-center"><span class="text-headline-md font-bold">%100</span><span class="text-label-caps opacity-60">Toplam</span></div></div><div class="flex-1 grid grid-cols-1 gap-3 w-full"><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-primary"></div><span class="text-body-sm">Hisse Senetleri</span></div><span class="font-bold">%65</span></div><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-secondary-fixed-dim"></div><span class="text-body-sm">Yatırım Fonları</span></div><span class="font-bold">%25</span></div><div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-outline"></div><span class="text-body-sm">Nakit</span></div><span class="font-bold">%10</span></div></div></div></section>
 <!-- AI Portfolio Insight -->
 <section class="bg-surface-container-low/80 backdrop-blur-xl border border-primary/20 rounded-lg p-4 flex gap-4 items-start ai-glow shadow-2xl border-primary/40"><div class="flex flex-col gap-6 w-full">
 <div class="flex items-center gap-3">
@@ -225,7 +225,7 @@
 </div>
 </div></section>
 <!-- Holdings List -->
-<section class="flex flex-col gap-stack-sm">
+<section class="flex flex-col gap-stack-sm" id="pf-holdings-section">
 <h3 class="font-headline-md text-headline-md mb-2">Varlıklarım</h3>
 <!-- Holding Item 1 -->
 <div class="glass-panel glass-inner-stroke rounded-lg p-4 flex justify-between items-center hover:bg-surface-container-high/50 transition-colors cursor-pointer">

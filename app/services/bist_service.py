@@ -26,12 +26,13 @@ def _rsi(close: pd.Series, period: int = 14) -> pd.Series:
     return 100 - 100 / (1 + rs)
 
 
-def get_stock_snapshot(symbol: str) -> dict | None:
+def get_stock_snapshot(symbol: str, hist: pd.DataFrame | None = None) -> dict | None:
     """Tek BIST hissesi icin fiyat + teknik gosterge ozeti."""
-    try:
-        hist = yf.Ticker(f"{symbol}.IS").history(period="1y", auto_adjust=False)
-    except Exception:
-        return None
+    if hist is None:
+        try:
+            hist = yf.Ticker(f"{symbol}.IS").history(period="1y", auto_adjust=False)
+        except Exception:
+            return None
     if hist is None or len(hist) < 60:
         return None
 
@@ -64,14 +65,37 @@ def get_stock_snapshot(symbol: str) -> dict | None:
     }
 
 
-def get_watchlist_snapshots(symbols: list[str]) -> list[dict]:
-    snapshots = []
+def _ohlc_series(hist: pd.DataFrame) -> list[list]:
+    """Grafik icin kompakt gunluk OHLC serisi: [tarih, acilis, yuksek, dusuk, kapanis]."""
+    series = []
+    for ts, row in hist.iterrows():
+        try:
+            series.append([
+                ts.strftime("%Y-%m-%d"),
+                round(float(row["Open"]), 2),
+                round(float(row["High"]), 2),
+                round(float(row["Low"]), 2),
+                round(float(row["Close"]), 2),
+            ])
+        except (TypeError, ValueError):
+            continue
+    return series
+
+
+def get_watchlist_data(symbols: list[str]) -> tuple[list[dict], dict[str, list]]:
+    """Izleme listesi icin snapshot listesi + sembol bazli OHLC gecmisi dondurur."""
+    snapshots, history = [], {}
     for symbol in symbols:
-        snap = get_stock_snapshot(symbol)
+        try:
+            hist = yf.Ticker(f"{symbol}.IS").history(period="1y", auto_adjust=False)
+        except Exception:
+            hist = None
+        snap = get_stock_snapshot(symbol, hist)
         if snap:
             snapshots.append(snap)
+            history[symbol] = _ohlc_series(hist)
         time.sleep(0.4)  # yfinance rate limitine takilmamak icin
-    return snapshots
+    return snapshots, history
 
 
 def get_ticker_bar(ticker_symbols: dict[str, str]) -> list[dict]:

@@ -376,6 +376,13 @@
                 });
             });
         }
+        // Aramadan fon linkiyle gelindiyse fon sekmesini ac
+        if (window.location.hash === "#fon" && tabs) {
+            var fundBtn = Array.prototype.slice.call(tabs.querySelectorAll("button")).filter(function (b) {
+                return b.textContent.indexOf("Yatırım Fonları") !== -1;
+            })[0];
+            if (fundBtn) { fundBtn.click(); return; }
+        }
         show("stocks");
     }
 
@@ -461,6 +468,341 @@
         }
     }
 
+    /* ---------- Mum grafigi (hisse detay) ---------- */
+
+    function candleSvg(data) {
+        var W = 800, H = 300, padL = 52, padR = 10, padT = 12, padB = 26;
+        var max = -Infinity, min = Infinity;
+        data.forEach(function (r) { if (r[2] > max) max = r[2]; if (r[3] < min) min = r[3]; });
+        if (!isFinite(max) || !isFinite(min)) return "";
+        if (max === min) max = min + 1;
+        var iw = W - padL - padR, ih = H - padT - padB;
+        function y(v) { return padT + (max - v) / (max - min) * ih; }
+        var step = iw / data.length;
+        var bw = Math.max(1.5, Math.min(12, step * 0.6));
+
+        var parts = [];
+        for (var g = 0; g <= 4; g++) {
+            var val = max - (max - min) * g / 4;
+            var gy = y(val).toFixed(1);
+            parts.push('<line x1="' + padL + '" y1="' + gy + '" x2="' + (W - padR) + '" y2="' + gy +
+                '" stroke="rgba(255,255,255,0.07)" stroke-dasharray="4" stroke-width="1"/>');
+            parts.push('<text x="' + (padL - 6) + '" y="' + (parseFloat(gy) + 3) + '" text-anchor="end" ' +
+                'fill="#86948a" font-size="10" font-family="Inter,sans-serif">' + fmt(val, val >= 1000 ? 0 : 2) + "</text>");
+        }
+        data.forEach(function (r, i) {
+            var x = padL + i * step + step / 2;
+            var up = r[4] >= r[1];
+            var color = up ? "#4edea3" : "#ffb4ab";
+            var bodyTop = y(Math.max(r[1], r[4]));
+            var bodyH = Math.max(1, Math.abs(y(r[1]) - y(r[4])));
+            parts.push('<line x1="' + x.toFixed(1) + '" y1="' + y(r[2]).toFixed(1) + '" x2="' + x.toFixed(1) +
+                '" y2="' + y(r[3]).toFixed(1) + '" stroke="' + color + '" stroke-width="1"/>');
+            parts.push('<rect x="' + (x - bw / 2).toFixed(1) + '" y="' + bodyTop.toFixed(1) + '" width="' + bw.toFixed(1) +
+                '" height="' + bodyH.toFixed(1) + '" rx="1" fill="' + color + '"/>');
+        });
+        [0, Math.floor(data.length / 2), data.length - 1].forEach(function (i) {
+            if (!data[i]) return;
+            var x = padL + i * step + step / 2;
+            var anchor = i === 0 ? "start" : (i === data.length - 1 ? "end" : "middle");
+            var d = new Date(data[i][0]);
+            var label = d.toLocaleDateString("tr-TR", { day: "2-digit", month: "short" });
+            parts.push('<text x="' + x.toFixed(1) + '" y="' + (H - 8) + '" text-anchor="' + anchor +
+                '" fill="#86948a" font-size="10" font-family="Inter,sans-serif">' + label + "</text>");
+        });
+        return '<svg class="w-full h-full" viewBox="0 0 ' + W + " " + H + '" preserveAspectRatio="none">' + parts.join("") + "</svg>";
+    }
+
+    function initChart() {
+        var canvas = document.getElementById("chart-canvas");
+        if (!canvas) return;
+        var symbol = (new URLSearchParams(window.location.search).get("s") || "THYAO").toUpperCase();
+        loadJSON("history").then(function (h) {
+            var series = (h.series || {})[symbol];
+            if (!series || series.length < 5) return;
+            var ranges = { "1A": 22, "3A": 66, "6A": 130, "1Y": 100000 };
+            var passive = "flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md";
+            var active = "flex-1 py-1 text-label-caps font-label-caps bg-surface-container text-primary shadow-sm rounded-md";
+
+            function draw(key) {
+                canvas.innerHTML = candleSvg(series.slice(-ranges[key]));
+            }
+            var tabs = document.getElementById("chart-tabs");
+            if (tabs) {
+                tabs.innerHTML = Object.keys(ranges).map(function (k) {
+                    return '<button data-range="' + k + '" class="' + (k === "3A" ? active : passive) + '">' + k + "</button>";
+                }).join("");
+                tabs.querySelectorAll("button").forEach(function (btn) {
+                    btn.addEventListener("click", function () {
+                        tabs.querySelectorAll("button").forEach(function (b) { b.className = passive; });
+                        btn.className = active;
+                        draw(btn.getAttribute("data-range"));
+                    });
+                });
+            }
+            draw("3A");
+        }).catch(function () { /* grafik verisi yoksa placeholder kalir */ });
+    }
+
+    /* ---------- Arama ---------- */
+
+    function initSearch(signals, fundsData, ipos) {
+        var funds = fundsData.funds || [];
+
+        function buildResults(q) {
+            q = q.toLocaleLowerCase("tr");
+            var out = [];
+            signals.forEach(function (s) {
+                if (out.length >= 8) return;
+                var name = stockName(s.symbol);
+                if (s.symbol.toLocaleLowerCase("tr").indexOf(q) !== -1 || name.toLocaleLowerCase("tr").indexOf(q) !== -1) {
+                    out.push({ tag: "HİSSE", tagCls: "text-primary border-primary/40", code: s.symbol, name: name,
+                        extra: fmt(s.price) + " TL", href: "hisse-analiz.html?s=" + s.symbol });
+                }
+            });
+            funds.forEach(function (f) {
+                if (out.length >= 8) return;
+                if (f.code.toLocaleLowerCase("tr").indexOf(q) !== -1 || String(f.name).toLocaleLowerCase("tr").indexOf(q) !== -1) {
+                    out.push({ tag: "FON", tagCls: "text-secondary border-secondary/40", code: f.code, name: f.name,
+                        extra: f.return_1m == null ? "" : "1A: %" + fmt(f.return_1m), href: "piyasalar.html#fon" });
+                }
+            });
+            ipos.forEach(function (ipo) {
+                if (out.length >= 8) return;
+                if (String(ipo.company).toLocaleLowerCase("tr").indexOf(q) !== -1) {
+                    out.push({ tag: "HALKA ARZ", tagCls: "text-secondary border-secondary/40", code: "", name: ipo.company,
+                        extra: "", href: ipo.url, external: true });
+                }
+            });
+            return out;
+        }
+
+        document.querySelectorAll('input[placeholder*="Ara"]').forEach(function (input) {
+            var parent = input.parentElement;
+            if (!parent) return;
+            if (getComputedStyle(parent).position === "static") parent.style.position = "relative";
+            var dd = document.createElement("div");
+            dd.className = "absolute top-full left-0 right-0 mt-2 z-[70] bg-surface-container-high border border-white/10 rounded-lg shadow-2xl overflow-hidden hidden";
+            parent.appendChild(dd);
+
+            function hide() { dd.classList.add("hidden"); }
+            function show(q) {
+                if (!q || q.length < 1) { hide(); return; }
+                var results = buildResults(q);
+                if (!results.length) {
+                    dd.innerHTML = '<p class="px-4 py-3 text-body-sm text-on-surface-variant">Sonuç bulunamadı.</p>';
+                } else {
+                    dd.innerHTML = results.map(function (r) {
+                        return '<a href="' + esc(r.href) + '"' + (r.external ? ' target="_blank" rel="noopener"' : "") +
+                            ' class="flex items-center gap-3 px-4 py-2.5 hover:bg-white/5 transition-colors">' +
+                            '<span class="text-[9px] font-bold border rounded px-1.5 py-0.5 ' + r.tagCls + '">' + r.tag + "</span>" +
+                            '<span class="text-body-sm text-on-surface font-semibold">' + esc(r.code) + "</span>" +
+                            '<span class="text-body-sm text-on-surface-variant truncate flex-1">' + esc(r.name) + "</span>" +
+                            '<span class="text-label-caps text-on-surface-variant whitespace-nowrap">' + esc(r.extra) + "</span></a>";
+                    }).join("");
+                }
+                dd.classList.remove("hidden");
+            }
+            input.addEventListener("input", function () { show(input.value.trim()); });
+            input.addEventListener("focus", function () { if (input.value.trim()) show(input.value.trim()); });
+            input.addEventListener("blur", function () { setTimeout(hide, 200); });
+        });
+    }
+
+    /* ---------- Portfoy (localStorage) ---------- */
+
+    var PF_KEY = "borsaai_portfolio_v1";
+
+    function pfLoad() {
+        try { return JSON.parse(localStorage.getItem(PF_KEY)) || []; } catch (e) { return []; }
+    }
+    function pfSave(list) { localStorage.setItem(PF_KEY, JSON.stringify(list)); }
+
+    function moneyFmt(v) {
+        return "₺" + fmt(v);
+    }
+
+    function initPortfolio(signals, fundsData) {
+        var section = document.getElementById("pf-holdings-section");
+        if (!section) return;
+        var funds = fundsData.funds || [];
+        var path = window.location.pathname;
+        var page = path.indexOf("kar-zarar") !== -1 ? "pl" : (path.indexOf("ai-ongoruler") !== -1 ? "ai" : "main");
+
+        function infoOf(h) {
+            if (h.type === "fund") {
+                var f = funds.filter(function (x) { return x.code === h.code; })[0];
+                return f ? { name: f.name, price: f.price, change: null, ai: f.ai || null } : null;
+            }
+            var s = signals.filter(function (x) { return x.symbol === h.code; })[0];
+            return s ? { name: stockName(h.code), price: s.price, change: s.change_pct, ai: s.ai || null } : null;
+        }
+
+        function holdingRow(entry) {
+            var h = entry.h, inf = entry.inf;
+            var initials = h.code.slice(0, 2);
+            var left = '<div class="flex items-center gap-3">' +
+                '<div class="w-10 h-10 rounded-full bg-surface-variant flex items-center justify-center font-headline-md text-headline-md text-on-surface font-bold">' + esc(initials) + "</div><div>" +
+                '<h4 class="font-data-display text-data-display font-bold">' + esc(h.code) +
+                (h.type === "fund" ? ' <span class="text-label-caps text-on-surface-variant font-normal bg-surface-container-high px-1.5 py-0.5 rounded">FON</span>' : "") + "</h4>" +
+                '<p class="font-body-sm text-body-sm text-on-surface-variant truncate max-w-[180px] md:max-w-xs">' + esc(inf.name) + " · " + fmt(h.qty, 0) + " adet</p></div></div>";
+
+            var right = "";
+            if (page === "pl") {
+                var pl = entry.val - entry.cost;
+                var plPct = entry.cost ? pl / entry.cost * 100 : 0;
+                right = '<div class="text-right flex flex-col gap-1">' +
+                    '<div class="font-data-display text-data-display">' + moneyFmt(entry.val) + "</div>" +
+                    '<div class="font-body-sm text-body-sm ' + (pl >= 0 ? "text-primary" : "text-error") + '">' +
+                    (pl >= 0 ? "+" : "") + moneyFmt(pl).replace("₺-", "-₺") + " (" + (pl >= 0 ? "+" : "") + fmt(plPct) + "%)</div>" +
+                    '<div class="text-[10px] text-on-surface-variant">Maliyet: ' + moneyFmt(entry.cost) + "</div></div>";
+            } else if (page === "ai") {
+                var ai = inf.ai;
+                if (h.type === "fund") {
+                    right = '<div class="text-right flex flex-col gap-1 max-w-[220px]">' +
+                        (ai && ai.comment ? '<p class="text-body-sm text-on-surface-variant">' + esc(ai.comment) + "</p>" +
+                            (ai.risk ? '<span class="text-label-caps text-secondary">Risk: ' + esc(ai.risk) + "</span>" : "")
+                        : '<span class="text-body-sm text-on-surface-variant">AI değerlendirmesi yok</span>') + "</div>";
+                } else {
+                    var st = signalStyle(ai && ai.signal);
+                    right = '<div class="text-right flex flex-col items-end gap-1">' +
+                        '<span class="px-3 py-1 rounded-full font-label-caps ' + st.badge + '">' + esc((ai && ai.signal) || "VERİ YOK") + "</span>" +
+                        (ai ? '<span class="text-label-caps text-on-surface-variant">Güven: %' + (ai.confidence != null ? ai.confidence : "—") +
+                            (ai.target_price != null ? " · Hedef: " + fmt(ai.target_price) + " TL" : "") + "</span>" : "") + "</div>";
+                }
+            } else {
+                var daily = inf.change != null ? entry.val * inf.change / 100 : null;
+                right = '<div class="text-right flex flex-col gap-1">' +
+                    '<div class="font-data-display text-data-display">' + moneyFmt(entry.val) + "</div>" +
+                    (daily == null ? '<div class="font-body-sm text-body-sm text-on-surface-variant">günlük veri yok</div>' :
+                        '<div class="font-body-sm text-body-sm ' + (daily >= 0 ? "text-primary" : "text-error") + '">' +
+                        (daily >= 0 ? "+" : "") + moneyFmt(daily).replace("₺-", "-₺") + " (" + (daily >= 0 ? "+" : "") + fmt(inf.change) + "%)</div>") + "</div>";
+            }
+            var del = '<button data-del="' + esc(h.code) + '" title="Portföyden çıkar" class="ml-3 text-on-surface-variant hover:text-error transition-colors">' +
+                '<span class="material-symbols-outlined text-[20px]">delete</span></button>';
+            var href = h.type === "stock" ? ' onclick="if(!event.target.closest(\'button\'))window.location.href=\'hisse-analiz.html?s=' + esc(h.code) + '\'"' : "";
+            return '<div class="glass-panel glass-inner-stroke rounded-lg p-4 flex justify-between items-center hover:bg-surface-container-high/50 transition-colors cursor-pointer"' + href + ">" +
+                left + '<div class="flex items-center">' + right + del + "</div></div>";
+        }
+
+        function addFormHtml() {
+            var stockOpts = signals.map(function (s) {
+                return '<option value="stock:' + esc(s.symbol) + '">' + esc(s.symbol) + " — " + esc(stockName(s.symbol)) + "</option>";
+            }).join("");
+            var fundOpts = funds.map(function (f) {
+                return '<option value="fund:' + esc(f.code) + '">' + esc(f.code) + " — " + esc(String(f.name).slice(0, 40)) + "</option>";
+            }).join("");
+            var inputCls = "bg-surface-container-high border border-white/10 rounded-lg px-3 py-2.5 text-body-sm text-on-surface placeholder:text-on-surface-variant/50 focus:border-primary outline-none";
+            return '<div class="glass-panel glass-inner-stroke rounded-lg p-4 flex flex-col md:flex-row gap-3 mb-2" id="pf-add">' +
+                '<select id="pf-code" class="' + inputCls + ' flex-1"><optgroup label="Hisseler">' + stockOpts + "</optgroup>" +
+                '<optgroup label="Yatırım Fonları">' + fundOpts + "</optgroup></select>" +
+                '<input id="pf-qty" type="number" min="0" step="any" placeholder="Adet" class="' + inputCls + ' md:w-28"/>' +
+                '<input id="pf-cost" type="number" min="0" step="any" placeholder="Birim Maliyet (TL)" class="' + inputCls + ' md:w-44"/>' +
+                '<button id="pf-add-btn" class="bg-primary hover:bg-primary-container text-on-primary rounded-lg px-5 py-2.5 font-body-sm font-semibold transition-colors">Ekle</button></div>';
+        }
+
+        function renderAlloc(entries, totV) {
+            var alloc = document.getElementById("pf-alloc");
+            if (!alloc || !totV) return;
+            var stockV = 0, fundV = 0;
+            entries.forEach(function (e) { if (e.h.type === "fund") fundV += e.val; else stockV += e.val; });
+            var sp = Math.round(stockV / totV * 100), fp = 100 - sp;
+            alloc.innerHTML = '<h3 class="font-headline-md text-headline-md">Varlık Dağılımı</h3>' +
+                '<div class="flex flex-col md:flex-row items-center gap-6">' +
+                '<div class="relative w-40 h-40 flex items-center justify-center">' +
+                '<svg class="w-full h-full -rotate-90" viewBox="0 0 36 36">' +
+                '<circle cx="18" cy="18" r="15.9" fill="transparent" stroke="#313540" stroke-width="3.5"></circle>' +
+                '<circle cx="18" cy="18" r="15.9" fill="transparent" stroke="#4edea3" stroke-width="3.5" stroke-dasharray="' + sp + ' 100"></circle>' +
+                '<circle cx="18" cy="18" r="15.9" fill="transparent" stroke="#ffb95f" stroke-width="3.5" stroke-dasharray="' + fp + ' 100" stroke-dashoffset="-' + sp + '"></circle></svg>' +
+                '<div class="absolute flex flex-col items-center"><span class="text-headline-md font-bold">' + moneyFmt(totV) + '</span><span class="text-label-caps opacity-60">Toplam</span></div></div>' +
+                '<div class="flex-1 grid grid-cols-1 gap-3 w-full">' +
+                '<div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-primary"></div><span class="text-body-sm">Hisse Senetleri</span></div><span class="font-bold">%' + sp + "</span></div>" +
+                '<div class="flex items-center justify-between p-2 rounded-lg bg-surface-variant/30"><div class="flex items-center gap-2"><div class="w-3 h-3 rounded-full bg-secondary-fixed-dim"></div><span class="text-body-sm">Yatırım Fonları</span></div><span class="font-bold">%' + fp + "</span></div></div></div>";
+        }
+
+        function render() {
+            var list = pfLoad();
+            var entries = [], totV = 0, totC = 0, totD = 0, hasDaily = false;
+            list.forEach(function (h) {
+                var inf = infoOf(h);
+                if (!inf || inf.price == null) return;
+                var val = h.qty * inf.price, cost = h.qty * h.cost;
+                totV += val; totC += cost;
+                if (inf.change != null) { totD += val * inf.change / 100; hasDaily = true; }
+                entries.push({ h: h, inf: inf, val: val, cost: cost });
+            });
+
+            var totalEl = document.getElementById("pf-total");
+            if (totalEl) totalEl.textContent = moneyFmt(totV);
+            var dailyEl = document.getElementById("pf-daily");
+            if (dailyEl) {
+                var amount, pct, label;
+                if (page === "pl") {
+                    amount = totV - totC;
+                    pct = totC ? amount / totC * 100 : 0;
+                    label = "Toplam Kâr/Zarar";
+                } else {
+                    amount = hasDaily ? totD : 0;
+                    pct = totV ? amount / totV * 100 : 0;
+                    label = "Günlük Değişim";
+                }
+                var pos = amount >= 0;
+                dailyEl.innerHTML = '<span class="font-data-display text-data-display ' + (pos ? "text-primary" : "text-error") + ' flex items-center">' +
+                    '<span class="material-symbols-outlined text-sm mr-1">' + (pos ? "arrow_upward" : "arrow_downward") + "</span>" +
+                    (pos ? "+" : "") + moneyFmt(amount).replace("₺-", "-₺") + " (" + (pos ? "+" : "") + fmt(pct) + "%)</span>" +
+                    '<span class="font-body-sm text-body-sm text-on-surface-variant ml-2">' + label + "</span>";
+            }
+
+            var heading = section.querySelector("h3");
+            Array.prototype.slice.call(section.children).forEach(function (child) {
+                if (child !== heading) section.removeChild(child);
+            });
+            var html = "";
+            if (page === "main") html += addFormHtml();
+            if (!entries.length) {
+                html += '<div class="glass-panel rounded-lg p-6 text-center text-body-sm text-on-surface-variant">' +
+                    (page === "main" ? "Portföyünüz henüz boş. Yukarıdaki formdan ilk varlığınızı ekleyin." :
+                        'Portföyünüz henüz boş. <a href="portfoy.html" class="text-primary hover:underline">Portföy sayfasından</a> varlık ekleyebilirsiniz.') + "</div>";
+            } else {
+                html += entries.map(holdingRow).join("");
+            }
+            section.insertAdjacentHTML("beforeend", html);
+            renderAlloc(entries, totV);
+
+            var addBtn = document.getElementById("pf-add-btn");
+            if (addBtn) addBtn.addEventListener("click", function () {
+                var sel = document.getElementById("pf-code").value.split(":");
+                var qty = parseFloat(document.getElementById("pf-qty").value);
+                var cost = parseFloat(document.getElementById("pf-cost").value);
+                if (!qty || qty <= 0 || !cost || cost <= 0) {
+                    alert("Lütfen geçerli adet ve birim maliyet girin.");
+                    return;
+                }
+                var list2 = pfLoad();
+                var existing = list2.filter(function (x) { return x.code === sel[1] && x.type === sel[0]; })[0];
+                if (existing) {
+                    // Ayni varlik tekrar eklenirse agirlikli ortalama maliyet hesaplanir
+                    var newQty = existing.qty + qty;
+                    existing.cost = (existing.qty * existing.cost + qty * cost) / newQty;
+                    existing.qty = newQty;
+                } else {
+                    list2.push({ type: sel[0], code: sel[1], qty: qty, cost: cost });
+                }
+                pfSave(list2);
+                render();
+            });
+            section.querySelectorAll("button[data-del]").forEach(function (btn) {
+                btn.addEventListener("click", function (ev) {
+                    ev.stopPropagation();
+                    var code = btn.getAttribute("data-del");
+                    pfSave(pfLoad().filter(function (x) { return x.code !== code; }));
+                    render();
+                });
+            });
+        }
+        render();
+    }
+
     /* ---------- Surum rozeti ---------- */
 
     function renderVersionBadge(version) {
@@ -494,6 +836,9 @@
             renderFundsSection(funds);
             renderMarketsPage(signals, funds, summary);
             renderStockDetail(signals);
+            initChart();
+            initSearch(signals, funds, ipos);
+            initPortfolio(signals, funds);
             if (version) renderVersionBadge(version);
         });
     });
