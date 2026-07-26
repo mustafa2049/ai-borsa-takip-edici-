@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 import config
-from app.services import ai_engine, bist_service, ipo_service, news_service, tefas_service
+from app.services import ai_engine, bist_service, ipo_service, news_service, signal_tracker, tefas_service
 
 
 def _write(name: str, payload, compact: bool = False) -> None:
@@ -23,6 +23,16 @@ def _write(name: str, payload, compact: bool = False) -> None:
     indent = None if compact else 2
     out.write_text(json.dumps(payload, ensure_ascii=False, indent=indent), encoding="utf-8")
     print(f"[ok] {out.relative_to(ROOT)} yazildi.")
+
+
+def _read_json(name: str, default):
+    path = ROOT / config.DATA_DIR / name
+    if not path.exists():
+        return default
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return default
 
 
 def main() -> None:
@@ -52,13 +62,27 @@ def main() -> None:
     news = news_service.get_news(config.NEWS_FEEDS, config.NEWS_LIMIT)
     print(f"    {len(news)} haber alindi.")
 
+    today = now[:10]
+    signal_log = signal_tracker.load_log(_read_json("signal_log.json", {}).get("entries"))
+    prior_signals = signal_tracker.previous_signal_map(signal_log, today)
+
     print("7/7 AI analizleri uretiliyor (Groq)...")
     news_titles = [n["title"] for n in news]
-    snapshots = ai_engine.analyze_stocks(snapshots, news_titles)
+    snapshots = ai_engine.analyze_stocks(snapshots, news_titles, prior_signals)
     funds = ai_engine.evaluate_funds(funds, config.TEFAS_AI_LIMIT)
     news = ai_engine.summarize_news(news, config.NEWS_AI_LIMIT)
     overview = ai_engine.market_overview(ticker, snapshots)
 
+    today_signals = [
+        {"symbol": s["symbol"], "signal": s["ai"]["signal"], "confidence": s["ai"].get("confidence"), "price": s["price"]}
+        for s in snapshots if s.get("ai") and s["ai"].get("signal")
+    ]
+    signal_log = signal_tracker.upsert_today(signal_log, today, today_signals, config.SIGNAL_LOG_RETENTION_DAYS)
+    current_prices = {s["symbol"]: s["price"] for s in snapshots}
+    accuracy = signal_tracker.evaluate_accuracy(signal_log, current_prices, today, config.SIGNAL_EVAL_DAYS)
+
+    _write("signal_log.json", {"updated_at": now, "entries": signal_log}, compact=True)
+    _write("signal_accuracy.json", {"updated_at": now, **accuracy})
     _write("history.json", {
         "updated_at": now,
         "stocks": stock_history,

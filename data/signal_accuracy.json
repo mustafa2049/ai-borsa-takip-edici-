@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-07-26T17:29:09+03:00",
+  "eval_days": 7,
+  "overall": {
+    "evaluated": 0,
+    "correct": 0,
+    "accuracy_pct": null
+  },
+  "by_signal": {},
+  "by_symbol": {},
+  "recent": []
+}

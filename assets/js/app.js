@@ -388,7 +388,7 @@
 
     /* ---------- Hisse detay sayfasi ---------- */
 
-    function renderStockDetail(signals) {
+    function renderStockDetail(signals, accuracy) {
         var titleEl = document.getElementById("stock-title");
         if (!titleEl) return;
 
@@ -464,7 +464,23 @@
                 '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">RSI (14)</span>' +
                 '<span class="block font-data-display text-data-display text-on-surface">' + (s.rsi_14 == null ? "—" : fmt(s.rsi_14, 1)) + "</span></div>" +
                 '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">52 HAFTA</span>' +
-                '<span class="block font-data-display text-data-display text-on-surface text-sm">' + fmt(s.low_52w, 0) + " - " + fmt(s.high_52w, 0) + "</span></div>";
+                '<span class="block font-data-display text-data-display text-on-surface text-sm">' + fmt(s.low_52w, 0) + " - " + fmt(s.high_52w, 0) + "</span></div>" +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">F/K ORANI</span>' +
+                '<span class="block font-data-display text-data-display text-on-surface">' + (s.pe_ratio == null ? "Veri yok" : fmt(s.pe_ratio, 1)) + "</span></div>" +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">PD/DD ORANI</span>' +
+                '<span class="block font-data-display text-data-display text-on-surface">' + (s.pb_ratio == null ? "Veri yok" : fmt(s.pb_ratio, 1)) + "</span></div>" +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">ÖZKAYNAK KÂRLILIĞI</span>' +
+                '<span class="block font-data-display text-data-display text-on-surface">' + (s.roe == null ? "Veri yok" : "%" + fmt(s.roe, 1)) + "</span></div>" +
+                '<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5"><span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">NET KÂR MARJI</span>' +
+                '<span class="block font-data-display text-data-display text-on-surface">' + (s.profit_margin == null ? "Veri yok" : "%" + fmt(s.profit_margin, 1)) + "</span></div>";
+        }
+
+        var accEl = document.getElementById("symbol-accuracy");
+        if (accEl) {
+            var symAcc = accuracy && accuracy.by_symbol && accuracy.by_symbol[s.symbol];
+            accEl.textContent = symAcc ?
+                "Bu hissede geçmiş AI sinyal doğruluğu: %" + fmt(symAcc.accuracy_pct, 0) + " (" + symAcc.evaluated + " sinyal değerlendirildi)" :
+                "Bu hisse için henüz yeterli geçmiş sinyal verisi yok.";
         }
     }
 
@@ -929,6 +945,22 @@
         render();
     }
 
+    /* ---------- AI sinyal dogruluk rozeti ---------- */
+
+    function renderSignalAccuracy(accuracy) {
+        var badge = document.getElementById("ai-accuracy-badge");
+        if (!badge) return;
+        var overall = accuracy && accuracy.overall;
+        if (!overall || overall.accuracy_pct == null) {
+            badge.innerHTML = '<span class="text-label-caps text-on-surface-variant border border-white/10 rounded-full px-3 py-1">Doğruluk verisi birikiyor</span>';
+            return;
+        }
+        var tone = overall.accuracy_pct >= 55 ? "primary" : (overall.accuracy_pct >= 45 ? "secondary" : "error");
+        badge.innerHTML = '<span class="text-label-caps text-' + tone + ' border border-' + tone + '/30 bg-' + tone + '/10 rounded-full px-3 py-1.5 flex items-center gap-1.5">' +
+            '<span class="material-symbols-outlined text-[14px]">track_changes</span>' +
+            "Geçmiş Sinyal Doğruluğu: %" + fmt(overall.accuracy_pct, 0) + " (" + overall.evaluated + " sinyal, " + accuracy.eval_days + "+ gün önce verilen)</span>";
+    }
+
     /* ---------- Surum rozeti ---------- */
 
     function renderVersionBadge(version) {
@@ -946,7 +978,8 @@
 
         Promise.allSettled([
             loadJSON("market_summary"), loadJSON("signals"), loadJSON("funds"),
-            loadJSON("ipos"), loadJSON("news"), loadJSON("version"), loadJSON("history")
+            loadJSON("ipos"), loadJSON("news"), loadJSON("version"), loadJSON("history"),
+            loadJSON("signal_accuracy")
         ]).then(function (results) {
             var summary = results[0].value || { ticker: [] };
             var signals = (results[1].value || {}).signals || [];
@@ -955,6 +988,7 @@
             var news = results[4].value || { news: [] };
             var version = results[5].value;
             var history = results[6].value || { stocks: {}, funds: {}, benchmark: {} };
+            var accuracy = results[7].value || null;
 
             renderTicker(summary);
             renderSignals(signals);
@@ -962,7 +996,8 @@
             renderNews(news);
             renderFundsSection(funds);
             renderMarketsPage(signals, funds, summary);
-            renderStockDetail(signals);
+            renderStockDetail(signals, accuracy);
+            renderSignalAccuracy(accuracy);
             initChart(history);
             initSearch(signals, funds, ipos);
             initPortfolio(signals, funds, history);

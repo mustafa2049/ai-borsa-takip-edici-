@@ -2,6 +2,19 @@
 
 Tüm önemli değişiklikler bu dosyada listelenir. Sürümleme [Semantic Versioning](https://semver.org/lang/tr/) kurallarına uyar.
 
+## [0.5.0] - 2026-07-26
+
+AI motorunda kullanıcı geri bildirimiyle 5 iyileştirme birden yapıldı:
+
+### Eklendi
+- **Temel analiz verileri:** Her hisse için F/K oranı, PD/DD oranı, özkaynak kârlılığı (ROE), net kâr marjı ve gelir büyümesi artık yfinance'ten çekilip hem AI'nın sinyal üretiminde hem de hisse detay sayfasında (yeni metrik kutuları) kullanılıyor.
+- **Haberlerde tam metin bağlamı:** Haberlerin sadece başlığı değil, RSS özet metni de toplanıp AI'ya veriliyor; duygu/etki değerlendirmesi artık başlık tahmininden ibaret değil, içerik temelli.
+- **Sinyal sürekliliği:** Her hisse için bir önceki çalıştırmada verilen sinyal `data/signal_log.json`'a kaydediliyor ve bir sonraki analizde AI'ya bağlam olarak veriliyor; sebepsiz yön değiştirmeler yerine tutarlı, gerekçeli değişimler hedefleniyor.
+- **AI sinyal doğruluk takibi:** En az 7 gün önce verilmiş sinyallerin yönü (AL sonrası yükseldi mi, SAT sonrası düştü mü) güncel fiyatla karşılaştırılıp otomatik değerlendiriliyor. Ana Sayfa'da genel doğruluk rozeti, hisse detay sayfasında o hisseye özel doğruluk oranı gösteriliyor. Sonuçlar `data/signal_accuracy.json`'da şeffafça yayınlanıyor — AI ne kadar haklı çıkıyor, artık görülebilir.
+
+### Düzeltildi
+- `halka-arz.html` sayfasının tarayıcı sekmesinde yanlışlıkla "Ana Sayfa" başlığı görünüyordu.
+
 ## [0.4.0] - 2026-07-26
 
 ### Eklendi

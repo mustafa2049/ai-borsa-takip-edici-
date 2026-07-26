@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T16:57:06+03:00",
+  "updated_at": "2026-07-26T17:29:09+03:00",
   "signals": [
     {
       "symbol": "THYAO",
@@ -17,6 +17,11 @@
       "bollinger_lower": 310.4,
       "high_52w": 348.25,
       "low_52w": 264.5,
+      "pe_ratio": 31.26,
+      "pb_ratio": 19.74,
+      "roe": 15.6,
+      "profit_margin": 12.7,
+      "revenue_growth": 21.1,
       "ai": null
     },
     {
@@ -35,6 +40,11 @@
       "bollinger_lower": 335.03,
       "high_52w": 434.0,
       "low_52w": 170.0,
+      "pe_ratio": 53.18,
+      "pb_ratio": 6.17,
+      "roe": 14.8,
+      "profit_margin": 17.6,
+      "revenue_growth": 15.0,
       "ai": null
     },
     {
@@ -53,6 +63,11 @@
       "bollinger_lower": 38.97,
       "high_52w": 44.2,
       "low_52w": 23.64,
+      "pe_ratio": 618.29,
+      "pb_ratio": 0.98,
+      "roe": 0.2,
+      "profit_margin": 0.2,
+      "revenue_growth": 11.5,
       "ai": null
     },
     {
@@ -71,6 +86,11 @@
       "bollinger_lower": 204.3,
       "high_52w": 314.5,
       "low_52w": 160.0,
+      "pe_ratio": 17.7,
+      "pb_ratio": 1.66,
+      "roe": 10.4,
+      "profit_margin": 3.8,
+      "revenue_growth": 24.4,
       "ai": null
     },
     {
@@ -89,6 +109,11 @@
       "bollinger_lower": 120.54,
       "high_52w": 165.0,
       "low_52w": 118.1,
+      "pe_ratio": 4.49,
+      "pb_ratio": 1.17,
+      "roe": 30.1,
+      "profit_margin": 32.5,
+      "revenue_growth": 49.7,
       "ai": null
     },
     {
@@ -107,6 +132,11 @@
       "bollinger_lower": 62.54,
       "high_52w": 92.95,
       "low_52w": 53.5,
+      "pe_ratio": 5.61,
+      "pb_ratio": 1.16,
+      "roe": 23.0,
+      "profit_margin": 29.9,
+      "revenue_growth": 43.7,
       "ai": null
     },
     {
@@ -125,6 +155,11 @@
       "bollinger_lower": 12.6,
       "high_52w": 18.15,
       "low_52w": 11.28,
+      "pe_ratio": 4.24,
+      "pb_ratio": 0.77,
+      "roe": 22.4,
+      "profit_margin": 19.1,
+      "revenue_growth": 62.0,
       "ai": null
     },
     {
@@ -143,6 +178,11 @@
       "bollinger_lower": 30.15,
       "high_52w": 44.02,
       "low_52w": 28.12,
+      "pe_ratio": 5.98,
+      "pb_ratio": 1.04,
+      "roe": 23.5,
+      "profit_margin": 26.6,
+      "revenue_growth": 55.4,
       "ai": null
     },
     {
@@ -161,6 +201,11 @@
       "bollinger_lower": 183.48,
       "high_52w": 224.0,
       "low_52w": 152.7,
+      "pe_ratio": 20.54,
+      "pb_ratio": 0.7,
+      "roe": 3.9,
+      "profit_margin": 0.9,
+      "revenue_growth": 4.8,
       "ai": null
     },
     {
@@ -179,6 +224,11 @@
       "bollinger_lower": 84.16,
       "high_52w": 112.6,
       "low_52w": 75.2,
+      "pe_ratio": 22.51,
+      "pb_ratio": 0.47,
+      "roe": 2.4,
+      "profit_margin": 3.1,
+      "revenue_growth": 7.4,
       "ai": null
     },
     {
@@ -197,6 +247,11 @@
       "bollinger_lower": 41.95,
       "high_52w": 52.35,
       "low_52w": 32.88,
+      "pe_ratio": 11.49,
+      "pb_ratio": 0.32,
+      "roe": 3.6,
+      "profit_margin": 4.5,
+      "revenue_growth": -3.4,
       "ai": null
     },
     {
@@ -215,6 +270,11 @@
       "bollinger_lower": 351.16,
       "high_52w": 414.0,
       "low_52w": 243.12,
+      "pe_ratio": 21.14,
+      "pb_ratio": 2.39,
+      "roe": 13.4,
+      "profit_margin": 2.9,
+      "revenue_growth": 10.1,
       "ai": null
     },
     {
@@ -233,6 +293,11 @@
       "bollinger_lower": 78.56,
       "high_52w": 134.3,
       "low_52w": 79.0,
+      "pe_ratio": 8.94,
+      "pb_ratio": 1.69,
+      "roe": 21.4,
+      "profit_margin": 3.8,
+      "revenue_growth": -8.6,
       "ai": null
     },
     {
@@ -251,6 +316,11 @@
       "bollinger_lower": 283.21,
       "high_52w": 348.25,
       "low_52w": 214.0,
+      "pe_ratio": 12.18,
+      "pb_ratio": 2.38,
+      "roe": 22.2,
+      "profit_margin": 2.9,
+      "revenue_growth": 187.8,
       "ai": null
     },
     {
@@ -269,6 +339,11 @@
       "bollinger_lower": 103.69,
       "high_52w": 127.5,
       "low_52w": 88.65,
+      "pe_ratio": 12.27,
+      "pb_ratio": 0.78,
+      "roe": 7.3,
+      "profit_margin": 7.4,
+      "revenue_growth": 8.9,
       "ai": null
     },
     {
@@ -287,6 +362,11 @@
       "bollinger_lower": 17.39,
       "high_52w": 27.14,
       "low_52w": 16.22,
+      "pe_ratio": null,
+      "pb_ratio": 0.82,
+      "roe": -10.3,
+      "profit_margin": -7.1,
+      "revenue_growth": 16.7,
       "ai": null
     },
     {
@@ -305,6 +385,11 @@
       "bollinger_lower": 271.15,
       "high_52w": 363.5,
       "low_52w": 88.5,
+      "pe_ratio": 35.7,
+      "pb_ratio": 7.72,
+      "roe": 26.7,
+      "profit_margin": 22.8,
+      "revenue_growth": 13.0,
       "ai": null
     },
     {
@@ -323,6 +408,11 @@
       "bollinger_lower": 157.53,
       "high_52w": 274.0,
       "low_52w": 160.4,
+      "pe_ratio": 9.37,
+      "pb_ratio": 0.7,
+      "roe": 8.8,
+      "profit_margin": 5.3,
+      "revenue_growth": 38.9,
       "ai": null
     },
     {
@@ -341,6 +431,11 @@
       "bollinger_lower": 18.98,
       "high_52w": 26.22,
       "low_52w": 17.9,
+      "pe_ratio": 232.75,
+      "pb_ratio": 0.49,
+      "roe": 2.4,
+      "profit_margin": 3.3,
+      "revenue_growth": -29.2,
       "ai": null
     },
     {
@@ -359,6 +454,11 @@
       "bollinger_lower": 95.7,
       "high_52w": 145.8,
       "low_52w": 96.5,
+      "pe_ratio": null,
+      "pb_ratio": 0.82,
+      "roe": -12.0,
+      "profit_margin": -1.6,
+      "revenue_growth": -8.8,
       "ai": null
     }
   ]

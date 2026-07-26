@@ -26,8 +26,27 @@ def _rsi(close: pd.Series, period: int = 14) -> pd.Series:
     return 100 - 100 / (1 + rs)
 
 
-def get_stock_snapshot(symbol: str, hist: pd.DataFrame | None = None) -> dict | None:
-    """Tek BIST hissesi icin fiyat + teknik gosterge ozeti."""
+def get_fundamentals(ticker: yf.Ticker) -> dict:
+    """Temel analiz verileri: F/K, PD/DD, ozkaynak karliligi, kar marji, buyume.
+
+    yfinance BIST hisselerinde bazi alanlari doldurmayabilir; eksik alanlar
+    None olarak birakilir, AI prompt'unda ve arayuzde "veri yok" gosterilir.
+    """
+    try:
+        info = ticker.info
+    except Exception:
+        info = {}
+    return {
+        "pe_ratio": _num(info.get("trailingPE")),
+        "pb_ratio": _num(info.get("priceToBook")),
+        "roe": _num((info.get("returnOnEquity") or 0) * 100, 1) if info.get("returnOnEquity") is not None else None,
+        "profit_margin": _num((info.get("profitMargins") or 0) * 100, 1) if info.get("profitMargins") is not None else None,
+        "revenue_growth": _num((info.get("revenueGrowth") or 0) * 100, 1) if info.get("revenueGrowth") is not None else None,
+    }
+
+
+def get_stock_snapshot(symbol: str, hist: pd.DataFrame | None = None, fundamentals: dict | None = None) -> dict | None:
+    """Tek BIST hissesi icin fiyat + teknik + temel gosterge ozeti."""
     if hist is None:
         try:
             hist = yf.Ticker(f"{symbol}.IS").history(period="1y", auto_adjust=False)
@@ -62,6 +81,7 @@ def get_stock_snapshot(symbol: str, hist: pd.DataFrame | None = None) -> dict | 
         "bollinger_lower": _num((sma20 - 2 * std20).iloc[-1]),
         "high_52w": _num(close.max()),
         "low_52w": _num(close.min()),
+        **(fundamentals or {}),
     }
 
 
@@ -80,11 +100,13 @@ def get_watchlist_data(symbols: list[str]) -> tuple[list[dict], dict[str, list]]
     """Izleme listesi icin snapshot listesi + sembol bazli OHLC gecmisi dondurur."""
     snapshots, history = [], {}
     for symbol in symbols:
+        ticker = yf.Ticker(f"{symbol}.IS")
         try:
-            hist = yf.Ticker(f"{symbol}.IS").history(period="1y", auto_adjust=False)
+            hist = ticker.history(period="1y", auto_adjust=False)
         except Exception:
             hist = None
-        snap = get_stock_snapshot(symbol, hist)
+        fundamentals = get_fundamentals(ticker)
+        snap = get_stock_snapshot(symbol, hist, fundamentals)
         if snap:
             snapshots.append(snap)
             history[symbol] = _ohlc_series(hist)

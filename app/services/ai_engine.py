@@ -55,8 +55,13 @@ def _chat_json(client, prompt: str, retries: int = 2) -> dict | None:
     return None
 
 
-def analyze_stocks(snapshots: list[dict], news_titles: list[str]) -> list[dict]:
-    """Hisseleri AI_BATCH_SIZE'lik paketler halinde analiz eder, sinyalleri snapshot'lara ekler."""
+def analyze_stocks(snapshots: list[dict], news_titles: list[str], prior_signals: dict | None = None) -> list[dict]:
+    """Hisseleri AI_BATCH_SIZE'lik paketler halinde analiz eder, sinyalleri snapshot'lara ekler.
+
+    prior_signals: {sembol: {"signal","date","confidence"}} - bir onceki calistirmada
+    verilen sinyal. AI'ya sureklilik icin baglam olarak verilir; boylece sebepsiz
+    sinyal degistirmeler yerine gercekten degisen bir sey oldugunda yon degisir.
+    """
     client = _client()
     if not client:
         print("[ai_engine] GROQ_API_KEY yok - sinyal uretimi atlandi.")
@@ -64,19 +69,30 @@ def analyze_stocks(snapshots: list[dict], news_titles: list[str]) -> list[dict]:
             snap["ai"] = None
         return snapshots
 
+    prior_signals = prior_signals or {}
     news_block = "\n".join(f"- {t}" for t in news_titles[:10]) or "- (haber verisi yok)"
     by_symbol = {s["symbol"]: s for s in snapshots}
 
     for i in range(0, len(snapshots), config.AI_BATCH_SIZE):
         batch = snapshots[i:i + config.AI_BATCH_SIZE]
-        prompt = f"""
-Asagidaki BIST hisselerinin teknik verilerini ve guncel haber basliklarini degerlendir.
+        prior_block_items = {
+            s["symbol"]: {"signal": prior_signals[s["symbol"]]["signal"], "tarih": prior_signals[s["symbol"]]["date"]}
+            for s in batch if s["symbol"] in prior_signals
+        }
+        prior_block = json.dumps(prior_block_items, ensure_ascii=False) if prior_block_items else "(gecmis sinyal yok)"
 
-TEKNIK VERILER:
+        prompt = f"""
+Asagidaki BIST hisselerinin teknik ve temel verilerini, guncel haber basliklarini degerlendir.
+
+TEKNIK VE TEMEL VERILER (rsi_14/macd/sma teknik; pe_ratio=F/K, pb_ratio=PD/DD, roe=ozkaynak karliligi %,
+profit_margin=net kar marji %, revenue_growth=gelir buyumesi % - temel analiz alanlaridir, null ise o veri mevcut degildir):
 {json.dumps(batch, ensure_ascii=False)}
 
 GUNCEL HABER BASLIKLARI:
 {news_block}
+
+ONCEKI CALISTIRMADA VERILEN SINYALLER (sureklilik icin - sebepsiz yon degistirme, degisiyorsa gerekcede acikca belirt):
+{prior_block}
 
 Her hisse icin SADECE su JSON semasiyla yanit ver:
 {{
@@ -144,15 +160,23 @@ SADECE su JSON semasiyla yanit ver:
 
 
 def summarize_news(news: list[dict], top_n: int) -> list[dict]:
-    """One cikan haberlere 2 cumlelik Turkce piyasa etkisi ozeti ekler."""
+    """One cikan haberlere 2 cumlelik Turkce piyasa etkisi ozeti ekler.
+
+    Sadece baslik degil, RSS'ten alinan ozet metni (summary) de gonderilir;
+    boylece duygu/etki degerlendirmesi haberin icerigine dayanir, baslik
+    tahmininden ibaret kalmaz.
+    """
     client = _client()
     subset = news[:top_n]
     if not client or not subset:
         return news
 
-    titles = [{"id": i, "title": n["title"], "source": n["source"]} for i, n in enumerate(subset)]
+    titles = [
+        {"id": i, "title": n["title"], "source": n["source"], "ozet": n.get("summary") or "(ozet yok)"}
+        for i, n in enumerate(subset)
+    ]
     prompt = f"""
-Asagidaki finans haberlerinin Turkiye ve dunya piyasalarina olasi etkisini ozetle.
+Asagidaki finans haberlerinin (baslik + ozet metni) Turkiye ve dunya piyasalarina olasi etkisini degerlendir.
 
 HABERLER:
 {json.dumps(titles, ensure_ascii=False)}

@@ -49,5 +49,10 @@ TEFAS_AI_LIMIT = 10
 AI_BATCH_SIZE = 5
 DEFAULT_GROQ_MODEL = "llama-3.3-70b-versatile"
 
+# Sinyal gecmisi: log kac gun saklansin, bir sinyal kac gun sonra "dogru muydu"
+# diye degerlendirilsin (yon karsilastirmasi icin fiyatin degismesine zaman taniyor)
+SIGNAL_LOG_RETENTION_DAYS = 120
+SIGNAL_EVAL_DAYS = 7
+
 # Uretilen JSON dosyalarinin yazilacagi klasor (repo koku altinda)
 DATA_DIR = "data"
