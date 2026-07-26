@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-07-26T15:33:45+03:00",
-  "overview": null,
+  "updated_at": "2026-07-26T15:49:23+03:00",
+  "overview": "Gunun piyasa gorunumu genel olarak dusus yonunde sekilde gelişti. BIST 100 endeksi %0.95 oraninda duserek 13943.9 seviyesine geriledi. DAX endeksinin %1.36 oraninda artisi disinda diger ana endeksler dusus yonunde hareket etti. Hisse sinyalleri ise karisik bir sekilde gorunuyor, bazı hisseler al sinyali verirken digerleri sat sinyali veriyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 14077.7,
-      "change_pct": -0.43
+      "value": 13943.9,
+      "change_pct": -0.95
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7408.3,
-      "change_pct": -1.21
+      "value": 7411.98,
+      "change_pct": 0.05
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 25137.69,
-      "change_pct": -2.15
+      "value": 24975.82,
+      "change_pct": -0.64
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 24763.12,
-      "change_pct": -1.56
+      "value": 25099.0,
+      "change_pct": 1.36
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 66422.6,
-      "change_pct": 0.46
+      "value": 64611.15,
+      "change_pct": -2.73
     },
     {
       "name": "USD/TRY",

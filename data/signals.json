@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T15:33:45+03:00",
+  "updated_at": "2026-07-26T15:49:23+03:00",
   "signals": [
     {
       "symbol": "THYAO",
@@ -17,7 +17,18 @@
       "bollinger_lower": 310.4,
       "high_52w": 348.25,
       "low_52w": 264.5,
-      "ai": null
+      "ai": {
+        "signal": "SAT",
+        "confidence": 60,
+        "target_price": 290,
+        "stop_loss": 320,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 40.8 ile aşırı satım bölgesinde",
+          "MACD ve MACD sinyal çizgileri aşağı yönlü",
+          "Fiyat, 20 günlük basit hareketli ortalamanın altında"
+        ]
+      }
     },
     {
       "symbol": "ASELS",
@@ -35,7 +46,18 @@
       "bollinger_lower": 335.03,
       "high_52w": 434.0,
       "low_52w": 170.0,
-      "ai": null
+      "ai": {
+        "signal": "AL",
+        "confidence": 70,
+        "target_price": 420,
+        "stop_loss": 350,
+        "timeframe": "4-6 Hafta",
+        "rationale": [
+          "RSI 14 değeri 53.8 ile alım bölgesinde",
+          "Fiyat, 20 günlük basit hareketli ortalamanın üzerinde",
+          "Hacim artışı ile birlikte fiyatın yükseldiği görülüyor"
+        ]
+      }
     },
     {
       "symbol": "EREGL",
@@ -53,7 +75,18 @@
       "bollinger_lower": 38.97,
       "high_52w": 44.2,
       "low_52w": 23.64,
-      "ai": null
+      "ai": {
+        "signal": "AL",
+        "confidence": 65,
+        "target_price": 48,
+        "stop_loss": 40,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 58.1 ile alım bölgesinde",
+          "MACD ve MACD sinyal çizgileri yukarı yönlü",
+          "Fiyat, 20 günlük basit hareketli ortalamanın üzerinde"
+        ]
+      }
     },
     {
       "symbol": "TUPRS",
@@ -71,7 +104,18 @@
       "bollinger_lower": 204.3,
       "high_52w": 314.5,
       "low_52w": 160.0,
-      "ai": null
+      "ai": {
+        "signal": "GÜÇLÜ SAT",
+        "confidence": 80,
+        "target_price": 250,
+        "stop_loss": 320,
+        "timeframe": "4-6 Hafta",
+        "rationale": [
+          "RSI 14 değeri 74.8 ile aşırı alım bölgesinde",
+          "MACD ve MACD sinyal çizgileri aşağı yönlü",
+          "Fiyat, 20 günlük basit hareketli ortalamanın üzerinde"
+        ]
+      }
     },
     {
       "symbol": "GARAN",
@@ -89,7 +133,18 @@
       "bollinger_lower": 120.54,
       "high_52w": 165.0,
       "low_52w": 118.1,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 50,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "1-2 Hafta",
+        "rationale": [
+          "RSI 14 değeri 39.2 ile nötr bölgede",
+          "MACD ve MACD sinyal çizgileri kararsız",
+          "Fiyat, 20 günlük basit hareketli ortalamanın altında"
+        ]
+      }
     },
     {
       "symbol": "AKBNK",
@@ -107,7 +162,18 @@
       "bollinger_lower": 62.54,
       "high_52w": 92.95,
       "low_52w": 53.5,
-      "ai": null
+      "ai": {
+        "signal": "AL",
+        "confidence": 60,
+        "target_price": 72.5,
+        "stop_loss": 62.0,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 38.8 ile düşük seviyede",
+          "MACD ve sinyal çizgisi arasında negatif ayrışma var",
+          "Bollinger Bantları içerisinde hareket ediyor"
+        ]
+      }
     },
     {
       "symbol": "ISCTR",
@@ -125,7 +191,18 @@
       "bollinger_lower": 12.6,
       "high_52w": 18.15,
       "low_52w": 11.28,
-      "ai": null
+      "ai": {
+        "signal": "SAT",
+        "confidence": 55,
+        "target_price": null,
+        "stop_loss": 14.5,
+        "timeframe": "1-2 Hafta",
+        "rationale": [
+          "RSI 14 değeri 32.4 ile düşük seviyede",
+          "Fiyat 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Hacim yüksek olmasına rağmen fiyat düşüşünü sürdürüyor"
+        ]
+      }
     },
     {
       "symbol": "YKBNK",
@@ -143,7 +220,18 @@
       "bollinger_lower": 30.15,
       "high_52w": 44.02,
       "low_52w": 28.12,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 50,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "1-2 Ay",
+        "rationale": [
+          "RSI 14 değeri 32.4 ile düşük seviyede",
+          "Fiyat 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "MACD ve sinyal çizgisi arasında negatif ayrışma var"
+        ]
+      }
     },
     {
       "symbol": "KCHOL",
@@ -161,7 +249,18 @@
       "bollinger_lower": 183.48,
       "high_52w": 224.0,
       "low_52w": 152.7,
-      "ai": null
+      "ai": {
+        "signal": "GÜÇLÜ AL",
+        "confidence": 80,
+        "target_price": 210.0,
+        "stop_loss": 185.0,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 53.5 ile orta seviyede",
+          "MACD ve sinyal çizgisi arasında pozitif ayrışma var",
+          "Fiyat 20 ve 50 günlük basit hareketli ortalamaların üzerinde"
+        ]
+      }
     },
     {
       "symbol": "SAHOL",
@@ -179,7 +278,18 @@
       "bollinger_lower": 84.16,
       "high_52w": 112.6,
       "low_52w": 75.2,
-      "ai": null
+      "ai": {
+        "signal": "SAT",
+        "confidence": 58,
+        "target_price": null,
+        "stop_loss": 80.0,
+        "timeframe": "1-2 Hafta",
+        "rationale": [
+          "RSI 14 değeri 34.4 ile düşük seviyede",
+          "Fiyat 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Hacim yüksek olmasına rağmen fiyat düşüşünü sürdürüyor"
+        ]
+      }
     },
     {
       "symbol": "SISE",
@@ -197,7 +307,18 @@
       "bollinger_lower": 41.95,
       "high_52w": 52.35,
       "low_52w": 32.88,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 60,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 45.7 ile orta seviyededir.",
+          "MACD ve sinyal çizgisi negatiftir, ancak yakın zamanda kesişme göstermemiştir.",
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında işlem görmektedir."
+        ]
+      }
     },
     {
       "symbol": "BIMAS",
@@ -215,7 +336,18 @@
       "bollinger_lower": 351.16,
       "high_52w": 414.0,
       "low_52w": 243.12,
-      "ai": null
+      "ai": {
+        "signal": "AL",
+        "confidence": 70,
+        "target_price": 410,
+        "stop_loss": 350,
+        "timeframe": "1-3 Ay",
+        "rationale": [
+          "RSI 14 değeri 49.3 ile orta seviyededir, ancak yükselmeye başlamıştır.",
+          "MACD ve sinyal çizgisi pozitiftir ve yakın zamanda kesişme göstermiştir.",
+          "Fiyat, 20 günlük basit hareketli ortalamasının üzerindedir."
+        ]
+      }
     },
     {
       "symbol": "FROTO",
@@ -233,7 +365,18 @@
       "bollinger_lower": 78.56,
       "high_52w": 134.3,
       "low_52w": 79.0,
-      "ai": null
+      "ai": {
+        "signal": "SAT",
+        "confidence": 80,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "1-2 Ay",
+        "rationale": [
+          "RSI 14 değeri 34.2 ile düşük seviyededir.",
+          "MACD ve sinyal çizgisi negatiftir ve yakın zamanda kesişme göstermemiştir.",
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında işlem görmektedir."
+        ]
+      }
     },
     {
       "symbol": "TOASO",
@@ -251,7 +394,18 @@
       "bollinger_lower": 283.21,
       "high_52w": 348.25,
       "low_52w": 214.0,
-      "ai": null
+      "ai": {
+        "signal": "GÜÇLÜ SAT",
+        "confidence": 90,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "1-2 Ay",
+        "rationale": [
+          "RSI 14 değeri 34.5 ile düşük seviyededir.",
+          "MACD ve sinyal çizgisi negatiftir ve yakın zamanda kesişme göstermemiştir.",
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında işlem görmektedir ve son 1 ayda önemli düşüş göstermiştir."
+        ]
+      }
     },
     {
       "symbol": "TCELL",
@@ -269,7 +423,18 @@
       "bollinger_lower": 103.69,
       "high_52w": 127.5,
       "low_52w": 88.65,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 50,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 40 ile orta seviyededir.",
+          "MACD ve sinyal çizgisi negatiftir, ancak yakın zamanda kesişme göstermemiştir.",
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında işlem görmektedir, ancak son 1 ayda önemli bir düşüş göstermemiştir."
+        ]
+      }
     },
     {
       "symbol": "PETKM",
@@ -287,7 +452,18 @@
       "bollinger_lower": 17.39,
       "high_52w": 27.14,
       "low_52w": 16.22,
-      "ai": null
+      "ai": {
+        "signal": "AL",
+        "confidence": 60,
+        "target_price": 24.5,
+        "stop_loss": 20.0,
+        "timeframe": "2-4 Hafta",
+        "rationale": [
+          "RSI 14 değeri 59.8 ile orta seviyededir.",
+          "MACD ve sinyal çizgisi arasında pozitif bir交差 vardır.",
+          "Fiyat, 20 günlük basit hareketli ortalamanın üzerindedir."
+        ]
+      }
     },
     {
       "symbol": "ASTOR",
@@ -305,7 +481,18 @@
       "bollinger_lower": 271.15,
       "high_52w": 363.5,
       "low_52w": 88.5,
-      "ai": null
+      "ai": {
+        "signal": "SAT",
+        "confidence": 70,
+        "target_price": 280.0,
+        "stop_loss": 310.0,
+        "timeframe": "1-2 Hafta",
+        "rationale": [
+          "Fiyat, 20 günlük basit hareketli ortalamanın altındadır.",
+          "RSI 14 değeri 47.5 ile orta seviyededir.",
+          "MACD ve sinyal çizgisi arasında negatif bir交差 vardır."
+        ]
+      }
     },
     {
       "symbol": "PGSUS",
@@ -323,7 +510,18 @@
       "bollinger_lower": 157.53,
       "high_52w": 274.0,
       "low_52w": 160.4,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 40,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "Belirsiz",
+        "rationale": [
+          "Fiyat, 20 günlük basit hareketli ortalamanın altındadır.",
+          "RSI 14 değeri 36.0 ile düşük seviyededir.",
+          "MACD ve sinyal çizgisi arasında negatif bir交差 vardır."
+        ]
+      }
     },
     {
       "symbol": "EKGYO",
@@ -341,7 +539,18 @@
       "bollinger_lower": 18.98,
       "high_52w": 26.22,
       "low_52w": 17.9,
-      "ai": null
+      "ai": {
+        "signal": "GÜÇLÜ SAT",
+        "confidence": 80,
+        "target_price": 16.0,
+        "stop_loss": 20.0,
+        "timeframe": "1-2 Hafta",
+        "rationale": [
+          "Fiyat, 20 günlük basit hareketli ortalamanın altındadır.",
+          "RSI 14 değeri 32.5 ile düşük seviyededir.",
+          "MACD ve sinyal çizgisi arasında negatif bir交差 vardır."
+        ]
+      }
     },
     {
       "symbol": "ARCLK",
@@ -359,7 +568,18 @@
       "bollinger_lower": 95.7,
       "high_52w": 145.8,
       "low_52w": 96.5,
-      "ai": null
+      "ai": {
+        "signal": "NÖTR",
+        "confidence": 50,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "Belirsiz",
+        "rationale": [
+          "Fiyat, 20 günlük basit hareketli ortalamanın yakınındadır.",
+          "RSI 14 değeri 45.5 ile orta seviyededir.",
+          "MACD ve sinyal çizgisi arasında bir交差 yoktur."
+        ]
+      }
     }
   ]
 }
