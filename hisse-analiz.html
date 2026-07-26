@@ -1,0 +1,284 @@
+<!DOCTYPE html><html class="dark" lang="tr"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>BorsaAI - THYAO Detay</title>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=Outfit:wght@600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container-highest": "#313540",
+                        "on-primary": "#003824",
+                        "inverse-on-surface": "#2c303b",
+                        "inverse-primary": "#006c49",
+                        "on-error-container": "#ffdad6",
+                        "on-background": "#dfe2f1",
+                        "error-container": "#93000a",
+                        "surface-variant": "#313540",
+                        "secondary": "#ffb95f",
+                        "on-tertiary-container": "#79000e",
+                        "surface-container-low": "#171b26",
+                        "on-tertiary-fixed": "#410004",
+                        "on-secondary-fixed": "#2a1700",
+                        "surface-container-high": "#262a35",
+                        "on-surface": "#dfe2f1",
+                        "tertiary-fixed-dim": "#ffb3ad",
+                        "primary-fixed-dim": "#4edea3",
+                        "surface-dim": "#0f131d",
+                        "surface": "#0f131d",
+                        "primary": "#4edea3",
+                        "primary-container": "#10b981",
+                        "on-tertiary-fixed-variant": "#930013",
+                        "background": "#0f131d",
+                        "surface-tint": "#4edea3",
+                        "on-error": "#690005",
+                        "secondary-fixed-dim": "#ffb95f",
+                        "on-secondary-fixed-variant": "#653e00",
+                        "tertiary": "#ffb3ad",
+                        "on-primary-fixed": "#002113",
+                        "on-primary-fixed-variant": "#005236",
+                        "outline-variant": "#3c4a42",
+                        "secondary-fixed": "#ffddb8",
+                        "outline": "#86948a",
+                        "error": "#ffb4ab",
+                        "on-surface-variant": "#bbcabf",
+                        "surface-container-lowest": "#0a0e18",
+                        "tertiary-fixed": "#ffdad7",
+                        "surface-container": "#1c1f2a",
+                        "on-primary-container": "#00422b",
+                        "tertiary-container": "#ff7a73",
+                        "on-tertiary": "#68000a",
+                        "on-secondary-container": "#5b3800",
+                        "inverse-surface": "#dfe2f1",
+                        "secondary-container": "#ee9800",
+                        "primary-fixed": "#6ffbbe",
+                        "surface-bright": "#353944",
+                        "on-secondary": "#472a00"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "stack-sm": "8px",
+                        "stack-lg": "32px",
+                        "gutter": "16px",
+                        "panel-padding": "20px",
+                        "container-margin": "24px",
+                        "stack-md": "16px"
+                    },
+                    "fontFamily": {
+                        "label-caps": ["Inter"],
+                        "headline-lg": ["Outfit"],
+                        "body-sm": ["Inter"],
+                        "data-display": ["Inter"],
+                        "headline-lg-mobile": ["Outfit"],
+                        "body-lg": ["Inter"],
+                        "headline-md": ["Outfit"]
+                    },
+                    "fontSize": {
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "700" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "data-display": ["18px", { "lineHeight": "24px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+                        "headline-lg-mobile": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .glass-card {
+            background: rgba(22, 30, 46, 0.7);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+        }
+        .glass-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            border-radius: inherit;
+            padding: 1px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 100%);
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+        }
+        .neon-glow {
+            text-shadow: 0 0 10px rgba(78, 222, 163, 0.5);
+        }
+        .gauge-arc {
+            stroke-dasharray: 283;
+            stroke-dashoffset: 70; /* ~75% for strong buy */
+        }
+    </style>
+</head>
+<body class="bg-background text-on-surface antialiased min-h-screen flex flex-col pt-16 pb-24 md:pb-8">
+<!-- Top App Bar -->
+<header class="bg-surface/70 backdrop-blur-md font-headline-md text-headline-md font-bold text-primary tracking-tight fixed top-0 left-0 w-full z-50 flex items-center justify-between px-gutter h-16 border-b border-white/10 shadow-sm">
+<button aria-label="Geri" class="text-on-surface-variant hover:text-primary transition-colors active:scale-95 transition-transform p-2 -ml-2 rounded-full">
+<span class="material-symbols-outlined" data-icon="arrow_back">arrow_back</span>
+</button>
+<div class="flex-1 text-center truncate px-4">
+<span class="text-on-surface">THYAO</span> <span class="text-on-surface-variant text-body-sm font-normal block -mt-1 truncate">Türk Hava Yolları</span>
+</div>
+<button aria-label="Paylaş" class="text-on-surface-variant hover:text-primary transition-colors active:scale-95 transition-transform p-2 -mr-2 rounded-full">
+<span class="material-symbols-outlined" data-icon="share">share</span>
+</button>
+</header>
+<main class="flex-1 max-w-5xl w-full mx-auto p-4 md:p-gutter space-y-stack-md flex flex-col md:flex-row gap-6">
+<!-- Left Column (Chart & Price) -->
+<div class="flex-1 space-y-6">
+<!-- Price Info -->
+<div class="glass-card rounded-xl p-panel-padding">
+<div class="flex justify-between items-end">
+<div>
+<h2 class="font-headline-lg-mobile md:font-headline-lg text-headline-lg-mobile md:text-headline-lg text-on-surface tracking-tight">285.50 <span class="text-body-lg text-on-surface-variant">TL</span></h2>
+</div>
+<div class="bg-primary-container/20 px-3 py-1.5 rounded-md border border-primary/30 flex items-center gap-1">
+<span class="material-symbols-outlined text-primary text-sm" data-icon="trending_up">trending_up</span>
+<span class="font-data-display text-data-display text-primary">+2.4%</span>
+</div>
+</div>
+</div>
+<!-- Chart Area -->
+<div class="glass-card rounded-xl p-panel-padding flex flex-col h-80">
+<!-- Time Tabs -->
+<div class="flex justify-around bg-surface-container-highest p-1 rounded-lg mb-4">
+<button class="flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md">1G</button>
+<button class="flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md">1H</button>
+<button class="flex-1 py-1 text-label-caps font-label-caps bg-surface-container text-primary shadow-sm rounded-md">1A</button>
+<button class="flex-1 py-1 text-label-caps font-label-caps text-on-surface-variant hover:text-on-surface transition-colors rounded-md">1Y</button>
+</div>
+<!-- Placeholder for Chart -->
+<div class="flex-1 relative flex items-center justify-center border-t border-white/5 pt-4">
+<!-- Simulating a candlestick chart with generic shapes for demo purposes -->
+<svg class="w-full h-full text-outline-variant opacity-30" preserveAspectRatio="none" viewBox="0 0 400 200">
+<!-- Grid lines -->
+<line stroke="currentColor" stroke-dasharray="4" stroke-width="0.5" x1="0" x2="400" y1="50" y2="50"></line>
+<line stroke="currentColor" stroke-dasharray="4" stroke-width="0.5" x1="0" x2="400" y1="100" y2="100"></line>
+<line stroke="currentColor" stroke-dasharray="4" stroke-width="0.5" x1="0" x2="400" y1="150" y2="150"></line>
+<!-- Candlesticks (abstract) -->
+<rect fill="#4edea3" height="40" rx="1" width="8" x="40" y="80"></rect> <line stroke="#4edea3" stroke-width="2" x1="44" x2="44" y1="60" y2="130"></line>
+<rect fill="#ffb4ab" height="30" rx="1" width="8" x="80" y="60"></rect> <line stroke="#ffb4ab" stroke-width="2" x1="84" x2="84" y1="40" y2="100"></line>
+<rect fill="#4edea3" height="50" rx="1" width="8" x="120" y="90"></rect> <line stroke="#4edea3" stroke-width="2" x1="124" x2="124" y1="70" y2="150"></line>
+<rect fill="#4edea3" height="25" rx="1" width="8" x="160" y="70"></rect> <line stroke="#4edea3" stroke-width="2" x1="164" x2="164" y1="50" y2="110"></line>
+<rect fill="#ffb4ab" height="35" rx="1" width="8" x="200" y="50"></rect> <line stroke="#ffb4ab" stroke-width="2" x1="204" x2="204" y1="30" y2="90"></line>
+<rect fill="#4edea3" height="45" rx="1" width="8" x="240" y="40"></rect> <line stroke="#4edea3" stroke-width="2" x1="244" x2="244" y1="20" y2="100"></line>
+<rect fill="#4edea3" height="20" rx="1" width="8" x="280" y="25"></rect> <line stroke="#4edea3" stroke-width="2" x1="284" x2="284" y1="10" y2="60"></line>
+</svg>
+<div class="absolute inset-0 bg-gradient-to-t from-background/50 to-transparent pointer-events-none"></div>
+</div>
+</div>
+</div>
+<!-- Right Column (AI Insights) -->
+<div class="w-full md:w-80 flex flex-col gap-6">
+<div class="glass-card rounded-xl p-panel-padding bg-surface-container-low/90 relative overflow-hidden">
+<!-- Decorative glow -->
+<div class="absolute -top-10 -right-10 w-32 h-32 bg-primary/10 rounded-full blur-3xl pointer-events-none"></div>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-6 flex items-center gap-2">
+<span class="material-symbols-outlined text-primary" data-icon="auto_awesome">auto_awesome</span>
+                    Yapay Zeka Al/Sat Raporu
+                </h3>
+<!-- Gauge Indicator -->
+<div class="flex flex-col items-center justify-center mb-8 relative">
+<svg class="w-48 overflow-visible" viewBox="0 0 100 50">
+<!-- Background Arc -->
+<path class="text-surface-container-highest" d="M 10 50 A 40 40 0 0 1 90 50" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="8"></path>
+<!-- Progress Arc -->
+<path class="text-primary gauge-arc drop-shadow-[0_0_8px_rgba(78,222,163,0.5)]" d="M 10 50 A 40 40 0 0 1 90 50" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="8"></path>
+</svg>
+<div class="absolute bottom-0 flex flex-col items-center">
+<span class="font-headline-lg-mobile text-headline-lg-mobile text-primary font-bold neon-glow">GÜÇLÜ AL</span>
+<span class="font-label-caps text-label-caps text-on-surface-variant mt-1">Güven Skoru: %92</span>
+</div>
+</div>
+<!-- Metrics -->
+<div class="grid grid-cols-2 gap-4 mb-6">
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">HEDEF FİYAT</span>
+<span class="block font-data-display text-data-display text-on-surface">320.00 TL</span>
+</div>
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">STOP-LOSS</span>
+<span class="block font-data-display text-data-display text-error">270.00 TL</span>
+</div>
+<div class="col-span-2 bg-surface-container/50 rounded-lg p-3 border border-white/5 flex justify-between items-center">
+<span class="text-label-caps font-label-caps text-on-surface-variant">TAHMİNİ ZAMAN</span>
+<span class="font-data-display text-data-display text-on-surface text-sm">2-4 Hafta</span>
+</div>
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">HAREKETLİ ORT.</span>
+<span class="block font-data-display text-data-display text-primary">AL (20/50/200)</span>
+</div>
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">MACD GÖSTERGESİ</span>
+<span class="block font-data-display text-data-display text-primary">POZİTİF KESİŞİM</span>
+</div></div>
+<!-- Bullet Points -->
+<div class="space-y-3">
+<p class="font-label-caps text-label-caps text-on-surface mb-2 border-b border-white/10 pb-1">AI GEREKÇESİ</p>
+<ul class="space-y-2">
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">RSI aşırı satım bölgesinden dönüş</span>
+</li>
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">Güçlü Q2 kâr beklentisi</span>
+</li>
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">Pozitif haber duyarlılığı</span>
+</li>
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">Bollinger Bantları daralması sonrası yukarı yönlü kırılım</span>
+</li>
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">Yabancı takas oranında son 5 günde %1.2 artış</span>
+</li>
+<li class="flex items-start gap-2">
+<span class="material-symbols-outlined text-primary text-sm mt-0.5" data-icon="check_circle">check_circle</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant">Sektörel çarpanlara göre %15 iskontolu işlem görme</span>
+</li></ul>
+</div>
+</div>
+<!-- Actions -->
+<div class="grid grid-cols-2 gap-4">
+<button class="bg-surface-container-high hover:bg-surface-bright text-on-surface font-body-sm text-body-sm py-3 px-4 rounded-xl transition-colors border border-white/10 flex items-center justify-center gap-2">
+<span class="material-symbols-outlined text-sm" data-icon="bookmark_add">bookmark_add</span>
+                    Takip Listesine Ekle
+                 </button>
+<button class="bg-primary hover:bg-primary-container text-on-primary font-data-display text-data-display py-3 px-4 rounded-xl transition-colors shadow-[0_0_15px_rgba(78,222,163,0.3)] hover:shadow-[0_0_25px_rgba(78,222,163,0.5)]">
+                    Hemen Al
+                 </button>
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">HAREKETLİ ORT.</span>
+<span class="block font-data-display text-data-display text-primary">AL (20/50/200)</span>
+</div>
+<div class="bg-surface-container/50 rounded-lg p-3 border border-white/5">
+<span class="block text-label-caps font-label-caps text-on-surface-variant mb-1">MACD GÖSTERGESİ</span>
+<span class="block font-data-display text-data-display text-primary">POZİTİF KESİŞİM</span>
+</div></div>
+</div>
+</main>
+<!-- Suppressed Bottom Navigation: This is a detail/transactional view (THYAO Analysis), 
+         so the global bottom navigation shell is hidden to prioritize the focused content canvas 
+         as per the "Destination" rule. -->
+
+
+</body></html>

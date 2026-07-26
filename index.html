@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="tr"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>BorsaAI - Ana Sayfa</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;family=Outfit:wght@600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container-highest": "#313540",
+                        "on-primary": "#003824",
+                        "inverse-on-surface": "#2c303b",
+                        "inverse-primary": "#006c49",
+                        "on-error-container": "#ffdad6",
+                        "on-background": "#dfe2f1",
+                        "error-container": "#93000a",
+                        "surface-variant": "#313540",
+                        "secondary": "#ffb95f",
+                        "on-tertiary-container": "#79000e",
+                        "surface-container-low": "#171b26",
+                        "on-tertiary-fixed": "#410004",
+                        "on-secondary-fixed": "#2a1700",
+                        "surface-container-high": "#262a35",
+                        "on-surface": "#dfe2f1",
+                        "tertiary-fixed-dim": "#ffb3ad",
+                        "primary-fixed-dim": "#4edea3",
+                        "surface-dim": "#0f131d",
+                        "surface": "#0f131d",
+                        "primary": "#4edea3",
+                        "primary-container": "#10b981",
+                        "on-tertiary-fixed-variant": "#930013",
+                        "background": "#0f131d",
+                        "surface-tint": "#4edea3",
+                        "on-error": "#690005",
+                        "secondary-fixed-dim": "#ffb95f",
+                        "on-secondary-fixed-variant": "#653e00",
+                        "tertiary": "#ffb3ad",
+                        "on-primary-fixed": "#002113",
+                        "on-primary-fixed-variant": "#005236",
+                        "outline-variant": "#3c4a42",
+                        "secondary-fixed": "#ffddb8",
+                        "outline": "#86948a",
+                        "error": "#ffb4ab",
+                        "on-surface-variant": "#bbcabf",
+                        "surface-container-lowest": "#0a0e18",
+                        "tertiary-fixed": "#ffdad7",
+                        "surface-container": "#1c1f2a",
+                        "on-primary-container": "#00422b",
+                        "tertiary-container": "#ff7a73",
+                        "on-tertiary": "#68000a",
+                        "on-secondary-container": "#5b3800",
+                        "inverse-surface": "#dfe2f1",
+                        "secondary-container": "#ee9800",
+                        "primary-fixed": "#6ffbbe",
+                        "surface-bright": "#353944",
+                        "on-secondary": "#472a00"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "stack-sm": "8px",
+                        "stack-lg": "32px",
+                        "gutter": "16px",
+                        "panel-padding": "20px",
+                        "container-margin": "24px",
+                        "stack-md": "16px"
+                    },
+                    "fontFamily": {
+                        "label-caps": ["Inter"],
+                        "headline-lg": ["Outfit"],
+                        "body-sm": ["Inter"],
+                        "data-display": ["Inter"],
+                        "headline-lg-mobile": ["Outfit"],
+                        "body-lg": ["Inter"],
+                        "headline-md": ["Outfit"]
+                    },
+                    "fontSize": {
+                        "label-caps": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "700" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "data-display": ["18px", { "lineHeight": "24px", "letterSpacing": "0.02em", "fontWeight": "600" }],
+                        "headline-lg-mobile": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-md": ["20px", { "lineHeight": "28px", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body {
+            background-color: #0B0F19; /* Override with strict brand color */
+        }
+        .glass-panel {
+            background-color: rgba(22, 30, 46, 0.7);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .glass-card-inner-stroke {
+            position: relative;
+        }
+        .glass-card-inner-stroke::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: inherit;
+            padding: 1px;
+            background: linear-gradient(to bottom right, rgba(255,255,255,0.15), rgba(255,255,255,0));
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+        }
+        .ticker-scroll {
+            animation: ticker 20s linear infinite;
+        }
+        @keyframes ticker {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-100%); }
+        }
+        /* Custom scrollbar for horizontal cards */
+        .hide-scroll::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scroll {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="text-on-surface font-body-lg antialiased pb-24 md:pb-0 pt-16 md:pt-0 flex flex-col min-h-screen">
+<!-- TopAppBar (Mobile) / SideNav (Desktop Placeholder) -->
+<header class="fixed top-0 left-0 w-full z-50 flex items-center justify-between px-gutter h-16 bg-surface/70 backdrop-blur-md border-b border-white/10 shadow-sm md:hidden">
+<div class="flex items-center gap-4">
+<button aria-label="Menü" class="text-on-surface-variant hover:text-primary transition-colors active:scale-95 transition-transform">
+<span class="material-symbols-outlined text-2xl" data-icon="menu">menu</span>
+</button>
+<h1 class="font-headline-md text-headline-md font-bold text-primary tracking-tight">BorsaAI</h1>
+</div>
+<button aria-label="Ara" class="text-on-surface-variant hover:text-primary transition-colors active:scale-95 transition-transform">
+<span class="material-symbols-outlined text-2xl" data-icon="search">search</span>
+</button>
+</header>
+<!-- Desktop Sidebar (Hidden on Mobile) -->
+<aside class="hidden md:flex flex-col fixed top-0 left-0 h-full w-[280px] bg-surface-container/90 border-r border-white/10 z-40 pt-6 px-4">
+<div class="flex items-center gap-3 mb-10 px-2">
+<img alt="BorsaAI Logo" class="w-8 h-8 object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzBWjB-kvBdefGZpfRmwC51IYJLH1i3kfsrlOf64G7yPYmputdFZp1FBetaCJezq2FdNzrJf6nHTWlt8HCypXts89MV2bQbabiNVn8Vu7Z9Md8tJyVneCqADew31Q6yn_krCJHJqdHGPxX2ptMDkTe38qo6Jqknjo3UIjNzgJxrz6xAGe6I9Am7fb1EgvkjKi_WQ3_KDQjO_aNbb-NdHmOYe5qhmHpqU7H7ytUJvV6-WerryaHaPPv1rTe9sM6y9sddSfuaH9ZXRik"/>
+<h1 class="font-headline-lg text-headline-lg font-bold text-primary tracking-tight">BorsaAI</h1>
+</div>
+<nav class="flex-1 flex flex-col gap-2">
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg bg-primary-container/20 text-primary font-body-sm font-semibold transition-colors" href="#">
+<span class="material-symbols-outlined" data-icon="home" style="font-variation-settings: 'FILL' 1;">home</span>
+                Ana Sayfa
+            </a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg text-on-surface-variant hover:bg-surface-bright/50 hover:text-on-surface transition-colors font-body-sm" href="#">
+<span class="material-symbols-outlined" data-icon="show_chart">show_chart</span>
+                Piyasalar
+            </a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg text-on-surface-variant hover:bg-surface-bright/50 hover:text-on-surface transition-colors font-body-sm" href="#">
+<span class="material-symbols-outlined" data-icon="account_balance_wallet">account_balance_wallet</span>
+                Portföy
+            </a>
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg text-on-surface-variant hover:bg-surface-bright/50 hover:text-on-surface transition-colors font-body-sm" href="#">
+<span class="material-symbols-outlined" data-icon="auto_awesome">auto_awesome</span>
+                AI Analiz
+            </a>
+</nav>
+<div class="mt-auto mb-6">
+<a class="flex items-center gap-3 px-4 py-3 rounded-lg text-on-surface-variant hover:bg-surface-bright/50 hover:text-on-surface transition-colors font-body-sm" href="#">
+<span class="material-symbols-outlined" data-icon="person">person</span>
+                Profil
+            </a>
+</div>
+</aside>
+<!-- Main Content Canvas -->
+<main class="flex-1 w-full md:ml-[280px] flex flex-col">
+<!-- Search & Ticker Row (Desktop) -->
+<div class="hidden md:flex items-center justify-between px-container-margin py-4 border-b border-white/5 bg-surface-container-lowest">
+<div class="relative w-96">
+<span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant">search</span>
+<input class="w-full bg-surface-container-high border border-white/10 rounded-full py-3 pl-12 pr-4 text-body-sm text-on-surface placeholder:text-on-surface-variant/50 focus:border-primary focus:ring-1 focus:ring-primary/50 transition-all outline-none" placeholder="Hisse, Fon veya Halka Arz Ara..." type="text"/>
+</div>
+<div class="flex items-center gap-4 text-label-caps">
+<div class="flex items-center gap-2 bg-surface-container-high px-3 py-1.5 rounded-full border border-white/5">
+<span class="text-on-surface-variant">BIST 100</span>
+<span class="font-data-display text-on-surface">9.120</span>
+<span class="text-primary">+1.2%</span>
+</div>
+<div class="flex items-center gap-2 bg-surface-container-high px-3 py-1.5 rounded-full border border-white/5">
+<span class="text-on-surface-variant">USD/TRY</span>
+<span class="font-data-display text-on-surface">32.45</span>
+<span class="text-primary">+0.1%</span>
+</div>
+<div class="flex items-center gap-2 bg-surface-container-high px-3 py-1.5 rounded-full border border-white/5">
+<span class="text-on-surface-variant">ALTIN</span>
+<span class="font-data-display text-on-surface">2.450</span>
+<span class="text-primary">+0.5%</span>
+</div>
+</div>
+</div>
+<!-- Mobile Ticker (Below App Bar) -->
+<div class="md:hidden w-full overflow-hidden bg-surface-container-lowest border-b border-white/5 py-2">
+<div class="flex whitespace-nowrap ticker-scroll text-label-caps gap-6 px-4">
+<div class="flex items-center gap-2">
+<span class="text-on-surface-variant">BIST 100</span>
+<span class="font-data-display text-on-surface">9.120</span>
+<span class="text-primary">+1.2%</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="text-on-surface-variant">USD/TRY</span>
+<span class="font-data-display text-on-surface">32.45</span>
+<span class="text-primary">+0.1%</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="text-on-surface-variant">ALTIN</span>
+<span class="font-data-display text-on-surface">2.450</span>
+<span class="text-primary">+0.5%</span>
+</div>
+<!-- Duplicate for smooth scroll -->
+<div class="flex items-center gap-2">
+<span class="text-on-surface-variant">BIST 100</span>
+<span class="font-data-display text-on-surface">9.120</span>
+<span class="text-primary">+1.2%</span>
+</div>
+</div>
+</div>
+<div class="p-container-margin md:p-stack-lg max-w-7xl mx-auto w-full flex flex-col gap-stack-lg">
+<!-- AI Signals Section -->
+<section>
+<div class="flex items-center justify-between mb-stack-md">
+<h2 class="font-headline-md text-headline-md text-on-surface flex items-center gap-2">
+<span class="material-symbols-outlined text-primary" data-icon="auto_awesome">auto_awesome</span>
+                        Yapay Zeka Günün Öne Çıkan Al/Sat Sinyalleri
+                    </h2>
+</div>
+<div class="flex overflow-x-auto hide-scroll gap-4 pb-4 snap-x snap-mandatory">
+<!-- Signal Card 1 -->
+<div class="glass-panel glass-card-inner-stroke rounded-xl p-panel-padding min-w-[280px] snap-center flex flex-col gap-4 relative overflow-hidden group">
+<div class="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+<div class="flex justify-between items-start">
+<div>
+<h3 class="font-headline-md text-headline-md text-on-surface">THYAO</h3>
+<p class="text-body-sm text-on-surface-variant">Türk Hava Yolları</p>
+</div>
+<span class="bg-primary/20 text-primary px-3 py-1 rounded-full font-label-caps border border-primary/30">GÜÇLÜ AL</span>
+</div>
+<div class="flex items-end justify-between mt-2">
+<div>
+<span class="font-data-display text-data-display text-on-surface">285.50 TL</span>
+<span class="text-primary text-body-sm ml-2 font-semibold">+2.4%</span>
+</div>
+<div class="flex items-center gap-1 text-label-caps text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]" data-icon="bolt">bolt</span>
+                                AI Güven: <span class="text-on-surface">%92</span>
+</div>
+</div>
+</div>
+<!-- Signal Card 2 -->
+<div class="glass-panel glass-card-inner-stroke rounded-xl p-panel-padding min-w-[280px] snap-center flex flex-col gap-4 relative overflow-hidden group">
+<div class="absolute inset-0 bg-error/5 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+<div class="flex justify-between items-start">
+<div>
+<h3 class="font-headline-md text-headline-md text-on-surface">EREGL</h3>
+<p class="text-body-sm text-on-surface-variant">Ereğli Demir Çelik</p>
+</div>
+<span class="bg-error/10 text-error px-3 py-1 rounded-full font-label-caps border border-error/20">SAT</span>
+</div>
+<div class="flex items-end justify-between mt-2">
+<div>
+<span class="font-data-display text-data-display text-on-surface">44.12 TL</span>
+<span class="text-error text-body-sm ml-2 font-semibold">-0.8%</span>
+</div>
+<div class="flex items-center gap-1 text-label-caps text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]" data-icon="bolt">bolt</span>
+                                AI Güven: <span class="text-on-surface">%85</span>
+</div>
+</div>
+</div>
+<!-- Signal Card 3 -->
+<div class="glass-panel glass-card-inner-stroke rounded-xl p-panel-padding min-w-[280px] snap-center flex flex-col gap-4 relative overflow-hidden group">
+<div class="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+<div class="flex justify-between items-start">
+<div>
+<h3 class="font-headline-md text-headline-md text-on-surface">TCD <span class="text-label-caps text-on-surface-variant font-normal bg-surface-container-high px-2 py-0.5 rounded ml-1">FON</span></h3>
+<p class="text-body-sm text-on-surface-variant">Tacirler Portföy Değişken Fon</p>
+</div>
+<span class="border border-primary/50 text-primary px-3 py-1 rounded-full font-label-caps">AL</span>
+</div>
+<div class="flex items-end justify-between mt-2">
+<div>
+<span class="font-data-display text-data-display text-on-surface">12.45 TL</span>
+<span class="text-primary text-body-sm ml-2 font-semibold">+1.5%</span>
+</div>
+<div class="flex items-center gap-1 text-label-caps text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]" data-icon="bolt">bolt</span>
+                                AI Güven: <span class="text-on-surface">%78</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Bento Grid Layout for Calendar and News -->
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter">
+<!-- IPO Calendar -->
+<section class="md:col-span-5 glass-panel glass-card-inner-stroke rounded-xl p-panel-padding flex flex-col gap-4">
+<h2 class="font-headline-md text-headline-md text-on-surface flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary" data-icon="event_note">event_note</span>
+                        Halka Arz Takvimi
+                    </h2>
+<div class="bg-surface-container-low/50 rounded-lg p-4 border border-white/5 flex flex-col gap-3 relative overflow-hidden">
+<div class="flex justify-between items-start">
+<div>
+<h3 class="font-data-display text-data-display text-on-surface">ABC Enerji</h3>
+<p class="text-body-sm text-on-surface-variant">12-14 Mart</p>
+</div>
+<span class="bg-secondary text-[#000] px-2 py-1 rounded text-[10px] font-bold tracking-wide">YENİ</span>
+</div>
+<div class="flex items-center gap-2 text-label-caps">
+<span class="bg-primary-container/20 text-primary px-2 py-1 rounded">Talep Topluyor</span>
+<span class="bg-surface-container-high text-on-surface-variant px-2 py-1 rounded border border-white/5">Fiyat: 25 TL</span>
+</div>
+<div class="mt-2 flex items-center gap-2 text-body-sm text-on-surface-variant">
+<span class="material-symbols-outlined text-primary text-[18px]" data-icon="check_circle">check_circle</span>
+                             Katılım Endeksine Uygun
+                        </div>
+</div>
+</section>
+<!-- AI News Summary -->
+<section class="md:col-span-7 glass-panel glass-card-inner-stroke rounded-xl p-panel-padding flex flex-col gap-4">
+<h2 class="font-headline-md text-headline-md text-on-surface flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary" data-icon="language">language</span>
+                        Dünya Borsaları &amp; Haberler
+                    </h2>
+<div class="flex flex-col md:flex-row gap-4 bg-surface-container-low/50 rounded-lg p-4 border border-white/5 h-full">
+<div class="flex-1 flex flex-col justify-center">
+<h3 class="font-data-display text-on-surface mb-2">Fed faiz kararı açıklandı, piyasalar nasıl tepki verdi?</h3>
+<p class="text-body-sm text-on-surface-variant line-clamp-2 mb-4">
+                                ABD Merkez Bankası (Fed) politika faizini beklentiler dahilinde sabit tuttu. Karar metninde enflasyon endişelerinin sürdüğü vurgulandı...
+                            </p>
+<div class="mt-auto bg-primary/10 border border-primary/20 rounded-lg p-3 relative overflow-hidden">
+<div class="absolute -right-4 -bottom-4 opacity-10">
+<span class="material-symbols-outlined text-6xl text-primary" data-icon="auto_awesome">auto_awesome</span>
+</div>
+<div class="flex items-start gap-2 relative z-10">
+<span class="material-symbols-outlined text-primary text-[20px] mt-0.5" data-icon="insights">insights</span>
+<div>
+<h4 class="text-label-caps text-primary mb-1">AI Özet &amp; Beklenti</h4>
+<p class="text-body-sm text-on-surface">Fed faiz kararı sonrası teknoloji hisselerinde yukarı yönlü AI beklentisi güçlü şekilde korunuyor.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- Spacing for bottom nav on mobile -->
+<div class="h-8 md:hidden"></div>
+</div>
+</main>
+<!-- BottomNavBar (Mobile Only) -->
+<nav class="md:hidden fixed bottom-0 left-0 w-full z-50 flex justify-around items-center px-4 pb-4 pt-2 bg-surface-container-low/80 backdrop-blur-[40px] border-t border-white/10 shadow-2xl rounded-t-xl">
+<a class="flex flex-col items-center justify-center text-primary drop-shadow-[0_0_8px_rgba(78,222,163,0.5)] active:scale-90 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined text-2xl mb-1" data-icon="home" style="font-variation-settings: 'FILL' 1;">home</span>
+<span class="font-label-caps text-[10px]">Ana Sayfa</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined text-2xl mb-1" data-icon="show_chart">show_chart</span>
+<span class="font-label-caps text-[10px]">Piyasalar</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined text-2xl mb-1" data-icon="account_balance_wallet">account_balance_wallet</span>
+<span class="font-label-caps text-[10px]">Portföy</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined text-2xl mb-1" data-icon="auto_awesome">auto_awesome</span>
+<span class="font-label-caps text-[10px]">AI Analiz</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-200" href="#">
+<span class="material-symbols-outlined text-2xl mb-1" data-icon="person">person</span>
+<span class="font-label-caps text-[10px]">Profil</span>
+</a>
+</nav>
+</body></html>

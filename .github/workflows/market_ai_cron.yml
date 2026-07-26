@@ -1,0 +1,43 @@
+name: BorsaAI Veri ve Sinyal Guncelleme
+
+on:
+  schedule:
+    # BIST seans saatleri: Hafta ici 10:00-18:15 TSI (07:00-15:15 UTC), 30 dk'da bir
+    - cron: '*/30 7-15 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-update
+  cancel-in-progress: false
+
+jobs:
+  update-market-ai:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu klonla
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+
+      - name: Veri + AI analiz hattini calistir
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python scripts/run_market_analysis.py
+
+      - name: Uretilen verileri commit et
+        run: |
+          git config user.name "borsaai-bot"
+          git config user.email "borsaai-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Otomatik veri guncellemesi [skip ci]"
+          git push
