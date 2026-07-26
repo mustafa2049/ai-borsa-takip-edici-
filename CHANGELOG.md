@@ -2,6 +2,16 @@
 
 Tüm önemli değişiklikler bu dosyada listelenir. Sürümleme [Semantic Versioning](https://semver.org/lang/tr/) kurallarına uyar.
 
+## [0.6.1] - 2026-07-26
+
+Mobil/masaüstü QA taraması sırasında bulunan iki gerçek sorun düzeltildi:
+
+### Düzeltildi
+- **Sürüm rozeti içerikle çakışıyordu:** Sağ altta sabit (fixed) duran "BorsaAI vX.X.X" rozeti, kaydırma sırasında haber ve halka arz kartlarının üzerine binip metni okunmaz hale getiriyordu (hem mobil hem masaüstünde). Artık sayfanın normal akışının en altında, sabit olmayan bir alt bilgi satırı olarak gösteriliyor — hiçbir içerikle çakışmıyor.
+
+### Eklendi
+- **Görünür yatırım tavsiyesi uyarısı:** Önceden bu uyarı yalnızca AI'ya gönderilen sistem promptunda vardı, kullanıcıya hiç gösterilmiyordu. Artık Ana Sayfa'daki AI sinyalleri bölümünün hemen altında ve hisse detay sayfasında "Hemen Al" butonunun altında, göze çarpan ama rahatsız etmeyen bir uyarı satırı var: "Bu bir yatırım tavsiyesi değildir, yalnızca bilgilendirme amaçlıdır."
+
 ## [0.6.0] - 2026-07-26
 
 ### Eklendi

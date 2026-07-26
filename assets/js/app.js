@@ -1018,11 +1018,14 @@
     /* ---------- Surum rozeti ---------- */
 
     function renderVersionBadge(version) {
-        var badge = document.createElement("div");
-        badge.className = "fixed bottom-24 md:bottom-4 right-4 z-40 bg-surface-container-high/90 backdrop-blur-md border border-white/10 rounded-full px-3 py-1.5 text-[11px] text-on-surface-variant flex items-center gap-1.5 pointer-events-none";
-        badge.innerHTML = '<span class="w-1.5 h-1.5 rounded-full bg-primary inline-block"></span>' +
-            "BorsaAI v" + esc(version.version) + " · " + timeStr(version.updated_at);
-        document.body.appendChild(badge);
+        // Sabit (fixed) rozet kaydirilan icerigin ustune binip haber/kart metnini
+        // gizliyordu; onun yerine sayfanin en altina, normal akis icinde eklenir.
+        var footer = document.createElement("div");
+        footer.className = "w-full text-center text-[11px] text-on-surface-variant/50 pt-6 pb-28 md:pb-8 px-4";
+        footer.innerHTML = '<span class="inline-flex items-center gap-1.5">' +
+            '<span class="w-1.5 h-1.5 rounded-full bg-primary inline-block"></span>' +
+            "BorsaAI v" + esc(version.version) + " · Son güncelleme: " + timeStr(version.updated_at) + "</span>";
+        document.body.appendChild(footer);
     }
 
     /* ---------- Baslat ---------- */
