@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T13:33:48+03:00",
+  "updated_at": "2026-07-27T16:33:07+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 50.06,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %8,28 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Uzun vadeli yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %8,28 getiri elde etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 71.97,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içinde %71,97 gibi yüksek bir getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Teknoloji sektörüne yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 yılda %71,97 getiri elde etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 37.38,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içinde %37,38 gibi orta düzeyde bir getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Amerika hisselerine yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %3,65 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 38.65,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içinde %38,65 gibi orta düzeyde bir getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Yabancı hisselerine yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %3,18 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 10.74,
       "return_1y": 34.85,
       "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %34,85 gibi düşük riskli bir getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Uzun vadeli yatırımcılar için uygun olabilir."
+        "risk": "Orta",
+        "comment": "Son 1 ayda %2,56 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 9.13,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %9,13 gibi düşük bir getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Katılım hisselerine yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %1,17 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -88,8 +88,8 @@
       "return_6m": 20.55,
       "return_1y": 25.83,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıl içinde %25,83 gibi orta düzeyde bir getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Değişken fon olarak yatırım yapan yatırımcılar için uygun olabilir."
+        "risk": "Düşük",
+        "comment": "Son 1 ayda %0,63 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 25.66,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %25,66 gibi düşük riskli bir getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Hisse senedi fonu olarak yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %0,58 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 30.63,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %30,63 gibi düşük riskli bir getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Fon sepette yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %0,36 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -127,8 +127,8 @@
       "return_6m": 2.01,
       "return_1y": 29.51,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıl içinde %29,51 gibi orta düzeyde bir getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. BIST 30 dışı şirketlere yatırım yapan yatırımcılar için uygun olabilir."
+        "risk": "Düşük",
+        "comment": "Son 1 ayda %-0,24 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
