@@ -1,145 +1,177 @@
 {
-  "updated_at": "2026-07-26T17:29:09+03:00",
+  "updated_at": "2026-07-27T13:33:48+03:00",
   "news": [
     {
-      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-      "summary": "The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.",
-      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T14:12:20"
-    },
-    {
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-      "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
-      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T14:12:17"
-    },
-    {
-      "title": "How AI wealth could be distributed to all Americans",
-      "summary": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
-      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T14:06:53"
-    },
-    {
-      "title": "Baker Hughes kazançları Chart anlaşması ile test ediliyor",
+      "title": "Cadence Minerals Azteca tesisinde yenileme çalışmalarını %77’ye çıkardı",
       "summary": "",
-      "url": "https://tr.investing.com/news/earnings/baker-hughes-kazanclar-chart-anlasmas-ile-test-ediliyor-93CH-3995800",
+      "url": "https://tr.investing.com/news/company-news/cadence-minerals-azteca-tesisinde-yenileme-calsmalarn-77ye-ckard-93CH-3996282",
       "source": "Investing Türkiye",
-      "published": "2026-07-26T13:38:21"
+      "published": "2026-07-27T10:13:55",
+      "ai": {
+        "impact": "Cadence Minerals'in Azteca tesisinde yenileme çalışmalarını artırması, şirketin üretim kapasitesini artırabilir ve gelirlerini olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Filenin Sultanları yine tarih yazdı: Milletler Ligi'nde şampiyon Türkiye",
-      "summary": "FIVB Voleybol Milletler Ligi&#039;nde finalde Brezilya ile karşılaşan A Milli Kadın Voleybol Takımı, rakibini 3-1&#039;lik set sonucu ile mağlup ederek şampiyon oldu. Kırmızı-beyazlılar böylelikle 2. VNL şampiyonluğuna ulaştı.",
-      "url": "https://www.dunya.com/spor/filenin-sultanlari-yine-tarih-yazdi-milletler-liginde-sampiyon-turkiye-haberi-833707",
+      "title": "KBR, Rotterdam’da büyük eFuels projesi için sözleşme kazandı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/kbr-rotterdamda-buyuk-efuels-projesi-icin-sozlesme-kazand-93CH-3996279",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:13:35",
+      "ai": {
+        "impact": "KBR'nin Rotterdam'da büyük eFuels projesi için sözleşme kazanması, şirketin yenilenebilir enerji alanındaki faaliyetlerini genişletebilir ve gelirlerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Linde üç bölgede yenilenebilir enerji anlaşması imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/linde-uc-bolgede-yenilenebilir-enerji-anlasmas-imzalad-93CH-3996278",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:13:29",
+      "ai": {
+        "impact": "Linde'nin üç bölgede yenilenebilir enerji anlaşması imzalaması, şirketin sürdürülebilirlik hedeflerine ulaşmasına yardımcı olabilir ve gelirlerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Citizens, Alexandria Real Estate hissesi için Piyasa Performansı görüşünü korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-alexandria-real-estate-hissesi-icin-piyasa-performans-gorusunu-korudu-93CH-3996261",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:10:15",
+      "ai": {
+        "impact": "Citizens'ın Alexandria Real Estate hissesi için Piyasa Performansı görüşünü koruması, şirketin hisse değerlendirmesinde bir değişiklik olmadığını gösterebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Citizens, geri alım sonrası Expensify hisse notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-geri-alm-sonras-expensify-hisse-notunu-korudu-93CH-3996260",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:10:10",
+      "ai": {
+        "impact": "Citizens'ın geri alım sonrası Expensify hisse notunu koruması, şirketin hisse değerlendirmesinde bir değişiklik olmadığını gösterebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Nokia yönetim kurulu üyesi Ihamuotila 60.000 hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nokia-yonetim-kurulu-uyesi-ihamuotila-60000-hisse-ald-93CH-3996256",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:10:05",
+      "ai": {
+        "impact": "Nokia yönetim kurulu üyesinin hisse alması, şirketin içsel değerine güvenini gösterebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Nokia yönetim kurulu üyesi Ihamuotila 60.000 hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nokia-yonetim-kurulu-uyesi-ihamuotila-60000-hisse-ald-93CH-3996245",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:07:01",
+      "ai": {
+        "impact": "Nokia yönetim kurulu üyesinin hisse alması, şirketin içsel değerine güvenini gösterebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "IDEAYA kanser ilacı IDE892 için genişleme aşamasını başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ideaya-kanser-ilac-ide892-icin-genisleme-asamasn-baslatt-93CH-3996243",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:05:52",
+      "ai": {
+        "impact": "IDEAYA'nın kanser ilacı IDE892 için genişleme aşamasını başlatması, şirketin ilaç geliştirme faaliyetlerini hızlandırabilir ve gelirlerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Profusa tanı şirketi satın almak için anlaşma imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/profusa-tan-sirketi-satn-almak-icin-anlasma-imzalad-93CH-3996242",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:05:45"
+    },
+    {
+      "title": "National Health Investors ilk COO’sunu atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/national-health-investors-ilk-coosunu-atad-93CH-3996241",
+      "source": "Investing Türkiye",
+      "published": "2026-07-27T10:05:39"
+    },
+    {
+      "title": "ABD gökyüzünde yer açmak için 6,3 milyar dolar ödeyecek",
+      "summary": "ABD, yeni nesil mobil iletişim için uydu şirketlerinin kullandığı C-bandında 160 megahertzlik alan açıyor. 6,3 milyar dolarlık teşvikin büyük bölümü Avrupa merkezli SES ve Eutelsat’a gidecek; ödemeyi ise sıkı takvim belirleyecek.",
+      "url": "https://www.dunya.com/gundem/abd-gokyuzunde-yer-acmak-icin-63-milyar-dolar-odeyecek-haberi-833808",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T13:36:00"
+      "published": "2026-07-27T10:03:00"
     },
     {
-      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
-      "summary": "A key incentive in place for current Opportunity Zone investors — deferring taxation of reinvested capital gains — will end on Dec. 31.",
-      "url": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+      "title": "Bakan Göktaş: Selden etkilenen ailelere 10 bin lira destek verilecek",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Kastamonu&#039;nun Cide ilçesinde selden etkilenen ailelere ilk aşamada hane başına 10 bin lira destek ödemesi yapılacağını, temel ihtiyaçların karşılanması için bölgeye 5 milyon lira kaynak aktarıldığını açıkladı.",
+      "url": "https://www.dunya.com/gundem/bakan-goktas-selden-etkilenen-ailelere-10-bin-lira-destek-verilecek-haberi-833807",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-27T10:02:00"
+    },
+    {
+      "title": "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand",
+      "summary": "A temporary pause to the U.S.-Iran conflict appeared to hold on Monday, after negotiations over a lasting peace faced fresh hurdles over the weekend.",
+      "url": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-26T13:30:02"
+      "published": "2026-07-27T09:55:17"
     },
     {
-      "title": "Düğünde yaktığı meşale yüzüne patladı",
-      "summary": "Başkentte düğün eğlencesine katılan genç, ağzında tuttuğu meşalenin patlaması sonucu yüzünden yaralandı.",
-      "url": "https://www.dunya.com/video-galeri/gundem/dugunde-yaktigi-mesale-yuzune-patladi-video-833706",
+      "title": "Süper Lig ne zaman, hangi tarihte başlıyor?",
+      "summary": "Futbol tutkunları Süper Lig&#039;in başlangıç tarihini araştırıyor. Özellikle Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor taraftarı &quot;Süper Lig ne zaman, hangi tarihte başlıyor&quot; sorusunu yöneltiyor. İşte detaylar...",
+      "url": "https://www.dunya.com/spor/super-lig-ne-zaman-hangi-tarihte-basliyor-haberi-833805",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T13:30:00"
+      "published": "2026-07-27T09:40:00"
     },
     {
-      "title": "ABD’deki kurumsal erozyonun abartıldığını söyleyen strateji",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/abddeki-kurumsal-erozyonun-abartldgn-soyleyen-strateji-3995771",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T13:08:43"
-    },
-    {
-      "title": "Hürmüz Boğazı'nda patlama: Gemi mayına çarptı",
-      "summary": "Hürmüz Boğazı&#039;nda seyir halindeki bir geminin, İran&#039;ın belirlediği geçiş rotasının dışına çıkmasının ardından mayına çarptığı öne sürüldü. Patlamanın meydana geldiği olayda can kaybı ya da yaralanmaya ilişkin henüz resmi bir bilgi paylaşılmadı.",
-      "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-patlama-gemi-mayina-carpti-haberi-833704",
+      "title": "Almanya telefonla hasta raporunu kaldırmaya hazırlanıyor",
+      "summary": "Almanya’da çalışanların 2024’te ortalama 22 gün hastalık izni kullanması, rapor sistemini hükümetin reform gündemine taşıdı. Telefonla raporun kaldırılması ve ilk günden doktor belgesi istenmesi planlanırken tartışmanın merkezinde ruh sağlığı var.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/almanya-telefonla-hasta-raporunu-kaldirmaya-hazirlaniyor-galeri-833806",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T13:01:00"
+      "published": "2026-07-27T09:38:00"
     },
     {
-      "title": "Yargıtay, CHP'nin \"mutlak butlan\" kararını ön incelemeye aldı",
-      "summary": "Yargıtay 3. Hukuk Dairesi, Ankara Bölge Adliye Mahkemesi (BAM) 36. Hukuk Dairesinin, CHP kurultay davasında, &quot;mutlak butlan&quot; nedeniyle Özgür Özel ile parti yönetiminin tedbiren görevden uzaklaştırılması ve Kemal Kılıçdaroğlu ile yönetiminin görevi devralması kararını ön incelemeye aldı.",
-      "url": "https://www.dunya.com/gundem/yargitay-chpnin-mutlak-butlan-kararini-on-incelemeye-aldi-haberi-833705",
+      "title": "ChatGPT'nin patronu 'en büyük korkularımdan biri' diyerek açıkladı",
+      "summary": "OpenAI CEO&#039;su Sam Altman, yapay zekânın yalnızca insanı taklit eden bir teknoloji olmaktan çıkarak öngörülemeyen biçimde gelişebildiği yeni bir evreye ulaştığını söyledi. İnsanlığın &quot;her dileği gerçekleştirecek bir cini yaratmaya yakın&quot; olduğunu belirten Altman, en büyük kaygılarından birinin yapay zekânın belirli kişi ve şirketlerin elinde dünyayı kontrol eden otoriter bir güce dön",
+      "url": "https://www.dunya.com/dunya/chatgptnin-patronu-en-buyuk-korkularimdan-biri-diyerek-acikladi-haberi-833809",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T13:00:00"
+      "published": "2026-07-27T09:38:00"
     },
     {
-      "title": "Hindistan muson risklerine rağmen bütçe revizyonu gerekmediğini söyledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/hindistan-muson-risklerine-ragmen-butce-revizyonu-gerekmedigini-soyledi-93CH-3995769",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T12:50:40"
-    },
-    {
-      "title": "Agresif geri alım yapan şirketler yapay zeka döneminde S&P 500’ün gerisinde kaldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/agresif-geri-alm-yapan-sirketler-yapay-zeka-doneminde-sp-500un-gerisinde-kald-3995768",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T12:43:21"
-    },
-    {
-      "title": "Altın ve gümüşte yarışın kazananı belli oldu",
-      "summary": "Altın ve gümüşte haftalardır süren düşüş geçen hafta nihayet sonlandı. Yatırımcının tedirginlik içinde beklediği bu geri dönüş sınırlı kalsa da yükselişe ivme kazandıracak gelişmeler peş peşe geldi.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-yarisin-kazanani-belli-oldu-galeri-833703",
+      "title": "Bursa’nın 385 vakıf eseri kayıt altına alındı: 34 bin 952 karelik dev arşiv",
+      "summary": "Vakıf Katılım’ın tarihi vakıf eserlerini belgeleyerek gelecek kuşaklara aktarmak amacıyla yürüttüğü Vakıf Eserleri Envanter Projesi’nin yeni durağı Bursa oldu. Kentteki 385 vakıf eseri 34 bin 952 fotoğraf karesiyle kayıt altına alınırken, eserlerin tarihçeleri de uzmanlar tarafından hazırlanarak “Bursa Vakıf Eserleri” kitabında toplandı.",
+      "url": "https://www.dunya.com/dunya-kitap/bursanin-385-vakif-eseri-kayit-altina-alindi-34-bin-952-karelik-dev-arsiv-haberi-833804",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T12:38:00"
+      "published": "2026-07-27T09:34:00"
     },
     {
-      "title": "Ucuza yaşayacağını sandı, masraflar katlandı: Tiny house'tan vazgeçiren maliyetler",
-      "summary": "Düşük maliyet ve minimalist yaşam hayaliyle tiny house&#039;a taşınan ev sahibi, kredi, sigorta, depolama ve değer kaybı gibi beklemediği masraflar nedeniyle yeniden geleneksel eve döndü. Deneyimini paylaşan kullanıcı, kararını değiştiren 8 nedeni anlattı.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/ucuza-yasayacagini-sandi-masraflar-katlandi-tiny-housetan-vazgeciren-maliyetler-galeri-833702",
+      "title": "Türkiye'de sıcak hava dalgalarının şiddeti son 75 yılın zirvesine çıktı",
+      "summary": "İstanbul Teknik Üniversitesi (İTÜ) araştırmacılarının Avrupa Yerbilimleri Birliği (EGU) Konferansı&#039;nda sunulan çalışması, Türkiye&#039;de sıcak hava dalgalarının şiddetinin son yıllarda belirgin şekilde arttığını, özellikle 2023 ve 2025 yazlarının son 75 yılın en güçlü sıcak hava dalgalarına sahne olduğunu ortaya koydu.",
+      "url": "https://www.dunya.com/gundem/turkiyede-sicak-hava-dalgalarinin-siddeti-son-75-yilin-zirvesine-cikti-haberi-833803",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T12:33:00"
+      "published": "2026-07-27T09:32:00"
     },
     {
-      "title": "Cide'deki selin geliş anı kameraya yansıdı",
-      "summary": "Kastamonu’nun Cide ilçesinde kuvvetli yağışların ardından Devrekani Çayı’nın taşması sonucu sel meydana geldi. Selin geliş anı ise cep telefonu kamerasına yansıdı.",
-      "url": "https://www.dunya.com/video-galeri/gundem/cidedeki-selin-gelis-ani-kameraya-yansidi-video-833701",
+      "title": "264 eski milletvekili CHP’den istifa etti",
+      "summary": "CHP&#039;de geçmiş dönemlerde milletvekilliği yapan 264 isim, partiden istifa ettiklerini açıkladı. Eski milletvekilleri, Özgür Özel liderliğinde kurulan Yeni Parti’ye destek vereceklerini duyurdu.",
+      "url": "https://www.dunya.com/gundem/264-eski-milletvekili-chpden-istifa-etti-haberi-833802",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-26T12:22:00"
+      "published": "2026-07-27T09:28:00"
     },
     {
-      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
-      "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
-      "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "title": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
+      "summary": "The impact of a gigantic wildfire ravaging France's Bordeaux region and Spain has been like a \"clap of thunder\" for the local economy, a minister said.",
+      "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-26T12:00:01"
-    },
-    {
-      "title": "Dev şirketten kâr alarmı! Beklentisini düşürdü, tek bir nedeni var",
-      "summary": "ABD&#039;nin önde gelen havayolu şirketlerinden Southwest Airlines, rekor gelir ve güçlü yolcu talebine rağmen 2026 yılı kâr beklentisini aşağı çekti. Şirket yönetimi, yükselen jet yakıtı maliyetlerinin kârlılığı ciddi şekilde baskıladığını belirtirken, yılın geri kalanı için en büyük riskin enerji fiyatları olduğuna dikkat çekti.",
-      "url": "https://www.dunya.com/ekonomi/dev-sirketten-kar-alarmi-beklentisini-dusurdu-tek-bir-nedeni-var-haberi-833700",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-26T11:54:00"
-    },
-    {
-      "title": "GOZDE, Gerçeğe Uygun Değer çağrısı sonrası %48 getiri sağladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/gozde-gercege-uygun-deger-cagrs-sonras-48-getiri-saglad-93CH-3995764",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:42:20"
-    },
-    {
-      "title": "Adil Değer analizi BARMA’nın %46’lık düşüşünü önceden tahmin etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/adil-deger-analizi-barmann-46lk-dususunu-onceden-tahmin-etti-93CH-3995763",
-      "source": "Investing Türkiye",
-      "published": "2026-07-26T11:37:52"
-    },
-    {
-      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
-      "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
-      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-26T11:33:11"
+      "published": "2026-07-27T09:27:09"
     }
   ]
 }
