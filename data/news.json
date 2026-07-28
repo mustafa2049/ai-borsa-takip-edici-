@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-28T16:42:43+03:00",
+  "updated_at": "2026-07-28T18:59:12+03:00",
   "news": [
     {
-      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-      "summary": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+      "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+      "summary": "Trump and Zelenskyy meet as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
       "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T13:44:02",
+      "published": "2026-07-28T15:59:04",
       "ai": {
-        "impact": "Trump ve Zelenskyy'nin görüşmesi, ABD'nin İran'a ve Rusya'nın Ukrayna'ya yönelik saldırılarının birbirini etkileyebilecek bir döneme denk geldi. Bu durum, global piyasalarda belirsizlik yaratıp yatırımcıları tedirgin edebilir.",
+        "impact": "Trump ve Zelenskyy'nin görüşmesi, ABD'nin İran'a ve Rusya'nın Ukrayna'ya yönelik savaşlarının birbirini etkileme olasılığına dikkat çekti. Bu durum, küresel piyasalarda belirsizliğe neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
-      "summary": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
-      "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+      "title": "Yazılım şirketleri teknoloji sektörü düşerken yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/yazlm-sirketleri-teknoloji-sektoru-duserken-yukseldi-93CH-3999598",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:48:33",
+      "ai": {
+        "impact": "Yazılım şirketlerinin yükselişi, teknoloji sektöründeki düşüşe rağmen dikkat çekti. Bu durum, sektörün gelecekteki performansı hakkında olumlu beklentilere işaret ediyor.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Knowles Corp SVP Raymond Cabrera 224.137 dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/knowles-corp-svp-raymond-cabrera-224137-dolarlk-hisse-satt-93CH-3999597",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:47:29",
+      "ai": {
+        "impact": "Knowles Corp'un üst düzey yöneticisinin hisse satışı, şirketin gelecekteki performansına ilişkin endişelere neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Becton Dickinson EVP Michael Feld, BDX hisselerinden 11.784 dolar sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/becton-dickinson-evp-michael-feld-bdx-hisselerinden-11784-dolar-satt-93CH-3999596",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:47:27",
+      "ai": {
+        "impact": "Becton Dickinson'un üst düzey yöneticisinin hisse satışı, şirketin iç işleyişine ilişkin soru işaretlerine neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Kearny Financial yöneticisi Curtland Fields 138.273 dolar değerinde hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/kearny-financial-yoneticisi-curtland-fields-138273-dolar-degerinde-hisse-ald-93CH-3999595",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:47:13",
+      "ai": {
+        "impact": "Kearny Financial yöneticisinin hisse alımı, şirketin gelecekteki büyüme potansiyeline ilişkin olumlu beklentilere işaret ediyor.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Hayko Cepkin'in İfadesi ortaya çıktı: Haluk Levent'e maddi konularda güvenmem",
+      "summary": "Sanatçı Hayko Cepkin’in İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında verdiği ifade ortaya çıktı. Cepkin, &quot;Haluk Levent&#039;i uzun yıllardır tanırım ve maddi konularda kendisine güvenmem. Güvenmediğim için de kendisi hakkında Twitter&#039;da paylaşımlarım oldu. Ahbap Derneği&#039;ne Haluk Levent&#039;ten bağımsız olarak güveniyordum. An",
+      "url": "https://www.dunya.com/gundem/hayko-cepkinin-ifadesi-ortaya-cikti-haluk-levente-maddi-konularda-guvenmem-haberi-834016",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-28T15:45:00",
+      "ai": {
+        "impact": "Hayko Cepkin'in ifadesi, Ahbaplar Suç Örgütü soruşturmasıyla ilgili gelişmelere dikkat çekti. Ancak bu haberin finansal piyasalara doğrudan etkisi sınırlı görünüyor.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Euro bölgesi tahvil faizleri Fed toplantısı öncesi sabit kaldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/euro-bolgesi-tahvil-faizleri-fed-toplants-oncesi-sabit-kald-93CH-3999594",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:44:31",
+      "ai": {
+        "impact": "Euro bölgesi tahvil faizlerinin sabit kalması, Fed toplantısı öncesi piyasalarda bir miktar belirsizliğe neden olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Borsa İstanbul günü düşüşle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,63 değer kaybederek 13.687,86 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834014",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-28T15:40:00",
+      "ai": {
+        "impact": "Borsa İstanbul'un düşüşle kapanması, yatırımcıların temkinli yaklaşımını yansıtıyor. Bu durum, kısa vadeli piyasalarda dalgalanmalara neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "GrubMarket, satın almalar sonrası halka arz için başvurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/grubmarket-satn-almalar-sonras-halka-arz-icin-basvurdu-93CH-3999593",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:39:18"
+    },
+    {
+      "title": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
+      "summary": "Ina and David Steiner run a popular ecommerce blog that had angered eBay executives due to its critical coverage.",
+      "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T13:43:25",
-      "ai": {
-        "impact": "Boeing'in beklenenden daha geniş zarar açıklaması, şirketin mali performansını olumsuz etkileyebilir. Havaalanı ve havayolu şirketlerine olan güveni sarsabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-07-28T15:38:42"
     },
     {
-      "title": "Truist, Crown Castle’ın hisse hedefini düşük gelir nedeniyle 87 dolara indirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/truist-crown-castlen-hisse-hedefini-dusuk-gelir-nedeniyle-87-dolara-indirdi-93CH-3999344",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:42:09",
-      "ai": {
-        "impact": "Truist'in Crown Castle'ın hisse hedefini düşürmesi, şirketin gelir beklentilerinin düşük olduğu anlamına geliyor. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "CubeSmart hissesi 42,92 dolarla 52 haftanın zirvesinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cubesmart-hissesi-4292-dolarla-52-haftann-zirvesinde-93CH-3999343",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:42:03",
-      "ai": {
-        "impact": "CubeSmart hissesinin 52 haftanın zirvesinde olması, şirketin güçlü mali performansını ve yatırımcıların şirket hisselerine olan güvenini gösteriyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "TMC hissesi 3,56 dolarda 52 haftalık dibe vurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/tmc-hissesi-356-dolarda-52-haftalk-dibe-vurdu-93CH-3999342",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:42:01",
-      "ai": {
-        "impact": "TMC hissesinin 52 haftalık dibine vurması, şirketin mali performansının zayıf olduğunu ve yatırımcıların şirket hisselerine olan güveninin azaldığını gösteriyor.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Rubico, 75,4 milyon dolarlık sözleşmeyle yeni tanker aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/rubico-754-milyon-dolarlk-sozlesmeyle-yeni-tanker-ald-93CH-3999341",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:41:36",
-      "ai": {
-        "impact": "Rubico'nun yeni bir tanker alması, şirketin büyüme stratejisinin bir parçası olabilir ve şirketin gelecekteki gelir beklentilerini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Amgen hissesi 391,3 dolarda tüm zamanların zirvesinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/amgen-hissesi-3913-dolarda-tum-zamanlarn-zirvesinde-93CH-3999338",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:40:19",
-      "ai": {
-        "impact": "Amgen hissesinin tüm zamanların zirvesinde olması, şirketin güçlü mali performansını ve yatırımcıların şirket hisselerine olan güvenini gösteriyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Cullinan Therapeutics hisseleri CLN-049 için FDA toplantısı sonrası yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cullinan-therapeutics-hisseleri-cln049-icin-fda-toplants-sonras-yukseldi-93CH-3999335",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:39:54",
-      "ai": {
-        "impact": "Cullinan Therapeutics hisselerinin FDA toplantısı sonrası yükselmesi, şirketin ilaç geliştirme çalışmalarının başarılı olabileceğini ve şirketin gelecekteki gelir beklentilerini artırabileceğini gösteriyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Visa hissesi 365,22 dolarlık 52 haftalık zirvesine ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/visa-hissesi-36522-dolarlk-52-haftalk-zirvesine-ulast-93CH-3999334",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:39:44"
-    },
-    {
-      "title": "Performance Food Group hissesi 116,53 dolarla rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/performance-food-group-hissesi-11653-dolarla-rekor-krd-93CH-3999333",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:39:21"
-    },
-    {
-      "title": "MillerKnoll hisseleri 23,21 dolarda 52 haftanın zirvesinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/millerknoll-hisseleri-2321-dolarda-52-haftann-zirvesinde-93CH-3999332",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:39:21"
-    },
-    {
-      "title": "Inter Parfums hissesi 128,98 dolarla 52 haftalık zirveye ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/inter-parfums-hissesi-12898-dolarla-52-haftalk-zirveye-ulast-93CH-3999331",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T13:39:04"
-    },
-    {
-      "title": "Müge Anlı ne zaman başlayacak? Tarih belli oldu mu?",
-      "summary": "ATV&#039;de hafta içi her gün yayınlanan ve geniş bir izleyici kitlesine hitap eden Müge Anlı&#039;nın ne zaman ekrana döneceği merak ediliyor. Uzun zamandır ekranda olmayan programın yeni sezon tarihi araştırılmaya başlandı. İşte muhtemel tarih...",
-      "url": "https://www.dunya.com/yasam/muge-anli-ne-zaman-baslayacak-tarih-belli-oldu-mu-haberi-833983",
+      "title": "ABD'de tüketici güveni temmuzda geriledi",
+      "summary": "ABD&#039;de Conference Board Tüketici Güven Endeksi, temmuz ayında 90,8 değerine gerileyerek piyasa beklentilerinin altında kaldı.",
+      "url": "https://www.dunya.com/ekonomi/abdde-tuketici-guveni-temmuzda-geriledi-haberi-834012",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T13:36:00"
+      "published": "2026-07-28T15:38:00"
     },
     {
-      "title": "UPS raises full-year guidance but says it expects domestic third-quarter revenue to be flat",
-      "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "title": "Barclays, Central Asia Metals’daki payını %5,3’e çıkardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/barclays-central-asia-metalsdaki-payn-53e-ckard-93CH-3999592",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:36:23"
+    },
+    {
+      "title": "Boeing’in 2Ç26 geliri beklentiyi aştı, zarar genişledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/boeingin-2c26-geliri-beklentiyi-ast-zarar-genisledi-93CH-3999591",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:36:20"
+    },
+    {
+      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+      "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
+      "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T13:34:17"
+      "published": "2026-07-28T15:35:48"
     },
     {
-      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
-      "summary": "Coca-Cola said demand for its drinks rose in every market in the second quarter, helped in part by the World Cup.",
-      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "title": "Keefe Bruyette, RLI hissesi için fiyat hedefini 74 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/keefe-bruyette-rli-hissesi-icin-fiyat-hedefini-74-dolara-yukseltti-93CH-3999590",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:35:40"
+    },
+    {
+      "title": "Leonardo DRS, Raft’ı 450 milyon dolara nakit olarak satın alacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/leonardo-drs-raft-450-milyon-dolara-nakit-olarak-satn-alacak-93CH-3999588",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T15:35:10"
+    },
+    {
+      "title": "Türkiye-Irak ticaretinde yeni hedef: 30 milyar doların üzeri",
+      "summary": "Irak Ticaret Bakanı Mustafa Nezar el-Ani, Türkiye ile Irak arasındaki ikili ticaret hacmini 30 milyar doların üzerine çıkarmayı hedeflediklerini belirtti.",
+      "url": "https://www.dunya.com/ekonomi/turkiye-irak-ticaretinde-yeni-hedef-30-milyar-dolarin-uzeri-haberi-834011",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-28T15:35:00"
+    },
+    {
+      "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
+      "summary": "Semiconductor stocks fell on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
+      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T13:30:59"
+      "published": "2026-07-28T15:33:15"
     },
     {
-      "title": "Trump'tan İran'a sert mesaj: Anlaşma yapmazlarsa geri döner ve işi bitiririm",
-      "summary": "ABD Başkanı Donald Trump, İran&#039;a yönelik dikkat çeken açıklamalarda bulundu. Tahran yönetimine anlaşma çağrısı yapan Trump, aksi durumda ülkenin kritik altyapısını kısa sürede hedef alabileceklerini ifade ederek tehdit etti.",
-      "url": "https://www.dunya.com/dunya/trumptan-irana-sert-mesaj-anlasma-yapmazlarsa-geri-doner-ve-isi-bitiririm-haberi-833980",
+      "title": "Elçin Sangu'dan Ahbap açıklaması: 100 bin lira bağış yaptım",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadesi alınan oyuncu Elçin Sangu, &quot;6 Şubat depremlerinin ardından Ahbap Derneği merkezine giderek yardım faaliyetlerine katıldım ve derneğin hesabına 100 bin lira bağış yaptım&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/elcin-sangudan-ahbap-aciklamasi-100-bin-lira-bagis-yaptim-haberi-834009",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T13:23:00"
+      "published": "2026-07-28T15:28:00"
     },
     {
-      "title": "Emeklilere Türkiye Sigorta’dan özel avantajlar",
-      "summary": "Sosyal Güvenlik Kurumu (SGK) ve Türkiye Sigorta iş birliğiyle SGK emeklilerine yönelik yeni bir kampanya hayata geçirildi. Emekli Dijital Kart sahiplerine Tamamlayıcı Sağlık, Konut, Kasko ve Trafik Sigortalarında, vade farksız 12 taksite varan ödeme avantajları ve yüzde 30’a varan indirim imkânı sağlandı.",
-      "url": "https://www.dunya.com/sektorler/sigortacilik/emeklilere-turkiye-sigortadan-ozel-avantajlar-haberi-833981",
+      "title": "Uğur Dündar'ın ifadesi ortaya çıktı: Ahbap'la mali ilişkim olmadı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadesi alınan gazeteci Uğur Dündar, Ahbap Derneği ile herhangi bir mali ilişkisinin bulunmadığını belirterek, &quot;Benim şu ana kadar hiçbir akçeli işim olmadı. Ben süreç dolayısıyla Türk toplumu adına oldukça üzgünüm ancak şahsi olarak özür dilememi gerektiren bir husus yoktur&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/ugur-dundarin-ifadesi-ortaya-cikti-ahbapla-mali-iliskim-olmadi-haberi-834006",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T13:20:00"
-    },
-    {
-      "title": "Giresun'da fındık hasadı için tarih belli oldu",
-      "summary": "Trabzon&#039;un ardından Giresun&#039;da da 2026 fındık hasadı tarihi belli oldu. Hasat rakıma göre 8, 15 ve 22 Ağustos tarihlerinde başlayacak.",
-      "url": "https://www.dunya.com/ekonomi/giresunda-findik-hasadi-icin-tarih-belli-oldu-haberi-833982",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T13:07:00"
-    },
-    {
-      "title": "OPEC+ üretim artışını durdurmaya hazırlanıyor",
-      "summary": "Petrol piyasasında gözler OPEC+ grubunun 2 Ağustos&#039;ta gerçekleştireceği kritik toplantıya çevrildi. Üretici ülkelerin, eylül ayı kotasını günlük 188 bin varil artırdıktan sonra yılın kalanında yeni artışlara ara vermeyi planladığı bildirildi.",
-      "url": "https://www.dunya.com/enerji/opec-uretim-artisini-durdurmaya-hazirlaniyor-haberi-833979",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T13:05:00"
-    },
-    {
-      "title": "ABD'nin askeri üssünde beyaz fosfor sızıntısı: Tahliye emri verildi",
-      "summary": "Güney Kore&#039;deki bir ABD askeri üssünde meydana gelen beyaz fosfor sızıntısı bölgeyi alarma geçirdi. Olayın ardından bölge sakinleri için tahliye emri verilirken, üs çevresi güvenlik çemberine alındı.",
-      "url": "https://www.dunya.com/dunya/abdnin-askeri-ussunde-beyaz-fosfor-sizintisi-tahliye-emri-verildi-haberi-833978",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T12:56:00"
+      "published": "2026-07-28T15:23:00"
     }
   ]
 }
