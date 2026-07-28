@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-28T12:31:44+03:00",
+  "updated_at": "2026-07-28T14:51:05+03:00",
   "news": [
     {
-      "title": "DGS SONUÇ TARİHİ 2026: Dikey Geçiş Sınavı sonuçları ne zaman açıklanıyor?",
-      "summary": "DGS sonuçları için sabırsız bekleyiş devam ediyor. 4 yıllık üniversite diploması almak isteyenler sınavda ter döktü şimdi sonuçlara odaklanmış durumda... Her gün arama yapılırken ortak soru &quot;2026 DGS sonuçları ne zaman açıklanacak&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/dgs-sonuc-tarihi-2026-dikey-gecis-sinavi-sonuclari-ne-zaman-aciklaniyor-haberi-833945",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T09:24:00",
+      "title": "UPS beats earnings expectations, raises full-year guidance",
+      "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-28T11:50:50",
       "ai": {
-        "impact": "DGS sonuçlarının açıklanması üniversite öğrencileri ve aileleri için önemli bir gelişme olacak ancak genel olarak Türkiye ve dünya piyasalarına etkisi sınırlı olacak.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Türkiye Perakendeciler Federasyonu: Gıda enflasyonundaki yavaşlama alışveriş sepetini büyüttü",
-      "summary": "Türkiye Perakendeciler Federasyonu&#039;nun ikinci çeyrek saha değerlendirmesine göre, gıda enflasyonundaki yavaşlama tüketici davranışlarını değiştirdi. Yerel zincir marketlerde temel ihtiyaç ürünlerinin yanı sıra farklı kategorilerin yeniden alışveriş sepetlerine girdiği gözlendi.",
-      "url": "https://www.dunya.com/ekonomi/turkiye-perakendeciler-federasyonu-gida-enflasyonundaki-yavaslama-alisveris-sepetini-buyuttu-haberi-833943",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T09:15:00",
-      "ai": {
-        "impact": "Gıda enflasyonundaki yavaşlama tüketici davranışlarını değiştirdi ve alışveriş sepetlerini büyüttü, bu durum perakende sektörü için olumlu bir gelişme.",
+        "impact": "UPS'in beklentileri aşması ve yıl sonu rehberliğini yükseltmesi, şirketin güçlü performansını gösteriyor. Bu, global lojistik ve ulaşım sektörüne pozitif yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Bakan Uraloğlu duyurdu: Bursa hızlı treninde son aşamaya gelindi",
-      "summary": "Bursa&#039;nın yıllardır beklediği hızlı tren projesinde kritik aşamaya gelindi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 106 kilometrelik Osmaneli-Bursa kesimindeki çalışmaların son aşamada olduğunu ve test sürüşlerinin yakında başlayacağını açıkladı.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/bakan-uraloglu-duyurdu-bursa-hizli-treninde-son-asamaya-gelindi-galeri-833944",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T09:13:00",
-      "ai": {
-        "impact": "Bursa hızlı tren projesinin tamamlanması ulaşım ve ekonomi için önemli bir yatırım olacak, bölgenin gelişimine katkı sağlayacak.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Giatec, MixPilot sistemini Heidelberg Materials UK filosuna yaydı",
+      "title": "JetBlue Airways hissesi neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/giatec-mixpilot-sistemini-heidelberg-materials-uk-filosuna-yayd-93CH-3998215",
+      "url": "https://tr.investing.com/news/stock-market-news/jetblue-airways-hissesi-neden-dusuyor-93CH-3998881",
       "source": "Investing Türkiye",
-      "published": "2026-07-28T09:03:41",
+      "published": "2026-07-28T11:45:59",
       "ai": {
-        "impact": "Giatec'in MixPilot sistemini Heidelberg Materials UK filosuna yayması şirketin büyümesine ve teknoloji alanındaki varlığına katkıda bulunacak.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Orzax, Kazakistan’da 35 milyon Euro’luk tesis için temel attı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/orzax-kazakistanda-35-milyon-euroluk-tesis-icin-temel-att-93CH-3998214",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T09:02:19",
-      "ai": {
-        "impact": "Orzax'ın Kazakistan'da tesis için temel atması şirketin uluslararası genişlemesine işaret ediyor, ancak detaylı etki analizi için daha fazla bilgi gerekli.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Evini sattı, üç yıldır yolcu gemisinde yaşıyor: Cebimize büyük katkı sağladı",
-      "summary": "ABD&#039;li Libby Rome ile eşi Dan Rome, üç yıl önce evlerini ve tüm eşyalarını satarak karadaki yaşamı tamamen geride bıraktı. Çift, bugün bir yolcu gemisindeki penceresiz kabinde yaşarken, verdikleri kararın hem bütçelerine hem de evliliklerine büyük katkı sağladığını söyledi.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/evini-satti-uc-yildir-yolcu-gemisinde-yasiyor-cebimize-buyuk-katki-sagladi-galeri-833942",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:57:00",
-      "ai": {
-        "impact": "Bu haber bireysel bir yaşam tercihi ve ekonomiye genel etkisi sınırlı.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "ABD çip hisseleri yapay zeka finansmanı ve Çin rekabeti endişeleriyle düşüşünü sürdürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/abd-cip-hisseleri-yapay-zeka-finansman-ve-cin-rekabeti-endiseleriyle-dususunu-surdurdu-3998203",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:53:07",
-      "ai": {
-        "impact": "ABD çip hisselerinin düşmesi teknoloji sektöründe ve genel olarak dünya piyasalarında negatif bir etki yaratabilir.",
+        "impact": "JetBlue Airways hissesinin düşmesi, havayolu sektöründeki rekabet ve talepteki değişimden kaynaklanabilir. Bu, sektöre kısa vadeli negatif yansıyabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Madenden seraya: 100 milyon liralık yatırımla domates ihracatına başladı",
-      "summary": "Zonguldak&#039;ta uzun yıllar madencilik sektöründe faaliyet gösteren iş insanı Alaattin Kurnaz, kömürdeki tecrübesini tarım sektörüne taşıyarak modern seracılık yatırımıyla üretimini yer üstünde de sürdürüyor.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/madenden-seraya-100-milyon-liralik-yatirimla-domates-ihracatina-basladi-galeri-833939",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:47:00",
+      "title": "İngiltere 2040 vadeli hazine bonosu ihracında 750 milyon sterlin sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ingiltere-2040-vadeli-hazine-bonosu-ihracnda-750-milyon-sterlin-satt-93CH-3998880",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:45:34",
       "ai": {
-        "impact": "Madencilik sektöründen seracılığa yapılan yatırım yerel ekonomi ve tarım sektörü için olumlu bir gelişme.",
+        "impact": "İngiltere'nin 2040 vadeli hazine bonosu ihracının başarılı olması, ülkenin borçlanma maliyetlerini düşürerek ekonomisine pozitif yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "ÖSYM üzerinden YKS tercih işlemleri başlatıldı mı? Üniversite tercihleri saat kaçta başlıyor? İşte kılavuz",
-      "summary": "YKS 2026 tercihleri için saatler kaldı. Üniversite tercihi için sabırsızlanan adaylar araştırmalarını hızlandırdı. Bugün yine sıkça gelen soru &quot;2026 YKS tercihleri ne zaman başlıyor&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/osym-uzerinden-yks-tercih-islemleri-baslatildi-mi-universite-tercihleri-saat-kacta-basliyor-iste-kilavuz-haberi-833938",
+      "title": "BetMGM rekabet nedeniyle hedef düşürdü, Entain düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/betmgm-rekabet-nedeniyle-hedef-dusurdu-entain-dustu-93CH-3998878",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:44:22",
+      "ai": {
+        "impact": "BetMGM'nin hedeflerini düşürmesi ve Entain'in hisselerinin düşmesi, sektördeki rekabetin şirket performansı üzerinde negatif etkisi olduğunu gösteriyor.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Oshkosh hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/oshkosh-hissesi-bugun-neden-yukseliyor-93CH-3998877",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:44:08",
+      "ai": {
+        "impact": "Oshkosh hissesinin yükselmesi, şirketin güçlü finansal performansı veya sektörel gelişmelerden kaynaklanabilir. Bu, şirketin ve sektörün genel olarak pozitif bir sinyalidir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Replimune hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/replimune-hissesi-bugun-neden-dusuyor-93CH-3998876",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:43:55",
+      "ai": {
+        "impact": "Replimune hissesinin düşmesi, şirketin finansal performansı veya sektörel gelişmelerden kaynaklanabilir. Bu, şirketin ve sektörün genel olarak negatif bir sinyalidir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Repligen tahminleri aştı ancak rehber endişeleriyle hisseler düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/earnings/repligen-tahminleri-ast-ancak-rehber-endiseleriyle-hisseler-dustu-93CH-3998875",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:43:50",
+      "ai": {
+        "impact": "Repligen'in tahminleri aşması ancak rehberlik endişeleri nedeniyle hisselerinin düşmesi, şirketin kısa vadeli belirsizlik içinde olduğunu gösteriyor.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "GSK hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/gsk-hissesi-bugun-neden-yukseliyor-93CH-3998871",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:43:07",
+      "ai": {
+        "impact": "GSK hissesinin yükselmesi, şirketin güçlü finansal performansı veya sektörel gelişmelerden kaynaklanabilir. Bu, şirketin ve sektörün genel olarak pozitif bir sinyalidir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "EuroLeague yeni sezon ne zaman başlayacak?",
+      "summary": "2026/27 EuroLeague sezonu için basketbolseverler bekleyişte... Bu sene Fenerbahçe, Anadolu Efes ve Beşiktaş bizi Avrupa&#039;da temsil edecek. Heyecan katlanırken başlangıç tarihi merak ediliyor. İşte &quot;EuroLeague yeni sezon ne zaman başlayacak&quot; sorusunun yanıtı...",
+      "url": "https://www.dunya.com/spor/euroleague-yeni-sezon-ne-zaman-baslayacak-haberi-833970",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:45:00"
+      "published": "2026-07-28T11:43:00"
     },
     {
-      "title": "Tokyo Electron hissesi bugün neden düşüyor?",
+      "title": "Core Scientific güçlü yerleşim geliri büyümesiyle %7 yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tokyo-electron-hissesi-bugun-neden-dusuyor-93CH-3998183",
+      "url": "https://tr.investing.com/news/earnings/core-scientific-guclu-yerlesim-geliri-buyumesiyle-7-yukseldi-93CH-3998860",
       "source": "Investing Türkiye",
-      "published": "2026-07-28T08:44:39"
+      "published": "2026-07-28T11:42:57"
     },
     {
-      "title": "Kioxia hissesi bugün neden çakıldı?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/kioxia-hissesi-bugun-neden-cakld-93CH-3998182",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:44:30"
-    },
-    {
-      "title": "Hindustan Unilever hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/hindustan-unilever-hisseleri-neden-dusuyor-93CH-3998181",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:43:49"
-    },
-    {
-      "title": "Çin, ASML’ye karşı seri üretime geçti, ilk 5 makine bu yıl çıkacak",
-      "summary": "Çin, gelişmiş çip üretiminde ASML’nin hakimiyetindeki immersion DUV makinelerini yerli olarak seri üretmeye başladı. İlk beş sistemin bu yıl SMIC, Hua Hong ve CXMT’ye teslim edilmesi planlanırken ASML hisseleri yüzde 8’den fazla geriledi.",
-      "url": "https://www.dunya.com/is-dunyasi/cin-asmlye-karsi-seri-uretime-gecti-ilk-5-makine-bu-yil-cikacak-haberi-833940",
+      "title": "Cumhurbaşkanı Erdoğan'dan 'Ahbap' açıklaması: Depremde fırsatçılık yapanlar adalete hesap veriyor",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 6 Şubat depremlerinin ardından yaşanan sürece ilişkin ve Ahbap Derneği&#039;ne başlatılan soruşturma hakkında dikkat çeken açıklamalarda bulundu. Cumhurbaşkanı Erdoğan, &quot;Çarpık ilişkiler tek tek ortaya çıkıyor. Depremde fırsatçılık yapanlar adalete hesap veriyor&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogandan-ahbap-aciklamasi-depremde-firsatcilik-yapanlar-adalete-hesap-veriyor-haberi-833969",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:43:00"
+      "published": "2026-07-28T11:42:00"
     },
     {
-      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "summary": "Semiconductor stocks fell in premarket trading on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "title": "Türk poliüretan hissesi Fair Value sinyali sonrası %46 kazandırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/turk-poliuretan-hissesi-fair-value-sinyali-sonras-46-kazandrd-93CH-3998858",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:41:14"
+    },
+    {
+      "title": "Replimune hisseleri FDA’nın etkinlik endişeleri sonrası %20 düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/replimune-hisseleri-fdann-etkinlik-endiseleri-sonras-20-dustu-93CH-3998856",
+      "source": "Investing Türkiye",
+      "published": "2026-07-28T11:40:47"
+    },
+    {
+      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "summary": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T08:41:56"
+      "published": "2026-07-28T11:35:08"
     },
     {
-      "title": "Exosens hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/exosens-hissesi-bugun-neden-dusuyor-93CH-3998170",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:41:44"
+      "title": "Boeing posts bigger loss than expected as Air Force One costs weigh on results",
+      "summary": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+      "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-28T11:33:01"
     },
     {
-      "title": "HD Hyundai Electric ikinci çeyrek karını %45 artırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/earnings/hd-hyundai-electric-ikinci-ceyrek-karn-45-artrd-93CH-3998168",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:40:20"
-    },
-    {
-      "title": "Premier Lig'in milyarlarca sterlinlik gücü transfer piyasasını değiştirdi",
-      "summary": "İngiltere Premier Ligi, rekor seviyeye ulaşan yayın gelirleri ve küresel yatırımların etkisiyle futbol ekonomisindeki liderliğini pekiştiriyor. Milyar sterlinleri aşan transfer harcamaları yalnızca İngiltere&#039;yi değil, Avrupa futbolunun ekonomik dengesini de yeniden şekillendiriyor.",
-      "url": "https://www.dunya.com/spor/premier-ligin-milyarlarca-sterlinlik-gucu-transfer-piyasasini-degistirdi-haberi-833937",
+      "title": "Sosyal medyada yeni dönem başlıyor: 1 Ağustos'tan itibaren herkes için zorunlu",
+      "summary": "Ticaret Bakanlığı&#039;nın yeni düzenlemesiyle birlikte 1 Ağustos 2026&#039;dan itibaren sosyal medya etkileyicilerinin (influencer) reklam amaçlı paylaşımlarında bunun reklam olduğunu açıkça belirtmesi zorunlu olacak. Düzenleme, dijital reklamlarda şeffaflığın artırılmasını ve tüketicilerin yanıltılmasının önüne geçilmesini amaçlıyor.",
+      "url": "https://www.dunya.com/gundem/sosyal-medyada-yeni-donem-basliyor-1-agustostan-itibaren-herkes-icin-zorunlu-haberi-833968",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:39:00"
+      "published": "2026-07-28T11:28:00"
     },
     {
-      "title": "Everplay hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/everplay-hissesi-bugun-neden-yukseliyor-93CH-3998164",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:38:01"
-    },
-    {
-      "title": "Piper Sandler, Kodiak Gas Services hissesine aşırı ağırlık verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-kodiak-gas-services-hissesine-asr-agrlk-verdi-93CH-3998163",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T08:37:58"
-    },
-    {
-      "title": "İstanbul'da forex dolandırıcılığı operasyonu: 54 kişiye gözaltı kararı",
-      "summary": "İstanbul Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü ekiplerince, forex dolandırıcılığına yönelik gerçekleştirilen operasyonda 54 şüpheli gözaltına alındı.",
-      "url": "https://www.dunya.com/gundem/istanbulda-forex-dolandiriciligi-operasyonu-54-kisiye-gozalti-karari-haberi-833936",
+      "title": "35 derecede hasat başladı: Sofraların vazgeçilmezi hazırlıyor",
+      "summary": "Edirne&#039;nin coğrafi işaretli Karaağaç acı biberinde hasat sezonu başladı. Yaklaşık 35 derece sıcaklıkta 9/8&#039;lik ezgiler eşliğinde çalışan işçiler renkli görüntüler oluştururken, bu yıl 150 dekarlık alandan yaklaşık 250 ton ürün elde edilmesi hedefleniyor.",
+      "url": "https://www.dunya.com/video-galeri/gundem/35-derecede-hasat-basladi-sofralarin-vazgecilmezi-hazirliyor-video-833966",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T08:35:00"
+      "published": "2026-07-28T11:09:00"
+    },
+    {
+      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+      "summary": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-28T11:08:51"
+    },
+    {
+      "title": "Zamlar peş peşe geldi... Sessizce kabaran faturaların sebebi yapay zeka çıktı",
+      "summary": "Yapay zeka yatırımlarındaki hızlı artış teknoloji sektörü kadar günlük yaşam maliyetlerini de etkilemeye başladı.Veri merkezlerinin artan enerji ve donanım ihtiyacı, elektrikten bilgisayara kadar birçok alanda fiyatları yukarı çekerken enflasyon üzerinde de yeni bir baskı oluşturdu.",
+      "url": "https://www.dunya.com/ekonomi/zamlar-pes-pese-geldi-sessizce-kabaran-faturalarin-sebebi-yapay-zeka-cikti-haberi-833967",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-28T11:06:00"
+    },
+    {
+      "title": "2026 YKS tercihleri yarın başlıyor: İşte en çok merak edilen 10 soru ve yanıtı",
+      "summary": "2026 YKS tercih süreci 29 Temmuz&#039;da başlayacak ve 10 Ağustos&#039;ta sona erecek. Adaylar, ÖSYM&#039;nin AİS sistemi üzerinden en fazla 24 tercih yapabilecek. İşte kontenjanlardan yeni açılan bölümlere kadar tercih dönemine ilişkin merak edilen 10 soru ve yanıtları.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/2026-yks-tercihleri-yarin-basliyor-iste-en-cok-merak-edilen-10-soru-ve-yaniti-galeri-833965",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-28T11:05:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:31:44+03:00",
+  "updated_at": "2026-07-28T14:51:05+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 48.56,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %6.9 getiri elde etmiş, yüksek riskli bir fon olarak değerlendirilebilir. Uzun vadeli yatırım için uygun olabilir."
+        "comment": "Son 1 ayda %6.9 getiri elde etmiş, ancak emtia fiyatlarına duyarlılığı yüksek olan bir fon."
       }
     },
     {
@@ -23,8 +23,8 @@
       "return_6m": 18.43,
       "return_1y": 37.88,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %4.5 getiri elde etmiş, orta riskli bir fon olarak değerlendirilebilir. Amerikan hisse senedi piyasasına yatırım yapanlar için uygun olabilir."
+        "risk": "Yüksek",
+        "comment": "Son 1 ayda %4.5 getiri elde etmiş, ancak yabancı hisse senedi piyasalarına bağlı olarak dalgalanma gösterebilir."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 17.48,
       "return_1y": 40.43,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %4.32 getiri elde etmiş, orta riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi piyasalarına yatırım yapanlar için uygun olabilir."
+        "risk": "Yüksek",
+        "comment": "Son 1 ayda %4.32 getiri elde etmiş, ancak yabancı hisse senedi piyasalarına bağlı olarak riski yüksek bir fon."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 70.83,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %3.28 getiri elde etmiş, yüksek riskli bir fon olarak değerlendirilebilir. BIST Teknoloji Endeksine yatırım yapanlar için uygun olabilir."
+        "comment": "Son 1 ayda %3.28 getiri elde etmiş, BIST Teknoloji Endeksi'ne bağlı olarak yüksek getiri potansiyeli sunar."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 33.76,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %1.34 getiri elde etmiş, orta riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğun fon olarak değerlendirilebilir."
+        "comment": "Son 1 ayda %1.34 getiri elde etmiş, orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 9.12,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.97 getiri elde etmiş, düşük riskli bir fon olarak değerlendirilebilir. Katılım hisse senedi piyasasına yatırım yapanlar için uygun olabilir."
+        "comment": "Son 1 ayda %0.97 getiri elde etmiş, düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 25.95,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.7 getiri elde etmiş, orta riskli bir fon olarak değerlendirilebilir. Değişken fon olarak değerlendirilebilir."
+        "comment": "Son 1 ayda %0.7 getiri elde etmiş, orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 30.51,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.12 getiri elde etmiş, düşük riskli bir fon olarak değerlendirilebilir. Fon sepetsi fonu olarak değerlendirilebilir."
+        "comment": "Son 1 ayda %0.12 getiri elde etmiş, düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 24.65,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-0.64 getiri elde etmiş, yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğun fon olarak değerlendirilebilir."
+        "comment": "Son 1 ayda %-0.64 getiri elde etmiş, yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 29.16,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-0.75 getiri elde etmiş, yüksek riskli bir fon olarak değerlendirilebilir. BIST 30 dışı şirketlere yatırım yapanlar için uygun olabilir."
+        "comment": "Son 1 ayda %-0.75 getiri elde etmiş, yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
