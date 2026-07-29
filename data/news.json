@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-29T14:55:11+03:00",
+  "updated_at": "2026-07-29T16:48:21+03:00",
   "news": [
-    {
-      "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-      "summary": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
-      "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T11:46:44",
-      "ai": {
-        "impact": "Nike'ın Çin’deki satışlarının düşmesi, küresel pazar payını olumsuz etkileyebilir. Bu durum, diğer uluslararası markaların da benzer sorunlarla karşılaşabileceğine işaret ediyor.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Ticaret Bakanlığı'ndan DTÖ hamlesi! Türkiye itiraz sürecini başlatıyor",
-      "summary": "Ticaret Bakanlığı, Dünya Ticaret Örgütü (DTÖ) nezdinde otomotiv ithalatına ilişkin devam eden panel sürecine ilişkin açıklama yaptı. Bakanlık, yerli otomotiv sanayisini korumaya yönelik tedbirlerin meşru olduğunu vurgulayarak, hukuken isabetli bulunmayan değerlendirmeler için DTÖ mekanizmaları kapsamında hukuki gözden geçirme sürecinin işletileceğini duyurdu.",
-      "url": "https://www.dunya.com/ekonomi/ticaret-bakanligindan-dto-hamlesi-turkiye-itiraz-surecini-baslatiyor-haberi-834125",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:46:00",
-      "ai": {
-        "impact": "Ticaret Bakanlığı'nın DTÖ hamlesi, Türkiye'nin otomotiv ithalatına ilişkin politikalarını güçlendirebilir. Bu, yerli otomotiv sanayisini korumaya yönelik adımların atılmasına neden olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Inside the financial network managing Trump's $858 million investment portfolio",
-      "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
-      "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T11:43:35",
-      "ai": {
-        "impact": "Trump'ın yatırım portföyünün yönetimi, ilgili finansal kurumlar için önemli bir gelir kaynağı olabilir. Ancak, bu haberin genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "PROG Holdings kazancı $0,24 ile beklentilere göre daha iyi, kâr ise beklentilere göre yüksek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/earnings/prog-holdings-kazanc-024-ile-beklentilere-gore-daha-iyi-kar-ise-beklentilere-gore-yuksek-4001376",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:29",
-      "ai": {
-        "impact": "PROG Holdings'in beklentilerin üzerinde kazanç açıklaması, şirketin hisse senetlerini olumlu etkileyebilir. Ancak, detaylı bir analiz için daha fazla bilgiye ihtiyaç vardır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Ionis Pharmaceuticals hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ionis-pharmaceuticals-hissesi-bugun-neden-yukseliyor-93CH-4001375",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:26",
-      "ai": {
-        "impact": "Ionis Pharmaceuticals hissesinin yükselmesi, şirketin performansının iyi olduğunu gösterebilir. Ancak, hisse senedi hareketleri çeşitli faktörlere bağlı olarak değişebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Laureate Education, Google Cloud ile üç yıllık yapay zeka anlaşması imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/laureate-education-google-cloud-ile-uc-yllk-yapay-zeka-anlasmas-imzalad-93CH-4001374",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:24",
-      "ai": {
-        "impact": "Laureate Education ve Google Cloud arasındaki anlaşma, her iki şirket için de yeni fırsatlar yaratabilir. Bu, eğitim ve teknoloji sektörlerinde iş birliğini güçlendirebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Creative Realities, Nissan Stadyumu için dijital tabela sözleşmesi kazandı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/creative-realities-nissan-stadyumu-icin-dijital-tabela-sozlesmesi-kazand-93CH-4001373",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:23",
-      "ai": {
-        "impact": "Creative Realities'in Nissan Stadyumu için dijital tabela sözleşmesi kazanması, şirketin iş hacmini artırabilir. Bu, reklam ve pazarlama sektörlerinde faaliyet gösteren şirketler için olumlu bir gelişme olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Uber Eats dört bölgesel market zincirini platformuna ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/uber-eats-dort-bolgesel-market-zincirini-platformuna-ekledi-93CH-4001372",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:23",
-      "ai": {
-        "impact": "Uber Eats'in dört bölgesel market zincirini platformuna eklemesi, şirketin hizmet kapsamını genişletebilir. Bu, gıda teslimatı ve e-ticaret sektörlerinde rekabeti artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "FTI Consulting, Diane Quick’i üst düzey genel müdür olarak atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/fti-consulting-diane-quicki-ust-duzey-genel-mudur-olarak-atad-93CH-4001371",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:21"
-    },
-    {
-      "title": "Creative Realities, Nissan Stadyumu için dijital tabela anlaşması kazandı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/creative-realities-nissan-stadyumu-icin-dijital-tabela-anlasmas-kazand-93CH-4001370",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:21"
-    },
-    {
-      "title": "Owens Corning, Jonathan Collins’i CFO olarak atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/owens-corning-jonathan-collinsi-cfo-olarak-atad-93CH-4001369",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:37:14"
-    },
-    {
-      "title": "M/I Homes kazancı $0,37 ile beklentilere göre daha kötü, kâr ise beklentilere göre yüksek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/earnings/mi-homes-kazanc-037-ile-beklentilere-gore-daha-kotu-kar-ise-beklentilere-gore-yuksek-4001368",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:36:54"
-    },
-    {
-      "title": "Flex hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/flex-hissesi-bugun-neden-dusuyor-93CH-4001366",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T11:36:27"
-    },
     {
       "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
       "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
       "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T11:35:27"
+      "published": "2026-07-29T13:44:33",
+      "ai": {
+        "impact": "Procter & Gamble'in gelir beklentilerin altında kalması, şirketin hisse değerini olumsuz etkileyebilir. Bu durum, global tüketim eğilimlerini de etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Güney Kore'de sıcaklık rekoru: Busan'da son 122 yılın en sıcak günü yaşandı",
-      "summary": "Güney Kore&#039;yi etkisi altına alan sıcak hava dalgası, Busan kentinde 122 yıllık sıcaklık rekorunu kırdı. Termometrelerin 38,8 dereceyi gösterdiği kentte, 1904&#039;ten bu yana en yüksek sıcaklık ölçülürken, Meteoroloji İdaresi başkent Seul&#039;ün bazı bölgeleri için de sıcaklık uyarısı yayımladı.",
-      "url": "https://www.dunya.com/dunya/guney-korede-sicaklik-rekoru-busanda-son-122-yilin-en-sicak-gunu-yasandi-haberi-834124",
+      "title": "İçecek fabrikasında patlama: 2 işçi hayatını kaybetti",
+      "summary": "Kırklareli&#039;nde bir içecek üretim fabrikasında meydana gelen patlamada 2 işçi hayatını kaybetti.",
+      "url": "https://www.dunya.com/video-galeri/gundem/icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-video-834142",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:33:00"
+      "published": "2026-07-29T13:43:00",
+      "ai": {
+        "impact": "Kırklareli'ndeki içecek fabrikasındaki patlama, yerel ekonomi ve iş güvenliği konusunda endişelere neden olabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? Midtjylland - BJK maçı tarihi ve saati...",
-      "summary": "Beşiktaş, UEFA Avrupa Ligi 2. ön eleme turunda rövanş maçına çıkıyor. Rakip Danimarka ekibi Midtjylland… Mücadelenin tarihi ve saati araştırılırken sık sık &quot;Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu geliyor.",
-      "url": "https://www.dunya.com/spor/besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-midtjylland-bjk-maci-tarihi-ve-saati-haberi-834123",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:28:00"
-    },
-    {
-      "title": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
-      "summary": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
-      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "title": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard",
+      "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T11:25:02"
+      "published": "2026-07-29T13:42:33",
+      "ai": {
+        "impact": "Petrol fiyatlarındaki artış, enflasyonu artırabilir ve global ekonomiyi etkileyebilir. Bu durum, petrol ithalatçısı ülkeleri daha çok etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Bu şanstan da öte! 8 senede 2 kez 1'er milyon dolar kazandı",
-      "summary": "İş insanı Al-mutahaddith Sarik, Dubai Duty Free çekilişinde ikinci kez 1 milyon dolarlık büyük ikramiyenin sahibi oldu. Sarik&#039;in şansı bununla da sınırlı değil: 2004 yılında aynı organizasyondan BMW kazanan 53 yaşındaki talihli, böylece Dubai Duty Free’den üçüncü ödülünü aldı.",
-      "url": "https://www.dunya.com/ekonomi/bu-sanstan-da-ote-8-senede-2-kez-1er-milyon-dolar-kazandi-haberi-834122",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:19:00"
+      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+      "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
+      "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-29T13:42:03",
+      "ai": {
+        "impact": "FIFA'nın Dünya Kupası controversy'si, spor endüstrisini ve ilgili şirketlerin hisselerini etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Avrupa'da yangın bilmecesi: Uydudan görüyor ama kundakçıyı bulamıyor",
-      "summary": "Avrupa&#039;nın dev ormanları küle dönerken, orman yangınları uydudan anlık izlenip sınır ötesi müdahale koordine edilse de kundakçılar tespit edilemiyor. Yangınların kasten çıkarılıp çıkarılmadığı, kundakçıların kim olduğu ve motivasyonları bir soru işaret olarak kalırken bu eksiklik, yangınlarla mücadelede en büyük zafiyetlerden biri olarak değerlendiriliyor.",
-      "url": "https://www.dunya.com/dunya/avrupada-yangin-bilmecesi-uydudan-goruyor-ama-kundakciyi-bulamiyor-haberi-834126",
+      "title": "Danista, ICU Girişim’in hisselerini devralıyor",
+      "summary": "Danista Capital Partners, ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş.’ye ilişkin pay devir sürecinde önemli bir aşamanın tamamlandığını duyurdu. Süreç, başta Sermaye Piyasası Kurulu olmak üzere gerekli izin ve onaylara bağlı olarak ilerleyecek.",
+      "url": "https://www.dunya.com/sirketler/danista-icu-girisimin-hisselerini-devraliyor-haberi-834139",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:15:00"
+      "published": "2026-07-29T13:30:00",
+      "ai": {
+        "impact": "Danista Capital Partners'ın ICU Girişim hisselerini devralması, şirketin büyümesine ve Türkiye'deki girişim sermayesi piyasasına olumlu katkıda bulunabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Rusya'da akaryakıt piyasası alarmda: Hükümetten \"kontrol altında\" mesajı",
-      "summary": "Rusya Enerji Bakan Yardımcısı Pavel Sorokin, ülkedeki akaryakıt piyasasında zorluklar yaşandığını ancak sürecin yakından takip edildiğini belirtti. Yakıt arzında öncelik kritik bölgelere ve tarım sektörüne verilirken, hükümet çeşitli önlemleri eş zamanlı uygulamaya devam ediyor.",
-      "url": "https://www.dunya.com/dunya/rusyada-akaryakit-piyasasi-alarmda-hukumetten-kontrol-altinda-mesaji-haberi-834121",
+      "title": "Seydikemer yangını 8 saattir sürüyor",
+      "summary": "Muğla’nın Seydikemer ilçesinde sabah saatlerinde başlayan yangında 8’inci saate girilirken, 121 hanede 202 vatandaş tahliye edildi. Rüzgarın etkisi ile geniş bir alana yayılan yangını kontrol altına alması çalışmaları sürüyor.",
+      "url": "https://www.dunya.com/video-galeri/gundem/seydikemer-yangini-8-saattir-suruyor-video-834140",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T11:09:00"
+      "published": "2026-07-29T13:30:00",
+      "ai": {
+        "impact": "Seydikemer yangını, yerel ekonomi ve turizmi olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Northeast Indiana Bancorp 0,19 dolar temettü açıkladı, yönetim kuruluna üye ekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/northeast-indiana-bancorp-019-dolar-temettu-acklad-yonetim-kuruluna-uye-ekledi-93CH-4001881",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:29:24",
+      "ai": {
+        "impact": "Northeast Indiana Bancorp'un temettü açıklaması, şirketin hisse değerini olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BorgWarner hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/borgwarner-hissesi-bugun-neden-yukseliyor-93CH-4001875",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:28:02",
+      "ai": {
+        "impact": "BorgWarner hissesinin yükselmesi, şirketin performansı ve otomotiv endüstrisindeki gelişmelerle ilgili olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "SoFi 2Ç 2026 tahminlerini aştı ancak hisseler düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/sofi-2c-2026-tahminlerini-ast-ancak-hisseler-dustu-93CH-4001874",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:27:59"
+    },
+    {
+      "title": "Trump tehdit etti, fiyat fırladı: Petrol yeniden kritik eşikte",
+      "summary": "ABD Başkanı Donald Trump&#039;ın İran&#039;ın &quot;ağır şekilde vurulacağını&quot; söylemesi petrol piyasalarında tansiyonu yükseltti. Ürdün&#039;deki Amerikan üssüne yönelik füze saldırısının ardından Brent petrol yaklaşık yüzde 7 değer kazanarak yeniden 90 doların üzerine çıktı. İran ve Husi güçlerinin Hürmüz Boğazı ile Kızıldeniz&#039;deki sevkiyatı tehdit eden adımları arz endişelerini artırı",
+      "url": "https://www.dunya.com/enerji/trump-tehdit-etti-fiyat-firladi-petrol-yeniden-kritik-esikte-haberi-834141",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T13:27:00"
+    },
+    {
+      "title": "Xcel Energy yönetim kuruluna Delta Air Lines başkanını ekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/xcel-energy-yonetim-kuruluna-delta-air-lines-baskann-ekledi-93CH-4001871",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:25:11"
+    },
+    {
+      "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 investment portfolio",
+      "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
+      "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-29T13:24:23"
+    },
+    {
+      "title": "Fuel Tech hisseleri 2,6 milyon dolarlık sözleşmelerle yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/fuel-tech-hisseleri-26-milyon-dolarlk-sozlesmelerle-yukseldi-93CH-4001870",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:24:03"
+    },
+    {
+      "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+      "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
+      "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-29T13:23:20"
+    },
+    {
+      "title": "Bitzero özel varant satışıyla 25 milyon dolar topladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/bitzero-ozel-varant-satsyla-25-milyon-dolar-toplad-93CH-4001866",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:21:29"
+    },
+    {
+      "title": "Vivakor 400 milyon dolarlık ham petrol sözleşmesi ekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/vivakor-400-milyon-dolarlk-ham-petrol-sozlesmesi-ekledi-93CH-4001865",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:21:24"
+    },
+    {
+      "title": "Fauci Senato’daki Covid duruşmasında Beşinci Değişikliği kullandı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/fauci-senatodaki-covid-durusmasnda-besinci-degisikligi-kulland-93CH-4001864",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:21:23"
+    },
+    {
+      "title": "Experian çalışan planları için 55.000 hisse kabul edecek",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/experian-calsan-planlar-icin-55000-hisse-kabul-edecek-93CH-4001861",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:19:13"
+    },
+    {
+      "title": "Baird, Caterpillar’ı veri merkezi düzenleme riskleri nedeniyle Nötr’e düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/baird-caterpillar-veri-merkezi-duzenleme-riskleri-nedeniyle-notre-dusurdu-4001860",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T13:18:25"
+    },
+    {
+      "title": "EKPSS tercihleri ÖSYM tarafından ne zaman alınacak? EKPSS tercihleri ne zaman başlıyor?",
+      "summary": "EKPSS tercihleri için aylardır adaylar bekleyişte... Yüz binler tercih yapmak için sabırsızlanırken her gün araştırma yapılıyor. Tarih bilgisine ulaşmak isteyenler &quot;EKPSS tercihleri ne zaman alınacak&quot; sorusuna başvuruyor.",
+      "url": "https://www.dunya.com/gundem/ekpss-tercihleri-osym-tarafindan-ne-zaman-alinacak-ekpss-tercihleri-ne-zaman-basliyor-haberi-834138",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T13:18:00"
     }
   ]
 }
