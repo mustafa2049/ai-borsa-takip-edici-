@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-29T16:48:21+03:00",
+  "updated_at": "2026-07-29T18:45:14+03:00",
   "news": [
     {
-      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
-      "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
-      "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+      "title": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
+      "summary": "Trump has frequently posted policy announcements or other newsworthy information on Truth Social that have sent global markets hurtling up or down.",
+      "url": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T13:44:33",
+      "published": "2026-07-29T15:41:03",
       "ai": {
-        "impact": "Procter & Gamble'in gelir beklentilerin altında kalması, şirketin hisse değerini olumsuz etkileyebilir. Bu durum, global tüketim eğilimlerini de etkileyebilir.",
-        "sentiment": "Negatif"
+        "impact": "Donald Trump'ın sosyal medya paylaşımları küresel piyasaları etkileyebiliyor. Bu durum piyasalarda dalgalanmalara neden olabilir.",
+        "sentiment": "Nötr"
       }
     },
     {
-      "title": "İçecek fabrikasında patlama: 2 işçi hayatını kaybetti",
-      "summary": "Kırklareli&#039;nde bir içecek üretim fabrikasında meydana gelen patlamada 2 işçi hayatını kaybetti.",
-      "url": "https://www.dunya.com/video-galeri/gundem/icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-video-834142",
+      "title": "Teknoloji hissesi 72,17 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/teknoloji-hissesi-7217-dolarda-52-haftalk-zirve-yapt-93CH-4002180",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:39:48",
+      "ai": {
+        "impact": "Teknoloji hissesinin 52 haftalık zirve yapması piyasalarda olumlu bir hava yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Amigo Resources muhasebe referans tarihini Aralık’a değiştirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/amigo-resources-muhasebe-referans-tarihini-aralka-degistirdi-93CH-4002179",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:39:30",
+      "ai": {
+        "impact": "Amigo Resources’ın muhasebe referans tarihini değiştirmesi şirketin mali durumunu etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Southern Cross Acquisition I, Nasdaq’ta 115 milyon dolarlık halka arzı tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/southern-cross-acquisition-i-nasdaqta-115-milyon-dolarlk-halka-arz-tamamlad-93CH-4002178",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:37:33",
+      "ai": {
+        "impact": "Southern Cross Acquisition I’in halka arzı başarılı oldu, bu durum şirketin büyümesine katkıda bulunabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Gazze'de 2 bin 276 aile tamamen yok oldu",
+      "summary": "İsrail&#039;in Ekim 2023&#039;ten bu yana sürdürdüğü saldırılarda Gazze&#039;de 2 bin 276 Filistinli aile tüm fertlerini kaybederek nüfus kayıtlarından tamamen silindi. Saldırılar nedeniyle 60 bin 737 çocuk ise anne, baba ya da her iki ebeveynini kaybederek yetim veya öksüz kaldı.",
+      "url": "https://www.dunya.com/dunya/gazzede-2-bin-276-aile-tamamen-yok-oldu-haberi-834164",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T13:43:00",
+      "published": "2026-07-29T15:36:00",
       "ai": {
-        "impact": "Kırklareli'ndeki içecek fabrikasındaki patlama, yerel ekonomi ve iş güvenliği konusunda endişelere neden olabilir.",
+        "impact": "Gazze’deki saldırılar küresel siyasi ve ekonomik istikrarsızlığa neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard",
+      "title": "Atalaya Mining yönetim kurulu üyesi Mike Armitage, Oriole Resources’a katıldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/atalaya-mining-yonetim-kurulu-uyesi-mike-armitage-oriole-resourcesa-katld-93CH-4002177",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:34:17",
+      "ai": {
+        "impact": "Atalaya Mining yönetim kurulu üyesinin Oriole Resources’a katılması şirketin yönetim yapısını etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "KeyBanc, Herc Holdings hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-herc-holdings-hissesi-icin-hedef-fiyat-yukseltti-93CH-4002176",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:31:55",
+      "ai": {
+        "impact": "KeyBanc’ın Herc Holdings hissesi için hedef fiyatını yükseltmesi şirketin değerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "KeyBanc, Curbline Properties hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-curbline-properties-hissesi-icin-hedef-fiyat-yukseltti-93CH-4002175",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:31:52",
+      "ai": {
+        "impact": "KeyBanc’ın Curbline Properties hissesi için hedef fiyatını yükseltmesi şirketin değerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Kerry Group, sürdürülebilirlik komitesi başkanlığına Berger’i atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/kerry-group-surdurulebilirlik-komitesi-baskanlgna-bergeri-atad-93CH-4002174",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:31:17"
+    },
+    {
+      "title": "Borsa İstanbul günü düşüşle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,36 değer kaybederek 13.501,55 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834162",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T15:30:00"
+    },
+    {
+      "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
       "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
       "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T13:42:33",
-      "ai": {
-        "impact": "Petrol fiyatlarındaki artış, enflasyonu artırabilir ve global ekonomiyi etkileyebilir. Bu durum, petrol ithalatçısı ülkeleri daha çok etkileyebilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-07-29T15:27:23"
     },
     {
-      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
-      "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
-      "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
+      "title": "Piper Sandler, Global-E Online hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-globale-online-hissesi-icin-tavsiyesini-korudu-93CH-4002171",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:26:15"
+    },
+    {
+      "title": "Piper Sandler, Coca-Cola için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-cocacola-icin-hisse-hedefini-yukseltti-93CH-4002170",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:26:08"
+    },
+    {
+      "title": "Piper Sandler, Valvoline hissesi için hedef fiyatı korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-valvoline-hissesi-icin-hedef-fiyat-korudu-93CH-4002169",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T15:26:03"
+    },
+    {
+      "title": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
+      "summary": "Ex-FBI Director James Comey says he's the subject of vindictive prosecution for posting on Instagram of a photo of seashells forming the numbers \"8647.\"",
+      "url": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T13:42:03",
-      "ai": {
-        "impact": "FIFA'nın Dünya Kupası controversy'si, spor endüstrisini ve ilgili şirketlerin hisselerini etkileyebilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-07-29T15:24:05"
     },
     {
-      "title": "Danista, ICU Girişim’in hisselerini devralıyor",
-      "summary": "Danista Capital Partners, ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş.’ye ilişkin pay devir sürecinde önemli bir aşamanın tamamlandığını duyurdu. Süreç, başta Sermaye Piyasası Kurulu olmak üzere gerekli izin ve onaylara bağlı olarak ilerleyecek.",
-      "url": "https://www.dunya.com/sirketler/danista-icu-girisimin-hisselerini-devraliyor-haberi-834139",
+      "title": "ABD'de mortgage faizi son bir yılın en yüksek seviyesinde",
+      "summary": "ABD&#039;de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 6,76&#039;ya çıkarak Ağustos 2025&#039;ten bu yana en yüksek seviyesine ulaştı.",
+      "url": "https://www.dunya.com/ekonomi/abdde-mortgage-faizi-son-bir-yilin-en-yuksek-seviyesinde-haberi-834160",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T13:30:00",
-      "ai": {
-        "impact": "Danista Capital Partners'ın ICU Girişim hisselerini devralması, şirketin büyümesine ve Türkiye'deki girişim sermayesi piyasasına olumlu katkıda bulunabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-07-29T15:20:00"
     },
     {
-      "title": "Seydikemer yangını 8 saattir sürüyor",
-      "summary": "Muğla’nın Seydikemer ilçesinde sabah saatlerinde başlayan yangında 8’inci saate girilirken, 121 hanede 202 vatandaş tahliye edildi. Rüzgarın etkisi ile geniş bir alana yayılan yangını kontrol altına alması çalışmaları sürüyor.",
-      "url": "https://www.dunya.com/video-galeri/gundem/seydikemer-yangini-8-saattir-suruyor-video-834140",
+      "title": "Orman yangınlarıyla dev mücadele! Ekipler seferber oldu",
+      "summary": "Muğla, Antalya ve Çanakkale&#039;de çıkan orman yangınlarına havadan ve karadan yoğun müdahale sürüyor. En büyük yangının yaşandığı Muğla&#039;nın Seydikemer ilçesinde hastane ve evler tahliye edilirken, Antalya&#039;da bazı evler alevlere teslim oldu, Çanakkale&#039;de ise turizm tesisleri tedbir amacıyla boşaltıldı.",
+      "url": "https://www.dunya.com/gundem/orman-yanginlariyla-dev-mucadele-ekipler-seferber-oldu-haberi-834158",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T13:30:00",
-      "ai": {
-        "impact": "Seydikemer yangını, yerel ekonomi ve turizmi olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Northeast Indiana Bancorp 0,19 dolar temettü açıkladı, yönetim kuruluna üye ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/northeast-indiana-bancorp-019-dolar-temettu-acklad-yonetim-kuruluna-uye-ekledi-93CH-4001881",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:29:24",
-      "ai": {
-        "impact": "Northeast Indiana Bancorp'un temettü açıklaması, şirketin hisse değerini olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "BorgWarner hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/borgwarner-hissesi-bugun-neden-yukseliyor-93CH-4001875",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:28:02",
-      "ai": {
-        "impact": "BorgWarner hissesinin yükselmesi, şirketin performansı ve otomotiv endüstrisindeki gelişmelerle ilgili olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "SoFi 2Ç 2026 tahminlerini aştı ancak hisseler düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/sofi-2c-2026-tahminlerini-ast-ancak-hisseler-dustu-93CH-4001874",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:27:59"
-    },
-    {
-      "title": "Trump tehdit etti, fiyat fırladı: Petrol yeniden kritik eşikte",
-      "summary": "ABD Başkanı Donald Trump&#039;ın İran&#039;ın &quot;ağır şekilde vurulacağını&quot; söylemesi petrol piyasalarında tansiyonu yükseltti. Ürdün&#039;deki Amerikan üssüne yönelik füze saldırısının ardından Brent petrol yaklaşık yüzde 7 değer kazanarak yeniden 90 doların üzerine çıktı. İran ve Husi güçlerinin Hürmüz Boğazı ile Kızıldeniz&#039;deki sevkiyatı tehdit eden adımları arz endişelerini artırı",
-      "url": "https://www.dunya.com/enerji/trump-tehdit-etti-fiyat-firladi-petrol-yeniden-kritik-esikte-haberi-834141",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T13:27:00"
-    },
-    {
-      "title": "Xcel Energy yönetim kuruluna Delta Air Lines başkanını ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/xcel-energy-yonetim-kuruluna-delta-air-lines-baskann-ekledi-93CH-4001871",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:25:11"
-    },
-    {
-      "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 investment portfolio",
-      "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
-      "url": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T13:24:23"
-    },
-    {
-      "title": "Fuel Tech hisseleri 2,6 milyon dolarlık sözleşmelerle yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/fuel-tech-hisseleri-26-milyon-dolarlk-sozlesmelerle-yukseldi-93CH-4001870",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:24:03"
+      "published": "2026-07-29T15:10:00"
     },
     {
       "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
       "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
       "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T13:23:20"
+      "published": "2026-07-29T14:57:11"
     },
     {
-      "title": "Bitzero özel varant satışıyla 25 milyon dolar topladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bitzero-ozel-varant-satsyla-25-milyon-dolar-toplad-93CH-4001866",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:21:29"
+      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+      "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
+      "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-29T14:54:57"
     },
     {
-      "title": "Vivakor 400 milyon dolarlık ham petrol sözleşmesi ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/vivakor-400-milyon-dolarlk-ham-petrol-sozlesmesi-ekledi-93CH-4001865",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:21:24"
-    },
-    {
-      "title": "Fauci Senato’daki Covid duruşmasında Beşinci Değişikliği kullandı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/fauci-senatodaki-covid-durusmasnda-besinci-degisikligi-kulland-93CH-4001864",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:21:23"
-    },
-    {
-      "title": "Experian çalışan planları için 55.000 hisse kabul edecek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/experian-calsan-planlar-icin-55000-hisse-kabul-edecek-93CH-4001861",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:19:13"
-    },
-    {
-      "title": "Baird, Caterpillar’ı veri merkezi düzenleme riskleri nedeniyle Nötr’e düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/baird-caterpillar-veri-merkezi-duzenleme-riskleri-nedeniyle-notre-dusurdu-4001860",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T13:18:25"
-    },
-    {
-      "title": "EKPSS tercihleri ÖSYM tarafından ne zaman alınacak? EKPSS tercihleri ne zaman başlıyor?",
-      "summary": "EKPSS tercihleri için aylardır adaylar bekleyişte... Yüz binler tercih yapmak için sabırsızlanırken her gün araştırma yapılıyor. Tarih bilgisine ulaşmak isteyenler &quot;EKPSS tercihleri ne zaman alınacak&quot; sorusuna başvuruyor.",
-      "url": "https://www.dunya.com/gundem/ekpss-tercihleri-osym-tarafindan-ne-zaman-alinacak-ekpss-tercihleri-ne-zaman-basliyor-haberi-834138",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T13:18:00"
+      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+      "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+      "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-29T14:53:03"
     }
   ]
 }

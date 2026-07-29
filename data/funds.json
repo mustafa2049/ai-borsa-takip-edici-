@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:48:21+03:00",
+  "updated_at": "2026-07-29T18:45:14+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 47.31,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %5,15 getiri elde etmiş, ancak son 3 ayda %1,14 kayıp yaşamıştır. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %47,31 ile yüksek görünüyor, ancak emtia fiyatlarına duyarlılığı nedeniyle riski de yüksek."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 37.3,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %4,7 getiri elde etmiş, son 3 ayda %10,73 getiri elde etmiştir. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %37,3 ile orta düzeyde görünüyor, ancak yabancı hisse senedi piyasalarına duyarlılığı nedeniyle riski de orta düzeyde."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 38.43,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %4,38 getiri elde etmiş, son 3 ayda %8,47 getiri elde etmiştir. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %38,43 ile orta düzeyde görünüyor, ancak yabancı hisse senedi piyasalarına duyarlılığı nedeniyle riski de orta düzeyde."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 68.19,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %1,73 getiri elde etmiş, son 6 ayda %45,12 getiri elde etmiştir. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %68,19 ile yüksek görünüyor, ancak teknoloji şirketlerine yoğunlaşması nedeniyle riski de yüksek."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 26.43,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %1,14 getiri elde etmiş, son 3 ayda %3,93 getiri elde etmiştir. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %26,43 ile düşük görünüyor, ancak değişken yatırım stratejisi nedeniyle riski de düşük."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 33.77,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0,82 getiri elde etmiş, son 3 ayda %4,56 getiri elde etmiştir. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %33,77 ile orta düzeyde görünüyor, ancak hisse senedi piyasalarına duyarlılığı nedeniyle riski de orta düzeyde."
       }
     },
     {
@@ -88,8 +88,8 @@
       "return_6m": -4.95,
       "return_1y": 7.27,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %0,7 kayıp yaşamış, son 3 ayda %0,4 getiri elde etmiştir. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "risk": "Düşük",
+        "comment": "Fonun 1 yıllık getirisi %7,27 ile düşük görünüyor, ancak katılımcı hisse senedi stratejisi nedeniyle riski de düşük."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 29.16,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %1,07 kayıp yaşamış, son 3 ayda %0,53 getiri elde etmiştir. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %29,16 ile düşük görünüyor, ancak fon sepetsi stratejisi nedeniyle riski de düşük."
       }
     },
     {
@@ -114,8 +114,8 @@
       "return_6m": 1.45,
       "return_1y": 26.74,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %1,28 kayıp yaşamış, son 3 ayda %4,49 kayıp yaşamıştır. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "risk": "Orta",
+        "comment": "Fonun 1 yıllık getirisi %26,74 ile orta düzeyde görünüyor, ancak hisse senedi piyasalarına duyarlılığı nedeniyle riski de orta düzeyde."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 27.82,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %1,66 kayıp yaşamış, son 3 ayda %1,75 getiri elde etmiştir. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 yıllık getirisi %27,82 ile yüksek görünüyor, ancak BIST 30 dışı şirketlere yoğunlaşması nedeniyle riski de yüksek."
       }
     },
     {
