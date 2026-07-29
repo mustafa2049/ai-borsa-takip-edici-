@@ -1,225 +1,225 @@
 {
-  "updated_at": "2026-07-28T18:59:12+03:00",
+  "updated_at": "2026-07-29T12:33:16+03:00",
   "funds": [
     {
       "code": "TGE",
       "name": "İŞ PORTFÖY EMTİA YABANCI BYF FON SEPETİ FONU",
-      "price": 0.28047,
-      "return_1m": 6.9,
-      "return_3m": 0.2,
-      "return_6m": 16.52,
-      "return_1y": 48.56,
+      "price": 0.276834,
+      "return_1m": 5.15,
+      "return_3m": -1.14,
+      "return_6m": 15.77,
+      "return_1y": 47.31,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %6.9 getiri elde etmiş, ancak emtia fiyatlarına duyarlılığı yüksek olan bir fon."
+        "comment": "Son 1 ayda %5,15 getiri sağladı, ancak son 3 ayda %1,14 kayıp yaşadı."
       }
     },
     {
       "code": "AFA",
       "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
-      "price": 1.215876,
-      "return_1m": 4.5,
-      "return_3m": 10.6,
-      "return_6m": 18.43,
-      "return_1y": 37.88,
+      "price": 1.211677,
+      "return_1m": 4.7,
+      "return_3m": 10.73,
+      "return_6m": 17.41,
+      "return_1y": 37.3,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %4.5 getiri elde etmiş, ancak yabancı hisse senedi fonu olarak yüksek volatiliteye sahip."
+        "risk": "Orta",
+        "comment": "Son 6 ayda %17,41 getiri sağladı, ancak son 1 yılda %37,3 getiri sağladı."
       }
     },
     {
       "code": "TMG",
       "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
-      "price": 1.374449,
-      "return_1m": 4.32,
-      "return_3m": 9.23,
-      "return_6m": 17.48,
-      "return_1y": 40.43,
+      "price": 1.364073,
+      "return_1m": 4.38,
+      "return_3m": 8.47,
+      "return_6m": 15.16,
+      "return_1y": 38.43,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %4.32 getiri elde etmiş, ancak yabancı hisse senedi fonu olarak riskli yatırım aracı."
+        "risk": "Orta",
+        "comment": "Son 1 ayda %4,38 getiri sağladı, ancak son 1 yılda %38,43 getiri sağladı."
       }
     },
     {
       "code": "TTE",
       "name": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.709396,
-      "return_1m": 3.28,
-      "return_3m": 16.07,
-      "return_6m": 46.1,
-      "return_1y": 70.83,
+      "price": 1.683101,
+      "return_1m": 1.73,
+      "return_3m": 13.85,
+      "return_6m": 45.12,
+      "return_1y": 68.19,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %3.28 getiri elde etmiş, teknoloji ağırlıklı endeks fonu olarak yüksek büyüme potansiyeline sahip."
-      }
-    },
-    {
-      "code": "OPH",
-      "name": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "price": 25.654644,
-      "return_1m": 1.34,
-      "return_3m": 3.98,
-      "return_6m": 8.12,
-      "return_1y": 33.76,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %1.34 getiri elde etmiş, hisse senedi yoğunluğu yüksek bir fon."
-      }
-    },
-    {
-      "code": "HKH",
-      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 8.477074,
-      "return_1m": 0.97,
-      "return_3m": -0.35,
-      "return_6m": -3.96,
-      "return_1y": 9.12,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 ayda %0.97 getiri elde etmiş, ancak son 6 ayda negatif getiri elde etmiş bir fon."
+        "comment": "Son 6 ayda %45,12 getiri sağladı, son 1 yılda %68,19 getiri sağladı."
       }
     },
     {
       "code": "IPB",
       "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "price": 0.872156,
-      "return_1m": 0.7,
-      "return_3m": 2.47,
-      "return_6m": 19.8,
-      "return_1y": 25.95,
+      "price": 0.873726,
+      "return_1m": 1.14,
+      "return_3m": 3.93,
+      "return_6m": 19.95,
+      "return_1y": 26.43,
+      "ai": {
+        "risk": "Düşük",
+        "comment": "Son 1 ayda %1,14 getiri sağladı, ancak son 1 yılda %26,43 getiri sağladı."
+      }
+    },
+    {
+      "code": "OPH",
+      "name": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+      "price": 25.400693,
+      "return_1m": 0.82,
+      "return_3m": 4.56,
+      "return_6m": 7.47,
+      "return_1y": 33.77,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.7 getiri elde etmiş, değişken fon olarak çeşitli yatırım araçlarına yatırım yapıyor."
+        "comment": "Son 1 ayda %0,82 getiri sağladı, ancak son 1 yılda %33,77 getiri sağladı."
+      }
+    },
+    {
+      "code": "HKH",
+      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 8.359987,
+      "return_1m": -0.7,
+      "return_3m": 0.4,
+      "return_6m": -4.95,
+      "return_1y": 7.27,
+      "ai": {
+        "risk": "Yüksek",
+        "comment": "Son 1 ayda %0,7 kayıp yaşadı, son 1 yılda %7,27 getiri sağladı."
       }
     },
     {
       "code": "YAC",
       "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
-      "price": 13.994573,
-      "return_1m": 0.12,
-      "return_3m": 0.69,
-      "return_6m": 4.34,
-      "return_1y": 30.51,
+      "price": 13.860272,
+      "return_1m": -1.07,
+      "return_3m": 0.53,
+      "return_6m": 2.95,
+      "return_1y": 29.16,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.12 getiri elde etmiş, fon sepети fonu olarak düşük riskli yatırım aracı."
+        "comment": "Son 1 ayda %1,07 kayıp yaşadı, ancak son 1 yılda %29,16 getiri sağladı."
       }
     },
     {
       "code": "DAH",
       "name": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 3.520024,
-      "return_1m": -0.64,
-      "return_3m": -6.23,
-      "return_6m": 0.99,
-      "return_1y": 24.65,
+      "price": 3.517967,
+      "return_1m": -1.28,
+      "return_3m": -4.49,
+      "return_6m": 1.45,
+      "return_1y": 26.74,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %-0.64 getiri elde etmiş, hisse senedi yoğunluğu yüksek bir fon."
+        "risk": "Yüksek",
+        "comment": "Son 1 ayda %1,28 kayıp yaşadı, son 1 yılda %26,74 getiri sağladı."
       }
     },
     {
       "code": "GMR",
       "name": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.400332,
-      "return_1m": -0.75,
-      "return_3m": 1.86,
-      "return_6m": 0.26,
-      "return_1y": 29.16,
+      "price": 1.383183,
+      "return_1m": -1.66,
+      "return_3m": 1.75,
+      "return_6m": -0.67,
+      "return_1y": 27.82,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-0.75 getiri elde etmiş, BIST 30 dışı şirketlere yatırım yapan bir fon."
+        "comment": "Son 1 ayda %1,66 kayıp yaşadı, ancak son 1 yılda %27,82 getiri sağladı."
       }
-    },
-    {
-      "code": "IDH",
-      "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 12.762194,
-      "return_1m": -1.28,
-      "return_3m": 1.22,
-      "return_6m": 7.31,
-      "return_1y": 27.25
-    },
-    {
-      "code": "TCD",
-      "name": "TACİRLER PORTFÖY DEĞIŞKEN FON",
-      "price": 47.102767,
-      "return_1m": -1.45,
-      "return_3m": 1.81,
-      "return_6m": 12.89,
-      "return_1y": 37.71
-    },
-    {
-      "code": "NNF",
-      "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 22.928375,
-      "return_1m": -1.74,
-      "return_3m": 2.21,
-      "return_6m": -1.92,
-      "return_1y": 10.15
-    },
-    {
-      "code": "MAC",
-      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.775181,
-      "return_1m": -1.8,
-      "return_3m": 0.05,
-      "return_6m": 0.03,
-      "return_1y": 21.43
-    },
-    {
-      "code": "AFT",
-      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
-      "price": 0.909266,
-      "return_1m": -2.09,
-      "return_3m": -1.05,
-      "return_6m": 3.34,
-      "return_1y": 37.37
     },
     {
       "code": "TYH",
       "name": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 2.004297,
-      "return_1m": -2.23,
-      "return_3m": -5.71,
-      "return_6m": -3.04,
-      "return_1y": 14.81
+      "price": 2.000217,
+      "return_1m": -2.49,
+      "return_3m": -4.33,
+      "return_6m": -2.36,
+      "return_1y": 17.05
+    },
+    {
+      "code": "TCD",
+      "name": "TACİRLER PORTFÖY DEĞIŞKEN FON",
+      "price": 46.541918,
+      "return_1m": -2.6,
+      "return_3m": 2.02,
+      "return_6m": 11.62,
+      "return_1y": 36.37
+    },
+    {
+      "code": "MAC",
+      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 0.77209,
+      "return_1m": -2.81,
+      "return_3m": 0.42,
+      "return_6m": -0.05,
+      "return_1y": 22.28
+    },
+    {
+      "code": "IDH",
+      "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 12.636387,
+      "return_1m": -2.99,
+      "return_3m": 0.34,
+      "return_6m": 6.27,
+      "return_1y": 26.19
+    },
+    {
+      "code": "NNF",
+      "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 22.666339,
+      "return_1m": -3.84,
+      "return_3m": 2.88,
+      "return_6m": -2.53,
+      "return_1y": 8.85
     },
     {
       "code": "TI2",
       "name": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.124384,
-      "return_1m": -4.53,
-      "return_3m": -5.94,
-      "return_6m": -0.99,
-      "return_1y": 17.0
+      "price": 0.124803,
+      "return_1m": -4.32,
+      "return_3m": -4.41,
+      "return_6m": -0.12,
+      "return_1y": 18.47
     },
     {
-      "code": "YAY",
-      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
-      "price": 1728.679342,
-      "return_1m": -5.96,
-      "return_3m": 12.41,
-      "return_6m": 28.32,
-      "return_1y": 70.75
+      "code": "AFT",
+      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
+      "price": 0.871501,
+      "return_1m": -4.99,
+      "return_3m": -4.3,
+      "return_6m": -1.8,
+      "return_1y": 29.93
     },
     {
       "code": "IPJ",
       "name": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
-      "price": 18.931916,
-      "return_1m": -6.38,
-      "return_3m": -1.12,
-      "return_6m": 14.56,
-      "return_1y": 50.22
+      "price": 18.538458,
+      "return_1m": -6.15,
+      "return_3m": -1.96,
+      "return_6m": 12.38,
+      "return_1y": 47.88
     },
     {
       "code": "GAF",
       "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.613254,
-      "return_1m": -7.4,
-      "return_3m": -7.26,
-      "return_6m": -1.03,
-      "return_1y": 31.52
+      "price": 1.604126,
+      "return_1m": -7.8,
+      "return_3m": -6.33,
+      "return_6m": -1.01,
+      "return_1y": 32.06
+    },
+    {
+      "code": "YAY",
+      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
+      "price": 1650.595063,
+      "return_1m": -8.99,
+      "return_3m": 8.86,
+      "return_6m": 20.51,
+      "return_1y": 61.06
     }
   ]
 }

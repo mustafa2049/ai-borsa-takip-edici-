@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-28T18:59:12+03:00",
+  "updated_at": "2026-07-29T12:33:16+03:00",
   "news": [
     {
-      "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
-      "summary": "Trump and Zelenskyy meet as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
-      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-28T15:59:04",
-      "ai": {
-        "impact": "Trump ve Zelenskyy'nin görüşmesi, ABD'nin İran'a ve Rusya'nın Ukrayna'ya yönelik savaşlarının birbirini etkileme olasılığına dikkat çekti. Bu durum, küresel piyasalarda belirsizliğe neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Yazılım şirketleri teknoloji sektörü düşerken yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/yazlm-sirketleri-teknoloji-sektoru-duserken-yukseldi-93CH-3999598",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:48:33",
-      "ai": {
-        "impact": "Yazılım şirketlerinin yükselişi, teknoloji sektöründeki düşüşe rağmen dikkat çekti. Bu durum, sektörün gelecekteki performansı hakkında olumlu beklentilere işaret ediyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Knowles Corp SVP Raymond Cabrera 224.137 dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/knowles-corp-svp-raymond-cabrera-224137-dolarlk-hisse-satt-93CH-3999597",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:47:29",
-      "ai": {
-        "impact": "Knowles Corp'un üst düzey yöneticisinin hisse satışı, şirketin gelecekteki performansına ilişkin endişelere neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Becton Dickinson EVP Michael Feld, BDX hisselerinden 11.784 dolar sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/becton-dickinson-evp-michael-feld-bdx-hisselerinden-11784-dolar-satt-93CH-3999596",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:47:27",
-      "ai": {
-        "impact": "Becton Dickinson'un üst düzey yöneticisinin hisse satışı, şirketin iç işleyişine ilişkin soru işaretlerine neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Kearny Financial yöneticisi Curtland Fields 138.273 dolar değerinde hisse aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/kearny-financial-yoneticisi-curtland-fields-138273-dolar-degerinde-hisse-ald-93CH-3999595",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:47:13",
-      "ai": {
-        "impact": "Kearny Financial yöneticisinin hisse alımı, şirketin gelecekteki büyüme potansiyeline ilişkin olumlu beklentilere işaret ediyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Hayko Cepkin'in İfadesi ortaya çıktı: Haluk Levent'e maddi konularda güvenmem",
-      "summary": "Sanatçı Hayko Cepkin’in İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında verdiği ifade ortaya çıktı. Cepkin, &quot;Haluk Levent&#039;i uzun yıllardır tanırım ve maddi konularda kendisine güvenmem. Güvenmediğim için de kendisi hakkında Twitter&#039;da paylaşımlarım oldu. Ahbap Derneği&#039;ne Haluk Levent&#039;ten bağımsız olarak güveniyordum. An",
-      "url": "https://www.dunya.com/gundem/hayko-cepkinin-ifadesi-ortaya-cikti-haluk-levente-maddi-konularda-guvenmem-haberi-834016",
+      "title": "Filenin Efeleri, Milletler Ligi'ne çeyrek finalde veda etti",
+      "summary": "A Milli Erkek Voleybol Takımı, 2026 FIVB Voleybol Milletler Ligi çeyrek finalinde Slovenya&#039;ya 3-0 mağlup olarak turnuvaya veda etti. Milliler, organizasyonda tarihinde ilk kez çeyrek final oynama başarısı göstermişti.",
+      "url": "https://www.dunya.com/spor/filenin-efeleri-milletler-ligine-ceyrek-finalde-veda-etti-haberi-834108",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:45:00",
+      "published": "2026-07-29T09:26:00",
       "ai": {
-        "impact": "Hayko Cepkin'in ifadesi, Ahbaplar Suç Örgütü soruşturmasıyla ilgili gelişmelere dikkat çekti. Ancak bu haberin finansal piyasalara doğrudan etkisi sınırlı görünüyor.",
+        "impact": "Spor haberlerinin ekonomi veya finans piyasalarına doğrudan etkisi yoktur.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Euro bölgesi tahvil faizleri Fed toplantısı öncesi sabit kaldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/euro-bolgesi-tahvil-faizleri-fed-toplants-oncesi-sabit-kald-93CH-3999594",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:44:31",
+      "title": "Malazgirt'in 955 yıllık sırrı çözülüyor",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Malazgirt Savaş Alanı&#039;nda yürütülen arkeolojik çalışmalarda XI. yüzyıl Bizans askerî teknolojisini yansıtan balista ok uçlarının ilk kez gün yüzüne çıkarıldığını açıkladı. Ersoy, keşfin Malazgirt kuşatmasının bilinmeyen yönlerini aydınlatan en önemli bulgulardan biri olduğunu belirtti.",
+      "url": "https://www.dunya.com/sektorler/turizm/malazgirtin-955-yillik-sirri-cozuluyor-haberi-834106",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T09:17:00",
       "ai": {
-        "impact": "Euro bölgesi tahvil faizlerinin sabit kalması, Fed toplantısı öncesi piyasalarda bir miktar belirsizliğe neden olabilir.",
+        "impact": "Kültür ve turizm haberlerinin ekonomi veya finans piyasalarına etkisi sınırlıdır.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Borsa İstanbul günü düşüşle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,63 değer kaybederek 13.687,86 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834014",
+      "title": "150 bin kişilik dev kadro küçülüyor, BMW’de ilk hedef belli oldu",
+      "summary": "BMW, tarihinin en geniş gönüllü ayrılık programlarından biriyle kadrosunu küçültmeye hazırlanıyor. Üretim hatları korunurken yönetim ve geliştirme birimleri öne çıkıyor; planın ölçeği ile şirketi bu noktaya getiren baskı neydi?",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/150-bin-kisilik-dev-kadro-kuculuyor-bmwde-ilk-hedef-belli-oldu-galeri-834105",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:40:00",
+      "published": "2026-07-29T09:16:00",
       "ai": {
-        "impact": "Borsa İstanbul'un düşüşle kapanması, yatırımcıların temkinli yaklaşımını yansıtıyor. Bu durum, kısa vadeli piyasalarda dalgalanmalara neden olabilir.",
+        "impact": "BMW'nin kadro küçültme planı, otomotiv sektöründe istihdam ve üretim açısından negatif bir etki yaratabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "GrubMarket, satın almalar sonrası halka arz için başvurdu",
+      "title": "UBS hisseleri neden bugün yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/grubmarket-satn-almalar-sonras-halka-arz-icin-basvurdu-93CH-3999593",
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-hisseleri-neden-bugun-yukseliyor-93CH-4000622",
       "source": "Investing Türkiye",
-      "published": "2026-07-28T15:39:18"
+      "published": "2026-07-29T09:14:16",
+      "ai": {
+        "impact": "UBS hisselerinin yükselmesi, bankacılık sektöründe olumlu bir gelişme olarak değerlendirilebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
-      "summary": "Ina and David Steiner run a popular ecommerce blog that had angered eBay executives due to its critical coverage.",
-      "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+      "title": "EDPR ilk yarıda 183 milyon euro tekrarlayan net kar bildirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/earnings/edpr-ilk-yarda-183-milyon-euro-tekrarlayan-net-kar-bildirdi-93CH-4000614",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:13:55",
+      "ai": {
+        "impact": "EDPR'nin net kar açıklaması, enerji sektöründe olumlu bir gelişme olarak değerlendirilebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Redeia hisseleri beklentilere rağmen düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/redeia-hisseleri-beklentilere-ragmen-dustu-93CH-4000609",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:11:48",
+      "ai": {
+        "impact": "Redeia hisselerinin düşmesi, enerji sektöründe negatif bir gelişme olarak değerlendirilebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Aena hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/aena-hissesi-bugun-neden-dusuyor-93CH-4000582",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:07:06",
+      "ai": {
+        "impact": "Aena hissesinin düşmesi, havacılık sektöründe negatif bir gelişme olarak değerlendirilebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Moonshot AI 3,5 milyar dolarlık turla 35 milyar dolar değerlemeye ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/moonshot-ai-35-milyar-dolarlk-turla-35-milyar-dolar-degerlemeye-ulast-93CH-4000581",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:06:54",
+      "ai": {
+        "impact": "Moonshot AI'nin yüksek değerlemesi, teknoloji sektöründe olumlu bir gelişme olarak değerlendirilebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Electrolux hisseleri bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/electrolux-hisseleri-bugun-neden-yukseliyor-93CH-4000580",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:06:47"
+    },
+    {
+      "title": "Alten hisseleri 2Ç organik büyüme tahminleri aştıktan sonra %20 sıçradı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/earnings/alten-hisseleri-2c-organik-buyume-tahminleri-astktan-sonra-20-scrad-4000589",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:05:50"
+    },
+    {
+      "title": "SK Hynix hisseleri bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sk-hynix-hisseleri-bugun-neden-dusuyor-93CH-4000579",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:05:41"
+    },
+    {
+      "title": "PowerCompute Nasdaq’ın asgari teklif fiyatı şartını sağladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/powercompute-nasdaqn-asgari-teklif-fiyat-sartn-saglad-93CH-4000578",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:05:36"
+    },
+    {
+      "title": "Verallia hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/verallia-hissesi-bugun-neden-dusuyor-93CH-4000576",
+      "source": "Investing Türkiye",
+      "published": "2026-07-29T09:05:20"
+    },
+    {
+      "title": "Azimut, Yapı Kredi Portföy'ü bünyesine kattı: Türkiye'nin en büyük özel portföy yöneticisi oldu",
+      "summary": "İtalyan varlık yönetim şirketi Azimut Holding, Yapı Kredi Portföy Yönetimi&#039;ni 346 milyon dolar karşılığında satın almak üzere anlaşmaya vardı. İşlemle Azimut, özel sektörde Türkiye&#039;nin en büyük portföy yönetim şirketi olurken, Yapı Kredi ile 15 yıllık dağıtım ortaklığı kuracak.",
+      "url": "https://www.dunya.com/ekonomi/azimut-yapi-kredi-portfoyu-bunyesine-katti-turkiyenin-en-buyuk-ozel-portfoy-yoneticisi-oldu-haberi-834104",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T09:05:00"
+    },
+    {
+      "title": "İstanbul'un simge köprülerine sürpriz talip: Yabancı yatırımcılar devrede",
+      "summary": "Özelleştirilmesi planlanan İstanbul&#039;un simge yapıları 15 Temmuz Şehitler Köprüsü (Boğaziçi Köprüsü) ile Fatih Sultan Mehmet Köprüsü&#039;nün işletme haklarının devrine yönelik süreçte kritik bir aşamaya gelindi. Bloomberg&#039;in haberine göre ilk yabancı yatırımcılar ve yerli ortaklar şekillenmeye başlarken, dev özelleştirmenin dört ayrı paket halinde ihaleye çıkması bekleniyor.",
+      "url": "https://www.dunya.com/ekonomi/istanbulun-simge-koprulerine-surpriz-talip-yabanci-yatirimcilar-devrede-haberi-834107",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T09:05:00"
+    },
+    {
+      "title": "Ukraine has found a new pressure point in Russia’s wartime economy",
+      "summary": "Ukraine's drone attacks on Russia's biggest online retailer Wildberries have ratcheted up the pressure on Moscow's wartime economy.",
+      "url": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T15:38:42"
+      "published": "2026-07-29T09:02:19"
     },
     {
-      "title": "ABD'de tüketici güveni temmuzda geriledi",
-      "summary": "ABD&#039;de Conference Board Tüketici Güven Endeksi, temmuz ayında 90,8 değerine gerileyerek piyasa beklentilerinin altında kaldı.",
-      "url": "https://www.dunya.com/ekonomi/abdde-tuketici-guveni-temmuzda-geriledi-haberi-834012",
+      "title": "Muğla'da alevler büyüyor: Fethiye-Antalya yolu kapatıldı",
+      "summary": "Muğla&#039;nın Seydikemer ilçesinde ziraat alanında başlayarak ormana sıçrayan yangın, şiddetli rüzgârın etkisiyle kısa sürede büyüdü. Bayır Mahallesi&#039;nde etkili olan alevleri kontrol altına almak için 5 uçak, 11 helikopter ve 40 arazözle müdahale başlatıldı. İtfaiye ekipleri ve orman işçilerinin de katıldığı çalışmalarda toplam 261 personel görev yapıyor. Yangının oluşturduğu yoğun duman ve ",
+      "url": "https://www.dunya.com/video-galeri/gundem/muglada-alevler-buyuyor-fethiye-antalya-yolu-kapatildi-video-834102",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:38:00"
+      "published": "2026-07-29T08:55:00"
     },
     {
-      "title": "Barclays, Central Asia Metals’daki payını %5,3’e çıkardı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/barclays-central-asia-metalsdaki-payn-53e-ckard-93CH-3999592",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:36:23"
+      "title": "2026 YKS TERCİH EKRANI:  Üniversite tercih kılavuzu ve taban puanları",
+      "summary": "YKS tercihleri bugün başladı. Üniversite adayları ÖSYM&#039;den gelecek son dakika duyurusunu bekliyordu ki saat 11.45&#039;te açıklama geldi. İşte başvuru ekranı...",
+      "url": "https://www.dunya.com/gundem/2026-yks-tercih-ekrani-universite-tercih-kilavuzu-ve-taban-puanlari-haberi-834088",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T08:53:00"
     },
     {
-      "title": "Boeing’in 2Ç26 geliri beklentiyi aştı, zarar genişledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/boeingin-2c26-geliri-beklentiyi-ast-zarar-genisledi-93CH-3999591",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:36:20"
+      "title": "Türkiye'nin Latin Amerika ihracatı ilk 6 ayda 2,5 milyar dolara ulaştı",
+      "summary": "Türkiye, Latin Amerika ve Karayipler (LAK) Stratejisi kapsamında bölge ülkeleriyle ticari ilişkilerini güçlendirmeyi sürdürüyor. Yılın ilk yarısında bölgeye yapılan ihracat geçen yılın aynı dönemine göre yüzde 4,5 artarak 2,5 milyar dolara yükselirken, en fazla dış satım Meksika&#039;ya gerçekleştirildi.",
+      "url": "https://www.dunya.com/ekonomik-veriler/turkiyenin-latin-amerika-ihracati-ilk-6-ayda-25-milyar-dolara-ulasti-haberi-834100",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-29T08:53:00"
     },
     {
-      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
-      "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
-      "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+      "summary": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-28T15:35:48"
-    },
-    {
-      "title": "Keefe Bruyette, RLI hissesi için fiyat hedefini 74 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keefe-bruyette-rli-hissesi-icin-fiyat-hedefini-74-dolara-yukseltti-93CH-3999590",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:35:40"
-    },
-    {
-      "title": "Leonardo DRS, Raft’ı 450 milyon dolara nakit olarak satın alacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/leonardo-drs-raft-450-milyon-dolara-nakit-olarak-satn-alacak-93CH-3999588",
-      "source": "Investing Türkiye",
-      "published": "2026-07-28T15:35:10"
-    },
-    {
-      "title": "Türkiye-Irak ticaretinde yeni hedef: 30 milyar doların üzeri",
-      "summary": "Irak Ticaret Bakanı Mustafa Nezar el-Ani, Türkiye ile Irak arasındaki ikili ticaret hacmini 30 milyar doların üzerine çıkarmayı hedeflediklerini belirtti.",
-      "url": "https://www.dunya.com/ekonomi/turkiye-irak-ticaretinde-yeni-hedef-30-milyar-dolarin-uzeri-haberi-834011",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:35:00"
-    },
-    {
-      "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
-      "summary": "Semiconductor stocks fell on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-28T15:33:15"
-    },
-    {
-      "title": "Elçin Sangu'dan Ahbap açıklaması: 100 bin lira bağış yaptım",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadesi alınan oyuncu Elçin Sangu, &quot;6 Şubat depremlerinin ardından Ahbap Derneği merkezine giderek yardım faaliyetlerine katıldım ve derneğin hesabına 100 bin lira bağış yaptım&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/elcin-sangudan-ahbap-aciklamasi-100-bin-lira-bagis-yaptim-haberi-834009",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:28:00"
-    },
-    {
-      "title": "Uğur Dündar'ın ifadesi ortaya çıktı: Ahbap'la mali ilişkim olmadı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadesi alınan gazeteci Uğur Dündar, Ahbap Derneği ile herhangi bir mali ilişkisinin bulunmadığını belirterek, &quot;Benim şu ana kadar hiçbir akçeli işim olmadı. Ben süreç dolayısıyla Türk toplumu adına oldukça üzgünüm ancak şahsi olarak özür dilememi gerektiren bir husus yoktur&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/ugur-dundarin-ifadesi-ortaya-cikti-ahbapla-mali-iliskim-olmadi-haberi-834006",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-28T15:23:00"
+      "published": "2026-07-29T08:43:13"
     }
   ]
 }
