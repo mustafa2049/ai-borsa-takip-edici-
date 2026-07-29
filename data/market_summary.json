@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-29T12:33:16+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksinin düşüşüne rağmen bazı hisse senetlerinde güçlü al sinyalleri görülmektedir. Döviz kurlarında küçük dalgalanmalar yaşanırken, ons altın ve brent petrol fiyatları artış göstermiştir. Hisse senedi sinyallerine göre THYAO, TUPRS ve GARAN gibi hisselerde güçlü al sinyalleri bulunmaktadır.",
+  "updated_at": "2026-07-29T14:55:11+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksinin 0.72% değer kaybı yaşadığı görülmektedir. Buna karşılık S&P 500 ve DAX endeksleri hafif artışlar kaydetmiştir. USD/TRY ve EUR/TRY kurlarında küçük artışlar görülmüştür. Hisse sinyallerinde THYAO, TUPRS, GARAN, AKBNK gibi hisseler için 'AL' sinyali verilirken, TOASO ve EKGYO için 'GÜÇLÜ SAT' sinyali bulunmaktadır.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13601.0,
-      "change_pct": -0.63
+      "value": 13589.08,
+      "change_pct": -0.72
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 25374.7,
-      "change_pct": -0.35
+      "value": 25510.83,
+      "change_pct": 0.18
     },
     {
       "name": "Nikkei 225",
@@ -36,30 +36,30 @@
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
       "value": 47.39,
-      "change_pct": 0.09
+      "change_pct": 0.08
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.04,
-      "change_pct": 0.37
+      "value": 53.98,
+      "change_pct": 0.26
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4093.9,
-      "change_pct": 1.43
+      "value": 4089.8,
+      "change_pct": 1.33
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 86.9,
-      "change_pct": 3.34
+      "value": 88.11,
+      "change_pct": 4.78
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6238.2,
+      "value": 6231.84,
       "change_pct": null
     }
   ]
