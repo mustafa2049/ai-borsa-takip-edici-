@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T18:29:44+03:00",
+  "updated_at": "2026-07-30T20:01:54+03:00",
   "signals": [
     {
       "symbol": "THYAO",
@@ -24,14 +24,14 @@
       "revenue_growth": 21.1,
       "ai": {
         "signal": "AL",
-        "confidence": 60,
+        "confidence": 70,
         "target_price": 320.0,
         "stop_loss": 280.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 39.5 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "Son 1 haftada yaşanan düşüşe rağmen uzun vadeli trendin masih yükselişte olması"
+          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında olması",
+          "Son 1 haftada %1.44'lük düşüşe rağmen uzun vadeli trendin yukarı yönlü olması"
         ]
       }
     },
@@ -58,14 +58,14 @@
       "revenue_growth": 15.0,
       "ai": {
         "signal": "SAT",
-        "confidence": 70,
-        "target_price": 310.0,
-        "stop_loss": 360.0,
+        "confidence": 80,
+        "target_price": 300.0,
+        "stop_loss": 340.0,
         "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 37.9 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "Son 1 haftada yaşanan yüksek oranda düşüş"
+          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında olması",
+          "Son 1 haftada %10.3'lük düşüş ve yüksek PE oranı"
         ]
       }
     },
@@ -92,14 +92,14 @@
       "revenue_growth": 11.5,
       "ai": {
         "signal": "NÖTR",
-        "confidence": 40,
+        "confidence": 50,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "Belirsiz",
+        "timeframe": "Değişken",
         "rationale": [
           "RSI 14 değeri 52.7 ile orta seviyede",
           "Fiyatın 20 ve 50 günlük basit hareketli ortalamaları etrafında dalgalanması",
-          "Son 1 ayda yaşanan düşük oranda değişim"
+          "Karlılık oranlarının düşük olması"
         ]
       }
     },
@@ -126,14 +126,14 @@
       "revenue_growth": 24.4,
       "ai": {
         "signal": "GÜÇLÜ AL",
-        "confidence": 80,
+        "confidence": 85,
         "target_price": 310.0,
         "stop_loss": 260.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 58.5 ile orta seviyede",
-          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde kalması",
-          "Son 1 ayda yaşanan yüksek oranda artış"
+          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde olması",
+          "Son 1 ayda %26.59'luk artış ve güçlü revenue büyümesi"
         ]
       }
     },
@@ -160,14 +160,14 @@
       "revenue_growth": 49.7,
       "ai": {
         "signal": "AL",
-        "confidence": 65,
+        "confidence": 75,
         "target_price": 130.0,
         "stop_loss": 110.0,
         "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 34.8 ile düşük seviyede",
-          "Fiyatın 20 günlük basit hareketli ortalamasının altında kalması",
-          "Son 1 ayda yaşanan düşük oranda değişim"
+          "Fiyatın 20 günlük basit hareketli ortalamasının altında olması",
+          "Yüksek ROE ve kar marjı"
         ]
       }
     },
@@ -196,12 +196,12 @@
         "signal": "AL",
         "confidence": 70,
         "target_price": 65.0,
-        "stop_loss": 55.0,
+        "stop_loss": 58.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 25.6 ile aşırı satım bölgesinde.",
-          "Firma'nın öz kaynak karlılığı %44.2 ile yüksek.",
-          "Firma'nın net kar marjı %30.1 ile iyi durumda."
+          "MACD ve sinyal çizgisi arasında negatif ayrışmanın olduğu görülmektedir.",
+          "Firma’nın öz kaynak karlılığı %44.2 ile yüksek görünüyor."
         ]
       }
     },
@@ -228,14 +228,14 @@
       "revenue_growth": 62.0,
       "ai": {
         "signal": "AL",
-        "confidence": 60,
+        "confidence": 65,
         "target_price": 13.5,
         "stop_loss": 11.5,
-        "timeframe": "2-4 Hafta",
+        "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 23.2 ile aşırı satım bölgesinde.",
-          "Firma'nın gelir büyümesi %62.0 ile iyi durumda.",
-          "Firma'nın öz kaynak karlılığı %22.4 ile orta düzeyde."
+          "Firma’nın gelir büyümesi %62.0 ile yüksek görünüyor.",
+          "P/B oranı 0.71 ile düşük görünüyor."
         ]
       }
     },
@@ -262,14 +262,14 @@
       "revenue_growth": 55.4,
       "ai": {
         "signal": "AL",
-        "confidence": 65,
-        "target_price": 33.0,
+        "confidence": 75,
+        "target_price": 34.0,
         "stop_loss": 29.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 23.4 ile aşırı satım bölgesinde.",
-          "Firma'nın öz kaynak karlılığı %23.5 ile orta düzeyde.",
-          "Firma'nın net kar marjı %26.6 ile iyi durumda."
+          "MACD ve sinyal çizgisi arasında negatif ayrışmanın olduğu görülmektedir.",
+          "Firma’nın net kar marjı %26.6 ile yüksek görünüyor."
         ]
       }
     },
@@ -296,14 +296,14 @@
       "revenue_growth": 4.8,
       "ai": {
         "signal": "SAT",
-        "confidence": 55,
+        "confidence": 60,
         "target_price": 180.0,
-        "stop_loss": 190.0,
-        "timeframe": "2-4 Hafta",
+        "stop_loss": 195.0,
+        "timeframe": "1-3 Hafta",
         "rationale": [
-          "Firma'nın fiyat/kazanç oranı 19.91 ile yüksek.",
-          "Firma'nın öz kaynak karlılığı %3.9 ile düşük.",
-          "Firma'nın net kar marjı %0.9 ile düşük."
+          "Firma’nın P/E oranı 19.91 ile yüksek görünüyor.",
+          "Firma’nın öz kaynak karlılığı %3.9 ile düşük görünüyor.",
+          "Firma’nın net kar marjı %0.9 ile düşük görünüyor."
         ]
       }
     },
@@ -333,11 +333,11 @@
         "confidence": 50,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "2-4 Hafta",
+        "timeframe": "Değersiz",
         "rationale": [
-          "Firma'nın fiyat/kazanç oranı 21.27 ile yüksek.",
-          "Firma'nın öz kaynak karlılığı %2.4 ile düşük.",
-          "Firma'nın net kar marjı %3.1 ile düşük."
+          "Firma’nın teknik göstergeleri kararsız görünüyor.",
+          "Firma’nın temel analiz verileri de kararsız görünüyor.",
+          "Firma’nın haber başlıklarında önemli bir gelişme yok."
         ]
       }
     },
@@ -370,8 +370,8 @@
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 36.2 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "P/B oranı 0.31 ile düşük seviyede"
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Bollinger Bantları içinde hareket ediyor"
         ]
       }
     },
@@ -400,12 +400,12 @@
         "signal": "AL",
         "confidence": 80,
         "target_price": 410.0,
-        "stop_loss": 350.0,
-        "timeframe": "2-4 Hafta",
+        "stop_loss": 360.0,
+        "timeframe": "4-6 Hafta",
         "rationale": [
-          "RSI 14 değeri 50.3 ile orta seviyede",
-          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde kalması",
-          "P/B oranı 2.4 ile orta seviyede"
+          "RSI 14 değeri 50.3 ile nötr seviyede",
+          "Fiyat, 20 günlük basit hareketli ortalamasının üzerinde",
+          "Gelir büyümesi %10.1 ile olumlu"
         ]
       }
     },
@@ -438,8 +438,8 @@
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 31.0 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "P/B oranı 1.64 ile düşük seviyede"
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Gelir büyümesi %-8.6 ile olumsuz"
         ]
       }
     },
@@ -467,13 +467,13 @@
       "ai": {
         "signal": "GÜÇLÜ SAT",
         "confidence": 90,
-        "target_price": 220.0,
-        "stop_loss": 300.0,
+        "target_price": 240.0,
+        "stop_loss": 280.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 29.7 ile çok düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "P/B oranı 2.21 ile orta seviyede"
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Bollinger Bantları içinde hareket ediyor ve aşağı yönlü"
         ]
       }
     },
@@ -506,8 +506,8 @@
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 36.8 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "P/B oranı 0.76 ile düşük seviyede"
+          "Fiyat, 20 ve 50 günlük basit hareketli ortalamaların altında",
+          "Gelir büyümesi %8.9 ile olumlu ancak kar marjı düşük"
         ]
       }
     },
@@ -539,9 +539,9 @@
         "stop_loss": null,
         "timeframe": "2-4 Hafta",
         "rationale": [
-          "Teknik göstergeler hissenin nötr bir konumda olduğunu gösteriyor.",
-          "RSI 14 değeri 40.5 seviyesinde, MACD ve sinyal çizgisi birbirine yakınsıyor.",
-          "Hissede kısa vadeli bir hareket beklenmiyor."
+          "PETKM hissesinin RSI değeri 40.5 seviyesinde, bu da hissenin şu an için nötr bir konumda olduğunu gösteriyor.",
+          "Firma'nın ROE değeri -10.3 seviyesinde, bu da şirketin karlılık açısından zorluklar yaşadığını gösteriyor.",
+          "Hisselerin fiyatı son 1 hafta içinde %15.74 oranında düşmüştür, bu da kısa vadede satış baskısına işaret ediyor."
         ]
       }
     },
@@ -571,11 +571,11 @@
         "confidence": 70,
         "target_price": 250.0,
         "stop_loss": 320.0,
-        "timeframe": "1-3 Hafta",
+        "timeframe": "1-2 Ay",
         "rationale": [
-          "Hissede yüksek fiyatlanma ve yüksek PE oranı dikkat çekiyor.",
-          "Teknik göstergeler hissenin satış baskısına girebileceğini gösteriyor.",
-          "Hissede kısa vadeli bir satış hareketi bekleniyor."
+          "ASTOR hissesinin fiyatı son 1 hafta içinde %6.35 oranında düşmüştür, bu da satış baskısına işaret ediyor.",
+          "Firma'nın PE oranı 34.6 seviyesinde, bu da hissenin şu an için biraz pahalı olduğunu gösteriyor.",
+          "Hisselerin MACD göstergesi -4.546 seviyesinde, bu da satış sinyali veriyor."
         ]
       }
     },
@@ -607,9 +607,9 @@
         "stop_loss": null,
         "timeframe": "2-4 Hafta",
         "rationale": [
-          "Hissede teknik göstergeler nötr bir konumda.",
-          "RSI 14 değeri 23.3 seviyesinde, MACD ve sinyal çizgisi birbirinden uzaklaşıyor.",
-          "Hissede kısa vadeli bir hareket beklenmiyor."
+          "PGSUS hissesinin RSI değeri 23.3 seviyesinde, bu da hissenin şu an için oversold konumunda olduğunu gösteriyor.",
+          "Firma'nın gelir büyümesi %38.9 seviyesinde, bu da şirketin gelir açısından iyi bir performans gösterdiğini gösteriyor.",
+          "Hisselerin fiyatı son 1 hafta içinde %7.29 oranında düşmüştür, bu da satış baskısına işaret ediyor."
         ]
       }
     },
@@ -637,13 +637,13 @@
       "ai": {
         "signal": "GÜÇLÜ SAT",
         "confidence": 80,
-        "target_price": 15.0,
+        "target_price": 12.0,
         "stop_loss": 20.0,
-        "timeframe": "1-3 Hafta",
+        "timeframe": "1-2 Ay",
         "rationale": [
-          "Hissede teknik göstergeler güçlü bir satış baskısına işaret ediyor.",
-          "RSI 14 değeri 28.8 seviyesinde, MACD ve sinyal çizgisi birbirine yakınsıyor.",
-          "Hissede kısa vadeli bir satış hareketi bekleniyor."
+          "EKGYO hissesinin fiyatı son 1 hafta içinde %7.51 oranında düşmüştür, bu da satış baskısına işaret ediyor.",
+          "Firma'nın ROE değeri 2.4 seviyesinde, bu da şirketin karlılık açısından zorluklar yaşadığını gösteriyor.",
+          "Hisselerin MACD göstergesi -0.672 seviyesinde, bu da satış sinyali veriyor."
         ]
       }
     },
@@ -675,9 +675,9 @@
         "stop_loss": null,
         "timeframe": "2-4 Hafta",
         "rationale": [
-          "Hissede teknik göstergeler nötr bir konumda.",
-          "RSI 14 değeri 39.5 seviyesinde, MACD ve sinyal çizgisi birbirinden uzaklaşıyor.",
-          "Hissede kısa vadeli bir hareket beklenmiyor."
+          "ARCLK hissesinin RSI değeri 39.5 seviyesinde, bu da hissenin şu an için nötr bir konumda olduğunu gösteriyor.",
+          "Firma'nın gelir büyümesi -8.8 seviyesinde, bu da şirketin gelir açısından zorluklar yaşadığını gösteriyor.",
+          "Hisselerin fiyatı son 1 hafta içinde %2.12 oranında düşmüştür, bu da satış baskısına işaret ediyor."
         ]
       }
     }
