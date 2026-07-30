@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-30T14:27:44+03:00",
-  "overview": "Gunun piyasa gorunumu genel olarak dusus yonunde seyrediyor. BIST 100 endeksi 0.72% duserek 13404.23 seviyesine geriledi. Doviz kurlarinda USD/TRY ve EUR/TRY hafif artis kaydetti. Hisse senedi sinyalleri ise karisik bir sekilde gorunuyor, THYAO ve TUPRS gibi hisselerde al sinyali bulunurken, KCHOL ve FROTO gibi hisselerde sat sinyali goruluyor.",
+  "updated_at": "2026-07-30T16:06:07+03:00",
+  "overview": "Piyasa genelinde negatif bir görünüm hakimken, DAX endeksi ve bazı emtiaların değer kazanması dikkat çekiyor. USD/TRY ve EUR/TRY kurundaki artışlar da ekonomi üzerinde baskı oluşturuyor. Hisse sinyallerine göre THYAO, ASELS, TUPRS ve bazı bankacılık hisseleri yatırım için ilgi görürken, KCHOL, FROTO ve TOASO gibi hisseler satış baskısına maruz kalabilir.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13404.23,
-      "change_pct": -0.72
+      "value": 13293.92,
+      "change_pct": -1.54
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 25496.34,
-      "change_pct": 0.14
+      "value": 25499.99,
+      "change_pct": 0.16
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.49,
-      "change_pct": 1.0
+      "value": 54.51,
+      "change_pct": 1.05
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4139.3,
-      "change_pct": 2.59
+      "value": 4127.6,
+      "change_pct": 2.3
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 90.2,
-      "change_pct": -0.6
+      "value": 90.34,
+      "change_pct": -0.44
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6309.33,
+      "value": 6291.57,
       "change_pct": null
     }
   ]
