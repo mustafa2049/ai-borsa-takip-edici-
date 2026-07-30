@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-30T16:06:07+03:00",
+  "updated_at": "2026-07-30T18:29:44+03:00",
   "news": [
     {
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "title": "Henry Schein hisseleri neden düşüyor?",
       "summary": "",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-30T13:00:32",
+      "url": "https://tr.investing.com/news/stock-market-news/henry-schein-hisseleri-neden-dusuyor-93CH-4005190",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:14:50",
       "ai": {
-        "impact": "ABD ekonomisinin ikinci çeyrekte %1,5 büyümesi, beklentilerin altında kalması nedeniyle global piyasalarda dalgalanmalara neden olabilir. Bu durum, Türkiye'de de ekonomi ve piyasalar üzerinde olumsuz etkiler yaratabilir.",
+        "impact": "Henry Schein hisselerinin düşmesi, şirketin iç dinamiklerine bağlı olarak oluşabilir. Bu durum, şirketin gelecekteki performansını etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Yum Brands CEO says cyclospora outbreak has hurt Taco Bell, but sales are already improving",
-      "summary": "The restaurant company provided no update on the cyclospora outbreak tied to Taco Bell restaurants is affecting its business.",
-      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-30T12:57:45",
+      "title": "DA Davidson, Wingstop’un hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-wingstopun-hisse-hedefini-dusurdu-93CH-4005189",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:12:01",
       "ai": {
-        "impact": "Yum Brands CEO'sunun yaptığı açıklama, şirketin satışlarının already iyileşmekte olduğunu belirtmesi nedeniyle yatırımcılar için olumlu bir sinyal olabilir. Ancak bu, Türkiye piyasaları üzerinde doğrudan bir etkisi olmayabilir.",
+        "impact": "Wingstop’un hisse hedefinin düşürülmesi, şirketin beklentilerini karşılayamamasına bağlanabilir. Bu durum, yatırımcıların şirket hakkındaki görüşlerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "DA Davidson, Starbucks’ın hisse hedefini güçlü sonuçlarla yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-starbucksn-hisse-hedefini-guclu-sonuclarla-yukseltti-93CH-4005188",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:11:50",
+      "ai": {
+        "impact": "Starbucks’ın hisse hedefinin yükseltilmesi, şirketin güçlü finansal performansına işaret eder. Bu durum, yatırımcıların şirket hakkındaki görüşlerini olumlu etkileyebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Fransız milyarderin servet planı değişti: Bahçıvanını evlat edinip milyarlarını bırakacak",
-      "summary": "Hermès&#039;in kurucu ailesinin varislerinden Nicolas Puech&#039;in, yaklaşık 11,5 milyar dolarlık servetiyle ilgili aldığı karar Avrupa&#039;da büyük yankı uyandırdı. Servetini yıllardır desteklediği vakfa bırakması beklenen Puech&#039;in, eski bahçıvanını evlat edinerek miras planını değiştirmesi hukuki tartışmaları da beraberinde getirdi.",
-      "url": "https://www.dunya.com/ekonomi/fransiz-milyarderin-servet-plani-degisti-bahcivanini-evlat-edinip-milyarlarini-birakacak-haberi-834286",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:55:00",
+      "title": "D.A. Davidson, O’Reilly Automotive hissesi için Al tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-oreilly-automotive-hissesi-icin-al-tavsiyesini-korudu-93CH-4005187",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:11:43",
       "ai": {
-        "impact": "Fransız milyarderin servet planını değiştirmesi, Avrupa'da hukuki tartışmalara neden olsa da, Türkiye piyasaları üzerinde önemli bir etkisi olmayabilir.",
+        "impact": "O’Reilly Automotive hissesi için Al tavsiyesinin korunması, şirketin gelecekteki potansiyelini vurgular. Bu durum, yatırımcıların şirket hakkındaki görüşlerini olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "DA Davidson, Meta’nın hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-metann-hisse-hedefini-dusurdu-93CH-4005186",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:11:37",
+      "ai": {
+        "impact": "Meta’nın hisse hedefinin düşürülmesi, şirketin beklentilerini karşılayamamasına bağlanabilir. Bu durum, yatırımcıların şirket hakkındaki görüşlerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Fed faiz tutarken Hazine tahvil faizleri enflasyon endişesiyle yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/fed-faiz-tutarken-hazine-tahvil-faizleri-enflasyon-endisesiyle-yukseldi-93CH-4005185",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:11:34",
+      "ai": {
+        "impact": "Fed’in faiz oranlarını tutması ve Hazine tahvil faizlerinin yükselmesi, enflasyon endişesiyle bağlantılı olabilir. Bu durum, genel ekonomi ve piyasalar üzerinde etkileri olabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "ABD ekonomisinde büyüme beklentilerin altında kaldı",
-      "summary": "Son dakika... ABD ekonomisi bu yılın ikinci çeyreğinde yüzde 1,5 ile beklentilerin altında büyüdü.",
-      "url": "https://www.dunya.com/ekonomi/abd-ekonomisinde-buyume-beklentilerin-altinda-kaldi-haberi-834287",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:48:00",
-      "ai": {
-        "impact": "ABD ekonomisinin büyüme beklentilerin altında kalması, global piyasalarda belirsizlik yaratabilir ve Türkiye'de de ekonomi üzerinde olumsuz etkiler yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
-      "summary": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widened strikes on energy infrastructure across the region.",
-      "url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
+      "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
+      "summary": "Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what’s so far been a rough week on solid footing.",
+      "url": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-30T12:45:54",
+      "published": "2026-07-30T15:11:30",
       "ai": {
-        "impact": "Mısır'da drone saldırısı, enerji altyapısına yönelik saldırıların genişlemesi nedeniyle petrol fiyatlarında dalgalanmalara neden olabilir ve bu durum, Türkiye'de de enerji fiyatlarını etkileyebilir.",
+        "impact": "Apple ve Amazon’un kazanç raporlarının piyasalar üzerinde önemli bir etkisi olabilir. Bu raporlar, şirketlerin performansını ve gelecekteki beklentilerini etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Henry Schein hisseleri üç yöneticinin görevden ayrılmasıyla düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/henry-schein-hisseleri-uc-yoneticinin-gorevden-ayrlmasyla-dustu-93CH-4005184",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T15:11:07",
+      "ai": {
+        "impact": "Henry Schein hisselerinin üç yöneticinin görevden ayrılmasıyla düşmesi, şirketin iç dinamiklerine bağlı olarak oluşabilir. Bu durum, şirketin gelecekteki performansını etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "İran savaşı Trump'ı çileden çıkardı: Danışmanlarına sert çıktı",
-      "summary": "ABD Başkanı Donald Trump&#039;ın, İran savaşının amacı ve sonraki adımlar konusunda danışmanlarıyla görüş ayrılığı yaşadığı öne sürüldü. NBC News&#039;a konuşan kaynaklar, üst düzey isimlerin ortak bir stratejide buluşamaması nedeniyle Trump&#039;ın &quot;bezgin&quot; ve mevcut durumdan &quot;hoşnut olmadığını&quot; iddia etti.",
-      "url": "https://www.dunya.com/dunya/iran-savasi-trumpi-cileden-cikardi-danismanlarina-sert-cikti-haberi-834285",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:43:00",
-      "ai": {
-        "impact": "İran savaşının amacı ve sonraki adımlar konusunda ABD'de görüş ayrılıkları, global piyasalarda belirsizlik yaratabilir ve Türkiye'de de ekonomi üzerinde olumsuz etkiler yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "ABD ekonomisi ikinci çeyrekte %1,5 büyüdü",
+      "title": "Hershey hissesi bugün neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/economic-indicators/abd-ekonomisi-ikinci-ceyrekte-15-buyudu-4004639",
+      "url": "https://tr.investing.com/news/stock-market-news/hershey-hissesi-bugun-neden-dusuyor-93CH-4005183",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T12:42:36",
-      "ai": {
-        "impact": "ABD ekonomisinin %1,5 büyümesi, beklentilerin altında kalması nedeniyle global piyasalarda dalgalanmalara neden olabilir ve bu durum, Türkiye'de de ekonomi ve piyasalar üzerinde olumsuz etkiler yaratabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-07-30T15:10:43"
     },
     {
-      "title": "Oil States International hisseleri neden yükseliyor?",
+      "title": "Lexaria Bioscience 1’e 15 ters hisse bölünmesi planlıyor",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/oil-states-international-hisseleri-neden-yukseliyor-93CH-4004603",
+      "url": "https://tr.investing.com/news/company-news/lexaria-bioscience-1e-15-ters-hisse-bolunmesi-planlyor-93CH-4005182",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T12:41:34",
-      "ai": {
-        "impact": "Oil States International hisselerinin yükselmesi, enerji sektöründe olumlu bir gelişme olarak görülse de, Türkiye piyasaları üzerinde doğrudan bir etkisi olmayabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-07-30T15:09:36"
     },
     {
-      "title": "EMCOR hissesi bugün neden yükseliyor?",
+      "title": "Canadian Solar hisseleri neden yükselişte?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/emcor-hissesi-bugun-neden-yukseliyor-93CH-4004598",
+      "url": "https://tr.investing.com/news/stock-market-news/canadian-solar-hisseleri-neden-yukseliste-93CH-4005181",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T12:39:19"
+      "published": "2026-07-30T15:09:32"
     },
     {
-      "title": "Lite Strategy ortalama 1,11 dolar fiyatla 4,9 milyon hisse geri aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lite-strategy-ortalama-111-dolar-fiyatla-49-milyon-hisse-geri-ald-93CH-4004585",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:41"
-    },
-    {
-      "title": "Lantronix, Swarmer ile drone bilişim platformu için ortaklık kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lantronix-swarmer-ile-drone-bilisim-platformu-icin-ortaklk-kurdu-93CH-4004583",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:37"
-    },
-    {
-      "title": "Brenmiller Energy hissedarları CEO değişikliğini onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/brenmiller-energy-hissedarlar-ceo-degisikligini-onaylad-93CH-4004581",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:36"
-    },
-    {
-      "title": "Clearmind, alkol kullanım bozukluğu denemesinden olumlu veriler açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/clearmind-alkol-kullanm-bozuklugu-denemesinden-olumlu-veriler-acklad-93CH-4004579",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:31"
-    },
-    {
-      "title": "Volt Carbon 40.000 ton için ilk siparişi aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/volt-carbon-40000-ton-icin-ilk-siparisi-ald-93CH-4004578",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:27"
-    },
-    {
-      "title": "VenHub, LAX ortaklığını uzattı ve ikinci üretim tesisini açtı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/venhub-lax-ortaklgn-uzatt-ve-ikinci-uretim-tesisini-act-93CH-4004577",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:21"
-    },
-    {
-      "title": "Safe Pro, ABD Ordusu’nun yapay zeka destekli drone tespit tatbikatını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/safe-pro-abd-ordusunun-yapay-zeka-destekli-drone-tespit-tatbikatn-tamamlad-93CH-4004576",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T12:38:19"
-    },
-    {
-      "title": "Meteoroloji uyardı: Marmara Denizi'nde fırtına etkili olacak",
-      "summary": "Meteoroloji Genel Müdürlüğü, Marmara Denizi&#039;nin güneyinde yarın öğle saatlerinden itibaren kuzey ve kuzeydoğudan 6 ila 8 kuvvetinde fırtına beklendiğini duyurdu. Fırtınanın gece saatlerinde etkisini yitirmesi öngörülüyor.",
-      "url": "https://www.dunya.com/gundem/meteoroloji-uyardi-marmara-denizinde-firtina-etkili-olacak-haberi-834283",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:35:00"
-    },
-    {
-      "title": "Suudi Arabistan ekonomisine petrol darbesi",
-      "summary": "Suudi Arabistan ekonomisi, petrol faaliyetlerinde yaşanan yüzde 24,7&#039;lik sert düşüşün etkisiyle 2026&#039;nın ikinci çeyreğinde yıllık bazda yüzde 4,8 küçüldü. Mevsim etkilerinden arındırılmış reel GSYH de yılın ilk çeyreğine göre yüzde 4,9 geriledi.",
-      "url": "https://www.dunya.com/dunya/suudi-arabistan-ekonomisine-petrol-darbesi-haberi-834282",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:23:00"
-    },
-    {
-      "title": "Ferrari raises 2026 guidance after Q2 earnings beat",
-      "summary": "Ferrari is bumping up its 2026 guidance after beating Wall Street's second quarter expectations amid \"healthy\" demand for its products.",
-      "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-30T12:21:33"
+      "published": "2026-07-30T15:04:43"
     },
     {
-      "title": "Her şey dahil oteller için dikkat çeken uyarı! Vakalarr hızla artıyor",
-      "summary": "İngiltere Sağlık Güvenliği Ajansı, Meksika başta olmak üzere ABD ve Kenya&#039;dan dönen yolcularda Cyclospora enfeksiyonu vakalarının hızla arttığını açıkladı. Yetkililer, özellikle her şey dahil otellerde konaklayan tatilcileri yiyecek ve su hijyenine karşı dikkatli olmaları konusunda uyardı.",
-      "url": "https://www.dunya.com/dunya/her-sey-dahil-oteller-icin-dikkat-ceken-uyari-vakalarr-hizla-artiyor-haberi-834284",
+      "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
+      "summary": "Auto giant Stellantis on Thursday swung to profit in the second quarter, boosted by rising demand in North America.",
+      "url": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T15:02:17"
+    },
+    {
+      "title": "The oil majors are about to report booming profits. These smaller stocks may be better buys",
+      "summary": "Several renewable and AI-linked stocks that may be better buys than the majors right now, according to Wall Street.",
+      "url": "https://www.cnbc.com/2026/07/30/the-oil-majors-are-about-to-report-booming-profits-these-smaller-stocks-may-be-better-buys.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T14:58:40"
+    },
+    {
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T14:55:31"
+    },
+    {
+      "title": "How NBCUniversal's deal with YouTube could jumpstart the next chapter of the streaming wars",
+      "summary": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
+      "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T14:55:17"
+    },
+    {
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "New York borsası, şirket bilançoları ve ABD ekonomisine ilişkin yeni verilerin yatırımcılar tarafından değerlendirildiği güne yükselişle başladı. Açılışta Dow Jones endeksi yüzde 1,01 artarak 52.114,27 puana çıktı. ​​​​​S&amp;P 500 endeksi yüzde 1,02 artışla 7.390,45 puana, Nasdaq endeksi yüzde 1,67 kazançla 24.852,04 puana yükseldi.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-834310",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-30T12:15:00"
+      "published": "2026-07-30T14:50:00"
+    },
+    {
+      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T14:45:24"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Lübnan Cumhurbaşkanı Avn'ı resmi törenle karşıladı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye&#039;yi ziyaret eden Lübnan Cumhurbaşkanı Joseph Avn&#039;ı resmi törenle karşıladı.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-lubnan-cumhurbaskani-avni-resmi-torenle-karsiladi-haberi-834306",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T14:38:00"
+    },
+    {
+      "title": "Amazon's Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle",
+      "summary": "The exemption allows Zoox to operate up to 2,500 vehicles annually for two years, subject to \"enhanced, adaptable\" oversight conditions.",
+      "url": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T14:36:59"
     }
   ]
 }
