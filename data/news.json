@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-30T12:25:43+03:00",
+  "updated_at": "2026-07-30T14:27:44+03:00",
   "news": [
     {
-      "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-      "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
-      "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+      "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak",
+      "summary": "The restaurant company provided no update on the cyclospora outbreak tied to Taco Bell restaurants is affecting its business.",
+      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-30T09:10:14",
+      "published": "2026-07-30T11:27:55",
       "ai": {
-        "impact": "Samsung'un çip krizi öngörüsü teknoloji hisselerine ve tedarik zincirlerine olumsuz yansıyabilir.",
+        "impact": "Yum Brands'in karışık sonuçları ve Taco Bell'de yaşanan cyclospora salgınına ilişkin güncellemenin olmaması, şirketin hisselerine olumsuz yansıyabilir. Bu durum, Türkiye ve dünya piyasalarında benzer şirketlerin hisselerine de etkileri olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "WestJet’te 72 saatlik grev sayacı başladı",
-      "summary": "Kanada’nın ikinci büyük hava yolu WestJet’te kabin görevlileri, ücretsiz çalışma ve ücret anlaşmazlığı nedeniyle 72 saatlik grev bildirimi verdi. Anlaşma sağlanamazsa iş bırakma 2 Ağustos’ta başlayabilecek.",
-      "url": "https://www.dunya.com/is-dunyasi/westjette-72-saatlik-grev-sayaci-basladi-haberi-834250",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T09:10:00",
+      "title": "Oppenheimer, Azure büyümesi ile Microsoft hissesi notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/oppenheimer-azure-buyumesi-ile-microsoft-hissesi-notunu-korudu-93CH-4004158",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T11:24:06",
       "ai": {
-        "impact": "WestJet'teki grev potential olarak havayolu sektörüne ve Kanada ekonomisine olumsuz etkide bulunabilir.",
+        "impact": "Oppenheimer'in Microsoft hissesi notunu koruması, Azure'ın büyümesi sayesinde şirketin güçlü performansını gösteriyor. Bu durum, teknoloji sektörüne ve Türkiye'de benzer şirketlere pozitif yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BTIG, Temmuz satışlarındaki yavaşlama nedeniyle Boot Barn hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/btig-temmuz-satslarndaki-yavaslama-nedeniyle-boot-barn-hisse-hedefini-dusurdu-93CH-4004157",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T11:24:01",
+      "ai": {
+        "impact": "BTIG'in Boot Barn hisse hedefini düşürmesi, şirketin satışlarında yaşanan yavaşlama nedeniyle olabilir. Bu durum, perakende sektörüne ve Türkiye'de benzer şirketlere negatif yansıyabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "MSB'den Türkiye-Irak mesajı: Ekonomi ve enerji ön planda",
-      "summary": "Milli Savunma Bakanlığı, Irak Başbakanı Ali ez-Zeydi&#039;nin Türkiye ziyareti kapsamında imzalanan anlaşmaların iki ülke ilişkileri ile bölgesel istikrar açısından önemli olduğunu belirtti. Bakanlık, Türkiye ile Irak arasında son dönemde gerçekleştirilen temaslarda ekonomi ve enerji alanındaki iş birliğinin ön plana çıktığını ifade etti.",
-      "url": "https://www.dunya.com/gundem/msbden-turkiye-irak-mesaji-ekonomi-ve-enerji-on-planda-haberi-834249",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T09:09:00",
-      "ai": {
-        "impact": "Türkiye ve Irak arasındaki ekonomik ve enerji iş birliği anlaşmaları iki ülke arasındaki ticareti ve bölgesel istikrarı olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
-      "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-30T09:01:56",
-      "ai": {
-        "impact": "Meta ve Microsoft'un hisse performansındaki farklılaşma teknoloji sektöründe yatırımcı tercihlerini etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Almanya’nın GSYİH’si ikinci çeyrekte %0,2 büyüdü, tahminleri aştı",
+      "title": "Sirius XM hisseleri bugün neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/economic-indicators/almanyann-gsyihsi-ikinci-ceyrekte-02-buyudu-tahminleri-ast-93CH-4003445",
+      "url": "https://tr.investing.com/news/stock-market-news/sirius-xm-hisseleri-bugun-neden-dusuyor-93CH-4004156",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T09:00:25",
+      "published": "2026-07-30T11:23:37",
       "ai": {
-        "impact": "Almanya'nın GSYİH'sinin beklentileri aşması Avrupa ekonomisine ve küresel ekonomik görünüme olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "BAT hisseleri Asya-Pasifik zayıflığıyla geriledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/earnings/bat-hisseleri-asyapasifik-zayflgyla-geriledi-4003446",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T09:00:06",
-      "ai": {
-        "impact": "BAT hisselerinin Asya-Pasifik zayıflığıyla gerilemesi küresel piyasalara ve yatırımcı güvenine olumsuz yansıyabilir.",
+        "impact": "Sirius XM hisselerinin düşmesi, şirketin performansına veya sektörel koşullara bağlı olabilir. Bu durum, medya ve eğlence sektörüne ve Türkiye'de benzer şirketlere negatif yansıyabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Jeronimo Martins hisseleri Biedronka marjıyla yükseldi",
+      "title": "Lincoln Financial 5,8 milyar dolarlık hayat rezervini reasüre etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/jeronimo-martins-hisseleri-biedronka-marjyla-yukseldi-93CH-4003433",
+      "url": "https://tr.investing.com/news/company-news/lincoln-financial-58-milyar-dolarlk-hayat-rezervini-reasure-etti-93CH-4004150",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T08:58:42",
+      "published": "2026-07-30T11:21:36",
       "ai": {
-        "impact": "Jeronimo Martins hisselerinin yükselmesi perakende sektörüne ve ilgili hisselerine olumlu yansıyabilir.",
+        "impact": "Lincoln Financial'in hayat rezervini reasüre etmesi, şirketin finansal durumunu güçlendirebilir. Bu durum, sigorta sektörüne ve Türkiye'de benzer şirketlere pozitif yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "SPK’dan MSCI hamlesi: Türkiye’nin gelişmekte olan piyasa statüsü için kritik düzenleme",
-      "summary": "MSCI’ın Kasım 2026’da yapacağı kritik endeks değerlendirmesi öncesinde Sermaye Piyasası Kurulu, piyasalardaki belirsizlikleri azaltmaya yönelik yeni adımlar atıyor. GYF ve GSYF katılma paylarının değerleme yönteminde yapılan son değişikliğin, Türkiye’nin MSCI’daki “gelişmekte olan piyasa” statüsünü koruma sürecine katkı sağlaması bekleniyor.",
-      "url": "https://www.dunya.com/sirketler/spkdan-msci-hamlesi-turkiyenin-gelismekte-olan-piyasa-statusu-icin-kritik-duzenleme-haberi-834247",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-30T08:58:00",
+      "title": "Capricor Therapeutics hissesi bugün neden çöküyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/capricor-therapeutics-hissesi-bugun-neden-cokuyor-93CH-4004147",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T11:20:31",
       "ai": {
-        "impact": "SPK'nın MSCI hamlesi Türkiye'nin gelişmekte olan piyasa statüsünü koruma sürecine katkıda bulunabilir.",
-        "sentiment": "Pozitif"
+        "impact": "Capricor Therapeutics hisselerinin çökmesi, şirketin performansına veya sektörel koşullara bağlı olabilir. Bu durum, biyoteknoloji sektörüne ve Türkiye'de benzer şirketlere negatif yansıyabilir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "Bölünen Fed faizleri sabit tutmayı seçti. Wall Street’in tepkisi",
+      "title": "Check Point Software hissesi bugün neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/bolunen-fed-faizleri-sabit-tutmay-secti-wall-streetin-tepkisi-4003444",
+      "url": "https://tr.investing.com/news/stock-market-news/check-point-software-hissesi-bugun-neden-dusuyor-93CH-4004108",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T08:57:39"
+      "published": "2026-07-30T11:18:06",
+      "ai": {
+        "impact": "Check Point Software hisselerinin düşmesi, şirketin performansına veya siber güvenlik sektöründeki koşullara bağlı olabilir. Bu durum, teknoloji sektörüne ve Türkiye'de benzer şirketlere negatif yansıyabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Andritz hissesi bugün neden yükseliyor?",
+      "title": "Norwegian Cruise Line hissesi neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/andritz-hissesi-bugun-neden-yukseliyor-93CH-4003431",
+      "url": "https://tr.investing.com/news/stock-market-news/norwegian-cruise-line-hissesi-neden-dusuyor-93CH-4004105",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T08:57:18"
+      "published": "2026-07-30T11:17:53",
+      "ai": {
+        "impact": "Norwegian Cruise Line hisselerinin düşmesi, şirketin performansına veya seyahat ve turizm sektöründeki koşullara bağlı olabilir. Bu durum, seyahat ve turizm sektörüne ve Türkiye'de benzer şirketlere negatif yansıyabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Amundi hissesi bugün neden yükseliyor?",
+      "title": "Crocs hisseleri neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/amundi-hissesi-bugun-neden-yukseliyor-93CH-4003430",
+      "url": "https://tr.investing.com/news/stock-market-news/crocs-hisseleri-neden-dusuyor-93CH-4004104",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T08:56:50"
+      "published": "2026-07-30T11:17:49"
     },
     {
-      "title": "Ayvens hissesi bugün neden yükselişte?",
+      "title": "Cinemark hisseleri bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ayvens-hissesi-bugun-neden-yukseliste-93CH-4003410",
+      "url": "https://tr.investing.com/news/stock-market-news/cinemark-hisseleri-bugun-neden-yukseliyor-93CH-4004101",
       "source": "Investing Türkiye",
-      "published": "2026-07-30T08:55:59"
+      "published": "2026-07-30T11:17:38"
     },
     {
-      "title": "Samsung yarı iletkende sıkışıklığın 2028’e uzamasını bekliyor",
-      "summary": "Samsung, veri merkezi şirketleriyle yaptığı uzun vadeli anlaşmalarla bellek kapasitesinin yüzde 60-70’ini en az beş yıllığına bağladı. Şirket, arz sıkışıklığının 2027’de ağırlaşıp 2028’e uzanacağını öngörüyor.",
-      "url": "https://www.dunya.com/ekonomi/samsung-yari-iletkende-sikisikligin-2028e-uzamasini-bekliyor-haberi-834246",
+      "title": "OCS, Mitie yöneticisinden gelen taahhüdü güncelledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ocs-mitie-yoneticisinden-gelen-taahhudu-guncelledi-93CH-4004100",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T11:17:20"
+    },
+    {
+      "title": "Amazon’un yapay zekâsı sahte etiketi buluyor ama, müşteriyi uyarmıyor",
+      "summary": "Columbia Üniversitesi’nin araştırması, Amazon ve Walmart’ın yapay zekâ asistanlarının sahte “ABD’de üretildi” beyanlarını tespit edebildiğini ortaya koydu. Ancak bu çelişkiler ürün sayfalarında müşterilere uyarı olarak gösterilmiyor.",
+      "url": "https://www.dunya.com/ekonomi/amazonun-yapay-zekasi-sahte-etiketi-buluyor-ama-musteriyi-uyarmiyor-haberi-834270",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-30T08:54:00"
+      "published": "2026-07-30T11:08:00"
     },
     {
-      "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping ‘a new world order’",
-      "summary": "Attacks near the Strait of Hormuz, Red Sea and Black Sea are pushing shipowners to reroute cargo and rethink global trade risks.",
-      "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
+      "title": "TCMB PPK özeti yayımlandı: Enflasyonda temmuz uyarısı, sıkı duruş mesajı yinelendi",
+      "summary": "TCMB, 23 Temmuz tarihli Para Politikası Kurulu (PPK) toplantısının özetini yayımladı. Özette, jeopolitik gelişmelerin enerji fiyatları ve enflasyon üzerinde yukarı yönlü risk oluşturduğu vurgulanırken, temmuz ayında enflasyonun geçici olarak yükselebileceği belirtildi. Kurul, enflasyonda kalıcı bozulma olması halinde para politikasının sıkılaştırılacağı mesajını yineledi.",
+      "url": "https://www.dunya.com/ekonomik-veriler/tcmb-ppk-ozeti-yayimlandi-enflasyonda-temmuz-uyarisi-siki-durus-mesaji-yinelendi-haberi-834269",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T11:07:00"
+    },
+    {
+      "title": "İngiltere Merkez Bankası faizi sabit tuttu: Politika faizi yüzde 3,75'te kaldı",
+      "summary": "İngiltere Merkez Bankası (BoE), piyasa beklentileri doğrultusunda politika faizini yüzde 3,75 seviyesinde sabit bıraktı.",
+      "url": "https://www.dunya.com/dunya/ingiltere-merkez-bankasi-faizi-sabit-tuttu-politika-faizi-yuzde-375te-kaldi-haberi-834267",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T11:03:00"
+    },
+    {
+      "title": "Loeffler's financial disclosure reveals husband’s ties to exclusive Trump Jr.-backed private club",
+      "summary": "The Executive Branch club, where members include Trump administration officials, investors and business leaders, charges a $500,000 entry fee.",
+      "url": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-30T08:52:10"
+      "published": "2026-07-30T11:00:01"
     },
     {
-      "title": "Knorr-Bremse hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/knorrbremse-hissesi-bugun-neden-dusuyor-93CH-4003378",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T08:51:37"
-    },
-    {
-      "title": "Syensqo hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/syensqo-hissesi-bugun-neden-yukseliyor-93CH-4003377",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T08:51:32"
-    },
-    {
-      "title": "Logitech hissesi neden bugün düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/logitech-hissesi-neden-bugun-dusuyor-93CH-4003376",
-      "source": "Investing Türkiye",
-      "published": "2026-07-30T08:51:21"
-    },
-    {
-      "title": "Önder Sav CHP'den ayrıldı: 70 yıllık parti üyeliğini sonlandırdı",
-      "summary": "Eski Cumhuriyet Halk Partisi (CHP) Genel Sekreteri Önder Sav, yaklaşık 70 yıllık parti üyeliğini sonlandırarak CHP&#039;den istifa ettiğini açıkladı.",
-      "url": "https://www.dunya.com/gundem/onder-sav-chpden-ayrildi-70-yillik-parti-uyeligini-sonlandirdi-haberi-834245",
+      "title": "AB'den ABD ve Çin'e yapay zekâ resti: Dev ihale başladı",
+      "summary": "Avrupa Birliği, yapay zekâ yarışında ABD ve Çin&#039;e bağımlılığını azaltmak için dev bir yatırım hamlesi başlattı. Avrupa genelinde 7&#039;ye kadar yapay zekâ giga fabrikası kurulmasını öngören projelere, AB ve ulusal kaynaklardan 10 milyar Euro&#039;ya kadar finansman sağlanacak.",
+      "url": "https://www.dunya.com/dunya/abden-abd-ve-cine-yapay-zeka-resti-dev-ihale-basladi-haberi-834268",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-30T08:50:00"
+      "published": "2026-07-30T10:56:00"
     },
     {
-      "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
-      "summary": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
-      "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+      "title": "Avrupa’nın en hızlı büyüyen ekonomileri belli oldu: Zirvedeki ülke şaşırttı",
+      "summary": "Euro Bölgesi ekonomisi 2026&#039;nın ikinci çeyreğinde beklentileri aşarak yüzde 0,4 büyüdü. Büyümede İrlanda, Litvanya ve İsveç öne çıkarken, İspanya büyük ekonomiler arasında güçlü performansını korudu. Öte yandan temmuz ayına ilişkin öncü veriler enflasyonda yeniden yükseliş sinyali verirken, Avrupa Merkez Bankası&#039;nın faiz artışı ihtimali yeniden gündeme geldi.",
+      "url": "https://www.dunya.com/ekonomi/avrupanin-en-hizli-buyuyen-ekonomileri-belli-oldu-zirvedeki-ulke-sasirtti-haberi-834271",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T10:56:00"
+    },
+    {
+      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+      "summary": "President Donald Trump has promised a \"golden age\" for agriculture, but farmers in Iowa and elsewhere are struggling with tariffs and the Iran war.",
+      "url": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-30T08:40:20"
+      "published": "2026-07-30T10:45:01"
     },
     {
-      "title": "Ağustosta ekonomi gündemi yoğun: Gözler enflasyon, büyüme ve Merkez Bankası'nda",
-      "summary": "Ekonomi yönetiminin ağustos ayı takvimi yoğun geçecek. Enflasyon, büyüme, işsizlik, ihracat ve cari denge verilerinin yanı sıra TCMB&#039;nin Enflasyon Raporu ile Orta Vadeli Program hazırlıkları da piyasaların odağında yer alacak.",
-      "url": "https://www.dunya.com/ekonomi/agustosta-ekonomi-gundemi-yogun-gozler-enflasyon-buyume-ve-merkez-bankasinda-haberi-834243",
+      "title": "Adidas hisseleri tarihinin en sert günlük düşüşünü yaşadı",
+      "summary": "Adidas, ikinci çeyrekte rekor satış ve yüzde 14 büyüme açıklamasına rağmen kâr beklentisini karşılayamadı. Dünya Kupası kampanyalarının maliyeti ve değişmeyen yıllık kâr hedefi, hisselerde yüzde 17’yi aşan tarihi kaybı tetikledi.",
+      "url": "https://www.dunya.com/finans/haberler/adidas-hisseleri-tarihinin-en-sert-gunluk-dususunu-yasadi-haberi-834266",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-30T08:39:00"
+      "published": "2026-07-30T10:39:00"
+    },
+    {
+      "title": "Yatırımcı akını rekor getirdi: Bir ayda yüzde 93 büyüdü",
+      "summary": "Robinhood&#039;un tokenize hisse hamlesi piyasaya yeni yatırımcı akını getirdi. Son 30 günde yatırımcı sayısı yüzde 93 artarak 766 bini aşarken, veriler aynı hisselerin farklı platformlarda birden fazla kez sayılması nedeniyle büyümenin perde arkasına da işaret etti.",
+      "url": "https://www.dunya.com/ekonomi/yatirimci-akini-rekor-getirdi-bir-ayda-yuzde-93-buyudu-haberi-834265",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T10:31:00"
     }
   ]
 }
