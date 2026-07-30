@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-29T18:45:14+03:00",
+  "updated_at": "2026-07-30T12:25:43+03:00",
   "news": [
     {
-      "title": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
-      "summary": "Trump has frequently posted policy announcements or other newsworthy information on Truth Social that have sent global markets hurtling up or down.",
-      "url": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
+      "title": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
+      "summary": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
+      "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T15:41:03",
+      "published": "2026-07-30T09:10:14",
       "ai": {
-        "impact": "Donald Trump'ın sosyal medya paylaşımları küresel piyasaları etkileyebiliyor. Bu durum piyasalarda dalgalanmalara neden olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Teknoloji hissesi 72,17 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/teknoloji-hissesi-7217-dolarda-52-haftalk-zirve-yapt-93CH-4002180",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T15:39:48",
-      "ai": {
-        "impact": "Teknoloji hissesinin 52 haftalık zirve yapması piyasalarda olumlu bir hava yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Amigo Resources muhasebe referans tarihini Aralık’a değiştirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/amigo-resources-muhasebe-referans-tarihini-aralka-degistirdi-93CH-4002179",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T15:39:30",
-      "ai": {
-        "impact": "Amigo Resources’ın muhasebe referans tarihini değiştirmesi şirketin mali durumunu etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Southern Cross Acquisition I, Nasdaq’ta 115 milyon dolarlık halka arzı tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/southern-cross-acquisition-i-nasdaqta-115-milyon-dolarlk-halka-arz-tamamlad-93CH-4002178",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T15:37:33",
-      "ai": {
-        "impact": "Southern Cross Acquisition I’in halka arzı başarılı oldu, bu durum şirketin büyümesine katkıda bulunabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Gazze'de 2 bin 276 aile tamamen yok oldu",
-      "summary": "İsrail&#039;in Ekim 2023&#039;ten bu yana sürdürdüğü saldırılarda Gazze&#039;de 2 bin 276 Filistinli aile tüm fertlerini kaybederek nüfus kayıtlarından tamamen silindi. Saldırılar nedeniyle 60 bin 737 çocuk ise anne, baba ya da her iki ebeveynini kaybederek yetim veya öksüz kaldı.",
-      "url": "https://www.dunya.com/dunya/gazzede-2-bin-276-aile-tamamen-yok-oldu-haberi-834164",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-29T15:36:00",
-      "ai": {
-        "impact": "Gazze’deki saldırılar küresel siyasi ve ekonomik istikrarsızlığa neden olabilir.",
+        "impact": "Samsung'un çip krizi öngörüsü teknoloji hisselerine ve tedarik zincirlerine olumsuz yansıyabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Atalaya Mining yönetim kurulu üyesi Mike Armitage, Oriole Resources’a katıldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/atalaya-mining-yonetim-kurulu-uyesi-mike-armitage-oriole-resourcesa-katld-93CH-4002177",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T15:34:17",
+      "title": "WestJet’te 72 saatlik grev sayacı başladı",
+      "summary": "Kanada’nın ikinci büyük hava yolu WestJet’te kabin görevlileri, ücretsiz çalışma ve ücret anlaşmazlığı nedeniyle 72 saatlik grev bildirimi verdi. Anlaşma sağlanamazsa iş bırakma 2 Ağustos’ta başlayabilecek.",
+      "url": "https://www.dunya.com/is-dunyasi/westjette-72-saatlik-grev-sayaci-basladi-haberi-834250",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T09:10:00",
       "ai": {
-        "impact": "Atalaya Mining yönetim kurulu üyesinin Oriole Resources’a katılması şirketin yönetim yapısını etkileyebilir.",
+        "impact": "WestJet'teki grev potential olarak havayolu sektörüne ve Kanada ekonomisine olumsuz etkide bulunabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "MSB'den Türkiye-Irak mesajı: Ekonomi ve enerji ön planda",
+      "summary": "Milli Savunma Bakanlığı, Irak Başbakanı Ali ez-Zeydi&#039;nin Türkiye ziyareti kapsamında imzalanan anlaşmaların iki ülke ilişkileri ile bölgesel istikrar açısından önemli olduğunu belirtti. Bakanlık, Türkiye ile Irak arasında son dönemde gerçekleştirilen temaslarda ekonomi ve enerji alanındaki iş birliğinin ön plana çıktığını ifade etti.",
+      "url": "https://www.dunya.com/gundem/msbden-turkiye-irak-mesaji-ekonomi-ve-enerji-on-planda-haberi-834249",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T09:09:00",
+      "ai": {
+        "impact": "Türkiye ve Irak arasındaki ekonomik ve enerji iş birliği anlaşmaları iki ülke arasındaki ticareti ve bölgesel istikrarı olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
+      "summary": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T09:01:56",
+      "ai": {
+        "impact": "Meta ve Microsoft'un hisse performansındaki farklılaşma teknoloji sektöründe yatırımcı tercihlerini etkileyebilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "KeyBanc, Herc Holdings hissesi için hedef fiyatı yükseltti",
+      "title": "Almanya’nın GSYİH’si ikinci çeyrekte %0,2 büyüdü, tahminleri aştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-herc-holdings-hissesi-icin-hedef-fiyat-yukseltti-93CH-4002176",
+      "url": "https://tr.investing.com/news/economic-indicators/almanyann-gsyihsi-ikinci-ceyrekte-02-buyudu-tahminleri-ast-93CH-4003445",
       "source": "Investing Türkiye",
-      "published": "2026-07-29T15:31:55",
+      "published": "2026-07-30T09:00:25",
       "ai": {
-        "impact": "KeyBanc’ın Herc Holdings hissesi için hedef fiyatını yükseltmesi şirketin değerini artırabilir.",
+        "impact": "Almanya'nın GSYİH'sinin beklentileri aşması Avrupa ekonomisine ve küresel ekonomik görünüme olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "KeyBanc, Curbline Properties hissesi için hedef fiyatı yükseltti",
+      "title": "BAT hisseleri Asya-Pasifik zayıflığıyla geriledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-curbline-properties-hissesi-icin-hedef-fiyat-yukseltti-93CH-4002175",
+      "url": "https://tr.investing.com/news/earnings/bat-hisseleri-asyapasifik-zayflgyla-geriledi-4003446",
       "source": "Investing Türkiye",
-      "published": "2026-07-29T15:31:52",
+      "published": "2026-07-30T09:00:06",
       "ai": {
-        "impact": "KeyBanc’ın Curbline Properties hissesi için hedef fiyatını yükseltmesi şirketin değerini artırabilir.",
+        "impact": "BAT hisselerinin Asya-Pasifik zayıflığıyla gerilemesi küresel piyasalara ve yatırımcı güvenine olumsuz yansıyabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Jeronimo Martins hisseleri Biedronka marjıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/jeronimo-martins-hisseleri-biedronka-marjyla-yukseldi-93CH-4003433",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T08:58:42",
+      "ai": {
+        "impact": "Jeronimo Martins hisselerinin yükselmesi perakende sektörüne ve ilgili hisselerine olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Kerry Group, sürdürülebilirlik komitesi başkanlığına Berger’i atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/kerry-group-surdurulebilirlik-komitesi-baskanlgna-bergeri-atad-93CH-4002174",
-      "source": "Investing Türkiye",
-      "published": "2026-07-29T15:31:17"
-    },
-    {
-      "title": "Borsa İstanbul günü düşüşle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,36 değer kaybederek 13.501,55 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834162",
+      "title": "SPK’dan MSCI hamlesi: Türkiye’nin gelişmekte olan piyasa statüsü için kritik düzenleme",
+      "summary": "MSCI’ın Kasım 2026’da yapacağı kritik endeks değerlendirmesi öncesinde Sermaye Piyasası Kurulu, piyasalardaki belirsizlikleri azaltmaya yönelik yeni adımlar atıyor. GYF ve GSYF katılma paylarının değerleme yönteminde yapılan son değişikliğin, Türkiye’nin MSCI’daki “gelişmekte olan piyasa” statüsünü koruma sürecine katkı sağlaması bekleniyor.",
+      "url": "https://www.dunya.com/sirketler/spkdan-msci-hamlesi-turkiyenin-gelismekte-olan-piyasa-statusu-icin-kritik-duzenleme-haberi-834247",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T15:30:00"
+      "published": "2026-07-30T08:58:00",
+      "ai": {
+        "impact": "SPK'nın MSCI hamlesi Türkiye'nin gelişmekte olan piyasa statüsünü koruma sürecine katkıda bulunabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
-      "summary": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
-      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T15:27:23"
-    },
-    {
-      "title": "Piper Sandler, Global-E Online hissesi için tavsiyesini korudu",
+      "title": "Bölünen Fed faizleri sabit tutmayı seçti. Wall Street’in tepkisi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-globale-online-hissesi-icin-tavsiyesini-korudu-93CH-4002171",
+      "url": "https://tr.investing.com/news/economy-news/bolunen-fed-faizleri-sabit-tutmay-secti-wall-streetin-tepkisi-4003444",
       "source": "Investing Türkiye",
-      "published": "2026-07-29T15:26:15"
+      "published": "2026-07-30T08:57:39"
     },
     {
-      "title": "Piper Sandler, Coca-Cola için hisse hedefini yükseltti",
+      "title": "Andritz hissesi bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-cocacola-icin-hisse-hedefini-yukseltti-93CH-4002170",
+      "url": "https://tr.investing.com/news/stock-market-news/andritz-hissesi-bugun-neden-yukseliyor-93CH-4003431",
       "source": "Investing Türkiye",
-      "published": "2026-07-29T15:26:08"
+      "published": "2026-07-30T08:57:18"
     },
     {
-      "title": "Piper Sandler, Valvoline hissesi için hedef fiyatı korudu",
+      "title": "Amundi hissesi bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-valvoline-hissesi-icin-hedef-fiyat-korudu-93CH-4002169",
+      "url": "https://tr.investing.com/news/stock-market-news/amundi-hissesi-bugun-neden-yukseliyor-93CH-4003430",
       "source": "Investing Türkiye",
-      "published": "2026-07-29T15:26:03"
+      "published": "2026-07-30T08:56:50"
     },
     {
-      "title": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
-      "summary": "Ex-FBI Director James Comey says he's the subject of vindictive prosecution for posting on Instagram of a photo of seashells forming the numbers \"8647.\"",
-      "url": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T15:24:05"
+      "title": "Ayvens hissesi bugün neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ayvens-hissesi-bugun-neden-yukseliste-93CH-4003410",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T08:55:59"
     },
     {
-      "title": "ABD'de mortgage faizi son bir yılın en yüksek seviyesinde",
-      "summary": "ABD&#039;de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 6,76&#039;ya çıkarak Ağustos 2025&#039;ten bu yana en yüksek seviyesine ulaştı.",
-      "url": "https://www.dunya.com/ekonomi/abdde-mortgage-faizi-son-bir-yilin-en-yuksek-seviyesinde-haberi-834160",
+      "title": "Samsung yarı iletkende sıkışıklığın 2028’e uzamasını bekliyor",
+      "summary": "Samsung, veri merkezi şirketleriyle yaptığı uzun vadeli anlaşmalarla bellek kapasitesinin yüzde 60-70’ini en az beş yıllığına bağladı. Şirket, arz sıkışıklığının 2027’de ağırlaşıp 2028’e uzanacağını öngörüyor.",
+      "url": "https://www.dunya.com/ekonomi/samsung-yari-iletkende-sikisikligin-2028e-uzamasini-bekliyor-haberi-834246",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T15:20:00"
+      "published": "2026-07-30T08:54:00"
     },
     {
-      "title": "Orman yangınlarıyla dev mücadele! Ekipler seferber oldu",
-      "summary": "Muğla, Antalya ve Çanakkale&#039;de çıkan orman yangınlarına havadan ve karadan yoğun müdahale sürüyor. En büyük yangının yaşandığı Muğla&#039;nın Seydikemer ilçesinde hastane ve evler tahliye edilirken, Antalya&#039;da bazı evler alevlere teslim oldu, Çanakkale&#039;de ise turizm tesisleri tedbir amacıyla boşaltıldı.",
-      "url": "https://www.dunya.com/gundem/orman-yanginlariyla-dev-mucadele-ekipler-seferber-oldu-haberi-834158",
+      "title": "From Hormuz to the Black Sea: Maritime battlefields are shaping ‘a new world order’",
+      "summary": "Attacks near the Strait of Hormuz, Red Sea and Black Sea are pushing shipowners to reroute cargo and rethink global trade risks.",
+      "url": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-30T08:52:10"
+    },
+    {
+      "title": "Knorr-Bremse hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/knorrbremse-hissesi-bugun-neden-dusuyor-93CH-4003378",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T08:51:37"
+    },
+    {
+      "title": "Syensqo hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/syensqo-hissesi-bugun-neden-yukseliyor-93CH-4003377",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T08:51:32"
+    },
+    {
+      "title": "Logitech hissesi neden bugün düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/logitech-hissesi-neden-bugun-dusuyor-93CH-4003376",
+      "source": "Investing Türkiye",
+      "published": "2026-07-30T08:51:21"
+    },
+    {
+      "title": "Önder Sav CHP'den ayrıldı: 70 yıllık parti üyeliğini sonlandırdı",
+      "summary": "Eski Cumhuriyet Halk Partisi (CHP) Genel Sekreteri Önder Sav, yaklaşık 70 yıllık parti üyeliğini sonlandırarak CHP&#039;den istifa ettiğini açıkladı.",
+      "url": "https://www.dunya.com/gundem/onder-sav-chpden-ayrildi-70-yillik-parti-uyeligini-sonlandirdi-haberi-834245",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-29T15:10:00"
+      "published": "2026-07-30T08:50:00"
     },
     {
-      "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
-      "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
-      "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
+      "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
+      "summary": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
+      "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-29T14:57:11"
+      "published": "2026-07-30T08:40:20"
     },
     {
-      "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
-      "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
-      "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T14:54:57"
-    },
-    {
-      "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
-      "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
-      "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-29T14:53:03"
+      "title": "Ağustosta ekonomi gündemi yoğun: Gözler enflasyon, büyüme ve Merkez Bankası'nda",
+      "summary": "Ekonomi yönetiminin ağustos ayı takvimi yoğun geçecek. Enflasyon, büyüme, işsizlik, ihracat ve cari denge verilerinin yanı sıra TCMB&#039;nin Enflasyon Raporu ile Orta Vadeli Program hazırlıkları da piyasaların odağında yer alacak.",
+      "url": "https://www.dunya.com/ekonomi/agustosta-ekonomi-gundemi-yogun-gozler-enflasyon-buyume-ve-merkez-bankasinda-haberi-834243",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-30T08:39:00"
     }
   ]
 }
