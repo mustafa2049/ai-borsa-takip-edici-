@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-31T16:43:30+03:00",
+  "updated_at": "2026-07-31T18:55:55+03:00",
   "news": [
-    {
-      "title": "GM to launch its own in-vehicle AI system later this year",
-      "summary": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
-      "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-31T13:39:28",
-      "ai": {
-        "impact": "GM'in kendi araç içi AI sistemini piyasaya sürmesi, şirketin teknoloji alanındaki rekabet gücünü artırabilir. Bu, global otomotiv sektörünü olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "2026 DGS sonuç tarihi... DGS sonuçları ne zaman açıklanıyor?",
-      "summary": "DGS sonuçları için heyecanlı bekleyiş... Yüz binler ÖSYM&#039;nin geçeceği son dakika duyurusuna kilitlenmiş vaziyette... Ağustos ayına sayılı saatler kalırken gittikçe artan soru &quot;DGS sonuçları ne zaman açıklanıyor&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/2026-dgs-sonuc-tarihi-dgs-sonuclari-ne-zaman-aciklaniyor-haberi-834447",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T13:34:00",
-      "ai": {
-        "impact": "DGS sonuçlarının açıklanması, Türkiye'de eğitim ve işgücü piyasasını etkileyebilir ancak finansal piyasalar üzerinde doğrudan bir etkisi olmayabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its  pipeline",
-      "summary": "The experimental medicine ziltivekimab didn't translate into a statistically meaningful reduction in major cardiovascular adverse events, Novo said Friday.",
-      "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-31T13:33:00",
-      "ai": {
-        "impact": "Novo Nordisk'in kalp ilacı denemesinin başarısız olması, şirketin hisse senetlerini olumsuz etkileyebilir ve global ilaç sektörüne güveni azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
-      "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
-      "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-31T13:26:59",
-      "ai": {
-        "impact": "Teknoloji şirketlerinin artan AI yatırımının maliyeti, şirketlerin nakit akışını olumsuz etkileyebilir ve global teknoloji sektörünün büyümesini yavaşlatabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Moderna’nın ikinci çeyrek zararı daraldı, hisse yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/modernann-ikinci-ceyrek-zarar-darald-hisse-yukseldi-93CH-4007441",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:21:08",
-      "ai": {
-        "impact": "Moderna'nın ikinci çeyrek zararının daralması, şirketin hisse senetlerini olumlu etkileyebilir ve biyoteknoloji sektörüne güveni artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "SEALSQ kuantum fotonik teknolojisinde ticari aşamaya başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/sealsq-kuantum-fotonik-teknolojisinde-ticari-asamaya-baslad-93CH-4007434",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:18:02",
-      "ai": {
-        "impact": "SEALSQ'nin kuantum fotonik teknolojisindeki ticari aşamasına başlaması, şirketin inovasyon gücünü artırabilir ve teknoloji sektörünü olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Benzine, mazota zam var mı? LGP fiyatları arttı mı, zam geldi mi?",
-      "summary": "Benzin, motorin, LPG fiyatları son zamanlarda sürekli değişiyor. Aaraç sahipleri fiyatların son durumunu sürekli olarak kontrol ediyor. Dün motorine gelen zam sonrası bugün fiyat artışı olup olmadığı sorgulanıyor. İşte detaylar...",
-      "url": "https://www.dunya.com/ekonomi/benzine-mazota-zam-var-mi-lgp-fiyatlari-artti-mi-zam-geldi-mi-haberi-834445",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T13:18:00",
-      "ai": {
-        "impact": "Benzin, motorin ve LPG fiyatlarındaki değişiklikler, Türkiye'de enflasyonu ve tüketici harcamalarını etkileyebilir ancak global petrol piyasalarını doğrudan etkilemeyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Roblox, BMO ve Deutsche Bank tarafından düşürüldü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/roblox-bmo-ve-deutsche-bank-tarafndan-dusuruldu-4007436",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:17:04",
-      "ai": {
-        "impact": "Roblox'un bazı yatırım bankaları tarafından düşürülmesi, şirketin hisse senetlerini olumsuz etkileyebilir ve teknoloji sektörüne güveni azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "ABD’li büyük petrol şirketleri İran kriziyle rekor kâr elde etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/abdli-buyuk-petrol-sirketleri-iran-kriziyle-rekor-kar-elde-etti-93CH-4007432",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:17:03"
-    },
-    {
-      "title": "GB Group 66.921 hisseyi Londra Borsası’nda işleme açtı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/gb-group-66921-hisseyi-londra-borsasnda-isleme-act-93CH-4007430",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:15:06"
-    },
-    {
-      "title": "Linde yarı iletken gazları için Arizona’ya 1 milyar dolar yatırım yapacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/linde-yar-iletken-gazlar-icin-arizonaya-1-milyar-dolar-yatrm-yapacak-93CH-4007422",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:14:41"
-    },
-    {
-      "title": "Ahbap soruşturmasında ünlü isimlerin ifadeleri ortaya çıktı: Biz de mağduruz",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı&#039;nın yürüttüğü &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadeye çağrılan oyuncular Eda Ece Tuncer, Kerem Bürsin ve İrem Helvacıoğlu, deprem döneminde Ahbap Derneği ile kurdukları ilişkiyi ve yaptıkları yardım faaliyetlerini anlattı. Üç isim de yardım faaliyetlerinin amacı dışında kullanılmış olması halinde kendilerinin de mağdur olduğunu belirter",
-      "url": "https://www.dunya.com/gundem/ahbap-sorusturmasinda-unlu-isimlerin-ifadeleri-ortaya-cikti-biz-de-magduruz-haberi-834446",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T13:11:00"
-    },
-    {
-      "title": "İngiltere Merkez Bankası ekonomisti enerji fiyatlarından enflasyon riski konusunda uyardı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/ingiltere-merkez-bankas-ekonomisti-enerji-fiyatlarndan-enflasyon-riski-konusunda-uyard-93CH-4007399",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:10:33"
-    },
-    {
-      "title": "Hint devlet tahvilleri dört ayda ilk kez düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/hint-devlet-tahvilleri-dort-ayda-ilk-kez-dustu-93CH-4007398",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:10:04"
-    },
-    {
-      "title": "Electronic Arts anlaşması AB’den sübvansiyon kuralları kapsamında onay aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/electronic-arts-anlasmas-abden-subvansiyon-kurallar-kapsamnda-onay-ald-93CH-4007390",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:08:37"
-    },
-    {
-      "title": "Leopold Aschenbrenner’in hedge fonu Temmuz’da yapay zeka bahisleriyle %67 düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/leopold-aschenbrennerin-hedge-fonu-temmuzda-yapay-zeka-bahisleriyle-67-dustu-93CH-4007388",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T13:06:15"
-    },
-    {
-      "title": "Çinli yapay zekâ modeli OpenAI'a rakip oldu: Arkasından Nvidia çıktı",
-      "summary": "Çinli yapay zekâ girişimi Moonshot&#039;ın, Kimi K3 modelini eğitmek için Alibaba üzerinden yaklaşık 20 bin Nvidia çiplik işlem gücüne eriştiği bildirildi. Açık kaynaklı Kimi K3’ün OpenAI ve Anthropic modellerine yaklaşması, hatta bazı testlerde Alibaba&#039;nın &quot;Qwen&quot; modelini geçmesi dikkat çekti.",
-      "url": "https://www.dunya.com/dunya/cinli-yapay-zeka-modeli-openaia-rakip-oldu-arkasindan-nvidia-cikti-haberi-834444",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T13:00:00"
-    },
-    {
-      "title": "Fed'in faiz artırımı savunan üyeler gerekçelerini açıkladı: Beklemek daha maliyetli olabilir",
-      "summary": "Fed&#039;in politika faizini sabit bırakma kararına karşı oy kullanan Cleveland Fed Başkanı Beth Hammack ile Minneapolis Fed Başkanı Neel Kashkari, gerekçelerini paylaştı. İki yetkili de enflasyonla mücadelede geç kalınmasının daha sert adımları zorunlu kılabileceği uyarısında bulundu.",
-      "url": "https://www.dunya.com/ekonomi/fedin-faiz-artirimi-savunan-uyeler-gerekcelerini-acikladi-beklemek-daha-maliyetli-olabilir-haberi-834443",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T12:54:00"
-    },
     {
       "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
       "summary": "ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war.",
       "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-31T12:49:14"
+      "published": "2026-07-31T15:52:20",
+      "ai": {
+        "impact": "Iran savasi nedeniyle artan petrol fiyatları Exxon ve Chevron'un karını artırdı. Bu durum petrol fiyatlarına bağlı olarak Türkiye'de de enerji maliyetlerini etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "GÜNEŞ TUTULMASI TARİHİ: Tam Güneş Tutulması ne zaman?",
-      "summary": "Gökyüzü meraklılarının heyecanla beklediği tam Güneş tutulması yaklaşırken gözler bir kez daha tarihlere çevrilmiş durumda... Milyonlar bu muhteşem doğa olayını kaçırmak istemezken &quot;Tam Güneş Tutulması ne zaman&quot; sorusu hızlanıyor.",
-      "url": "https://www.dunya.com/gundem/gunes-tutulmasi-tarihi-tam-gunes-tutulmasi-ne-zaman-haberi-834442",
+      "title": "GM to launch its own in-vehicle AI system later this year",
+      "summary": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+      "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T15:48:23",
+      "ai": {
+        "impact": "GM'in kendi araç içi AI sistemini piyasaya sürmesi teknoloji sektörünü etkileyebilir. Ancak Türkiye piyasaları üzerinde doğrudan bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+      "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
+      "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T15:45:15",
+      "ai": {
+        "impact": "Öğrenci kredisi borçlarının affedilmesi ABD ekonomisini etkileyebilir. Ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+      "summary": "The senators asked the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank to preserve all records related to those deals.",
+      "url": "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T15:41:21",
+      "ai": {
+        "impact": "Trump ve Lutnick ailelerinin kritik mineral anlaşmalarındaki rolleri hakkında bilgi talebi siyasi ve ekonomik belirsizliği artırabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Union Jack hissedarlarının %14’ü Reabold teklifine karşı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/union-jack-hissedarlarnn-14u-reabold-teklifine-kars-93CH-4007808",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:35:30",
+      "ai": {
+        "impact": "Union Jack hissedarlarının Reabold teklifine karşı çıkması şirketin geleceği hakkında soru işaretleri oluşturabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 13.458,10 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-834464",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-31T12:43:00"
+      "published": "2026-07-31T15:34:00",
+      "ai": {
+        "impact": "Borsa İstanbul'da BIST 100 endeksinin değer kazanması Türkiye ekonomisinin iyimser bir sinyalidir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "DA Davidson, rekabet endişeleriyle Hershey hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-rekabet-endiseleriyle-hershey-hisse-hedefini-dusurdu-93CH-4007807",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:33:53",
+      "ai": {
+        "impact": "DA Davidson'ın Hershey hisse hedefini düşürmesi şirketin geleceği hakkında endişeler oluşturabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "DA Davidson, güçlü Pizookie satışları sonrası BJ’s Restaurants hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-guclu-pizookie-satslar-sonras-bjs-restaurants-hisse-hedefini-yukseltti-93CH-4007806",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:33:47",
+      "ai": {
+        "impact": "DA Davidson'ın BJ's Restaurants hisse hedefini yükseltmesi şirketin güçlü satış performansının bir göstergesi olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Cantor Fitzgerald, Rivian hissesi için Nötr notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-rivian-hissesi-icin-notr-notunu-korudu-93CH-4007805",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:33:46"
+    },
+    {
+      "title": "Cantor Fitzgerald, ON Semiconductor hissesi için Nötr tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-on-semiconductor-hissesi-icin-notr-tavsiyesini-korudu-93CH-4007804",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:33:37"
+    },
+    {
+      "title": "Chime, yapay zeka kazanımlarıyla yüzde 10 kadro azaltımı planlıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/chime-yapay-zeka-kazanmlaryla-yuzde-10-kadro-azaltm-planlyor-93CH-4007803",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:33:32"
+    },
+    {
+      "title": "Seacoast Banking hissesi 35,64 dolarla zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/seacoast-banking-hissesi-3564-dolarla-zirve-yapt-93CH-4007801",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:30:37"
+    },
+    {
+      "title": "Dakota Lithium satın alınmasına rağmen Dragonfly Energy hisseleri düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/dakota-lithium-satn-alnmasna-ragmen-dragonfly-energy-hisseleri-dustu-93CH-4007799",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:28:37"
+    },
+    {
+      "title": "Cantor Fitzgerald kullanıcı büyümesi endişeleriyle Reddit hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-kullanc-buyumesi-endiseleriyle-reddit-hisse-hedefini-dusurdu-93CH-4007798",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:28:16"
+    },
+    {
+      "title": "Cantor Fitzgerald, GoDaddy hissesi için Nötr görüşünü korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-godaddy-hissesi-icin-notr-gorusunu-korudu-93CH-4007797",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T15:28:06"
+    },
+    {
+      "title": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+      "summary": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+      "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T15:26:31"
+    },
+    {
+      "title": "Üsküdar Belediye Başkanı Sinem Dedetaş için tutuklama talebi",
+      "summary": "Son dakika gelişmesi... Üsküdar Belediye Başkanı Sinem Dedetaş tutuklama istemiyle hakimliğe sevk edildi.",
+      "url": "https://www.dunya.com/gundem/uskudar-belediye-baskani-sinem-dedetas-icin-tutuklama-talebi-haberi-834463",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T15:24:00"
+    },
+    {
+      "title": "Gözaltına alınan Cem Küçük hakkında tutuklama talebi",
+      "summary": "Dün gözaltına alınan gazeteci Cem Küçük&#039;ün ifade işlemleri tamamlandı. Küçük tutuklama talebiyle mahkemeye sevk edildi.",
+      "url": "https://www.dunya.com/gundem/gozaltina-alinan-cem-kucuk-hakkinda-tutuklama-talebi-haberi-834462",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T15:22:00"
+    },
+    {
+      "title": "Piyasa halka arza doydu: Bewen Enerji halka arzı ertelendi",
+      "summary": "Son dönemde peş peşe gelen halka arzların ardından piyasada talep zayıflamaya başladı. Bunun son örneği, Bewen Enerji A.Ş.’nin halka arzının ileri bir tarihe ertelenmesi oldu.",
+      "url": "https://www.dunya.com/finans/borsa/piyasa-halka-arza-doydu-bewen-enerji-halka-arzi-ertelendi-haberi-834460",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T15:13:00"
+    },
+    {
+      "title": "TürkNet'teki kesinti sona erdi! TürknNet'ten açıklama geldi",
+      "summary": "TürkNet kullanıcıları birkaç saat boyunca internete erişemedi. Kullanıcılar sosyal medyadan mağdur olduklarını belirtirken firmadan açıklama geldi. İşte detaylar...",
+      "url": "https://www.dunya.com/gundem/turknetteki-kesinti-sona-erdi-turknnetten-aciklama-geldi-haberi-834417",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T14:53:00"
     }
   ]
 }

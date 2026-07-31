@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-07-31T16:43:30+03:00",
-  "overview": "Piyasa genel olarak olumlu bir seyir izlemektedir. BIST 100 endeksi %0.81'lik bir artişla 13400.03 seviyesine ulaştı. Dünya genelindeki diğer önemli endeksler de pozitif bir performans sergiledi. Hisse sinyallerine bakıldığında, THYAO, ASELS, TUPRS, GARAN, AKBNK gibi hisseler için 'AL' sinyali verilirken, EKGYO için 'GÜÇLÜ SAT' sinyali dikkat çekmektedir.",
+  "updated_at": "2026-07-31T18:55:55+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksinin 1.24'lik artışı dikkati çekiyor. Döviz kurlarında USD/TRY ve EUR/TRY'de sırasıyla 0.31 ve 0.68'lik artışlar görüldü. Hisse sinyallerine bakıldığında THYAO, ASELS, TUPRS ve GARAN gibi şirketlere yönelik güçlü alım sinyalleri dikkat çekiyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13400.03,
-      "change_pct": 0.81
+      "value": 13458.1,
+      "change_pct": 1.24
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7453.7,
-      "change_pct": 0.22
+      "value": 7449.69,
+      "change_pct": 0.16
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 25251.25,
-      "change_pct": 0.51
+      "value": 25172.78,
+      "change_pct": 0.2
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 25646.72,
-      "change_pct": 0.14
+      "value": 25629.24,
+      "change_pct": 0.07
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 64362.02,
-      "change_pct": 4.03
+      "value": 61867.43,
+      "change_pct": 0.71
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
       "value": 47.52,
-      "change_pct": 0.32
+      "change_pct": 0.31
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.51,
-      "change_pct": 0.21
+      "value": 54.76,
+      "change_pct": 0.68
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4093.7,
-      "change_pct": -0.16
+      "value": 4098.4,
+      "change_pct": -0.04
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 90.35,
-      "change_pct": 1.48
+      "value": 90.02,
+      "change_pct": 1.11
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6254.86,
+      "value": 6261.33,
       "change_pct": null
     }
   ]
