@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-07-31T14:53:02+03:00",
+  "updated_at": "2026-07-31T16:43:30+03:00",
   "news": [
     {
-      "title": "Novo Nordisk shares dive 9% after heart medicine fails trial",
-      "summary": "The experimental medicine ziltivekimab didn't translate into a statistically meaningful reduction in major cardiovascular adverse events, Novo said Friday.",
-      "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
+      "title": "GM to launch its own in-vehicle AI system later this year",
+      "summary": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+      "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-31T11:52:28",
+      "published": "2026-07-31T13:39:28",
       "ai": {
-        "impact": "Novo Nordisk'in kalp ilacı denemesinin başarısız olması, şirketin hisse değerini olumsuz etkileyebilir. Bu durum, sağlık sektöründe faaliyet gösteren diğer şirketlerin hisse değerlerini de etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Von der Leyen'den Ceuta açıklaması: Görüntüler kabul edilemez",
-      "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, İspanya&#039;nın Kuzey Afrika&#039;daki toprağı Sebte&#039;ye (Ceuta) geçmeye çalışan düzensiz göçmenlere ilişkin, &quot;Sebte&#039;den gelen görüntüler kabul edilemez. Birliğimize, kurallarımıza uymadan kimsenin giriş yapmasına izin veremeyiz.&quot; açıklamasında bulundu.",
-      "url": "https://www.dunya.com/dunya/von-der-leyenden-ceuta-aciklamasi-goruntuler-kabul-edilemez-haberi-834435",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:50:00",
-      "ai": {
-        "impact": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen'in açıklamaları, göçmen krizi nedeniyle siyasi gerilimleri artırabilir. Bu durum, AB'nin ekonomik ve siyasi istikrarını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "TPAO, Bulgaristan'da Karadeniz'deki petrol ve doğal gaz sahasına ortak oldu",
-      "summary": "Bulgaristan hükümetinin onayıyla TPAO, Karadeniz&#039;deki &quot;Khan Tervel Blok 1-26&quot; sahasında yürütülecek petrol ve doğal gaz arama faaliyetlerine yüzde 33 ortak oldu. Yeni ortaklık yapısıyla sahada Shell yüzde 42, TPAO yüzde 33 ve OMV yüzde 25 payla yer alacak.",
-      "url": "https://www.dunya.com/enerji/tpao-bulgaristanda-karadenizdeki-petrol-ve-dogal-gaz-sahasina-ortak-oldu-haberi-834433",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:44:00",
-      "ai": {
-        "impact": "TPAO'nun Bulgaristan'da petrol ve doğal gaz sahasına ortak olması, Türkiye'nin enerji ihtiyacını karşılamada önemli bir adım olabilir. Bu durum, Türkiye'nin enerji güvenliğini tăngırabilir.",
+        "impact": "GM'in kendi araç içi AI sistemini piyasaya sürmesi, şirketin teknoloji alanındaki rekabet gücünü artırabilir. Bu, global otomotiv sektörünü olumlu etkileyebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Müzik devinde 8,8 milyar euroluk kayıp, abonelik hesabı bozuldu",
-      "summary": "Universal Music Group’un abonelik gelirlerinde ortaya çıkan yavaşlama, yatırımcıların şirketin yüksek değerlemesini yeniden sorgulamasına yol açtı. Sert satış dalgası, müzik devinin piyasa değerinde bir günde tarihi ölçekte kayıp yarattı.",
-      "url": "https://www.dunya.com/is-dunyasi/muzik-devinde-88-milyar-euroluk-kayip-abonelik-hesabi-bozuldu-haberi-834434",
+      "title": "2026 DGS sonuç tarihi... DGS sonuçları ne zaman açıklanıyor?",
+      "summary": "DGS sonuçları için heyecanlı bekleyiş... Yüz binler ÖSYM&#039;nin geçeceği son dakika duyurusuna kilitlenmiş vaziyette... Ağustos ayına sayılı saatler kalırken gittikçe artan soru &quot;DGS sonuçları ne zaman açıklanıyor&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/2026-dgs-sonuc-tarihi-dgs-sonuclari-ne-zaman-aciklaniyor-haberi-834447",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:42:00",
+      "published": "2026-07-31T13:34:00",
       "ai": {
-        "impact": "Universal Music Group'un abonelik gelirlerindeki yavaşlama, müzik endüstrisinin genel trendini yansıtabilir. Bu durum, müzik şirketlerinin hisse değerlerini olumsuz etkileyebilir.",
+        "impact": "DGS sonuçlarının açıklanması, Türkiye'de eğitim ve işgücü piyasasını etkileyebilir ancak finansal piyasalar üzerinde doğrudan bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its  pipeline",
+      "summary": "The experimental medicine ziltivekimab didn't translate into a statistically meaningful reduction in major cardiovascular adverse events, Novo said Friday.",
+      "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T13:33:00",
+      "ai": {
+        "impact": "Novo Nordisk'in kalp ilacı denemesinin başarısız olması, şirketin hisse senetlerini olumsuz etkileyebilir ve global ilaç sektörüne güveni azaltabilir.",
         "sentiment": "Negatif"
       }
+    },
+    {
+      "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+      "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
+      "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+      "source": "CNBC World Markets",
+      "published": "2026-07-31T13:26:59",
+      "ai": {
+        "impact": "Teknoloji şirketlerinin artan AI yatırımının maliyeti, şirketlerin nakit akışını olumsuz etkileyebilir ve global teknoloji sektörünün büyümesini yavaşlatabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Moderna’nın ikinci çeyrek zararı daraldı, hisse yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/modernann-ikinci-ceyrek-zarar-darald-hisse-yukseldi-93CH-4007441",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:21:08",
+      "ai": {
+        "impact": "Moderna'nın ikinci çeyrek zararının daralması, şirketin hisse senetlerini olumlu etkileyebilir ve biyoteknoloji sektörüne güveni artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "SEALSQ kuantum fotonik teknolojisinde ticari aşamaya başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/sealsq-kuantum-fotonik-teknolojisinde-ticari-asamaya-baslad-93CH-4007434",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:18:02",
+      "ai": {
+        "impact": "SEALSQ'nin kuantum fotonik teknolojisindeki ticari aşamasına başlaması, şirketin inovasyon gücünü artırabilir ve teknoloji sektörünü olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Benzine, mazota zam var mı? LGP fiyatları arttı mı, zam geldi mi?",
+      "summary": "Benzin, motorin, LPG fiyatları son zamanlarda sürekli değişiyor. Aaraç sahipleri fiyatların son durumunu sürekli olarak kontrol ediyor. Dün motorine gelen zam sonrası bugün fiyat artışı olup olmadığı sorgulanıyor. İşte detaylar...",
+      "url": "https://www.dunya.com/ekonomi/benzine-mazota-zam-var-mi-lgp-fiyatlari-artti-mi-zam-geldi-mi-haberi-834445",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T13:18:00",
+      "ai": {
+        "impact": "Benzin, motorin ve LPG fiyatlarındaki değişiklikler, Türkiye'de enflasyonu ve tüketici harcamalarını etkileyebilir ancak global petrol piyasalarını doğrudan etkilemeyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Roblox, BMO ve Deutsche Bank tarafından düşürüldü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/roblox-bmo-ve-deutsche-bank-tarafndan-dusuruldu-4007436",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:17:04",
+      "ai": {
+        "impact": "Roblox'un bazı yatırım bankaları tarafından düşürülmesi, şirketin hisse senetlerini olumsuz etkileyebilir ve teknoloji sektörüne güveni azaltabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "ABD’li büyük petrol şirketleri İran kriziyle rekor kâr elde etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/abdli-buyuk-petrol-sirketleri-iran-kriziyle-rekor-kar-elde-etti-93CH-4007432",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:17:03"
+    },
+    {
+      "title": "GB Group 66.921 hisseyi Londra Borsası’nda işleme açtı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/gb-group-66921-hisseyi-londra-borsasnda-isleme-act-93CH-4007430",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:15:06"
+    },
+    {
+      "title": "Linde yarı iletken gazları için Arizona’ya 1 milyar dolar yatırım yapacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/linde-yar-iletken-gazlar-icin-arizonaya-1-milyar-dolar-yatrm-yapacak-93CH-4007422",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:14:41"
+    },
+    {
+      "title": "Ahbap soruşturmasında ünlü isimlerin ifadeleri ortaya çıktı: Biz de mağduruz",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı&#039;nın yürüttüğü &quot;Ahbaplar Suç Örgütü&quot; soruşturması kapsamında ifadeye çağrılan oyuncular Eda Ece Tuncer, Kerem Bürsin ve İrem Helvacıoğlu, deprem döneminde Ahbap Derneği ile kurdukları ilişkiyi ve yaptıkları yardım faaliyetlerini anlattı. Üç isim de yardım faaliyetlerinin amacı dışında kullanılmış olması halinde kendilerinin de mağdur olduğunu belirter",
+      "url": "https://www.dunya.com/gundem/ahbap-sorusturmasinda-unlu-isimlerin-ifadeleri-ortaya-cikti-biz-de-magduruz-haberi-834446",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T13:11:00"
+    },
+    {
+      "title": "İngiltere Merkez Bankası ekonomisti enerji fiyatlarından enflasyon riski konusunda uyardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/ingiltere-merkez-bankas-ekonomisti-enerji-fiyatlarndan-enflasyon-riski-konusunda-uyard-93CH-4007399",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:10:33"
+    },
+    {
+      "title": "Hint devlet tahvilleri dört ayda ilk kez düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/hint-devlet-tahvilleri-dort-ayda-ilk-kez-dustu-93CH-4007398",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:10:04"
+    },
+    {
+      "title": "Electronic Arts anlaşması AB’den sübvansiyon kuralları kapsamında onay aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/electronic-arts-anlasmas-abden-subvansiyon-kurallar-kapsamnda-onay-ald-93CH-4007390",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:08:37"
+    },
+    {
+      "title": "Leopold Aschenbrenner’in hedge fonu Temmuz’da yapay zeka bahisleriyle %67 düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/leopold-aschenbrennerin-hedge-fonu-temmuzda-yapay-zeka-bahisleriyle-67-dustu-93CH-4007388",
+      "source": "Investing Türkiye",
+      "published": "2026-07-31T13:06:15"
+    },
+    {
+      "title": "Çinli yapay zekâ modeli OpenAI'a rakip oldu: Arkasından Nvidia çıktı",
+      "summary": "Çinli yapay zekâ girişimi Moonshot&#039;ın, Kimi K3 modelini eğitmek için Alibaba üzerinden yaklaşık 20 bin Nvidia çiplik işlem gücüne eriştiği bildirildi. Açık kaynaklı Kimi K3’ün OpenAI ve Anthropic modellerine yaklaşması, hatta bazı testlerde Alibaba&#039;nın &quot;Qwen&quot; modelini geçmesi dikkat çekti.",
+      "url": "https://www.dunya.com/dunya/cinli-yapay-zeka-modeli-openaia-rakip-oldu-arkasindan-nvidia-cikti-haberi-834444",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T13:00:00"
+    },
+    {
+      "title": "Fed'in faiz artırımı savunan üyeler gerekçelerini açıkladı: Beklemek daha maliyetli olabilir",
+      "summary": "Fed&#039;in politika faizini sabit bırakma kararına karşı oy kullanan Cleveland Fed Başkanı Beth Hammack ile Minneapolis Fed Başkanı Neel Kashkari, gerekçelerini paylaştı. İki yetkili de enflasyonla mücadelede geç kalınmasının daha sert adımları zorunlu kılabileceği uyarısında bulundu.",
+      "url": "https://www.dunya.com/ekonomi/fedin-faiz-artirimi-savunan-uyeler-gerekcelerini-acikladi-beklemek-daha-maliyetli-olabilir-haberi-834443",
+      "source": "Dünya Gazetesi",
+      "published": "2026-07-31T12:54:00"
     },
     {
       "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
       "summary": "ExxonMobil and Chevron on Friday reported second-quarter profits that surged on rising oil prices due to the Iran war.",
       "url": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-07-31T11:40:37",
-      "ai": {
-        "impact": "İran savaşının petrol fiyatlarını artırması, Exxon ve Chevron gibi petrol şirketlerinin kârlarını artırabilir. Bu durum, enerji sektöründe faaliyet gösteren şirketlerin hisse değerlerini pozitif etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-07-31T12:49:14"
     },
     {
-      "title": "InvestingPro’nun aşırı değerli uyarısı yatırımcıları %47’lik düşüşten korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-asr-degerli-uyars-yatrmclar-47lik-dususten-korudu-93CH-4006885",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:34:32",
-      "ai": {
-        "impact": "InvestingPro'nun aşırı değerli uyarısı, yatırımcıların bilinçli kararlar almasına yardımcı olabilir. Bu durum, yatırımcıların risklerini giảmırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Cantor Fitzgerald, Duos Technologies hissesine aşırı ağırlık önerisi verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-duos-technologies-hissesine-asr-agrlk-onerisi-verdi-93CH-4006875",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:30:09",
-      "ai": {
-        "impact": "Cantor Fitzgerald'ın Duos Technologies hissesine aşırı ağırlık önerisi, şirketin hisse değerini artırabilir. Bu durum, teknoloji sektöründe faaliyet gösteren şirketlerin hisse değerlerini pozitif etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Karyopharm hissesinin notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-karyopharm-hissesinin-notunu-dusurdu-93CH-4006874",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:30:04",
-      "ai": {
-        "impact": "H.C. Wainwright'ın Karyopharm hissesinin notunu düşürmesi, şirketin hisse değerini olumsuz etkileyebilir. Bu durum, sağlık sektöründe faaliyet gösteren şirketlerin hisse değerlerini olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "More consumer companies are staying private for longer, avoiding the IPO road",
-      "summary": "With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.",
-      "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
-      "source": "CNBC World Markets",
-      "published": "2026-07-31T11:30:01"
-    },
-    {
-      "title": "H.C. Wainwright, Madrigal Pharmaceuticals için al tavsiyesini tekrarladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-madrigal-pharmaceuticals-icin-al-tavsiyesini-tekrarlad-93CH-4006870",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:29:59"
-    },
-    {
-      "title": "H.C. Wainwright, zayıf çeyreğe rağmen Coinbase hissesi için görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-zayf-ceyrege-ragmen-coinbase-hissesi-icin-gorusunu-korudu-93CH-4006869",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:29:56"
-    },
-    {
-      "title": "Oppenheimer, zayıf çeyrek sonrası AGCO hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/oppenheimer-zayf-ceyrek-sonras-agco-hisse-hedefini-dusurdu-93CH-4006868",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:29:55"
-    },
-    {
-      "title": "H.C. Wainwright, TTR rehberi düşürülmesine rağmen Alnylam hissesi için tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-ttr-rehberi-dusurulmesine-ragmen-alnylam-hissesi-icin-tavsiyesini-korudu-93CH-4006867",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:29:53"
-    },
-    {
-      "title": "Hafta sonu sınav var mı, ne sınavı var? 1 Ağustos Cumartesi - 2 Ağustos Pazar hangi sınav var?",
-      "summary": "Hafta sonu yapılacak sınavların bilgileri araştırılıyor. ÖSYM&#039;nin, MEB&#039;in, açıköğretim fakültelerinin sınavını kaçırmak istemeyenler hafta sonuna girilirken son kontrollerini yapıyor. İşte &quot;Hafta sonu sınav var mı, ne sınavı var&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/gundem/hafta-sonu-sinav-var-mi-ne-sinavi-var-1-agustos-cumartesi-2-agustos-pazar-hangi-sinav-var-haberi-834432",
+      "title": "GÜNEŞ TUTULMASI TARİHİ: Tam Güneş Tutulması ne zaman?",
+      "summary": "Gökyüzü meraklılarının heyecanla beklediği tam Güneş tutulması yaklaşırken gözler bir kez daha tarihlere çevrilmiş durumda... Milyonlar bu muhteşem doğa olayını kaçırmak istemezken &quot;Tam Güneş Tutulması ne zaman&quot; sorusu hızlanıyor.",
+      "url": "https://www.dunya.com/gundem/gunes-tutulmasi-tarihi-tam-gunes-tutulmasi-ne-zaman-haberi-834442",
       "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:29:00"
-    },
-    {
-      "title": "DCX CEO’su açık piyasadan 41.000 hisse satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dcx-ceosu-ack-piyasadan-41000-hisse-satn-ald-93CH-4006860",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:25:03"
-    },
-    {
-      "title": "Marvell Technology hisseleri neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/marvell-technology-hisseleri-neden-yukseliste-93CH-4006824",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:24:02"
-    },
-    {
-      "title": "Needham, veri merkezi gücüyle Monolithic Power Systems hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-veri-merkezi-gucuyle-monolithic-power-systems-hisse-hedefini-yukseltti-93CH-4006823",
-      "source": "Investing Türkiye",
-      "published": "2026-07-31T11:24:00"
-    },
-    {
-      "title": "Booking.com Türkiye'ye geri dönüyor: Yabancı turizm platformları hakkında yeni düzenleme",
-      "summary": "AK Parti&#039;nin hazırladığı yasa teklifiyle, Türkiye&#039;de faaliyet göstermek isteyen yabancı dijital konaklama platformları için yeni kurallar getiriliyor. Vergi yükümlülüğü, temsilcilik açma zorunluluğu ve komisyon sınırı gibi şartları yerine getiren şirketlerin yeniden Türkiye pazarında faaliyet göstermesinin önü açılacak.",
-      "url": "https://www.dunya.com/sektorler/turizm/bookingcom-turkiyeye-geri-donuyor-yabanci-turizm-platformlari-hakkinda-yeni-duzenleme-haberi-834431",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:21:00"
-    },
-    {
-      "title": "1,2 milyon Tesla için direksiyon kontrolü soruşturması",
-      "summary": "ABD&#039;de güvenlik düzenleyicisi, ön süspansiyon parçasının ayrılabileceğine ilişkin şikâyetler üzerine Tesla için yeni bir inceleme başlattı. Model 3 ve Model Y araçlarını kapsayan süreç, önceki geri çağırmaların yeterliliğini de gündeme taşıdı.",
-      "url": "https://www.dunya.com/is-dunyasi/12-milyon-tesla-icin-direksiyon-kontrolu-sorusturmasi-haberi-834429",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:16:00"
-    },
-    {
-      "title": "Bakan Uraloğlu açıkladı: Ankara ile İstanbul arasını 4 saatin altına indireceğiz",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, T26 Tüneli ve Doğançay Ripajı-2 projelerinin tamamlanmasıyla Ankara-İstanbul Yüksek Hızlı Tren Hattı&#039;nda kesintisiz 250 kilometre hıza ulaşılacağını, seyahat süresinin ise 30 dakika kısalarak 4 saatin altına ineceğini açıkladı.",
-      "url": "https://www.dunya.com/gundem/bakan-uraloglu-acikladi-ankara-ile-istanbul-arasini-4-saatin-altina-indirecegiz-haberi-834430",
-      "source": "Dünya Gazetesi",
-      "published": "2026-07-31T11:15:00"
+      "published": "2026-07-31T12:43:00"
     }
   ]
 }

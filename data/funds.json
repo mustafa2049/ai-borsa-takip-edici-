@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T14:53:02+03:00",
+  "updated_at": "2026-07-31T16:43:30+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 49.03,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %6,07 getiri elde etmiş olup yüksek riskli bir fondur. Uzun vadede %49,03 getiri elde etmiştir."
+        "comment": "Son 1 ayda %6,07 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Uzun vadeli yatırımlar için uygun olabilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 40.69,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %3,14 getiri elde etmiş olup orta riskli bir fondur. Uzun vadede %40,69 getiri elde etmiştir."
+        "comment": "Son 1 ayda %3,14 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 36.85,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %2,48 getiri elde etmiş olup orta riskli bir fondur. Uzun vadede %36,85 getiri elde etmiştir."
+        "comment": "Son 1 ayda %2,48 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Amerika hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 29.45,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %-0,79 getiri elde etmiş olup düşük riskli bir fondur. Uzun vadede %29,45 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-0,79 getiri elde etmiş olup düşük riskli bir fon olarak değerlendirilebilir. Kısa vadeli yatırımlar için uygun olabilir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 25.67,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %-0,85 getiri elde etmiş olup orta riskli bir fondur. Uzun vadede %25,67 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-0,85 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Değişken fonlara ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 28.62,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %-1,44 getiri elde etmiş olup düşük riskli bir fondur. Uzun vadede %28,62 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-1,44 getiri elde etmiş olup düşük riskli bir fon olarak değerlendirilebilir. Fon sepetsi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 5.11,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-1,87 getiri elde etmiş olup yüksek riskli bir fondur. Uzun vadede %5,11 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-1,87 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 21.26,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-2,81 getiri elde etmiş olup yüksek riskli bir fondur. Uzun vadede %21,26 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-2,81 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 5.89,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-3,25 getiri elde etmiş olup yüksek riskli bir fondur. Uzun vadede %5,89 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-3,25 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 24.6,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %-3,45 getiri elde etmiş olup yüksek riskli bir fondur. Uzun vadede %24,6 getiri elde etmiştir."
+        "comment": "Son 1 ayda %-3,45 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. BIST 30 dışı şirketler hisse senedi fonlarına ilgi duyan yatırımcılar için uygun olabilir."
       }
     },
     {
