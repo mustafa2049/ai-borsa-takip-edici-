@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T13:33:26+03:00",
+  "updated_at": "2026-08-03T16:33:47+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 55.64,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %7.86 getiri sağladı, ancak yüksek risk içeriyor. Uzun vadeli yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %7.86 getiri elde etmiş, ancak emtia fiyatlarına duyarlılığı yüksek olan bir fon."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 41.92,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %3.1 getiri sağladı, orta risk seviyesine sahip. Dengeleyici bir yatırım aracı olabilir."
+        "comment": "Son 1 ayda %3.1 getiri elde etmiş, yabancı hisse senedi fonu olarak orta düzeyde risk taşıyor."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 36.99,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %1.26 getiri sağladı, ancak yüksek risk içeriyor. Yabancı hisse senedi piyasalarına yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %1.26 getiri elde etmiş, ancak Amerika merkezli yabancı hisse senedi fonu olarak yüksek risk barındırıyor."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 29.25,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.05 kayıp yaşadı, düşük risk seviyesine sahip. Konservatif yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %0.05 kayıpla kapanmış, ancak hisse senedi yoğunluklu fon olarak düşük riskli bir seçenek olabilir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 29.55,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.7 kayıp yaşadı, düşük risk seviyesine sahip. Fon sepetsi yapısı nedeniyle risksiz bir yatırım aracı olabilir."
+        "comment": "Son 1 ayda %0.7 kayıpla kapanmış, ancak fon sepetsi fonu olarak düşük riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 26.26,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.76 kayıp yaşadı, orta risk seviyesine sahip. Değişken fon yapısı nedeniyle dikkatli yatırım kararı alınmalıdır."
+        "comment": "Son 1 ayda %0.76 kayıpla kapanmış, değişken fon olarak orta düzeyde risk taşıyor."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 3.74,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.21 kayıp yaşadı, yüksek risk içeriyor. Yatırımcıların dikkatli olması gereken bir fon."
+        "comment": "Son 1 ayda %2.21 kayıpla kapanmış, hisse senedi yoğunluklu fon olarak yüksek risk barındırıyor."
       }
     },
     {
@@ -101,8 +101,8 @@
       "return_6m": 3.26,
       "return_1y": 21.6,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %2.4 kayıp yaşadı, orta risk seviyesine sahip. BIST 100 dışı şirketlere yatırım yapan yatırımcılar için uygun olabilir."
+        "risk": "Yüksek",
+        "comment": "Son 1 ayda %2.4 kayıpla kapanmış, BIST 100 dışı şirketlere yatırım yapan fon olarak yüksek riskli bir seçenek olabilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 37.07,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.47 kayıp yaşadı, yüksek risk içeriyor. Yeni teknolojilere yatırım yapan yatırımcılar için uygun olabilir."
+        "comment": "Son 1 ayda %2.47 kayıpla kapanmış, yeni teknolojiler fonu olarak yüksek risk barındırıyor."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 21.69,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.54 kayıp yaşadı, yüksek risk içeriyor. Hisse senedi yoğun fon yapısı nedeniyle dikkatli yatırım kararı alınmalıdır."
+        "comment": "Son 1 ayda %2.54 kayıpla kapanmış, hisse senedi yoğunluklu fon olarak yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {

@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-03T13:33:26+03:00",
+  "updated_at": "2026-08-03T16:33:47+03:00",
   "news": [
     {
-      "title": "Rockwell Automation ABD fabrika talebiyle 2Ç’de güçlü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/rockwell-automation-abd-fabrika-talebiyle-2cde-guclu-93CH-4008942",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T10:23:33",
+      "title": "Are Americans ready to embrace tiny 'cars'? These companies think so",
+      "summary": "Electric low-speed vehicles, or LSVs, are a step above a traditional golf cart but below a typical light-duty car or truck sold in the U.S.",
+      "url": "https://www.cnbc.com/2026/08/03/electric-lsv-stellantis-fiat-toppolino.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-03T13:23:42",
       "ai": {
-        "impact": "Rockwell Automation'ın güçlü 2. çeyrek performansı, ABD fabrika talebinin artışına bağlanabilir. Bu durum, Türkiye ve dünya piyasalarında endüstriyel üretim ve otomasyon hisselerine pozitif yansıyabilir.",
+        "impact": "Amerika'da elektrikli düşük hızlı araçların (LSV) artması, çevre dostu ulaşım seçeneklerine ilgiyi artırabilir ve bu sektörde faaliyet gösteren şirketler için fırsatlar yaratabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "PostNL maliyet kesintileri ve görünümle yükseldi",
+      "title": "Lloyds Banking Group çalışan planları için 6,7 milyon hisse ihraç etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/postnl-maliyet-kesintileri-ve-gorunumle-yukseldi-93CH-4008940",
+      "url": "https://tr.investing.com/news/company-news/lloyds-banking-group-calsan-planlar-icin-67-milyon-hisse-ihrac-etti-93CH-4009746",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:22:28",
+      "published": "2026-08-03T13:03:22",
       "ai": {
-        "impact": "PostNL'in maliyet kesintileri ve olumlu görünümü, şirketin finansal performansını iyileştirebilir. Ancak, bu durum Türkiye ve dünya piyasalarında doğrudan bir etkiye sahip olmayabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Bernstein, Vinted rekabeti ortamında eBay hissesi için görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-vinted-rekabeti-ortamnda-ebay-hissesi-icin-gorusunu-korudu-93CH-4008939",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T10:22:13",
-      "ai": {
-        "impact": "eBay hissesi için Bernstein'in görüşünü koruması, Vinted rekabeti ortamında şirketin durumunu yansıtabilir. Bu durum, e-ticaret hisselerine yönelik genel bir etki yaratmayabilir.",
+        "impact": "Lloyds Banking Group'un çalışan planları için hisse ihraç etmesi, şirketin büyüme ve çalışanlarına yatırım yapma stratejisinin bir parçası olabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Bernstein, RTX hissesi için hedef fiyatı 232 dolara yükseltti",
+      "title": "Golden Global Varlık Kiralama, sermayesini 250.000 TL’ye çıkardı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-rtx-hissesi-icin-hedef-fiyat-232-dolara-yukseltti-93CH-4008938",
+      "url": "https://tr.investing.com/news/global-filings/golden-global-varlk-kiralama-sermayesini-250000-tlye-ckard-93CH-4009745",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:22:10",
+      "published": "2026-08-03T13:03:10",
       "ai": {
-        "impact": "RTX hissesi için hedef fiyatının yükseltilmesi, şirketin gelecekteki performansına yönelik olumlu beklentileri yansıtabilir. Bu durum, havacılık ve savunma sanayisine yönelik hisselerde pozitif bir etki yaratabilir.",
+        "impact": "Golden Global Varlık Kiralama'nın sermayesini artırması, şirketin finansal gücünü artırabilir ve yeni yatırım fırsatlarına açık olmasını sağlayabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Raymond James, EOG Resources için hisse hedefini yükseltti",
+      "title": "Vişne Madencilik, halka arz yatırımında %43 ilerleme kaydetti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-eog-resources-icin-hisse-hedefini-yukseltti-93CH-4008937",
+      "url": "https://tr.investing.com/news/global-filings/visne-madencilik-halka-arz-yatrmnda-43-ilerleme-kaydetti-93CH-4009743",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:22:00",
+      "published": "2026-08-03T13:02:38",
       "ai": {
-        "impact": "EOG Resources için hisse hedefinin yükseltilmesi, enerji sektöründeki olumlu beklentileri yansıtabilir. Bu durum, enerji hisselerine yönelik genel bir pozitif etkiye sahip olabilir.",
+        "impact": "Vişne Madencilik'in halka arz yatırımında ilerleme kaydetmesi, şirketin büyüme planlarını hızlandırabilir ve yatırımcıların ilgisini çekebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Bernstein, Centene’nin hisse hedefini piyasa görünümüne dayanarak yükseltti",
+      "title": "RBC, Elis’in 2027 organik büyüme ivmesi beklentisiyle notunu yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-centenenin-hisse-hedefini-piyasa-gorunumune-dayanarak-yukseltti-93CH-4008936",
+      "url": "https://tr.investing.com/news/stock-market-news/rbc-elisin-2027-organik-buyume-ivmesi-beklentisiyle-notunu-yukseltti-4009747",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:21:58",
+      "published": "2026-08-03T13:02:13",
       "ai": {
-        "impact": "Centene'nin hisse hedefinin yükseltilmesi, sağlık sektöründeki olumlu beklentileri yansıtabilir. Bu durum, sağlık hizmetleri hisselerine yönelik genel bir pozitif etkiye sahip olabilir.",
+        "impact": "RBC'nin Elis'in 2027 organik büyüme ivmesi beklentisiyle notunu yükseltmesi, şirketin gelecekteki performansına olan güveni artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Raymond James, Crescent Energy hissesi için hedef fiyatı yükseltti",
+      "title": "VivoPower kurucusuna 28,8 milyon dolarlık borcu kapattı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-crescent-energy-hissesi-icin-hedef-fiyat-yukseltti-93CH-4008935",
+      "url": "https://tr.investing.com/news/company-news/vivopower-kurucusuna-288-milyon-dolarlk-borcu-kapatt-93CH-4009731",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:21:54",
+      "published": "2026-08-03T13:01:31",
       "ai": {
-        "impact": "Crescent Energy hissesi için hedef fiyatının yükseltilmesi, enerji sektöründeki olumlu beklentileri yansıtabilir. Bu durum, enerji hisselerine yönelik genel bir pozitif etkiye sahip olabilir.",
+        "impact": "VivoPower'ın kurucusuna olan borcunu kapatması, şirketin finansal durumunu iyileştirebilir ve yatırımcıların güvenini artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "TD Cowen, Quanta Services için hisse hedefini yükseltti",
+      "title": "Hitachi, Electrochaea’nın yeşil gaz patent portföyünü satın aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/td-cowen-quanta-services-icin-hisse-hedefini-yukseltti-93CH-4008934",
+      "url": "https://tr.investing.com/news/company-news/hitachi-electrochaeann-yesil-gaz-patent-portfoyunu-satn-ald-93CH-4009729",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:21:52",
+      "published": "2026-08-03T12:59:27",
       "ai": {
-        "impact": "Quanta Services için hisse hedefinin yükseltilmesi, enerji altyapısı ve hizmetleri sektöründeki olumlu beklentileri yansıtabilir. Bu durum, ilgili hisselerde pozitif bir etki yaratabilir.",
+        "impact": "Hitachi'nin Electrochaea'nın yeşil gaz patent portföyünü satın alması, şirketin yenilenebilir enerji alanındaki faaliyetlerini genişletebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Canaccord güçlü kazanç sezonunda yapay zeka harcamalarında artış görüyor",
+      "title": "Circle hissesi için analistler ikiye bölündü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/canaccord-guclu-kazanc-sezonunda-yapay-zeka-harcamalarnda-arts-goruyor-93CH-4008932",
+      "url": "https://tr.investing.com/news/stock-market-news/circle-hissesi-icin-analistler-ikiye-bolundu-4009730",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:19:01"
+      "published": "2026-08-03T12:57:53",
+      "ai": {
+        "impact": "Aralisteki analistlerin Circle hissesi hakkında farklı görüşlere sahip olması, hissenin gelecekteki performansına ilişkin belirsizliği artırabilir.",
+        "sentiment": "Nötr"
+      }
     },
     {
-      "title": "Trafik sigortasında yeni dönem başladı! Akıllı eksper ataması her şeyi değiştirecek",
-      "summary": "Trafik sigortasında yeni uygulama 1 Ağustos itibarıyla yürürlüğe girdi. Hasar tespitinden değer kaybı ödemelerine, eksper atamalarından kaza sonrası işlemlere kadar birçok uygulama değişti. İşte araç sahiplerini yakından ilgilendiren yeni düzenlemenin detayları...",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/trafik-sigortasinda-yeni-donem-basladi-akilli-eksper-atamasi-her-seyi-degistirecek-galeri-834754",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T10:19:00"
-    },
-    {
-      "title": "Çin’in Londian Wason’ı ABD halka arzında 1,7 milyar dolar değerleme hedefliyor",
+      "title": "Deutsche Bank’tan altın fiyatları için gerçeğe uygun değer tahmini",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cinin-londian-wason-abd-halka-arznda-17-milyar-dolar-degerleme-hedefliyor-93CH-4008931",
+      "url": "https://tr.investing.com/news/commodities-news/deutsche-banktan-altn-fiyatlar-icin-gercege-uygun-deger-tahmini-4009728",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T10:18:02"
+      "published": "2026-08-03T12:56:41"
     },
     {
-      "title": "Borsa İstanbul'da dikkat çeken tablo! Yükselen hisseler ilk 7 ayda düşenleri geride bıraktı",
-      "summary": "2026&#039;nın ilk yedi ayında Borsa İstanbul&#039;da pozitif görünüm korundu. Ana endekslerin tamamında değer kazanan hisse sayısı, değer kaybeden hisselerin üzerine çıkarken, veriler yatırımcıların daha seçici hareket ettiği yeni bir döneme işaret etti.",
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbulda-dikkat-ceken-tablo-yukselen-hisseler-ilk-7-ayda-dusenleri-geride-birakti-haberi-834753",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T10:18:00"
+      "title": "Stifel, Tempus AI için hedef fiyatı marj endişeleriyle 50 dolara çekti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-tempus-ai-icin-hedef-fiyat-marj-endiseleriyle-50-dolara-cekti-93CH-4009723",
+      "source": "Investing Türkiye",
+      "published": "2026-08-03T12:53:58"
     },
     {
-      "title": "Fenerbahçe'nin Şampiyonlar Ligi play-off turundaki olası rakibi belli oldu",
-      "summary": "Fenerbahçe&#039;nin play-off turundaki rakibi netleşti. Sarı-lacivertliler, 3. ön eleme turunda Sturm Graz&#039;ı elemesi halinde Sparta Prag ile Olympic Lyon eşleşmesinin galibiyle UEFA Şampiyonlar Ligi lig aşaması için mücadele edecek.",
-      "url": "https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-play-off-turundaki-olasi-rakibi-belli-oldu-haberi-834751",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T10:14:00"
+      "title": "Stifel, Scotts Miracle-Gro için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-scotts-miraclegro-icin-hisse-hedefini-yukseltti-93CH-4009722",
+      "source": "Investing Türkiye",
+      "published": "2026-08-03T12:53:57"
     },
     {
-      "title": "Bakırda iki haftanın zirvesi, rekorla fark yüzde 3’ün altına indi",
-      "summary": "Bakır, arz sıkışıklığı ve ABD’nin olası ithalat tarifelerinin metal akışını bozmasıyla iki haftanın zirvesine çıktı. Çin’de düşen stoklar fiyatı desteklerken, zayıflayan imalat verileri yükselişin önündeki en büyük fren oldu.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/bakirda-iki-haftanin-zirvesi-rekorla-fark-yuzde-3un-altina-indi-galeri-834750",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T10:02:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Ekonomi dış şoklara karşı direncini koruyor",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, temmuz ayı enflasyon verilerini değerlendirerek, üretim kapasitesini artıran yapısal adımlar sayesinde ekonominin geçici dışsal şoklara karşı direncini koruduğunu belirtti. Yılmaz, kalıcı fiyat istikrarı için para ve maliye politikalarının yanı sıra arz yönlü reformların sürdürüleceğini vurguladı.",
-      "url": "https://www.dunya.com/ekonomik-veriler/cumhurbaskani-yardimcisi-yilmaz-ekonomi-dis-soklara-karsi-direncini-koruyor-haberi-834749",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T09:57:00"
-    },
-    {
-      "title": "Üniversitelerde yeni dönem: Gençlerin yöneldiği meslek artık müfredatta",
-      "summary": "YKS sonrası milyonlarca üniversiteli adayı şimdi de tercih dönemi için en doğru mesleğe karar verme çabasına girdi. Popüler meslekler yapay zekanın gölgesinde dönüşüme uğrarken, dünyanın önde gelen üniversiteleri de dikkat çeken yeni bölümler açıyor. Bir zamanlar sadece sosyal medyayla özdeşleşen içerik üreticiliği ya da &#039;influencerlık&#039; da artık lisans programlarına giriyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/universitelerde-yeni-donem-genclerin-yoneldigi-meslek-artik-mufredatta-galeri-834752",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T09:55:00"
-    },
-    {
-      "title": "Vakıf Katılım'dan tabii Premium fırsatı! Mobil uygulamadan ücretsiz üyelik dönemi başladı",
-      "summary": "Vakıf Katılım, mobil uygulamasındaki Tamamla Kazan sadakat programına yeni bir avantaj ekledi. Kullanıcılar, belirlenen bankacılık işlemlerini tamamlayarak 1 aylık tabii Premium üyeliği ücretsiz kazanabilecek. Kampanya, her ay kriterlerin yerine getirilmesiyle yenilenebilecek.",
-      "url": "https://www.dunya.com/sirketler/vakif-katilimdan-tabii-premium-firsati-mobil-uygulamadan-ucretsiz-uyelik-donemi-basladi-haberi-834747",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-03T09:51:00"
-    },
-    {
-      "title": "AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'",
-      "summary": "The companies have discussed a potential merger over several months, the Financial Times reported on Sunday.",
-      "url": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+      "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
+      "summary": "Sen. John Cornyn, R-Texas, a key holdout on confirming Todd Blanche for attorney general, struck a deal to end the controversial \"anti-weaponization fund.\"",
+      "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-03T09:50:18"
+      "published": "2026-08-03T12:52:20"
     },
     {
-      "title": "Türkiye'nin yerli lokomotifi Afrika yolunda: 7 bin kilometre gidecek",
-      "summary": "Türkiye&#039;nin ilk yerli ve millî dizel-elektrikli manevra lokomotifi DE 10000, Afrika&#039;daki yeni görevine doğru yola çıktı. TÜRASAŞ&#039;ın Eskişehir tesislerinde yüzde 90 yerlilik oranıyla üretilen lokomotif, Derince Limanı&#039;ndan Tanzanya&#039;ya gönderildi.",
-      "url": "https://www.dunya.com/gundem/turkiyenin-yerli-lokomotifi-afrika-yolunda-7-bin-kilometre-gidecek-haberi-834748",
+      "title": "Geliri arttı, kârı eridi: Japon hava yolu devinde sert düşüş",
+      "summary": "Japonya Havayolları&#039;nın net kârı, 2026 mali yılının ilk çeyreğinde artan yakıt maliyetlerinin baskısıyla yüzde 80,2 azalarak 5,3 milyar yene geriledi. Orta Doğu&#039;daki çatışmaların yakıt fiyatlarını yükseltmesi şirketin bilançosunu olumsuz etkilerken satış gelirleri yüzde 11,2 artışla 523,7 milyar yene ulaştı.",
+      "url": "https://www.dunya.com/dunya/geliri-artti-kari-eridi-japon-hava-yolu-devinde-sert-dusus-haberi-834771",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T09:39:00"
+      "published": "2026-08-03T12:52:00"
     },
     {
-      "title": "Millilerin Belçika ve Fransa maçlarını oynayacağı statlar açıklandı",
-      "summary": "UEFA Uluslar A Ligi&#039;nde ilk kez mücadele edecek A Milli Futbol Takımı&#039;nın Belçika ve Fransa maçlarını oynayacağı statlar belli oldu.",
-      "url": "https://www.dunya.com/spor/millilerin-belcika-ve-fransa-maclarini-oynayacagi-statlar-aciklandi-haberi-834745",
+      "title": "Tuna Nehri'nde kuraklık alarmı: Nükleer santral için kayalık patlatıldı",
+      "summary": "Romanya&#039;da yüksek sıcaklıklar ve yağışların azalması, Tuna Nehri&#039;ndeki su akışını son 30 yılın en düşük seviyesine çekti. Cernavoda Nükleer Santrali’ne ulaşan su miktarını artırmak isteyen yetkililer, nehir üzerindeki Parjoaia kayalığını 180 kilogram patlayıcıyla kontrollü şekilde imha etti. Romanya Deniz Kuvvetleri, askeri mühendisler ve patlayıcı imha dalgıçlarının katıldığı operasyonl",
+      "url": "https://www.dunya.com/video-galeri/gundem/tuna-nehrinde-kuraklik-alarmi-nukleer-santral-icin-kayalik-patlatildi-video-834769",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T09:38:00"
+      "published": "2026-08-03T12:26:00"
+    },
+    {
+      "title": "Bakan Gürlek, Uğur Mumcu'nun ailesiyle görüşecek",
+      "summary": "Adalet Bakanı Akın Gürlek, araştırmacı gazeteci Uğur Mumcu&#039;nun ailesiyle 6 Ağustos Perşembe günü bir araya gelecek. Görüşmede, Mumcu suikastına ilişkin soruşturma dosyasındaki son durum ile yürütülen yeni çalışmaların değerlendirilmesi bekleniyor.",
+      "url": "https://www.dunya.com/gundem/bakan-gurlek-ugur-mumcunun-ailesiyle-gorusecek-haberi-834768",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-03T12:25:00"
+    },
+    {
+      "title": "YÖK geleceğin mesleği için yeni bölüm açtı",
+      "summary": "YKS tercih süreci devam ederken Yükseköğretim Kurulu (YÖK) geleceğin meslekleri için harekete geçti. Yapay zeka, robotik ve veri teknolojilerini tarımla buluşturan yeni eğitim programları duyuran YÖK Başkanı Erol Özvar, bu alanlarda yetişecek uzmanların tarımsal dönüşümde kritik rol oynayacağını belirtti.",
+      "url": "https://www.dunya.com/egitim/yok-gelecegin-meslegi-icin-yeni-bolum-acti-haberi-834770",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-03T12:25:00"
+    },
+    {
+      "title": "Greece wildfire in pictures: Firefighters battle blaze worsened by 100km per hour winds",
+      "summary": "Greece is entering its second week of wildfires spread by extreme winds as more countries in Southern Europe battle with intensifying climate change.",
+      "url": "https://www.cnbc.com/2026/08/03/greece-wildfire-pictures-winds-heatwave.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-03T12:11:05"
+    },
+    {
+      "title": "Oil prices tumble after Trump calls off attack on Iran",
+      "summary": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-03T12:08:00"
+    },
+    {
+      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+      "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+      "url": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-03T12:00:01"
+    },
+    {
+      "title": "Merkez Bankası rezervlerinde artış",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın 31 Temmuz 2026 ile sona eren bir haftalık rezervlerinde temmuz ayındaki toparlanmanın sürdüğü hesaplandı. Matriks Haber&#039;in TCMB verilerinden yaptığı hesaplamaya göre rezervler, yaklaşık 1,6 milyar dolar artarak 162,6 milyar dolardan 164,2 milyar dolara çıktı.",
+      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-rezervlerinde-artis-haberi-834766",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-03T11:49:00"
     }
   ]
 }
