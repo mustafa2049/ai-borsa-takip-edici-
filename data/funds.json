@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T16:33:47+03:00",
+  "updated_at": "2026-08-03T19:15:06+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 55.64,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %7.86 getiri elde etmiş, ancak emtia fiyatlarına duyarlılığı yüksek olan bir fon."
+        "comment": "1 aylık dönemde %7.86 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Uzun vadeli getirileri de dikkate alınmalıdır."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 41.92,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %3.1 getiri elde etmiş, yabancı hisse senedi fonu olarak orta düzeyde risk taşıyor."
+        "comment": "1 yıllık dönemde %41.92 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi fonu olduğu için kur riski dikkate alınmalıdır."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 18.42,
       "return_1y": 36.99,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %1.26 getiri elde etmiş, ancak Amerika merkezli yabancı hisse senedi fonu olarak yüksek risk barındırıyor."
+        "risk": "Orta",
+        "comment": "1 yıllık dönemde %36.99 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Amerika hisse senedi fonu olduğu için küresel ekonomik gelişmeler dikkate alınmalıdır."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 29.25,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.05 kayıpla kapanmış, ancak hisse senedi yoğunluklu fon olarak düşük riskli bir seçenek olabilir."
+        "comment": "1 yıllık dönemde %29.25 getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğunluğu nedeniyle piyasa koşullarına bağlı olarak değerlendirmelidir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 29.55,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.7 kayıpla kapanmış, ancak fon sepetsi fonu olarak düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "1 yıllık dönemde %29.55 getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Fon sepetsi fonu olduğu için diversifikasyon avantajı sağlar."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 26.26,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.76 kayıpla kapanmış, değişken fon olarak orta düzeyde risk taşıyor."
+        "comment": "1 yıllık dönemde %26.26 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Değişken fon yapısı nedeniyle aktif yönetim dikkate alınmalıdır."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 3.74,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.21 kayıpla kapanmış, hisse senedi yoğunluklu fon olarak yüksek risk barındırıyor."
+        "comment": "1 yıllık dönemde %3.74 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Katılım hisse senedi fonu olduğu için sektörel riskler dikkate alınmalıdır."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 21.6,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.4 kayıpla kapanmış, BIST 100 dışı şirketlere yatırım yapan fon olarak yüksek riskli bir seçenek olabilir."
+        "comment": "1 yıllık dönemde %21.6 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. BIST 100 dışı şirketlere yatırım yaptığı için spekülatif riskler dikkate alınmalıdır."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 37.07,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.47 kayıpla kapanmış, yeni teknolojiler fonu olarak yüksek risk barındırıyor."
+        "comment": "1 yıllık dönemde %37.07 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Yeni teknolojiler hisse senedi fonu olduğu için sektörel riskler dikkate alınmalıdır."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 21.69,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %2.54 kayıpla kapanmış, hisse senedi yoğunluklu fon olarak yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "1 yıllık dönemde %21.69 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğunluğu nedeniyle piyasa koşullarına bağlı olarak değerlendirmelidir."
       }
     },
     {
