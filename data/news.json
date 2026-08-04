@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-03T19:15:06+03:00",
+  "updated_at": "2026-08-04T12:34:35+03:00",
   "news": [
     {
-      "title": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
-      "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
-      "url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-03T15:59:04",
+      "title": "ABD otomobil satışları Temmuz’da sabit kaldı, hibrit talep arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/abd-otomobil-satslar-temmuzda-sabit-kald-hibrit-talep-artt-93CH-4011174",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:24:56",
       "ai": {
-        "impact": "Temmuz ayı iş raporunun ekonomistlerin beklentilerinin slightly altında gelmesi, iş piyasasında bir miktar soğuma olduğunu gösterebilir. Bu durum, faiz oranlarının değişmesine neden olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-      "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
-      "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-03T15:50:20",
-      "ai": {
-        "impact": "Amazon'un 3 trilyon dolarlık piyasa değerini aşması, teknoloji sektörüne ve genel olarak ekonomiye pozitif bir etki yapabilir.",
+        "impact": "ABD otomobil satışlarının sabit kalması, hibrit talebinin artmasıyla birlikte otomotiv sektöründe bir dengelenme olabilir. Bu durum, Türk otomotiv sektörüne olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-      "summary": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
-      "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-03T15:49:38",
-      "ai": {
-        "impact": "Çin'in yapay zeka yarışında öne çıkması, teknoloji sektöründe rekabete ve inovasyona yol açabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "LendingTree pazaryerine altı yeni ürün kategorisi ekledi",
+      "title": "BlackRock’ın Entain’deki payı yüzde 5 eşiğini aştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lendingtree-pazaryerine-alt-yeni-urun-kategorisi-ekledi-93CH-4010187",
+      "url": "https://tr.investing.com/news/company-news/blackrockn-entaindeki-pay-yuzde-5-esigini-ast-93CH-4011173",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T15:49:22",
+      "published": "2026-08-04T09:24:32",
       "ai": {
-        "impact": "LendingTree'nin altı yeni ürün kategorisi eklemesi, şirketin büyümesine ve finansal hizmetlerde çeşitlenmesine katkıda bulunabilir.",
+        "impact": "BlackRock’ın Entain’deki payının artması, şirketin değerini artırabilir ve yatırımcı güvenini güçlendirebilir. Ancak bu durum, Türk piyasalarına doğrudan bir etkisi olmayabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Huron Consulting muhasebe direktörü 70.075 dolarlık hisse sattı",
+      "title": "BofA aylık raporunda protein piyasasında karışık trendler bildirdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/huron-consulting-muhasebe-direktoru-70075-dolarlk-hisse-satt-93CH-4010183",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-aylk-raporunda-protein-piyasasnda-karsk-trendler-bildirdi-93CH-4011172",
       "source": "Investing Türkiye",
-      "published": "2026-08-03T15:47:03",
+      "published": "2026-08-04T09:23:20",
       "ai": {
-        "impact": "Huron Consulting muhasebe direktörünün hisse satması, şirketin iç işleyişine ilişkin spekülasyonlara neden olabilir.",
+        "impact": "Protein piyasasındaki karışık trendler, gıda sektöründe belirsizliğe neden olabilir. Bu durum, Türk gıda sektörünü etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Kuantum bilişim 2030’da 7-10 milyar dolarlık pazara ulaşacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/kuantum-bilisim-2030da-710-milyar-dolarlk-pazara-ulasacak-93CH-4011171",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:21:45",
+      "ai": {
+        "impact": "Kuantum bilişimin 2030’da 7-10 milyar dolarlık pazara ulaşması, teknoloji sektöründe bir büyüme olabilir. Bu durum, Türk teknoloji sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Xtrackers 21 ETF hisse sınıfı için temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/xtrackers-21-etf-hisse-snf-icin-temettu-dagtacak-93CH-4011170",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:21:03",
+      "ai": {
+        "impact": "Xtrackers’in temettü dağıtması, yatırımcılar için bir gelir kaynağı olabilir. Ancak bu durum, Türk piyasalarına doğrudan bir etkisi olmayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "L3Harris uzay itki ünitesi hissesinin satışını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/l3harris-uzay-itki-unitesi-hissesinin-satsn-tamamlad-93CH-4011169",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:21:02",
+      "ai": {
+        "impact": "L3Harris’in uzay itki ünitesi hissesinin satışını tamamlaması, şirketin stratejik bir adım olabilir. Bu durum, Türk savunma sanayine bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Japon otomobil üreticileri ABD’de pazar payını artırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/japon-otomobil-ureticileri-abdde-pazar-payn-artrd-93CH-4011168",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:19:36",
+      "ai": {
+        "impact": "Japon otomobil üreticilerinin ABD’de pazar payını artırması, global otomotiv sektöründe bir rekabet olabilir. Bu durum, Türk otomotiv sektörünü etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
-      "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
-      "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-03T15:46:27",
+      "title": "Xtrackers II çok sayıda ETF fonunda temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/xtrackers-ii-cok-sayda-etf-fonunda-temettu-dagtacak-93CH-4011166",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:17:06",
       "ai": {
-        "impact": "Spider-Man: Brand New Day'in rekor kıran açılışının, sinema sektörüne ve ilgili şirketlere pozitif bir etki yapması muhtemeldir.",
+        "impact": "Xtrackers’in çok sayıda ETF fonunda temettü dağıtması, yatırımcılar için bir gelir kaynağı olabilir. Ancak bu durum, Türk piyasalarına doğrudan bir etkisi olmayabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
-      "summary": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal as legally baseless.",
-      "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+      "title": "Adidas hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/adidas-hissesi-bugun-neden-dusuyor-93CH-4011163",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:16:01"
+    },
+    {
+      "title": "Xtrackers II, 11 ETF hisse sınıfında temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/xtrackers-ii-11-etf-hisse-snfnda-temettu-dagtacak-93CH-4011153",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T09:12:50"
+    },
+    {
+      "title": "Fransa'da aşırı sıcaklıklar nedeniyle 3 nükleer reaktör faaliyetini durdurdu",
+      "summary": "Fransa&#039;da etkisini sürdüren aşırı sıcaklık ve kuraklık, nükleer enerji üretimini de etkiledi. Çevresel su düzenlemeleri kapsamında 3 nükleer reaktörün faaliyeti durdurulurken, bazı reaktörlerde ise üretim azaltıldı.",
+      "url": "https://www.dunya.com/dunya/fransada-asiri-sicakliklar-nedeniyle-3-nukleer-reaktor-faaliyetini-durdurdu-haberi-834874",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T09:10:00"
+    },
+    {
+      "title": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
+      "summary": "President Donald Trump has warned that the latest round of negotiations with Iran are the \"last chance\" to bring an end to the five-month conflict.",
+      "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-03T15:46:15",
-      "ai": {
-        "impact": "Todd Blanche'in attorney general olarak atanması, ABD'nin hukuk ve siyasi sistemine ilişkin belirsizliklere neden olabilir.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-04T09:04:13"
     },
     {
-      "title": "Trump, \"İran iki yüzlü\" dedi ve ekledi: Hürmüz Boğazı ABD'nin kontrolünde",
-      "summary": "ABD Başkanı Donald Trump, İran yönetimini &quot;inanılmaz derecede iki yüzlü&quot; olmakla suçlayarak, Tahran&#039;ın kamuoyuna yansıttığının aksine ABD ile görüşme talep ettiğini öne sürdü. Trump, Hürmüz Boğazı&#039;nın ise tamamen ABD Donanması&#039;nın kontrolünde olduğunu iddia etti.",
-      "url": "https://www.dunya.com/dunya/trump-iran-iki-yuzlu-dedi-ve-ekledi-hurmuz-bogazi-abdnin-kontrolunde-haberi-834789",
+      "title": "Altın fiyatında yeni hedef açıklandı: Gram altın için rekor rakam",
+      "summary": "Altın fiyatlarında son dönemde yaşanan dalgalanmaya rağmen küresel yatırım bankalarından yükseliş beklentileri gelmeye devam ediyor. Standard Chartered, ons altın için yeni hedeflerini açıklarken uzun vadede işaret ettiği seviye gerçekleşirse gram altın da rekor fiyatı görebilir.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatinda-yeni-hedef-aciklandi-gram-altin-icin-rekor-rakam-galeri-834875",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T15:39:00",
-      "ai": {
-        "impact": "Trump'ın İran'a yönelik açıklamaları, Orta Doğu'da gerilimi artırabilir ve petrol fiyatlarına etkide bulunabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-04T09:01:00"
     },
     {
-      "title": "Senato tasarısı kenevir ürünü kısıtlamalarını erteliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/senato-tasars-kenevir-urunu-kstlamalarn-erteliyor-93CH-4010181",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:37:42"
+      "title": "Irak Petrol Bakanı duyurdu: Türkiye-Irak enerji hattında yeni dönem başlıyor",
+      "summary": "Irak Petrol Bakanı Basim Muhammed Hudayyir, Türkiye ile 1 Ağustos&#039;ta imzalanan anlaşma kapsamında günlük petrol ihracatının 700 bin varilin üzerine çıkarılmasının hedeflendiğini açıkladı. Mevcut petrol mutabakatlarının bir yıl uzatıldığını belirten Hudayyir, bu süreçte uzun vadeli bir çerçeve anlaşmanın hazırlanacağını bildirdi.",
+      "url": "https://www.dunya.com/enerji/irak-petrol-bakani-duyurdu-turkiye-irak-enerji-hattinda-yeni-donem-basliyor-haberi-834873",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T08:55:00"
     },
     {
-      "title": "Stifel, NOAA sözleşmesi sonrası Spire Global hisse notunu korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-noaa-sozlesmesi-sonras-spire-global-hisse-notunu-korudu-93CH-4010172",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:30:33"
+      "title": "Galatasaray hazırlık maçı ne zaman? Villareal - GS maçı hangi tarihte, saat kaçta, hangi kanalda?",
+      "summary": "Galatasaray 5. hazırlık maçına çıkacak. Rakip bu sefer İspanya ekibi Villareal… Aslan; 1 galibiyet, 1 beraberlik 2 mağlubiyet alırken son hazırlık maçını kazanmak istiyor. Mücadelenin tarihi ve saati merak ediliyor. İşte detaylar...",
+      "url": "https://www.dunya.com/spor/galatasaray-hazirlik-maci-ne-zaman-villareal-gs-maci-hangi-tarihte-saat-kacta-hangi-kanalda-haberi-834871",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T08:49:00"
     },
     {
-      "title": "BofA, MakeMyTrip hissesi için hedef fiyatı 71 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bofa-makemytrip-hissesi-icin-hedef-fiyat-71-dolara-yukseltti-93CH-4010170",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:29:58"
+      "title": "Savaş gölgesinde Türk boğazlarından 40 bini aşkın gemi geçti",
+      "summary": "Karadeniz&#039;de Rusya-Ukrayna savaşı, Orta Doğu&#039;da ise Hürmüz Boğazı&#039;nı etkileyen gerilim sürerken, Türk boğazları küresel deniz ticaretindeki kritik rolünü korudu. İstanbul ve Çanakkale boğazlarından yılın ilk altı ayında 40 bin 218 gemi geçerken, toplam yük tonajı 767,5 milyon gros tona ulaştı.",
+      "url": "https://www.dunya.com/ekonomi/savas-golgesinde-turk-bogazlarindan-40-bini-askin-gemi-gecti-haberi-834872",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T08:49:00"
     },
     {
-      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-      "summary": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
-      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+      "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+      "summary": "The results come as oil supermajors have reported blowout quarterly profits, benefitting from higher fossil fuel prices amid the Iran war.",
+      "url": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-03T15:27:52"
+      "published": "2026-08-04T08:23:14"
     },
     {
-      "title": "Meksika analistleri 2026 enflasyon tahminini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/meksika-analistleri-2026-enflasyon-tahminini-dusurdu-93CH-4010169",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:25:48"
-    },
-    {
-      "title": "Textron hisse başına 0,02 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/textron-hisse-basna-002-dolar-temettu-acklad-93CH-4010168",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:24:53"
-    },
-    {
-      "title": "DA Davidson, Five9 hissesi için kazanç öncesi Nötr görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-five9-hissesi-icin-kazanc-oncesi-notr-gorusunu-korudu-93CH-4010166",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:23:57"
-    },
-    {
-      "title": "D.A. Davidson, Q2 Holdings hissesi için tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-q2-holdings-hissesi-icin-tavsiyesini-korudu-93CH-4010165",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:23:40"
-    },
-    {
-      "title": "Borsa İstanbul günü düşüşle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,35 değer kaybederek 13.410,54 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834787",
+      "title": "El Nino tarım piyasasını vurdu: Buğday iki yılın zirvesinde",
+      "summary": "El Nino hava olayı, küresel kuraklık ve Rusya-Ukrayna savaşının limanlarda yol açtığı hasar, temmuz ayında tarım emtiası fiyatlarını yukarı taşıdı. Chicago Ticaret Borsası&#039;nda buğday yüzde 8,5 değer kazanarak Mayıs 2024&#039;ten bu yana en yüksek seviyesine ulaştı. Üretim tahminlerinin aşağı yönlü revize edilmesi ve güçlü talep de yükselişi destekledi.",
+      "url": "https://www.dunya.com/finans/emtia/el-nino-tarim-piyasasini-vurdu-bugday-iki-yilin-zirvesinde-haberi-834870",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T15:23:00"
+      "published": "2026-08-04T08:22:00"
     },
     {
-      "title": "Bristol-Myers Squibb ve AstraZeneca dev birleşme görüşüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bristolmyers-squibb-ve-astrazeneca-dev-birlesme-gorusuyor-4010174",
-      "source": "Investing Türkiye",
-      "published": "2026-08-03T15:22:19"
-    },
-    {
-      "title": "Gine, ECOWAS'ın ortak para birimi ECO'ya katılmayacağını açıkladı",
-      "summary": "Gine, Batı Afrika Devletleri Ekonomik Topluluğunun (ECOWAS) 2027&#039;de aşamalı olarak tedavüle sokmayı planladığı ortak para birimi ECO&#039;ya katılmayacağını ve ulusal para birimi Gine frangını koruyacağını açıkladı.",
-      "url": "https://www.dunya.com/dunya/gine-ecowasin-ortak-para-birimi-ecoya-katilmayacagini-acikladi-haberi-834786",
+      "title": "Avdagiç: BTM girişimleri 10 yılda 66 milyon dolar yatırım aldı",
+      "summary": "İstanbul Ticaret Odası (İTO) ve Bilgiyi Ticarileştirme Merkezi (BTM) Başkanı Şekib Avdagiç, BTM&#039;yi girişimcilikte dünyanın en iyi 3&#039;üncü startup merkezi yapmayı başardıklarını belirterek, &quot;BTM&#039;deki girişimler ilk altı ayda 11 milyon dolarlık yatırım çekti. 10 yılda BTM girişimlerinin aldığı toplam yatırım 66 milyon doları, toplam değerleme 560 milyon doları aştı.&quot; dedi.",
+      "url": "https://www.dunya.com/ekonomi/avdagic-btm-girisimleri-10-yilda-66-milyon-dolar-yatirim-aldi-haberi-834869",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T15:19:00"
+      "published": "2026-08-04T08:19:00"
     },
     {
-      "title": "Düzce'de fındığın hasat tarihleri belirlendi",
-      "summary": "Düzce Tarım ve Orman Müdürlüğü, il genelinde fındık hasat tarihlerini belirledi.",
-      "url": "https://www.dunya.com/ekonomi/duzcede-findigin-hasat-tarihleri-belirlendi-haberi-834785",
+      "title": "Beşiktaş Avrupa Ligi maçı ne zaman? Hradec Kralove BJK maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "UEFA Avrupa Ligi 3. ön eleme turunda Beşiktaş, Çekya ekibi Hradec Kralove ile karşı karşıya gelecek. Kara Kartal ilk maçını deplasmanda oynayacak ve güzel bir skor alarak seyircisi önüne avantajlı çıkmak istiyor. Peki, Beşiktaş Avrupa Ligi maçı ne zaman?",
+      "url": "https://www.dunya.com/spor/besiktas-avrupa-ligi-maci-ne-zaman-hradec-kralove-bjk-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-834867",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-03T15:17:00"
+      "published": "2026-08-04T08:12:00"
     }
   ]
 }

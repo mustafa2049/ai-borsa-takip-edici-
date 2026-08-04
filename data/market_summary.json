@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-08-03T19:15:06+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. Uluslararası endekslerde görülen artışlar ve ons altın fiyatlarının yükselişi olumlu sinyaller olarak değerlendirilebilir. Ancak, Brent petrol fiyatlarında görülen düşüş ve bazı hisse senetlerinde satış sinyalleri dikkat çekiyor. Toplamda, günün piyasa görünümü dengeli ve dalgalı bir seyir izleyebilir.",
+  "updated_at": "2026-08-04T12:34:35+03:00",
+  "overview": "Dünya borsaları genel olarak olumlu bir seyir izlerken, BIST 100 endeksi sınırlı bir artış gösterdi. Döviz kurlarında hafif bir düşüş gözlemlenirken, ons altın ve gram altın değerleri arttı. Hisse sinyalleri genel olarak alıma yönelik olsa da, bazı hisselerde satış sinyalleri de görüldü.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13410.54,
-      "change_pct": -0.35
+      "value": 13472.4,
+      "change_pct": 0.11
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7584.83,
-      "change_pct": 1.27
+      "value": 7489.72,
+      "change_pct": 0.7
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 25872.56,
-      "change_pct": 1.97
+      "value": 25373.85,
+      "change_pct": 1.0
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26001.31,
-      "change_pct": 1.45
+      "value": 26121.72,
+      "change_pct": 1.92
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 64362.02,
-      "change_pct": 4.03
+      "value": 63957.53,
+      "change_pct": -0.63
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.52,
-      "change_pct": 0.04
+      "value": 47.47,
+      "change_pct": -0.12
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.72,
-      "change_pct": 0.02
+      "value": 54.78,
+      "change_pct": -0.2
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4091.7,
-      "change_pct": 1.05
+      "value": 4106.1,
+      "change_pct": 1.41
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 83.76,
-      "change_pct": -7.06
+      "value": 86.0,
+      "change_pct": -4.57
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6251.25,
+      "value": 6267.37,
       "change_pct": null
     }
   ]
