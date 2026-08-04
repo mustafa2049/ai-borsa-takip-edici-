@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-04T12:34:35+03:00",
-  "overview": "Dünya borsaları genel olarak olumlu bir seyir izlerken, BIST 100 endeksi sınırlı bir artış gösterdi. Döviz kurlarında hafif bir düşüş gözlemlenirken, ons altın ve gram altın değerleri arttı. Hisse sinyalleri genel olarak alıma yönelik olsa da, bazı hisselerde satış sinyalleri de görüldü.",
+  "updated_at": "2026-08-04T14:57:30+03:00",
+  "overview": "Piyasa genelinde olumlu bir görünüme sahip. BIST 100 endeksi hafif artış gösterirken, uluslararası piyasalarda da genel olarak yükseliş eğilimi hakim. DAX endeksinin %2,12'lik artışıyla dikkat çektiği görülürken, ons altın ve gram altın fiyatları da yükselişte. Hisse sinyallerine bakıldığında, THYAO, TUPRS, GARAN, AKBNK gibi hisseler alış sinyali verirken, TOASO ve EKGYO gibi hisseler güçlü satış sinyali veriyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13472.4,
-      "change_pct": 0.11
+      "value": 13471.15,
+      "change_pct": 0.1
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26121.72,
-      "change_pct": 1.92
+      "value": 26172.71,
+      "change_pct": 2.12
     },
     {
       "name": "Nikkei 225",
@@ -35,31 +35,31 @@
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.47,
-      "change_pct": -0.12
+      "value": 47.55,
+      "change_pct": 0.04
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.78,
-      "change_pct": -0.2
+      "value": 54.81,
+      "change_pct": -0.15
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4106.1,
-      "change_pct": 1.41
+      "value": 4130.4,
+      "change_pct": 2.4
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 86.0,
-      "change_pct": -4.57
+      "value": 82.09,
+      "change_pct": -2.01
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6267.37,
+      "value": 6314.58,
       "change_pct": null
     }
   ]

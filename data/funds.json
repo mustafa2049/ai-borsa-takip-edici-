@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T12:34:35+03:00",
+  "updated_at": "2026-08-04T14:57:30+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 53.83,
       "ai": {
         "risk": "Yüksek",
-        "comment": "1 aylık dönemde %6,64 getiri elde etmiş, ancak riski yüksek bir fon olarak görünüyor. Uzun vadeli yatırımcılar için uygun olabilir."
+        "comment": "1 aylık dönemde %6,64 getiri elde etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 49.28,
       "ai": {
         "risk": "Orta",
-        "comment": "1 aylık dönemde %5,16 getiri elde etmiş, orta düzeyde risk taşıyan bir fon olarak görünüyor. Yabancı hisse senedi yatırımlarına ilgi duyan yatırımcılar için uygun olabilir."
+        "comment": "1 yıllık dönemde %49,28 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 21.25,
       "return_1y": 42.55,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "1 aylık dönemde %3,43 getiri elde etmiş, ancak yüksek risk taşıyan bir fon olarak görünüyor. Amerika hisse senedi yatırımlarına ilgi duyan yatırımcılar için uygun olabilir."
+        "risk": "Orta",
+        "comment": "6 aylık dönemde %21,25 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 28.27,
       "ai": {
         "risk": "Düşük",
-        "comment": "1 aylık dönemde %0,36 kayıp etmiş, düşük risk taşıyan bir fon olarak görünüyor. Konservatif yatırımcılar için uygun olabilir."
+        "comment": "1 aylık dönemde %0,36 kayıp etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 28.4,
       "ai": {
         "risk": "Düşük",
-        "comment": "1 aylık dönemde %0,56 kayıp etmiş, düşük risk taşıyan bir fon olarak görünüyor. Uzun vadeli yatırımcılar için uygun olabilir."
+        "comment": "1 yıllık dönemde %28,4 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 29.59,
       "ai": {
         "risk": "Düşük",
-        "comment": "1 aylık dönemde %0,9 kayıp etmiş, düşük risk taşıyan bir fon olarak görünüyor. Yatırımcılar için uygun olabilir."
+        "comment": "6 aylık dönemde %3,83 getiri elde etti. Düşük riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 22.17,
       "ai": {
         "risk": "Yüksek",
-        "comment": "1 aylık dönemde %1,8 kayıp etmiş, yüksek risk taşıyan bir fon olarak görünüyor. Yatırımcılar dikkatli olmalıdır."
+        "comment": "1 yıllık dönemde %22,17 getiri elde etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 42.13,
       "ai": {
         "risk": "Yüksek",
-        "comment": "1 aylık dönemde %2,44 kayıp etmiş, yüksek risk taşıyan bir fon olarak görünüyor. Yeni teknolojiler hisse senedi yatırımlarına ilgi duyan yatırımcılar için uygun olabilir."
+        "comment": "1 aylık dönemde %2,44 kayıp etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 35.01,
       "ai": {
         "risk": "Orta",
-        "comment": "1 aylık dönemde %2,66 kayıp etmiş, orta düzeyde risk taşıyan bir fon olarak görünüyor. Değişken yatırımlar yapan yatırımcılar için uygun olabilir."
+        "comment": "1 yıllık dönemde %35,01 getiri elde etti. Orta riskli bir fon olarak kabul edilir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 16.35,
       "ai": {
         "risk": "Yüksek",
-        "comment": "1 aylık dönemde %2,81 kayıp etmiş, yüksek risk taşıyan bir fon olarak görünüyor. Yatırımcılar dikkatli olmalıdır."
+        "comment": "1 yıllık dönemde %16,35 getiri elde etti. Yüksek riskli bir fon olarak kabul edilir."
       }
     },
     {
