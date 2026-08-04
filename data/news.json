@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-04T17:03:48+03:00",
+  "updated_at": "2026-08-04T19:25:59+03:00",
   "news": [
     {
-      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-      "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
-      "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+      "title": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
+      "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
+      "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T14:00:55",
+      "published": "2026-08-04T16:17:23",
       "ai": {
-        "impact": "Hormuz Boğazının açılması, petrol fiyatlarında düşüşe neden olabilir ve küresel enerji piyasalarını olumlu etkileyebilir.",
+        "impact": "Bu haber, Apple'ın tedarik zinciri sorunlarına işaret ederek, şirketin gelecekteki üretim planlarını etkileyebilir. Bu durum, teknoloji hisselerine olumsuz yansıyabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Tahir Sarıkaya'ya tutuklama talebi",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltına alınan gazeteci Tahir Sarıkaya, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+      "url": "https://www.dunya.com/gundem/tahir-sarikayaya-tutuklama-talebi-haberi-834950",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T16:16:00",
+      "ai": {
+        "impact": "Bu haber, Türkiye'de basın özgürlüğü ve hukuk sistemi hakkında soru işaretleri yaratabilir, ancak finansal piyasalar üzerinde doğrudan bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+      "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
+      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-04T16:14:49",
+      "ai": {
+        "impact": "Jeff Bezos'un Amazon hisselerini satma kararı, şirketin gelecekteki büyüme beklentilerini olumsuz etkileyebilir ve hisse fiyatını düşürebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Nordson hissesi 307,92 dolarda rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nordson-hissesi-30792-dolarda-rekor-krd-93CH-4012627",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T16:08:11",
+      "ai": {
+        "impact": "Nordson hissesinin rekor kırmış olması, şirketin güçlü performansını gösteriyor ve teknoloji sektörüne olan güveni artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "MEB tarafından 2026 LGS tercih sonuçları bugün mü, yarın mı açıklanıyor? Lise tercih sonuçları ne zaman açıklanacak?",
-      "summary": "LGS tercih sonuçlarına çok az bir süre kaldı. Sonuçlar iple çekilirken kesin tarih ve saat sorgulanıyor. Milli Eğitim Bakanlığının sonuçları erken açıklama ihtimali de göz önünde bulundurulurken &quot;LGS sonuçları ne zaman açıklanacak&quot; sorusu bugün yoğun şekilde geliyor.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/meb-tarafindan-2026-lgs-tercih-sonuclari-bugun-mu-yarin-mi-aciklaniyor-lise-tercih-sonuclari-ne-zaman-aciklanacak-galeri-834844",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-04T13:59:00",
-      "ai": {
-        "impact": "LGS tercih sonuçlarının açıklanması, Türkiye'de eğitim sektörünü etkileyebilir ancak genel olarak finans piyasalarına etkisi sınırlı olacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying",
-      "summary": "As AMD prepares to report earnings Tuesday after the bell, market participants face a divergence between positive earnings results and negative price action.",
-      "url": "https://www.cnbc.com/2026/08/04/amd-earnings-are-a-key-test-for-chips-and-momentum-stocks-heres-what-the-options-market-is-saying.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-04T13:55:51",
-      "ai": {
-        "impact": "AMD'nin kazançlarının açıklanması, teknoloji hisseleri ve genel olarak piyasa momentumunu etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Piper Sandler, Somnigroup hissesi için tavsiyesini korudu",
+      "title": "Genius Sports hissesi bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-somnigroup-hissesi-icin-tavsiyesini-korudu-93CH-4012383",
+      "url": "https://tr.investing.com/news/stock-market-news/genius-sports-hissesi-bugun-neden-yukseliyor-93CH-4012618",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:46:17",
+      "published": "2026-08-04T16:05:08",
       "ai": {
-        "impact": "Piper Sandler'ın Somnigroup hissesi için tavsiyesini koruması, şirketin hisse performansını etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Sağlık Bakanlığı KPSS sözleşmeli personel alımı ve İŞKUR işçi alımı başvuruları ne zaman?",
-      "summary": "Sağlık Bakanlığı sözleşmeli personel alımı ve işçi alımı için uzun bir bekleyiş söz konusu... Bakanlıkta çalışmak isteyenler sürekli olarak Bakan Kemal Memişoğlu&#039;nun açıklamalarını takip ediyor. Vatandaşların sıkça başvurduğu soru &quot;Sağlık Bakanlığı personel alımı ne zaman&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/saglik-bakanligi-kpss-sozlesmeli-personel-alimi-ve-iskur-isci-alimi-basvurulari-ne-zaman-haberi-834918",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-04T13:46:00",
-      "ai": {
-        "impact": "Sağlık Bakanlığı'nın personel alımı, Türkiye'de sağlık sektörünü etkileyebilir ancak genel olarak finans piyasalarına etkisi sınırlı olacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Piper Sandler, Inspire Medical hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-inspire-medical-hisse-hedefini-yukseltti-93CH-4012381",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T13:45:54",
-      "ai": {
-        "impact": "Piper Sandler'ın Inspire Medical hisse hedefini yükseltmesi, şirketin hisse performansını olumlu etkileyebilir.",
+        "impact": "Genius Sports hissesinin yükselmesi, şirketin başarılı performansını ve spor teknolojileri sektöründeki büyümesini gösteriyor.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "KeyBanc, Inspire Medical hissesi için tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-inspire-medical-hissesi-icin-tavsiyesini-korudu-93CH-4012379",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T13:45:51",
+      "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
+      "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
+      "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-04T16:04:43",
       "ai": {
-        "impact": "KeyBanc'ın Inspire Medical hissesi için tavsiyesini koruması, şirketin hisse performansını etkileyebilir.",
-        "sentiment": "Nötr"
+        "impact": "Ford'un satışlarının düşmesi, otomotiv sektöründeki genel durgunluğu yansıtabilir ve şirketin hisse fiyatını olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "Piper Sandler, Palantir hissesi için hedefini korudu",
+      "title": "Xtrackers 42 ETF hisse sınıfı için temettü açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-palantir-hissesi-icin-hedefini-korudu-93CH-4012380",
+      "url": "https://tr.investing.com/news/company-news/xtrackers-42-etf-hisse-snf-icin-temettu-acklad-93CH-4012614",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:45:51",
+      "published": "2026-08-04T15:59:46",
       "ai": {
-        "impact": "Piper Sandler'ın Palantir hissesi için hedefini koruması, şirketin hisse performansını etkileyebilir.",
-        "sentiment": "Nötr"
+        "impact": "Xtrackers 42 ETF hisse sınıfının temettü açıklaması, yatırımcılar için olumlu bir gelişme olabilir ve hisse fiyatını destekleyebilir.",
+        "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Piper Sandler, Snap hissesi için görüşünü korudu",
+      "title": "Gabelli Dividend & Income hissesi 30,17 dolarda zirve yaptı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-snap-hissesi-icin-gorusunu-korudu-93CH-4012378",
+      "url": "https://tr.investing.com/news/company-news/gabelli-dividend--income-hissesi-3017-dolarda-zirve-yapt-93CH-4012613",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:45:40"
+      "published": "2026-08-04T15:59:09",
+      "ai": {
+        "impact": "Gabelli Dividend & Income hissesinin zirve yapması, şirketin güçlü performansını gösteriyor ve yatırımcıların ilgisini çekebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Crocs hissesi 140,46 dolarda 52 haftalık zirve yaptı",
+      "title": "Bir sigara grubuna daha zam: Fiyatlar 10 TL arttı",
+      "summary": "Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, JTI sigara grubundaki ürünlere 10 TL zam yapıldığını duyurdu. Dündar, dün de Captain Black grubuna zam geldiğini açıklamıştı.",
+      "url": "https://www.dunya.com/ekonomi/bir-sigara-grubuna-daha-zam-fiyatlar-10-tl-artti-haberi-834945",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T15:59:00"
+    },
+    {
+      "title": "Trimlite güneydoğu varlığını genişletmek için Barnett Millworks’ü satın aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/crocs-hissesi-14046-dolarda-52-haftalk-zirve-yapt-93CH-4012377",
+      "url": "https://tr.investing.com/news/company-news/trimlite-guneydogu-varlgn-genisletmek-icin-barnett-millworksu-satn-ald-93CH-4012612",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:44:21"
+      "published": "2026-08-04T15:57:26"
+    },
+    {
+      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+      "summary": "P&G CEO Shailesh Jejurikar said the acquisition is play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
+      "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-04T15:56:44"
+    },
+    {
+      "title": "Broadwind Energy hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/broadwind-energy-hissesi-bugun-neden-yukseliyor-93CH-4012611",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T15:55:42"
+    },
+    {
+      "title": "Genius Sports hisseleri Polymarket ortaklığıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/genius-sports-hisseleri-polymarket-ortaklgyla-yukseldi-93CH-4012610",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T15:55:04"
+    },
+    {
+      "title": "Innovex International hissesi 32,33 dolarda zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/innovex-international-hissesi-3233-dolarda-zirve-yapt-93CH-4012609",
+      "source": "Investing Türkiye",
+      "published": "2026-08-04T15:54:58"
     },
     {
       "title": "Xtrackers 42 ETF hisse sınıfı için temettü dağıtacak",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/xtrackers-42-etf-hisse-snf-icin-temettu-dagtacak-93CH-4012376",
+      "url": "https://tr.investing.com/news/company-news/xtrackers-42-etf-hisse-snf-icin-temettu-dagtacak-93CH-4012608",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:44:06"
+      "published": "2026-08-04T15:53:48"
     },
     {
-      "title": "MDA Space hisseleri 474 milyon dolarlık Telesat sözleşmesiyle yükseldi",
+      "title": "Goldman Sachs, ABD’nin 3. çeyrek büyüme tahminini artırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/mda-space-hisseleri-474-milyon-dolarlk-telesat-sozlesmesiyle-yukseldi-93CH-4012374",
+      "url": "https://tr.investing.com/news/stock-market-news/goldman-sachs-abdnin-3-ceyrek-buyume-tahminini-artrd-93CH-4012607",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T13:42:40"
+      "published": "2026-08-04T15:52:55"
     },
     {
-      "title": "Orchid Island hissesi 6,41 dolarda 52 haftalık dip yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/orchid-island-hissesi-641-dolarda-52-haftalk-dip-yapt-93CH-4012373",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T13:41:47"
-    },
-    {
-      "title": "Cheesecake Factory hissesi 105,28 dolar ile rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cheesecake-factory-hissesi-10528-dolar-ile-rekor-krd-93CH-4012370",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T13:41:42"
-    },
-    {
-      "title": "Wayfair stock jumps more than 20% as retailer posts strongest U.S. growth since 2020",
-      "summary": "Wayfair, a pandemic darling that's seen sales slow since lockdown orders were lifted, posted its strongest U.S. growth since 2020 during its second quarter.",
-      "url": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-04T13:40:23"
-    },
-    {
-      "title": "TMSF'den dev araç satışı: Fiyatlar 16 bin liradan başlıyor",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), ağustos ayında düzenleyeceği ihalelerle milyonlarca liralık lüks otomobillerden ekonomik sınıf binek araçlara, kamyonlardan motosikletlere kadar 106 aracı satışa çıkaracak.",
-      "url": "https://www.dunya.com/ekonomi/tmsfden-dev-arac-satisi-fiyatlar-16-bin-liradan-basliyor-haberi-834919",
+      "title": "TCMB Başkanı Karahan: Dezenflasyon süreci sıkı para politikasıyla güçlenecek",
+      "summary": "TCMB Başkanı Fatih Karahan, fiyat istikrarı sağlanana kadar sıkı para politikası duruşunun sürdürüleceğini belirterek, politika faizine ilişkin adımların enflasyon görünümüne göre ihtiyatlı ve toplantı bazlı alınacağını söyledi.",
+      "url": "https://www.dunya.com/ekonomi/tcmb-baskani-karahan-dezenflasyon-sureci-siki-para-politikasiyla-guclenecek-haberi-834942",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-04T13:39:00"
+      "published": "2026-08-04T15:39:00"
     },
     {
-      "title": "Palantir jumps 20% on 'otherworldly' commercial revenue — here's what's driving the demand",
-      "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.",
-      "url": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-04T13:37:51"
-    },
-    {
-      "title": "Foreigners are buying fewer U.S. properties, but luxury homebuilders still draw them in",
-      "summary": "Foreign buyers are pulling back sharply from U.S. residential real estate, in part due to a pullback among workers that would qualify for H-1B visas.",
-      "url": "https://www.cnbc.com/2026/08/04/foreign-buyers-us-properties.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-04T13:33:21"
-    },
-    {
-      "title": "DSÖ'den korkutan Ebola açıklaması: Müdahale kapasitesi aşıldı",
-      "summary": "Dünya Sağlık Örgütü, Kongo Demokratik Cumhuriyeti&#039;nde yayılan Ebola salgınının ülkenin müdahale kapasitesini aştığını açıklayarak uluslararası topluma acil destek çağrısı yaptı. Ituri eyaletinde 246 şüpheli vaka bildirilirken 65 kişi hayatını kaybetti. DSÖ yetkilileri, tedavi merkezleri ile saha ve güvenli defin ekiplerinin hızla güçlendirilmesi gerektiğini vurguladı.",
-      "url": "https://www.dunya.com/saglik/dsoden-korkutan-ebola-aciklamasi-mudahale-kapasitesi-asildi-haberi-834917",
+      "title": "Numan Kurtulmuş çerçeve yasa teklifini imzaladı",
+      "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi&#039;ni imzaladı.",
+      "url": "https://www.dunya.com/gundem/numan-kurtulmus-cerceve-yasa-teklifini-imzaladi-haberi-834941",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-04T13:32:00"
+      "published": "2026-08-04T15:36:00"
     },
     {
-      "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
-      "summary": "The reports come after the company told CNBC in June that its annualized revenue was well above $1 billion.",
-      "url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+      "title": "Borsa İstanbul günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,07 değer kazanarak 13.687,93 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-834939",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-04T15:31:00"
+    },
+    {
+      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
+      "summary": "Attorney General nominee Todd Blanche will still need to receive 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+      "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T13:31:19"
+      "published": "2026-08-04T15:17:56"
     }
   ]
 }
