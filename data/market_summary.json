@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05T12:30:47+03:00",
-  "overview": "Gunun piyasa gorunumu genel olarak dusuk buyume ile karakterize oluyor. BIST 100 endeksi dusuk oranda yukselirken, global endeksler daha yüksek oranda artis gostermekte. Doviz kurlarinda dusuk dalgalanma goruluyor. Hisse sinyalleri ise karisik bir sekilde dağılmış durumda, bazı hisselerde al sinyalleri while bazılarında sat sinyalleri goruluyor.",
+  "updated_at": "2026-08-05T14:51:57+03:00",
+  "overview": "Günün piyasa görünümü, global endekslerin pozitif yönde ilerlemesine rağmen BIST 100'ün hafif düşüşle kapattığı bir gün olarak şekillendi. Döviz kurlarında sakin bir seyir izlenirken, ons altın ve petrol fiyatlarındaki artış dikkati çekti. Hisse senedi sinyalleri ise çeşitli sektörlerde al ve sat sinyallerinin karıştığı bir tablo çiziyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13724.51,
-      "change_pct": 0.27
+      "value": 13599.73,
+      "change_pct": -0.64
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26220.37,
-      "change_pct": 0.07
+      "value": 26229.6,
+      "change_pct": 0.1
     },
     {
       "name": "Nikkei 225",
@@ -36,30 +36,30 @@
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
       "value": 47.57,
-      "change_pct": 0.07
+      "change_pct": 0.06
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.94,
-      "change_pct": 0.4
+      "value": 54.98,
+      "change_pct": 0.48
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4220.4,
-      "change_pct": 3.05
+      "value": 4244.6,
+      "change_pct": 3.64
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 80.29,
-      "change_pct": 1.17
+      "value": 80.19,
+      "change_pct": 1.05
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6455.03,
+      "value": 6491.65,
       "change_pct": null
     }
   ]

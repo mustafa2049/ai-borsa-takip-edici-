@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-05T12:30:47+03:00",
+  "updated_at": "2026-08-05T14:51:57+03:00",
   "news": [
     {
-      "title": "AMD plummets 8% in premarket trading despite beating expectations",
-      "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
-      "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+      "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
+      "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
+      "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T09:21:13",
+      "published": "2026-08-05T11:48:52",
       "ai": {
-        "impact": "AMD'nin hisse fiyatındaki düşüş, teknoloji sektörüne ve yapay zeka yatırımlarına olumsuz etkide bulunabilir. Ancak şirketin beklentileri aşması, uzun vadeli büyüme potansiyelini korur.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "R&S hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/rs-hissesi-bugun-neden-dusuyor-93CH-4013817",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:19:57",
-      "ai": {
-        "impact": "R&S hissesindeki düşüş, Türkiye piyasalarına özgü bir etki yaratır ve genel olarak piyasaları olumsuz etkileyebilir.",
+        "impact": "Uber'in beklentilerin altında kalan üçüncü çeyrek bookings ve kazanç tahmini, şirketin hisse senedi fiyatını olumsuz etkileyebilir. Bu durum, global piyasalarda teknoloji şirketlerine yönelik yatırımcı güvenini sarsabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "RBI faiz oranlarını sabit tuttu, politikada yumuşak sinyal verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/rbi-faiz-oranlarn-sabit-tuttu-politikada-yumusak-sinyal-verdi-93CH-4013816",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:19:06",
-      "ai": {
-        "impact": "RBI faiz oranlarının sabit tutulması, Hint ekonomisi ve piyasaları üzerinde olumlu bir etki yaratır, ancak Türkiye piyasalarına doğrudan etkisi sınırlıdır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Hormuz deal could be agreed today as Trump hails ‘very good’ Iran talks",
-      "summary": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
-      "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
+      "summary": "Crude prices rose Wednesday after Yemen's Houthis claimed they had struck a Saudi Arabian oil tanker in the Red Sea.",
+      "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T09:18:41",
+      "published": "2026-08-05T11:44:47",
       "ai": {
-        "impact": "Hormuz anlaşmasının imzalanması, petrol fiyatlarını düşürerek küresel ekonomi ve piyasalar üzerinde olumlu bir etki yaratır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "GAIL India 42. yıllık toplantısını 27 Ağustos’ta yapacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/gail-india-42-yllk-toplantsn-27-agustosta-yapacak-93CH-4013807",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:15:15",
-      "ai": {
-        "impact": "GAIL India'nın yıllık toplantısı, şirketin gelecekteki planları ve hedefleri hakkında bilgi verecek, ancak Türkiye piyasalarına doğrudan etkisi sınırlıdır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Kredi limitlerinde yeni dönem: BDDK üst sınırları aşağı çekti",
-      "summary": "BDDK, İstanbul Takas ve Saklama Bankası AŞ ile İller Bankası AŞ hariç olmak üzere kalkınma ve yatırım bankalarının tek bir kişi veya risk grubuna kullandırabileceği kredi limitini ana sermayenin yüzde 30&#039;u, bankanın kendi risk grubuna kullandırabileceği kredi limitini ise yüzde 25&#039;i ile sınırlandırdı. Mevcut limit aşımlarının giderilmesi için bankalara 1 Ekim 2026 ve 1 Nisan 2027&#039;ye",
-      "url": "https://www.dunya.com/ekonomi/kredi-limitlerinde-yeni-donem-bddk-ust-sinirlari-asagi-cekti-haberi-835035",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T09:14:00",
-      "ai": {
-        "impact": "Kredi limitlerinin düşürülmesi, Türkiye'de bankacılık sektörünü ve kredi piyasalarını olumsuz etkileyebilir.",
+        "impact": "Petrol fiyatlarındaki artış, enerji maliyetlerinin artmasına ve enflasyonist baskılara neden olabilir. Bu durum, global piyasalarda yatırımcıları daha riskli varlıklardan uzaklaştırmaya yöneltebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Çin alıcı-verici yasağının ABD yapay zeka devlerine zarar vereceği uyarısı",
+      "title": "Stardust Power, C4V ile lityum tedariki için niyet mektubu imzaladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cin-alcverici-yasagnn-abd-yapay-zeka-devlerine-zarar-verecegi-uyars-4013806",
+      "url": "https://tr.investing.com/news/company-news/stardust-power-c4v-ile-lityum-tedariki-icin-niyet-mektubu-imzalad-93CH-4014281",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T09:09:46",
+      "published": "2026-08-05T11:37:38",
       "ai": {
-        "impact": "Çin'in alıcı-verici yasağının ABD yapay zeka devlerine zarar vereceği uyarısı, teknoloji sektörünü ve yapay zeka yatırımlarını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Citizens, Red Rock Resorts için hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-red-rock-resorts-icin-hisse-hedefini-yukseltti-93CH-4013786",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:08:13",
-      "ai": {
-        "impact": "Citizens ve Red Rock Resorts için hisse hedefinin yükseltilmesi, ilgili şirketlerin hisse fiyatlarını olumlu etkileyebilir.",
+        "impact": "Stardust Power ve C4V arasındaki lityum tedarik anlaşması, Türkiye'de enerji ve teknoloji sektörünün gelişimine katkıda bulunabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Citizens, Rhythm Pharmaceuticals için hedef fiyatı yükseltti",
+      "title": "TAE Technologies, Black Moon ile helyum-3 tedarik anlaşması imzaladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-rhythm-pharmaceuticals-icin-hedef-fiyat-yukseltti-93CH-4013785",
+      "url": "https://tr.investing.com/news/company-news/tae-technologies-black-moon-ile-helyum3-tedarik-anlasmas-imzalad-93CH-4014279",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T09:08:12"
+      "published": "2026-08-05T11:37:33",
+      "ai": {
+        "impact": "TAE Technologies ve Black Moon arasındaki helyum-3 tedarik anlaşması, enerji ve teknoloji sektöründe yeni fırsatlar yaratabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "ABD enflasyon rakamları ne zaman, hangi gün açıklanacak?",
-      "summary": "ABD enflasyon rakamları için bekleyiş sürüyor. Enflasyon rakamlarına göre Fed bir adım atacak. Dünya oranları beklerken sıklaşan soru &quot;ABD enflasyon rakamları ne zaman, hangi gün açıklanacak&quot; oluyor.",
-      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklanacak-haberi-835034",
+      "title": "Nextech3D.ai, LED ekran satışları için F2B Services ile ortak oldu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nextech3dai-led-ekran-satslar-icin-f2b-services-ile-ortak-oldu-93CH-4014278",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:37:27",
+      "ai": {
+        "impact": "Nextech3D.ai ve F2B Services arasındaki ortaklık, LED ekran satışlarında artışa neden olabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Rambus 100 milyon dolarlık hisse geri alım programı başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/rambus-100-milyon-dolarlk-hisse-geri-alm-program-baslatt-93CH-4014277",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:37:09",
+      "ai": {
+        "impact": "Rambus'un hisse geri alım programı, şirketin hisse senedi fiyatını destekleyebilir. Bu durum, yatırımcı güvenini tăngırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Aramark hisse başına 0,12 dolar temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/aramark-hisse-basna-012-dolar-temettu-dagtacak-93CH-4014275",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:36:55",
+      "ai": {
+        "impact": "Aramark'ın temettü dağıtımı, şirketin hisse senedi fiyatını olumlu etkileyebilir. Bu durum, yatırımcıların şirket hisselerine olan ilgisini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Griffon çeyreklik 0,22 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/griffon-ceyreklik-022-dolar-temettu-acklad-93CH-4014276",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:36:55",
+      "ai": {
+        "impact": "Griffon'un çeyreklik temettü açıklaması, şirketin hisse senedi fiyatını olumlu etkileyebilir. Bu durum, yatırımcıların şirket hisselerine olan ilgisini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "InvestingPro’nun BEGYO için aşırı değerli uyarısı doğru çıktı: Yüzde 45 düşüş",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-begyo-icin-asr-degerli-uyars-dogru-ckt-yuzde-45-dusus-93CH-4014274",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:35:45"
+    },
+    {
+      "title": "Likewise Group 32,5 milyon sterlin topladı, Temmuz satışları arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/likewise-group-325-milyon-sterlin-toplad-temmuz-satslar-artt-93CH-4014273",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:35:22"
+    },
+    {
+      "title": "Desjardins, Telus hissesini zayıf kazanç görünümü nedeniyle düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/desjardins-telus-hissesini-zayf-kazanc-gorunumu-nedeniyle-dusurdu-93CH-4014272",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:34:01"
+    },
+    {
+      "title": "EKPSS tercihleri ne zaman başlıyor? ÖSYM tarih bilgisini geçti mi?",
+      "summary": "2026 EKPSS tercih tarihleri hala paylaşılmadı. Engelli kamu personeli adaylarının gözü, EKPSS tercih sürecine çevrildi. Sınav sonuçlarının ardından tercih dönemine ilişkin takvimin açıklanması beklenirken, adaylar ÖSYM&#039;den gelecek duyuruları yakından takip ediyor. Peki, EKPSS tercihleri ne zaman başlıyor?",
+      "url": "https://www.dunya.com/gundem/ekpss-tercihleri-ne-zaman-basliyor-osym-tarih-bilgisini-gecti-mi-haberi-835055",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-05T09:06:00"
+      "published": "2026-08-05T11:34:00"
     },
     {
-      "title": "En hesaplı tatil şehirleri belli oldu",
-      "summary": "Uçak, otel, restoran, ulaşım ve gezi maliyetlerini ziyaretçi puanlarıyla karşılaştıran yeni araştırmada dünyanın en avantajlı tatil rotaları sıralandı. İlk 10’a Avrupa damga vururken pahalı bilinen bir şehir sürpriz yaptı.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/en-hesapli-tatil-sehirleri-belli-oldu-galeri-835036",
+      "title": "Euro Bölgesi'nde fiyatlar geriledi ama yıllık tablo şaşırttı",
+      "summary": "Euro Bölgesi&#039;nde üretici fiyatları haziran ayında piyasa beklentilerinden daha sert geriledi. Eurostat verilerine göre ÜFE, aylık bazda yüzde 0,3 azalırken yıllık bazda yüzde 4,6 yükseldi. AB genelinde ise fiyatlar bir önceki aya göre yüzde 0,2 düşmesine rağmen yıllık yüzde 4,7 arttı.",
+      "url": "https://www.dunya.com/dunya/euro-bolgesinde-fiyatlar-geriledi-ama-yillik-tablo-sasirtti-haberi-835056",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-05T09:05:00"
+      "published": "2026-08-05T11:34:00"
     },
     {
-      "title": "SpaceX dives 10% after AI spending surge rattles investors",
-      "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+      "title": "Rosenblatt, kapasite endişelerine rağmen CoreWeave hissesi için hedefini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-kapasite-endiselerine-ragmen-coreweave-hissesi-icin-hedefini-korudu-93CH-4014262",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T11:28:16"
+    },
+    {
+      "title": "Toy Story 5 Disney’nin kasasını doldurdu",
+      "summary": "Toy Story 5’in 1 milyar doları aşan gişesi Disney bilançosuna sinema salonlarının ötesinde yansıdı. Film, oyuncak satışlarını, Disney+ izlenmesini ve tema parkı ziyaretlerini artırırken şirketin çeyreklik geliri 25,2 milyar dolara çıktı.",
+      "url": "https://www.dunya.com/ekonomi/toy-story-5-disneynin-kasasini-doldurdu-haberi-835057",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T11:28:00"
+    },
+    {
+      "title": "Bardağı masaya sert koyunca kovuldu",
+      "summary": "10 yıl çalıştığı restoranda, çay bardağını masaya sert koyduğu ve iş arkadaşlarıyla tartıştığı gerekçesiyle işten çıkarılan garson için Bölge Adliye Mahkemesi emsal nitelikte bir karara imza attı. Mahkeme, işverenin doğrudan fesih yoluna gitmesini ölçüsüz bularak iş sözleşmesinin geçersiz olduğuna ve garsonun işe iadesine hükmetti.",
+      "url": "https://www.dunya.com/gundem/bardagi-masaya-sert-koyunca-kovuldu-haberi-835054",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T11:25:00"
+    },
+    {
+      "title": "İlk hasat yapıldı: Hedef 3 ton doğal bal",
+      "summary": "Erzurum&#039;un Oltu ilçesinde bal hasadı sezonu başladı. Oltulu arı yetiştiricisi Hasan Demir, bu yılın ilk bal sağımını gerçekleştirerek sezonun bereketli geçmesini temenni etti.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/ilk-hasat-yapildi-hedef-3-ton-dogal-bal-galeri-835053",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T11:20:00"
+    },
+    {
+      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+      "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T09:04:08"
+      "published": "2026-08-05T11:13:46"
     },
     {
-      "title": "McDonald's'ın büyüme yavaşladı: Müşteri trafiği düştü",
-      "summary": "McDonald&#039;s, ABD&#039;de ikinci çeyrekte aynı mağaza satışlarını yalnızca yüzde 0,8 artırırken müşteri trafiği yüzde 4,5 geriledi. Beklentilerin altında kalan performansın ardından şirket yönetim değişikliğine giderken, dijital kampanyalar ve uygun fiyatlı menü stratejisini güçlendirme kararı aldı.",
-      "url": "https://www.dunya.com/ekonomi/mcdonaldsin-buyume-yavasladi-musteri-trafigi-dustu-haberi-835033",
+      "title": "GM Çin’e 20 yıl daha bağlandı",
+      "summary": "General Motors, Çinli SAIC ile ortaklığını 20 yıl daha uzattı. Fabrika kapatıp model sayısını azalttığı pazardan çıkmayan ABD’li dev, yeni dönemde Çin’i Buick ve Cadillac için küresel ihracat merkezi haline getirmeye hazırlanıyor.",
+      "url": "https://www.dunya.com/is-dunyasi/gm-cine-20-yil-daha-baglandi-haberi-835052",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-05T09:04:00"
+      "published": "2026-08-05T11:10:00"
     },
     {
-      "title": "Jefferies, AMD için hedef fiyatı veri merkezi büyümesi beklentisiyle yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-amd-icin-hedef-fiyat-veri-merkezi-buyumesi-beklentisiyle-yukseltti-93CH-4013774",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:02:49"
-    },
-    {
-      "title": "Bernstein, AMD için hedef fiyatı veri merkezi büyümesi ile 650 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-amd-icin-hedef-fiyat-veri-merkezi-buyumesi-ile-650-dolara-yukseltti-93CH-4013773",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:02:37"
-    },
-    {
-      "title": "Mizuho, SpaceX hissesi için Outperform tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-spacex-hissesi-icin-outperform-tavsiyesini-korudu-93CH-4013772",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:02:31"
-    },
-    {
-      "title": "Piper Sandler, kısıtlama endişeleriyle SpaceX hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-kstlama-endiseleriyle-spacex-hisse-hedefini-dusurdu-93CH-4013771",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T09:02:29"
-    },
-    {
-      "title": "Trump's deportation agenda raised prices, contracted local economies, immigration group says",
-      "summary": "A report released Wednesday by the immigration advocacy group America's Voice argues President Trump's immigration policy is hurting the economy.",
-      "url": "https://www.cnbc.com/2026/08/05/trump-mass-deportation-prices.html",
+      "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels",
+      "summary": "Mortgage rates rose to the highest level in over a year, causing total mortgage demand to drop below year-ago levels.",
+      "url": "https://www.cnbc.com/2026/08/05/mortgage-rates-hit-their-highest-level-in-over-a-year.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T09:00:01"
-    },
-    {
-      "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
-      "summary": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
-      "url": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-05T08:55:42"
-    },
-    {
-      "title": "Hürmüz krizi LNG piyasasında dengeleri değiştirdi",
-      "summary": "Hürmüz Boğazı&#039;nda yaşanan kesinti, küresel LNG ticaretinde son yılların en büyük maliyet şoklarından birini yarattı. Gemilerin rotalarını uzatmak zorunda kalması, kullanılabilir tanker sayısının azalması ve savaş riskinin artmasıyla navlun, yakıt ve sigorta giderleri 2022 enerji krizinden bu yana görülen en yüksek seviyelere çıktı.",
-      "url": "https://www.dunya.com/ekonomi/hurmuz-krizi-lng-piyasasinda-dengeleri-degistirdi-haberi-835031",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T08:48:00"
+      "published": "2026-08-05T11:00:01"
     }
   ]
 }
