@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-05T14:51:57+03:00",
+  "updated_at": "2026-08-05T16:45:25+03:00",
   "news": [
     {
       "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
       "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
       "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T11:48:52",
+      "published": "2026-08-05T13:43:16",
       "ai": {
-        "impact": "Uber'in beklentilerin altında kalan üçüncü çeyrek bookings ve kazanç tahmini, şirketin hisse senedi fiyatını olumsuz etkileyebilir. Bu durum, global piyasalarda teknoloji şirketlerine yönelik yatırımcı güvenini sarsabilir.",
+        "impact": "Uber'in beklentilerin altında kalan üçüncü çeyrek gelir tahmini, şirketin hisse senetlerini olumsuz etkileyebilir. Bu durum, global piyasalarda teknoloji şirketlerine karşı yatırımcı güveninin sarsılmasına neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
-      "summary": "Crude prices rose Wednesday after Yemen's Houthis claimed they had struck a Saudi Arabian oil tanker in the Red Sea.",
-      "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
+      "title": "AMD sinks 5% despite earnings beat, strong data center revenue",
+      "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
+      "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T11:44:47",
+      "published": "2026-08-05T13:41:46",
       "ai": {
-        "impact": "Petrol fiyatlarındaki artış, enerji maliyetlerinin artmasına ve enflasyonist baskılara neden olabilir. Bu durum, global piyasalarda yatırımcıları daha riskli varlıklardan uzaklaştırmaya yöneltebilir.",
+        "impact": "AMD'nin güçlü veri merkezi gelirine rağmen hisse senetlerinin değer kaybetmesi, yatırımcıların şirketin gelecekteki büyüme potansiyeline ilişkin endişelerini ortaya koyabilir. Bu durum, teknoloji sektöründe yatırımcı güveninin sarsılmasına neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Stardust Power, C4V ile lityum tedariki için niyet mektubu imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/stardust-power-c4v-ile-lityum-tedariki-icin-niyet-mektubu-imzalad-93CH-4014281",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:37:38",
-      "ai": {
-        "impact": "Stardust Power ve C4V arasındaki lityum tedarik anlaşması, Türkiye'de enerji ve teknoloji sektörünün gelişimine katkıda bulunabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "TAE Technologies, Black Moon ile helyum-3 tedarik anlaşması imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/tae-technologies-black-moon-ile-helyum3-tedarik-anlasmas-imzalad-93CH-4014279",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:37:33",
-      "ai": {
-        "impact": "TAE Technologies ve Black Moon arasındaki helyum-3 tedarik anlaşması, enerji ve teknoloji sektöründe yeni fırsatlar yaratabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Nextech3D.ai, LED ekran satışları için F2B Services ile ortak oldu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nextech3dai-led-ekran-satslar-icin-f2b-services-ile-ortak-oldu-93CH-4014278",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:37:27",
-      "ai": {
-        "impact": "Nextech3D.ai ve F2B Services arasındaki ortaklık, LED ekran satışlarında artışa neden olabilir. Bu durum, ilgili şirketlerin hisse senedi fiyatlarını olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Rambus 100 milyon dolarlık hisse geri alım programı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/rambus-100-milyon-dolarlk-hisse-geri-alm-program-baslatt-93CH-4014277",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:37:09",
-      "ai": {
-        "impact": "Rambus'un hisse geri alım programı, şirketin hisse senedi fiyatını destekleyebilir. Bu durum, yatırımcı güvenini tăngırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Aramark hisse başına 0,12 dolar temettü dağıtacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/aramark-hisse-basna-012-dolar-temettu-dagtacak-93CH-4014275",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:36:55",
-      "ai": {
-        "impact": "Aramark'ın temettü dağıtımı, şirketin hisse senedi fiyatını olumlu etkileyebilir. Bu durum, yatırımcıların şirket hisselerine olan ilgisini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Griffon çeyreklik 0,22 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/griffon-ceyreklik-022-dolar-temettu-acklad-93CH-4014276",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:36:55",
-      "ai": {
-        "impact": "Griffon'un çeyreklik temettü açıklaması, şirketin hisse senedi fiyatını olumlu etkileyebilir. Bu durum, yatırımcıların şirket hisselerine olan ilgisini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "InvestingPro’nun BEGYO için aşırı değerli uyarısı doğru çıktı: Yüzde 45 düşüş",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-begyo-icin-asr-degerli-uyars-dogru-ckt-yuzde-45-dusus-93CH-4014274",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:35:45"
-    },
-    {
-      "title": "Likewise Group 32,5 milyon sterlin topladı, Temmuz satışları arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/likewise-group-325-milyon-sterlin-toplad-temmuz-satslar-artt-93CH-4014273",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:35:22"
-    },
-    {
-      "title": "Desjardins, Telus hissesini zayıf kazanç görünümü nedeniyle düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/desjardins-telus-hissesini-zayf-kazanc-gorunumu-nedeniyle-dusurdu-93CH-4014272",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:34:01"
-    },
-    {
-      "title": "EKPSS tercihleri ne zaman başlıyor? ÖSYM tarih bilgisini geçti mi?",
-      "summary": "2026 EKPSS tercih tarihleri hala paylaşılmadı. Engelli kamu personeli adaylarının gözü, EKPSS tercih sürecine çevrildi. Sınav sonuçlarının ardından tercih dönemine ilişkin takvimin açıklanması beklenirken, adaylar ÖSYM&#039;den gelecek duyuruları yakından takip ediyor. Peki, EKPSS tercihleri ne zaman başlıyor?",
-      "url": "https://www.dunya.com/gundem/ekpss-tercihleri-ne-zaman-basliyor-osym-tarih-bilgisini-gecti-mi-haberi-835055",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:34:00"
-    },
-    {
-      "title": "Euro Bölgesi'nde fiyatlar geriledi ama yıllık tablo şaşırttı",
-      "summary": "Euro Bölgesi&#039;nde üretici fiyatları haziran ayında piyasa beklentilerinden daha sert geriledi. Eurostat verilerine göre ÜFE, aylık bazda yüzde 0,3 azalırken yıllık bazda yüzde 4,6 yükseldi. AB genelinde ise fiyatlar bir önceki aya göre yüzde 0,2 düşmesine rağmen yıllık yüzde 4,7 arttı.",
-      "url": "https://www.dunya.com/dunya/euro-bolgesinde-fiyatlar-geriledi-ama-yillik-tablo-sasirtti-haberi-835056",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:34:00"
-    },
-    {
-      "title": "Rosenblatt, kapasite endişelerine rağmen CoreWeave hissesi için hedefini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-kapasite-endiselerine-ragmen-coreweave-hissesi-icin-hedefini-korudu-93CH-4014262",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T11:28:16"
-    },
-    {
-      "title": "Toy Story 5 Disney’nin kasasını doldurdu",
-      "summary": "Toy Story 5’in 1 milyar doları aşan gişesi Disney bilançosuna sinema salonlarının ötesinde yansıdı. Film, oyuncak satışlarını, Disney+ izlenmesini ve tema parkı ziyaretlerini artırırken şirketin çeyreklik geliri 25,2 milyar dolara çıktı.",
-      "url": "https://www.dunya.com/ekonomi/toy-story-5-disneynin-kasasini-doldurdu-haberi-835057",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:28:00"
-    },
-    {
-      "title": "Bardağı masaya sert koyunca kovuldu",
-      "summary": "10 yıl çalıştığı restoranda, çay bardağını masaya sert koyduğu ve iş arkadaşlarıyla tartıştığı gerekçesiyle işten çıkarılan garson için Bölge Adliye Mahkemesi emsal nitelikte bir karara imza attı. Mahkeme, işverenin doğrudan fesih yoluna gitmesini ölçüsüz bularak iş sözleşmesinin geçersiz olduğuna ve garsonun işe iadesine hükmetti.",
-      "url": "https://www.dunya.com/gundem/bardagi-masaya-sert-koyunca-kovuldu-haberi-835054",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:25:00"
-    },
-    {
-      "title": "İlk hasat yapıldı: Hedef 3 ton doğal bal",
-      "summary": "Erzurum&#039;un Oltu ilçesinde bal hasadı sezonu başladı. Oltulu arı yetiştiricisi Hasan Demir, bu yılın ilk bal sağımını gerçekleştirerek sezonun bereketli geçmesini temenni etti.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/ilk-hasat-yapildi-hedef-3-ton-dogal-bal-galeri-835053",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:20:00"
-    },
-    {
-      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
-      "url": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "title": "SpaceX dives 9% after AI spending surge rattles investors",
+      "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T11:13:46"
+      "published": "2026-08-05T13:41:15",
+      "ai": {
+        "impact": "SpaceX'in hisse senetlerinin değer kaybetmesi, şirketin yüksek AI harcamalarının yatırımcılar tarafından endişe ile karşılandığını gösteriyor. Bu durum, şirketin uzun vadeli büyüme potansiyeline ilişkin soru işaretleri oluşturabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "GM Çin’e 20 yıl daha bağlandı",
-      "summary": "General Motors, Çinli SAIC ile ortaklığını 20 yıl daha uzattı. Fabrika kapatıp model sayısını azalttığı pazardan çıkmayan ABD’li dev, yeni dönemde Çin’i Buick ve Cadillac için küresel ihracat merkezi haline getirmeye hazırlanıyor.",
-      "url": "https://www.dunya.com/is-dunyasi/gm-cine-20-yil-daha-baglandi-haberi-835052",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T11:10:00"
-    },
-    {
-      "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels",
-      "summary": "Mortgage rates rose to the highest level in over a year, causing total mortgage demand to drop below year-ago levels.",
-      "url": "https://www.cnbc.com/2026/08/05/mortgage-rates-hit-their-highest-level-in-over-a-year.html",
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+      "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T11:00:01"
+      "published": "2026-08-05T13:35:59",
+      "ai": {
+        "impact": "Situational Awareness hedge fonunun çökmesi, yatırımcıları kaldıraçlı piyasalara karşı daha temkinli olmaya sevk edebilir. Bu durum, global piyasalarda risk iştahının azalmasına neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "İzmir'de yangın söndürme uçağı göletten kalkamadı",
+      "summary": "İzmir&#039;in Kiraz ilçesindeki orman yangınına müdahale eden AT-802F tipi amfibik söndürme uçağı, Beydağ Baraj Göleti&#039;nden su aldıktan sonra yeniden havalanamadı. Selçuk Havaalanı’ndan kalkan uçağın pilotu Mustafa Alp, aracı hasar almadan gölet kıyısına ulaştırmayı başardı. Güvenli şekilde tahliye edilen pilotun sağlık durumunun iyi olduğu açıklandı. Yaralanma ve can kaybının yaşanmadığı ola",
+      "url": "https://www.dunya.com/video-galeri/gundem/izmirde-yangin-sondurme-ucagi-goletten-kalkamadi-video-835074",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T13:35:00",
+      "ai": {
+        "impact": "İzmir'deki yangın söndürme uçağının göletten kalkamaması, yerel olarak yangınla mücadele çabalarına olumsuz etkide bulunabilir. Ancak, bu olayın Türkiye veya dünya piyasalarına geniş çapta bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Rusya’da yakıt fiyatları Haziran ve Temmuz’da enflasyona %0,5 ekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/rusyada-yakt-fiyatlar-haziran-ve-temmuzda-enflasyona-05-ekledi-93CH-4014692",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:51",
+      "ai": {
+        "impact": "Rusya'da yakıt fiyatlarının enflasyona katkısı, ülke ekonomisini ve tüketici harcamalarını etkileyebilir. Ancak, bu durumun global piyasalara geniş çapta bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Rusya’da yakıt fiyatları haziran ve temmuzda enflasyona %0,5 ekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/rusyada-yakt-fiyatlar-haziran-ve-temmuzda-enflasyona-05-ekledi-93CH-4014690",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:50",
+      "ai": {
+        "impact": "Rusya'da yakıt fiyatlarının enflasyona katkısı, ülke ekonomisini ve tüketici harcamalarını etkileyebilir. Ancak, bu durumun global piyasalara geniş çapta bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Palo Alto Networks hissesi 373,81 dolar ile rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/palo-alto-networks-hissesi-37381-dolar-ile-rekor-krd-93CH-4014691",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:50",
+      "ai": {
+        "impact": "Palo Alto Networks hissesinin rekor kırmış olması, şirketin güçlü performansını ve yatırımcıların güvenini gösteriyor. Bu durum, teknoloji sektörüne olan güveni artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "MicroVision otonom hava sistemleri için lidar sensörleri tanıttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/microvision-otonom-hava-sistemleri-icin-lidar-sensorleri-tantt-93CH-4014688",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:47"
+    },
+    {
+      "title": "Clear Secure hissesi 64,47 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/clear-secure-hissesi-6447-dolarda-52-haftalk-zirve-yapt-93CH-4014687",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:42"
+    },
+    {
+      "title": "IFF hissesi 84,73 dolarla 52 haftalık zirveye ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/iff-hissesi-8473-dolarla-52-haftalk-zirveye-ulast-93CH-4014686",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:41"
+    },
+    {
+      "title": "Travere Therapeutics hissesi 61,76 dolarda zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/travere-therapeutics-hissesi-6176-dolarda-zirve-yapt-93CH-4014684",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:38"
+    },
+    {
+      "title": "Insulet hisseleri 52 haftalık dip seviyeye geriledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/insulet-hisseleri-52-haftalk-dip-seviyeye-geriledi-93CH-4014683",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:33:26"
+    },
+    {
+      "title": "Karbon Homes yönetim kurulu başkanlığına Sinead Butters atandı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/karbon-homes-yonetim-kurulu-baskanlgna-sinead-butters-atand-93CH-4014669",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:31:25"
+    },
+    {
+      "title": "UBS, hibrit araçların talebi artırabileceği PGM madencilerini açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-hibrit-araclarn-talebi-artrabilecegi-pgm-madencilerini-acklad-93CH-4014665",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T13:30:06"
+    },
+    {
+      "title": "Fenerbahçe'den UEFA kadrosunda son dakika değişikliği",
+      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi için bildirdiği oyuncu listesinde revizyona gitti. Sarı-lacivertliler, Bartuğ Elmaz&#039;ın yerine Fransız yıldız N&#039;Golo Kante&#039;yi kadroya ekledi.",
+      "url": "https://www.dunya.com/spor/fenerbahceden-uefa-kadrosunda-son-dakika-degisikligi-haberi-835071",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T13:23:00"
+    },
+    {
+      "title": "Ömer Çelik: 2 yıllık sürecin en önemli aşamasındayız",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilen MKYK toplantısının ardından yaptığı açıklamada, TBMM&#039;ye sunulan &#039;Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi&#039;nin &quot;Terörsüz Türkiye&quot; sürecinde iki yıldır yürütülen çalışmaların en önemli aşamalarından biri olduğunu söyledi.",
+      "url": "https://www.dunya.com/gundem/omer-celik-2-yillik-surecin-en-onemli-asamasindayiz-haberi-835073",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T13:21:00"
+    },
+    {
+      "title": "Anlaşma umudu altını uçurdu: Kritik seviye aşıldı",
+      "summary": "Altın fiyatları, ABD ile İran arasında anlaşma sağlanabileceği ve Hürmüz Boğazı&#039;nın yeniden açılabileceği beklentileriyle güçlü bir yükselişe imza attı. Enflasyon baskısının hafifleyeceği ve Fed&#039;in faiz artırımından uzaklaşacağı öngörüsüyle altının onsu yüzde 4&#039;ten fazla değer kazanarak 4 bin 200 doları test etti.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/anlasma-umudu-altini-ucurdu-kritik-seviye-asildi-galeri-835072",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T13:10:00"
+    },
+    {
+      "title": "ABD'de özel sektör istihdamı beklentilerin altında arttı",
+      "summary": "ABD&#039;de özel sektör istihdamı temmuz ayında beklentilerin altında artarak iş gücü piyasasında yavaşlama sinyali verdi. ADP verilerine göre özel sektör istihdamı 44 bin kişi artarken, ekonomistler 68 bin kişilik artış bekliyordu.",
+      "url": "https://www.dunya.com/ekonomi/abdde-ozel-sektor-istihdami-beklentilerin-altinda-artti-haberi-835070",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T13:07:00"
+    },
+    {
+      "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
+      "summary": "Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting.",
+      "url": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T13:06:35"
     }
   ]
 }
