@@ -1,225 +1,83 @@
 {
-  "updated_at": "2026-08-04T19:25:59+03:00",
+  "updated_at": "2026-08-05T12:30:47+03:00",
   "funds": [
     {
       "code": "TGE",
       "name": "İŞ PORTFÖY EMTİA YABANCI BYF FON SEPETİ FONU",
-      "price": 0.278537,
-      "return_1m": 6.64,
-      "return_3m": -2.44,
-      "return_6m": 19.74,
-      "return_1y": 53.83,
+      "price": 0.277913,
+      "return_1m": 6.35,
+      "return_3m": -3.15,
+      "return_6m": 18.75,
+      "return_1y": 54.89,
       "ai": {
         "risk": "Yüksek",
-        "comment": "1 aylık dönemde %6,64 getiri elde etmiş olup, yüksek riskli bir fondur. Uzun vadeli yatırımlar için uygun olabilir."
-      }
-    },
-    {
-      "code": "TMG",
-      "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
-      "price": 1.417881,
-      "return_1m": 5.16,
-      "return_3m": 11.05,
-      "return_6m": 20.43,
-      "return_1y": 49.28,
-      "ai": {
-        "risk": "Orta",
-        "comment": "1 yıllık dönemde %49,28 getiri elde etmiş olup, orta riskli bir fondur. Yabancı hisse senedi yatırımları için uygun olabilir."
-      }
-    },
-    {
-      "code": "AFA",
-      "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
-      "price": 1.243807,
-      "return_1m": 3.43,
-      "return_3m": 11.61,
-      "return_6m": 21.25,
-      "return_1y": 42.55,
-      "ai": {
-        "risk": "Orta",
-        "comment": "1 yıllık dönemde %42,55 getiri elde etmiş olup, orta riskli bir fondur. Amerika hisse senedi yatırımları için uygun olabilir."
-      }
-    },
-    {
-      "code": "IPB",
-      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "price": 0.870612,
-      "return_1m": -0.36,
-      "return_3m": 3.46,
-      "return_6m": 18.09,
-      "return_1y": 28.27,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "1 yıllık dönemde %28,27 getiri elde etmiş olup, düşük riskli bir fondur. Kısa vadeli yatırımlar için uygun olabilir."
-      }
-    },
-    {
-      "code": "OPH",
-      "name": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "price": 24.962532,
-      "return_1m": -0.56,
-      "return_3m": 1.93,
-      "return_6m": 3.54,
-      "return_1y": 28.4,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "1 yıllık dönemde %28,4 getiri elde etmiş olup, düşük riskli bir fondur. Hisse senedi yatırımları için uygun olabilir."
-      }
-    },
-    {
-      "code": "YAC",
-      "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
-      "price": 13.984229,
-      "return_1m": -0.9,
-      "return_3m": 0.86,
-      "return_6m": 3.83,
-      "return_1y": 29.59,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "1 yıllık dönemde %29,59 getiri elde etmiş olup, düşük riskli bir fondur. Kısa vadeli yatırımlar için uygun olabilir."
-      }
-    },
-    {
-      "code": "DAH",
-      "name": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 3.486247,
-      "return_1m": -1.8,
-      "return_3m": -3.9,
-      "return_6m": -4.27,
-      "return_1y": 22.17,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "1 yıllık dönemde %22,17 getiri elde etmiş olup, yüksek riskli bir fondur. Uzun vadeli yatırımlar için uygun olabilir."
+        "comment": "1 aylık dönemde %6,35 getiri elde etti, ancak yüksek risk içeriyor. Uzun vadeli yatırım için uygun olabilir."
       }
     },
     {
       "code": "AFT",
       "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
-      "price": 0.930049,
-      "return_1m": -2.44,
-      "return_3m": -0.84,
-      "return_6m": 7.24,
-      "return_1y": 42.13,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "1 yıllık dönemde %42,13 getiri elde etmiş olup, yüksek riskli bir fondur. Yeni teknolojiler yatırımları için uygun olabilir."
-      }
-    },
-    {
-      "code": "TCD",
-      "name": "TACİRLER PORTFÖY DEĞIŞKEN FON",
-      "price": 47.012943,
-      "return_1m": -2.66,
-      "return_3m": 3.02,
-      "return_6m": 10.23,
-      "return_1y": 35.01,
+      "price": 0.969915,
+      "return_1m": 1.38,
+      "return_3m": 2.7,
+      "return_6m": 11.48,
+      "return_1y": 46.3,
       "ai": {
         "risk": "Orta",
-        "comment": "1 yıllık dönemde %35,01 getiri elde etmiş olup, orta riskli bir fondur. Değişken yatırımlar için uygun olabilir."
+        "comment": "1 yıllık dönemde %46,3 getiri elde etti, ancak teknoloji sektöründeki dalgalanmalardan etkilenebilir."
       }
     },
     {
-      "code": "TI2",
-      "name": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.125157,
-      "return_1m": -2.81,
-      "return_3m": -3.38,
-      "return_6m": -3.6,
-      "return_1y": 16.35,
+      "code": "YAC",
+      "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
+      "price": 14.160697,
+      "return_1m": 0.23,
+      "return_3m": 1.84,
+      "return_6m": 3.49,
+      "return_1y": 30.32,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "1 yıllık dönemde %16,35 getiri elde etmiş olup, yüksek riskli bir fondur. Hisse senedi yatırımları için uygun olabilir."
+        "risk": "Düşük",
+        "comment": "1 yıllık dönemde %30,32 getiri elde etti, düşük riskli bir yatırım seçeneği olabilir."
       }
     },
     {
-      "code": "TTE",
-      "name": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.660843,
-      "return_1m": -3.0,
-      "return_3m": 7.5,
-      "return_6m": 45.93,
-      "return_1y": 64.78
-    },
-    {
-      "code": "IDH",
-      "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 12.463129,
-      "return_1m": -3.03,
-      "return_3m": -1.76,
-      "return_6m": 3.98,
-      "return_1y": 20.27
-    },
-    {
-      "code": "MAC",
-      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.770695,
-      "return_1m": -3.1,
-      "return_3m": -0.82,
-      "return_6m": -1.59,
-      "return_1y": 19.39
-    },
-    {
-      "code": "HKH",
-      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 8.177182,
-      "return_1m": -3.23,
-      "return_3m": -2.7,
-      "return_6m": -7.22,
-      "return_1y": 2.06
-    },
-    {
-      "code": "GMR",
-      "name": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.362684,
-      "return_1m": -3.49,
-      "return_3m": -1.86,
-      "return_6m": -2.14,
-      "return_1y": 22.92
-    },
-    {
-      "code": "NNF",
-      "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 22.273906,
-      "return_1m": -3.57,
-      "return_3m": 1.27,
-      "return_6m": -7.98,
-      "return_1y": 4.83
-    },
-    {
-      "code": "TYH",
-      "name": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.974725,
-      "return_1m": -3.59,
-      "return_3m": -4.36,
-      "return_6m": -7.13,
-      "return_1y": 13.93
+      "code": "IPB",
+      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "price": 0.876282,
+      "return_1m": 0.12,
+      "return_3m": 3.57,
+      "return_6m": 18.07,
+      "return_1y": 28.09,
+      "ai": {
+        "risk": "Orta",
+        "comment": "1 yıllık dönemde %28,09 getiri elde etti, orta riskli bir yatırım seçeneği olabilir."
+      }
     },
     {
       "code": "IPJ",
       "name": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
-      "price": 19.371965,
-      "return_1m": -3.69,
-      "return_3m": -1.23,
-      "return_6m": 19.79,
-      "return_1y": 60.22
-    },
-    {
-      "code": "YAY",
-      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
-      "price": 1738.71192,
-      "return_1m": -6.91,
-      "return_3m": 10.14,
-      "return_6m": 27.89,
-      "return_1y": 73.77
+      "price": 19.772088,
+      "return_1m": -2.26,
+      "return_3m": 0.6,
+      "return_6m": 20.36,
+      "return_1y": 61.52,
+      "ai": {
+        "risk": "Yüksek",
+        "comment": "1 yıllık dönemde %61,52 getiri elde etti, ancak yüksek risk içeriyor ve elektrikli araç sektöründeki gelişmelere bağlı olarak dalgalanabilir."
+      }
     },
     {
       "code": "GAF",
       "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.592458,
-      "return_1m": -8.04,
-      "return_3m": -6.6,
-      "return_6m": -6.59,
-      "return_1y": 28.55
+      "price": 1.628339,
+      "return_1m": -5.09,
+      "return_3m": -5.47,
+      "return_6m": -6.22,
+      "return_1y": 30.32,
+      "ai": {
+        "risk": "Yüksek",
+        "comment": "1 yıllık dönemde %30,32 getiri elde etti, ancak son dönemde negatif performans gösterdi ve yüksek risk içeriyor."
+      }
     }
   ]
 }

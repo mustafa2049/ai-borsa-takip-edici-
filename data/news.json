@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-04T19:25:59+03:00",
+  "updated_at": "2026-08-05T12:30:47+03:00",
   "news": [
     {
-      "title": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
-      "summary": "In China's biggest electronics marketplace, Huaqiangbei, technicians don't have the parts to make exact copies of Apple's latest phones.",
-      "url": "https://www.cnbc.com/2026/08/04/china-apple-india-tata-electronics.html",
+      "title": "AMD plummets 8% in premarket trading despite beating expectations",
+      "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
+      "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T16:17:23",
+      "published": "2026-08-05T09:21:13",
       "ai": {
-        "impact": "Bu haber, Apple'ın tedarik zinciri sorunlarına işaret ederek, şirketin gelecekteki üretim planlarını etkileyebilir. Bu durum, teknoloji hisselerine olumsuz yansıyabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Tahir Sarıkaya'ya tutuklama talebi",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltına alınan gazeteci Tahir Sarıkaya, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "url": "https://www.dunya.com/gundem/tahir-sarikayaya-tutuklama-talebi-haberi-834950",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-04T16:16:00",
-      "ai": {
-        "impact": "Bu haber, Türkiye'de basın özgürlüğü ve hukuk sistemi hakkında soru işaretleri yaratabilir, ancak finansal piyasalar üzerinde doğrudan bir etkisi olmayabilir.",
+        "impact": "AMD'nin hisse fiyatındaki düşüş, teknoloji sektörüne ve yapay zeka yatırımlarına olumsuz etkide bulunabilir. Ancak şirketin beklentileri aşması, uzun vadeli büyüme potansiyelini korur.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-      "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-04T16:14:49",
+      "title": "R&S hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/rs-hissesi-bugun-neden-dusuyor-93CH-4013817",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:19:57",
       "ai": {
-        "impact": "Jeff Bezos'un Amazon hisselerini satma kararı, şirketin gelecekteki büyüme beklentilerini olumsuz etkileyebilir ve hisse fiyatını düşürebilir.",
+        "impact": "R&S hissesindeki düşüş, Türkiye piyasalarına özgü bir etki yaratır ve genel olarak piyasaları olumsuz etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Nordson hissesi 307,92 dolarda rekor kırdı",
+      "title": "RBI faiz oranlarını sabit tuttu, politikada yumuşak sinyal verdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nordson-hissesi-30792-dolarda-rekor-krd-93CH-4012627",
+      "url": "https://tr.investing.com/news/stock-market-news/rbi-faiz-oranlarn-sabit-tuttu-politikada-yumusak-sinyal-verdi-93CH-4013816",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T16:08:11",
+      "published": "2026-08-05T09:19:06",
       "ai": {
-        "impact": "Nordson hissesinin rekor kırmış olması, şirketin güçlü performansını gösteriyor ve teknoloji sektörüne olan güveni artırabilir.",
+        "impact": "RBI faiz oranlarının sabit tutulması, Hint ekonomisi ve piyasaları üzerinde olumlu bir etki yaratır, ancak Türkiye piyasalarına doğrudan etkisi sınırlıdır.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Genius Sports hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/genius-sports-hissesi-bugun-neden-yukseliyor-93CH-4012618",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T16:05:08",
-      "ai": {
-        "impact": "Genius Sports hissesinin yükselmesi, şirketin başarılı performansını ve spor teknolojileri sektöründeki büyümesini gösteriyor.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
-      "summary": "The July decline adds to a lackluster sales year for the automaker, with results off 9.7% compared with 2025.",
-      "url": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
+      "title": "Hormuz deal could be agreed today as Trump hails ‘very good’ Iran talks",
+      "summary": "U.S. Central Command said the \"southern route of the Strait of Hormuz remains free and open\"",
+      "url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T16:04:43",
+      "published": "2026-08-05T09:18:41",
       "ai": {
-        "impact": "Ford'un satışlarının düşmesi, otomotiv sektöründeki genel durgunluğu yansıtabilir ve şirketin hisse fiyatını olumsuz etkileyebilir.",
+        "impact": "Hormuz anlaşmasının imzalanması, petrol fiyatlarını düşürerek küresel ekonomi ve piyasalar üzerinde olumlu bir etki yaratır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "GAIL India 42. yıllık toplantısını 27 Ağustos’ta yapacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/gail-india-42-yllk-toplantsn-27-agustosta-yapacak-93CH-4013807",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:15:15",
+      "ai": {
+        "impact": "GAIL India'nın yıllık toplantısı, şirketin gelecekteki planları ve hedefleri hakkında bilgi verecek, ancak Türkiye piyasalarına doğrudan etkisi sınırlıdır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Kredi limitlerinde yeni dönem: BDDK üst sınırları aşağı çekti",
+      "summary": "BDDK, İstanbul Takas ve Saklama Bankası AŞ ile İller Bankası AŞ hariç olmak üzere kalkınma ve yatırım bankalarının tek bir kişi veya risk grubuna kullandırabileceği kredi limitini ana sermayenin yüzde 30&#039;u, bankanın kendi risk grubuna kullandırabileceği kredi limitini ise yüzde 25&#039;i ile sınırlandırdı. Mevcut limit aşımlarının giderilmesi için bankalara 1 Ekim 2026 ve 1 Nisan 2027&#039;ye",
+      "url": "https://www.dunya.com/ekonomi/kredi-limitlerinde-yeni-donem-bddk-ust-sinirlari-asagi-cekti-haberi-835035",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T09:14:00",
+      "ai": {
+        "impact": "Kredi limitlerinin düşürülmesi, Türkiye'de bankacılık sektörünü ve kredi piyasalarını olumsuz etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Xtrackers 42 ETF hisse sınıfı için temettü açıkladı",
+      "title": "Çin alıcı-verici yasağının ABD yapay zeka devlerine zarar vereceği uyarısı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/xtrackers-42-etf-hisse-snf-icin-temettu-acklad-93CH-4012614",
+      "url": "https://tr.investing.com/news/stock-market-news/cin-alcverici-yasagnn-abd-yapay-zeka-devlerine-zarar-verecegi-uyars-4013806",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T15:59:46",
+      "published": "2026-08-05T09:09:46",
       "ai": {
-        "impact": "Xtrackers 42 ETF hisse sınıfının temettü açıklaması, yatırımcılar için olumlu bir gelişme olabilir ve hisse fiyatını destekleyebilir.",
+        "impact": "Çin'in alıcı-verici yasağının ABD yapay zeka devlerine zarar vereceği uyarısı, teknoloji sektörünü ve yapay zeka yatırımlarını olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Citizens, Red Rock Resorts için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-red-rock-resorts-icin-hisse-hedefini-yukseltti-93CH-4013786",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:08:13",
+      "ai": {
+        "impact": "Citizens ve Red Rock Resorts için hisse hedefinin yükseltilmesi, ilgili şirketlerin hisse fiyatlarını olumlu etkileyebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Gabelli Dividend & Income hissesi 30,17 dolarda zirve yaptı",
+      "title": "Citizens, Rhythm Pharmaceuticals için hedef fiyatı yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/gabelli-dividend--income-hissesi-3017-dolarda-zirve-yapt-93CH-4012613",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-rhythm-pharmaceuticals-icin-hedef-fiyat-yukseltti-93CH-4013785",
       "source": "Investing Türkiye",
-      "published": "2026-08-04T15:59:09",
-      "ai": {
-        "impact": "Gabelli Dividend & Income hissesinin zirve yapması, şirketin güçlü performansını gösteriyor ve yatırımcıların ilgisini çekebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-05T09:08:12"
     },
     {
-      "title": "Bir sigara grubuna daha zam: Fiyatlar 10 TL arttı",
-      "summary": "Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, JTI sigara grubundaki ürünlere 10 TL zam yapıldığını duyurdu. Dündar, dün de Captain Black grubuna zam geldiğini açıklamıştı.",
-      "url": "https://www.dunya.com/ekonomi/bir-sigara-grubuna-daha-zam-fiyatlar-10-tl-artti-haberi-834945",
+      "title": "ABD enflasyon rakamları ne zaman, hangi gün açıklanacak?",
+      "summary": "ABD enflasyon rakamları için bekleyiş sürüyor. Enflasyon rakamlarına göre Fed bir adım atacak. Dünya oranları beklerken sıklaşan soru &quot;ABD enflasyon rakamları ne zaman, hangi gün açıklanacak&quot; oluyor.",
+      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklanacak-haberi-835034",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-04T15:59:00"
+      "published": "2026-08-05T09:06:00"
     },
     {
-      "title": "Trimlite güneydoğu varlığını genişletmek için Barnett Millworks’ü satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/trimlite-guneydogu-varlgn-genisletmek-icin-barnett-millworksu-satn-ald-93CH-4012612",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:57:26"
+      "title": "En hesaplı tatil şehirleri belli oldu",
+      "summary": "Uçak, otel, restoran, ulaşım ve gezi maliyetlerini ziyaretçi puanlarıyla karşılaştıran yeni araştırmada dünyanın en avantajlı tatil rotaları sıralandı. İlk 10’a Avrupa damga vururken pahalı bilinen bir şehir sürpriz yaptı.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/en-hesapli-tatil-sehirleri-belli-oldu-galeri-835036",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T09:05:00"
     },
     {
-      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-      "summary": "P&G CEO Shailesh Jejurikar said the acquisition is play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
-      "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+      "title": "SpaceX dives 10% after AI spending surge rattles investors",
+      "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T15:56:44"
+      "published": "2026-08-05T09:04:08"
     },
     {
-      "title": "Broadwind Energy hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/broadwind-energy-hissesi-bugun-neden-yukseliyor-93CH-4012611",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:55:42"
-    },
-    {
-      "title": "Genius Sports hisseleri Polymarket ortaklığıyla yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/genius-sports-hisseleri-polymarket-ortaklgyla-yukseldi-93CH-4012610",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:55:04"
-    },
-    {
-      "title": "Innovex International hissesi 32,33 dolarda zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/innovex-international-hissesi-3233-dolarda-zirve-yapt-93CH-4012609",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:54:58"
-    },
-    {
-      "title": "Xtrackers 42 ETF hisse sınıfı için temettü dağıtacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/xtrackers-42-etf-hisse-snf-icin-temettu-dagtacak-93CH-4012608",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:53:48"
-    },
-    {
-      "title": "Goldman Sachs, ABD’nin 3. çeyrek büyüme tahminini artırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/goldman-sachs-abdnin-3-ceyrek-buyume-tahminini-artrd-93CH-4012607",
-      "source": "Investing Türkiye",
-      "published": "2026-08-04T15:52:55"
-    },
-    {
-      "title": "TCMB Başkanı Karahan: Dezenflasyon süreci sıkı para politikasıyla güçlenecek",
-      "summary": "TCMB Başkanı Fatih Karahan, fiyat istikrarı sağlanana kadar sıkı para politikası duruşunun sürdürüleceğini belirterek, politika faizine ilişkin adımların enflasyon görünümüne göre ihtiyatlı ve toplantı bazlı alınacağını söyledi.",
-      "url": "https://www.dunya.com/ekonomi/tcmb-baskani-karahan-dezenflasyon-sureci-siki-para-politikasiyla-guclenecek-haberi-834942",
+      "title": "McDonald's'ın büyüme yavaşladı: Müşteri trafiği düştü",
+      "summary": "McDonald&#039;s, ABD&#039;de ikinci çeyrekte aynı mağaza satışlarını yalnızca yüzde 0,8 artırırken müşteri trafiği yüzde 4,5 geriledi. Beklentilerin altında kalan performansın ardından şirket yönetim değişikliğine giderken, dijital kampanyalar ve uygun fiyatlı menü stratejisini güçlendirme kararı aldı.",
+      "url": "https://www.dunya.com/ekonomi/mcdonaldsin-buyume-yavasladi-musteri-trafigi-dustu-haberi-835033",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-04T15:39:00"
+      "published": "2026-08-05T09:04:00"
     },
     {
-      "title": "Numan Kurtulmuş çerçeve yasa teklifini imzaladı",
-      "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi&#039;ni imzaladı.",
-      "url": "https://www.dunya.com/gundem/numan-kurtulmus-cerceve-yasa-teklifini-imzaladi-haberi-834941",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-04T15:36:00"
+      "title": "Jefferies, AMD için hedef fiyatı veri merkezi büyümesi beklentisiyle yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-amd-icin-hedef-fiyat-veri-merkezi-buyumesi-beklentisiyle-yukseltti-93CH-4013774",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:02:49"
     },
     {
-      "title": "Borsa İstanbul günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,07 değer kazanarak 13.687,93 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-834939",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-04T15:31:00"
+      "title": "Bernstein, AMD için hedef fiyatı veri merkezi büyümesi ile 650 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-amd-icin-hedef-fiyat-veri-merkezi-buyumesi-ile-650-dolara-yukseltti-93CH-4013773",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:02:37"
     },
     {
-      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-      "summary": "Attorney General nominee Todd Blanche will still need to receive 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-      "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+      "title": "Mizuho, SpaceX hissesi için Outperform tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-spacex-hissesi-icin-outperform-tavsiyesini-korudu-93CH-4013772",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:02:31"
+    },
+    {
+      "title": "Piper Sandler, kısıtlama endişeleriyle SpaceX hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-kstlama-endiseleriyle-spacex-hisse-hedefini-dusurdu-93CH-4013771",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T09:02:29"
+    },
+    {
+      "title": "Trump's deportation agenda raised prices, contracted local economies, immigration group says",
+      "summary": "A report released Wednesday by the immigration advocacy group America's Voice argues President Trump's immigration policy is hurting the economy.",
+      "url": "https://www.cnbc.com/2026/08/05/trump-mass-deportation-prices.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-04T15:17:56"
+      "published": "2026-08-05T09:00:01"
+    },
+    {
+      "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
+      "summary": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
+      "url": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T08:55:42"
+    },
+    {
+      "title": "Hürmüz krizi LNG piyasasında dengeleri değiştirdi",
+      "summary": "Hürmüz Boğazı&#039;nda yaşanan kesinti, küresel LNG ticaretinde son yılların en büyük maliyet şoklarından birini yarattı. Gemilerin rotalarını uzatmak zorunda kalması, kullanılabilir tanker sayısının azalması ve savaş riskinin artmasıyla navlun, yakıt ve sigorta giderleri 2022 enerji krizinden bu yana görülen en yüksek seviyelere çıktı.",
+      "url": "https://www.dunya.com/ekonomi/hurmuz-krizi-lng-piyasasinda-dengeleri-degistirdi-haberi-835031",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T08:48:00"
     }
   ]
 }

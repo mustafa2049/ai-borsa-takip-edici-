@@ -1,109 +1,254 @@
 {
-  "updated_at": "2026-08-04T19:25:59+03:00",
+  "updated_at": "2026-08-05T12:30:47+03:00",
   "eval_days": 7,
   "overall": {
-    "evaluated": 25,
-    "correct": 12,
-    "accuracy_pct": 48.0
+    "evaluated": 39,
+    "correct": 21,
+    "accuracy_pct": 53.8
   },
   "by_signal": {
     "GÜÇLÜ AL": {
-      "evaluated": 2,
-      "correct": 0,
-      "accuracy_pct": 0.0
+      "evaluated": 3,
+      "correct": 3,
+      "accuracy_pct": 100.0
     },
     "AL": {
-      "evaluated": 11,
-      "correct": 9,
-      "accuracy_pct": 81.8
+      "evaluated": 18,
+      "correct": 13,
+      "accuracy_pct": 72.2
     },
     "SAT": {
-      "evaluated": 8,
+      "evaluated": 12,
       "correct": 2,
-      "accuracy_pct": 25.0
+      "accuracy_pct": 16.7
     },
     "GÜÇLÜ SAT": {
-      "evaluated": 4,
-      "correct": 1,
-      "accuracy_pct": 25.0
+      "evaluated": 6,
+      "correct": 3,
+      "accuracy_pct": 50.0
     }
   },
   "by_symbol": {
     "TUPRS": {
-      "evaluated": 2,
-      "correct": 0,
-      "accuracy_pct": 0.0
+      "evaluated": 3,
+      "correct": 3,
+      "accuracy_pct": 100.0
     },
-    "EKGYO": {
+    "THYAO": {
+      "evaluated": 3,
+      "correct": 1,
+      "accuracy_pct": 33.3
+    },
+    "SISE": {
       "evaluated": 2,
       "correct": 1,
       "accuracy_pct": 50.0
     },
+    "ASELS": {
+      "evaluated": 3,
+      "correct": 2,
+      "accuracy_pct": 66.7
+    },
+    "ISCTR": {
+      "evaluated": 1,
+      "correct": 1,
+      "accuracy_pct": 100.0
+    },
+    "TOASO": {
+      "evaluated": 3,
+      "correct": 2,
+      "accuracy_pct": 66.7
+    },
     "FROTO": {
-      "evaluated": 2,
+      "evaluated": 3,
       "correct": 0,
       "accuracy_pct": 0.0
     },
     "GARAN": {
-      "evaluated": 2,
-      "correct": 2,
+      "evaluated": 3,
+      "correct": 3,
       "accuracy_pct": 100.0
-    },
-    "BIMAS": {
-      "evaluated": 2,
-      "correct": 1,
-      "accuracy_pct": 50.0
-    },
-    "ASTOR": {
-      "evaluated": 2,
-      "correct": 0,
-      "accuracy_pct": 0.0
     },
     "YKBNK": {
-      "evaluated": 2,
-      "correct": 2,
+      "evaluated": 3,
+      "correct": 3,
       "accuracy_pct": 100.0
-    },
-    "ASELS": {
-      "evaluated": 2,
-      "correct": 2,
-      "accuracy_pct": 100.0
-    },
-    "THYAO": {
-      "evaluated": 2,
-      "correct": 2,
-      "accuracy_pct": 100.0
-    },
-    "TOASO": {
-      "evaluated": 2,
-      "correct": 0,
-      "accuracy_pct": 0.0
     },
     "AKBNK": {
-      "evaluated": 2,
-      "correct": 2,
+      "evaluated": 3,
+      "correct": 3,
       "accuracy_pct": 100.0
     },
-    "KCHOL": {
-      "evaluated": 2,
+    "ASTOR": {
+      "evaluated": 3,
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "SISE": {
-      "evaluated": 1,
+    "KCHOL": {
+      "evaluated": 3,
       "correct": 0,
       "accuracy_pct": 0.0
+    },
+    "EKGYO": {
+      "evaluated": 3,
+      "correct": 1,
+      "accuracy_pct": 33.3
+    },
+    "BIMAS": {
+      "evaluated": 3,
+      "correct": 1,
+      "accuracy_pct": 33.3
     }
   },
   "recent": [
+    {
+      "date": "2026-07-29",
+      "symbol": "AKBNK",
+      "signal": "AL",
+      "confidence": 80,
+      "price": 63.3,
+      "price_now": 67.1,
+      "change_pct": 6.0,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "ASELS",
+      "signal": "SAT",
+      "confidence": 70,
+      "price": 354.5,
+      "price_now": 355.5,
+      "change_pct": 0.28,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "ASTOR",
+      "signal": "SAT",
+      "confidence": 70,
+      "price": 278.0,
+      "price_now": 309.75,
+      "change_pct": 11.42,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "BIMAS",
+      "signal": "AL",
+      "confidence": 80,
+      "price": 386.5,
+      "price_now": 385.0,
+      "change_pct": -0.39,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "EKGYO",
+      "signal": "GÜÇLÜ SAT",
+      "confidence": 80,
+      "price": 17.99,
+      "price_now": 18.3,
+      "change_pct": 1.72,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "FROTO",
+      "signal": "SAT",
+      "confidence": 60,
+      "price": 76.1,
+      "price_now": 81.1,
+      "change_pct": 6.57,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "GARAN",
+      "signal": "AL",
+      "confidence": 65,
+      "price": 126.3,
+      "price_now": 129.3,
+      "change_pct": 2.38,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "ISCTR",
+      "signal": "AL",
+      "confidence": 75,
+      "price": 12.3,
+      "price_now": 12.41,
+      "change_pct": 0.89,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "KCHOL",
+      "signal": "SAT",
+      "confidence": 60,
+      "price": 193.6,
+      "price_now": 204.8,
+      "change_pct": 5.79,
+      "correct": false
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "SISE",
+      "signal": "AL",
+      "confidence": 70,
+      "price": 41.84,
+      "price_now": 42.52,
+      "change_pct": 1.63,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "THYAO",
+      "signal": "AL",
+      "confidence": 60,
+      "price": 313.25,
+      "price_now": 313.5,
+      "change_pct": 0.08,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "TOASO",
+      "signal": "GÜÇLÜ SAT",
+      "confidence": 85,
+      "price": 271.75,
+      "price_now": 268.75,
+      "change_pct": -1.1,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "TUPRS",
+      "signal": "GÜÇLÜ AL",
+      "confidence": 80,
+      "price": 297.75,
+      "price_now": 306.5,
+      "change_pct": 2.94,
+      "correct": true
+    },
+    {
+      "date": "2026-07-29",
+      "symbol": "YKBNK",
+      "signal": "AL",
+      "confidence": 85,
+      "price": 31.84,
+      "price_now": 34.3,
+      "change_pct": 7.73,
+      "correct": true
+    },
     {
       "date": "2026-07-28",
       "symbol": "AKBNK",
       "signal": "AL",
       "confidence": 70,
       "price": 65.8,
-      "price_now": 68.1,
-      "change_pct": 3.5,
+      "price_now": 67.1,
+      "change_pct": 1.98,
       "correct": true
     },
     {
@@ -112,8 +257,8 @@
       "signal": "SAT",
       "confidence": 55,
       "price": 358.0,
-      "price_now": 349.25,
-      "change_pct": -2.44,
+      "price_now": 355.5,
+      "change_pct": -0.7,
       "correct": true
     },
     {
@@ -122,8 +267,8 @@
       "signal": "SAT",
       "confidence": 70,
       "price": 277.5,
-      "price_now": 302.75,
-      "change_pct": 9.1,
+      "price_now": 309.75,
+      "change_pct": 11.62,
       "correct": false
     },
     {
@@ -132,8 +277,8 @@
       "signal": "AL",
       "confidence": 80,
       "price": 389.5,
-      "price_now": 385.75,
-      "change_pct": -0.96,
+      "price_now": 385.0,
+      "change_pct": -1.16,
       "correct": false
     },
     {
@@ -142,8 +287,8 @@
       "signal": "GÜÇLÜ SAT",
       "confidence": 80,
       "price": 18.2,
-      "price_now": 18.5,
-      "change_pct": 1.65,
+      "price_now": 18.3,
+      "change_pct": 0.55,
       "correct": false
     },
     {
@@ -152,149 +297,9 @@
       "signal": "SAT",
       "confidence": 60,
       "price": 77.55,
-      "price_now": 80.55,
-      "change_pct": 3.87,
+      "price_now": 81.1,
+      "change_pct": 4.58,
       "correct": false
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "GARAN",
-      "signal": "AL",
-      "confidence": 65,
-      "price": 127.4,
-      "price_now": 131.8,
-      "change_pct": 3.45,
-      "correct": true
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "KCHOL",
-      "signal": "SAT",
-      "confidence": 60,
-      "price": 195.0,
-      "price_now": 198.9,
-      "change_pct": 2.0,
-      "correct": false
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "SISE",
-      "signal": "AL",
-      "confidence": 70,
-      "price": 42.52,
-      "price_now": 42.44,
-      "change_pct": -0.19,
-      "correct": false
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "THYAO",
-      "signal": "AL",
-      "confidence": 60,
-      "price": 319.0,
-      "price_now": 323.75,
-      "change_pct": 1.49,
-      "correct": true
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "TOASO",
-      "signal": "GÜÇLÜ SAT",
-      "confidence": 90,
-      "price": 264.25,
-      "price_now": 272.5,
-      "change_pct": 3.12,
-      "correct": false
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "TUPRS",
-      "signal": "GÜÇLÜ AL",
-      "confidence": 80,
-      "price": 293.5,
-      "price_now": 290.25,
-      "change_pct": -1.11,
-      "correct": false
-    },
-    {
-      "date": "2026-07-28",
-      "symbol": "YKBNK",
-      "signal": "AL",
-      "confidence": 80,
-      "price": 32.74,
-      "price_now": 34.86,
-      "change_pct": 6.48,
-      "correct": true
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "AKBNK",
-      "signal": "AL",
-      "confidence": 70,
-      "price": 66.45,
-      "price_now": 68.1,
-      "change_pct": 2.48,
-      "correct": true
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "ASELS",
-      "signal": "SAT",
-      "confidence": 70,
-      "price": 360.5,
-      "price_now": 349.25,
-      "change_pct": -3.12,
-      "correct": true
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "ASTOR",
-      "signal": "SAT",
-      "confidence": 60,
-      "price": 290.0,
-      "price_now": 302.75,
-      "change_pct": 4.4,
-      "correct": false
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "BIMAS",
-      "signal": "AL",
-      "confidence": 70,
-      "price": 383.25,
-      "price_now": 385.75,
-      "change_pct": 0.65,
-      "correct": true
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "EKGYO",
-      "signal": "GÜÇLÜ SAT",
-      "confidence": 80,
-      "price": 18.91,
-      "price_now": 18.5,
-      "change_pct": -2.17,
-      "correct": true
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "FROTO",
-      "signal": "SAT",
-      "confidence": 80,
-      "price": 78.25,
-      "price_now": 80.55,
-      "change_pct": 2.94,
-      "correct": false
-    },
-    {
-      "date": "2026-07-27",
-      "symbol": "GARAN",
-      "signal": "AL",
-      "confidence": 65,
-      "price": 127.1,
-      "price_now": 131.8,
-      "change_pct": 3.7,
-      "correct": true
     }
   ]
 }

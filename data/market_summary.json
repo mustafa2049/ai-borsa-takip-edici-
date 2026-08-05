@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-08-04T19:25:59+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksi %2,07'lik artışla 13687,93 seviyesinde bulunuyor. Uluslararası piyasalarda da S&P 500 ve Nasdaq endeksleri değer kazanıyor. Ancak Brent petrol fiyatlarında görülen %5,04'lük düşüş dikkati çekiyor. Hisse sinyallerine göre THYAO, TUPRS, GARAN ve YKBNK gibi hisseler alış sinyali verirken, FROTO, TOASO ve EKGYO gibi hisseler satış sinyali veriyor.",
+  "updated_at": "2026-08-05T12:30:47+03:00",
+  "overview": "Gunun piyasa gorunumu genel olarak dusuk buyume ile karakterize oluyor. BIST 100 endeksi dusuk oranda yukselirken, global endeksler daha yüksek oranda artis gostermekte. Doviz kurlarinda dusuk dalgalanma goruluyor. Hisse sinyalleri ise karisik bir sekilde dağılmış durumda, bazı hisselerde al sinyalleri while bazılarında sat sinyalleri goruluyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13687.93,
-      "change_pct": 2.07
+      "value": 13724.51,
+      "change_pct": 0.27
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7716.56,
-      "change_pct": 1.53
+      "value": 7736.52,
+      "change_pct": 1.79
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26466.79,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change_pct": 2.59
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26202.35,
-      "change_pct": 0.77
+      "value": 26220.37,
+      "change_pct": 0.07
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 63754.9,
-      "change_pct": -0.94
+      "value": 66300.44,
+      "change_pct": 3.66
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.54,
-      "change_pct": 0.02
+      "value": 47.57,
+      "change_pct": 0.07
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.8,
-      "change_pct": -0.16
+      "value": 54.94,
+      "change_pct": 0.4
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4141.6,
-      "change_pct": 2.67
+      "value": 4220.4,
+      "change_pct": 3.05
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 79.55,
-      "change_pct": -5.04
+      "value": 80.29,
+      "change_pct": 1.17
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6330.61,
+      "value": 6455.03,
       "change_pct": null
     }
   ]
