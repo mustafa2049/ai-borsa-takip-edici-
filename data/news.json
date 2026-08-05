@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-05T16:45:25+03:00",
+  "updated_at": "2026-08-05T18:55:00+03:00",
   "news": [
-    {
-      "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
-      "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
-      "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-05T13:43:16",
-      "ai": {
-        "impact": "Uber'in beklentilerin altında kalan üçüncü çeyrek gelir tahmini, şirketin hisse senetlerini olumsuz etkileyebilir. Bu durum, global piyasalarda teknoloji şirketlerine karşı yatırımcı güveninin sarsılmasına neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "AMD sinks 5% despite earnings beat, strong data center revenue",
-      "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
-      "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-05T13:41:46",
-      "ai": {
-        "impact": "AMD'nin güçlü veri merkezi gelirine rağmen hisse senetlerinin değer kaybetmesi, yatırımcıların şirketin gelecekteki büyüme potansiyeline ilişkin endişelerini ortaya koyabilir. Bu durum, teknoloji sektöründe yatırımcı güveninin sarsılmasına neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "SpaceX dives 9% after AI spending surge rattles investors",
-      "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-05T13:41:15",
-      "ai": {
-        "impact": "SpaceX'in hisse senetlerinin değer kaybetmesi, şirketin yüksek AI harcamalarının yatırımcılar tarafından endişe ile karşılandığını gösteriyor. Bu durum, şirketin uzun vadeli büyüme potansiyeline ilişkin soru işaretleri oluşturabilir.",
-        "sentiment": "Negatif"
-      }
-    },
     {
       "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
       "summary": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
       "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T13:35:59",
+      "published": "2026-08-05T15:55:01",
       "ai": {
-        "impact": "Situational Awareness hedge fonunun çökmesi, yatırımcıları kaldıraçlı piyasalara karşı daha temkinli olmaya sevk edebilir. Bu durum, global piyasalarda risk iştahının azalmasına neden olabilir.",
+        "impact": "Situational Awareness hedge fund meltdown, kaldıraçlı piyasalar için bir uyarı işareti olabilir. Bu durum, yatırımcıların daha temkinli davranmasına neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "İzmir'de yangın söndürme uçağı göletten kalkamadı",
-      "summary": "İzmir&#039;in Kiraz ilçesindeki orman yangınına müdahale eden AT-802F tipi amfibik söndürme uçağı, Beydağ Baraj Göleti&#039;nden su aldıktan sonra yeniden havalanamadı. Selçuk Havaalanı’ndan kalkan uçağın pilotu Mustafa Alp, aracı hasar almadan gölet kıyısına ulaştırmayı başardı. Güvenli şekilde tahliye edilen pilotun sağlık durumunun iyi olduğu açıklandı. Yaralanma ve can kaybının yaşanmadığı ola",
-      "url": "https://www.dunya.com/video-galeri/gundem/izmirde-yangin-sondurme-ucagi-goletten-kalkamadi-video-835074",
+      "title": "SpaceX stock falls 7% after AI spending surge rattles investors",
+      "summary": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T15:49:42",
+      "ai": {
+        "impact": "SpaceX'in hisse fiyatı, AI harcamalarındaki artış nedeniyle düşüş yaşadı. Bu durum, şirketin gelecekteki büyüme beklentilerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+      "summary": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+      "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T15:42:53",
+      "ai": {
+        "impact": "Bank of America'nın GLP-1 ilaçlarına yaptığı harcama, şirketin sağlık giderlerini artırabilir. Ancak bu durum, genel piyasalara yönelik bir etki yaratmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
+      "summary": "Abdul El-Sayed won the Michigan Democratic Senate primary, setting up a context with former Rep. Mike Rogers in the November general election.",
+      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T15:40:22",
+      "ai": {
+        "impact": "Abdul El-Sayed'in Michigan Demokratik Senato ön seçimini kazanması, siyasi ortamı etkileyebilir. Ancak bu durum, doğrudan finansal piyasalara yönelik bir etki yaratmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
+      "summary": "Parts of a SpaceX rocket reportedly crashed into the Moon on Wednesday",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-05T15:35:10",
+      "ai": {
+        "impact": "SpaceX'in ay çakılması, şirketin hisse fiyatı için bir metafor olabilir. Bu durum, şirketin gelecekteki büyüme beklentilerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Borsa İstanbul günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,11 değer kazanarak 13.703,13 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-835100",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-05T13:35:00",
+      "published": "2026-08-05T15:32:00",
       "ai": {
-        "impact": "İzmir'deki yangın söndürme uçağının göletten kalkamaması, yerel olarak yangınla mücadele çabalarına olumsuz etkide bulunabilir. Ancak, bu olayın Türkiye veya dünya piyasalarına geniş çapta bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Rusya’da yakıt fiyatları Haziran ve Temmuz’da enflasyona %0,5 ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/rusyada-yakt-fiyatlar-haziran-ve-temmuzda-enflasyona-05-ekledi-93CH-4014692",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:51",
-      "ai": {
-        "impact": "Rusya'da yakıt fiyatlarının enflasyona katkısı, ülke ekonomisini ve tüketici harcamalarını etkileyebilir. Ancak, bu durumun global piyasalara geniş çapta bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Rusya’da yakıt fiyatları haziran ve temmuzda enflasyona %0,5 ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/rusyada-yakt-fiyatlar-haziran-ve-temmuzda-enflasyona-05-ekledi-93CH-4014690",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:50",
-      "ai": {
-        "impact": "Rusya'da yakıt fiyatlarının enflasyona katkısı, ülke ekonomisini ve tüketici harcamalarını etkileyebilir. Ancak, bu durumun global piyasalara geniş çapta bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Palo Alto Networks hissesi 373,81 dolar ile rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/palo-alto-networks-hissesi-37381-dolar-ile-rekor-krd-93CH-4014691",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:50",
-      "ai": {
-        "impact": "Palo Alto Networks hissesinin rekor kırmış olması, şirketin güçlü performansını ve yatırımcıların güvenini gösteriyor. Bu durum, teknoloji sektörüne olan güveni artırabilir.",
+        "impact": "Borsa İstanbul'un günü yükselişle tamamlaması, Türk ekonomisinin olumlu bir sinyal olabilir. Bu durum, yatırımcıların daha iyimser davranmasına neden olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "MicroVision otonom hava sistemleri için lidar sensörleri tanıttı",
+      "title": "Fed’in Kashkari’si faiz artırımının şimdi yapılması gerektiğini söyledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/microvision-otonom-hava-sistemleri-icin-lidar-sensorleri-tantt-93CH-4014688",
+      "url": "https://tr.investing.com/news/economy-news/fedin-kashkarisi-faiz-artrmnn-simdi-yaplmas-gerektigini-soyledi-93CH-4015020",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:47"
+      "published": "2026-08-05T15:31:26",
+      "ai": {
+        "impact": "Fed'in Kashkari'sinin faiz artırımının şimdi yapılması gerektiğini söylemesi, faiz oranlarının artabileceğini işaret ediyor. Bu durum, piyasaları olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Clear Secure hissesi 64,47 dolarda 52 haftalık zirve yaptı",
+      "title": "LIV Golf, Eylül anlaşması için yeni yatırımcı buldu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/clear-secure-hissesi-6447-dolarda-52-haftalk-zirve-yapt-93CH-4014687",
+      "url": "https://tr.investing.com/news/stock-market-news/liv-golf-eylul-anlasmas-icin-yeni-yatrmc-buldu-93CH-4015019",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:42"
+      "published": "2026-08-05T15:31:20",
+      "ai": {
+        "impact": "LIV Golf'in yeni yatırımcı bulması, şirketin finansal durumunu güçlendirebilir. Ancak bu durum, genel piyasalara yönelik bir etki yaratmayabilir.",
+        "sentiment": "Nötr"
+      }
     },
     {
-      "title": "IFF hissesi 84,73 dolarla 52 haftalık zirveye ulaştı",
+      "title": "UBS, Expeditors için hisse hedefini 210 dolara yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/iff-hissesi-8473-dolarla-52-haftalk-zirveye-ulast-93CH-4014686",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-expeditors-icin-hisse-hedefini-210-dolara-yukseltti-93CH-4015016",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:41"
+      "published": "2026-08-05T15:30:10"
     },
     {
-      "title": "Travere Therapeutics hissesi 61,76 dolarda zirve yaptı",
+      "title": "UBS, SpaceX için hisse tavsiyesini güçlü AI geliri ile tekrarladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/travere-therapeutics-hissesi-6176-dolarda-zirve-yapt-93CH-4014684",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-spacex-icin-hisse-tavsiyesini-guclu-ai-geliri-ile-tekrarlad-93CH-4015015",
       "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:38"
+      "published": "2026-08-05T15:30:07"
     },
     {
-      "title": "Insulet hisseleri 52 haftalık dip seviyeye geriledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/insulet-hisseleri-52-haftalk-dip-seviyeye-geriledi-93CH-4014683",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:33:26"
-    },
-    {
-      "title": "Karbon Homes yönetim kurulu başkanlığına Sinead Butters atandı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/karbon-homes-yonetim-kurulu-baskanlgna-sinead-butters-atand-93CH-4014669",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:31:25"
-    },
-    {
-      "title": "UBS, hibrit araçların talebi artırabileceği PGM madencilerini açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ubs-hibrit-araclarn-talebi-artrabilecegi-pgm-madencilerini-acklad-93CH-4014665",
-      "source": "Investing Türkiye",
-      "published": "2026-08-05T13:30:06"
-    },
-    {
-      "title": "Fenerbahçe'den UEFA kadrosunda son dakika değişikliği",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi için bildirdiği oyuncu listesinde revizyona gitti. Sarı-lacivertliler, Bartuğ Elmaz&#039;ın yerine Fransız yıldız N&#039;Golo Kante&#039;yi kadroya ekledi.",
-      "url": "https://www.dunya.com/spor/fenerbahceden-uefa-kadrosunda-son-dakika-degisikligi-haberi-835071",
+      "title": "İstanbul Boğazı'nda gemi trafiği çift yönlü askıya alındı",
+      "summary": "İstanbul Boğazı&#039;nda gemi trafiği, Panama bandıralı kuru yük gemisinin arıza yapması nedeniyle çift yönlü olarak askıya alındı.",
+      "url": "https://www.dunya.com/gundem/istanbul-bogazinda-gemi-trafigi-cift-yonlu-askiya-alindi-haberi-835099",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-05T13:23:00"
+      "published": "2026-08-05T15:30:00"
     },
     {
-      "title": "Ömer Çelik: 2 yıllık sürecin en önemli aşamasındayız",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilen MKYK toplantısının ardından yaptığı açıklamada, TBMM&#039;ye sunulan &#039;Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi&#039;nin &quot;Terörsüz Türkiye&quot; sürecinde iki yıldır yürütülen çalışmaların en önemli aşamalarından biri olduğunu söyledi.",
-      "url": "https://www.dunya.com/gundem/omer-celik-2-yillik-surecin-en-onemli-asamasindayiz-haberi-835073",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T13:21:00"
+      "title": "Michigan’da siklosporiyazis salgını 12.218 vakaya ulaştı, 2 ölüm",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/michiganda-siklosporiyazis-salgn-12218-vakaya-ulast-2-olum-93CH-4015014",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:27:10"
     },
     {
-      "title": "Anlaşma umudu altını uçurdu: Kritik seviye aşıldı",
-      "summary": "Altın fiyatları, ABD ile İran arasında anlaşma sağlanabileceği ve Hürmüz Boğazı&#039;nın yeniden açılabileceği beklentileriyle güçlü bir yükselişe imza attı. Enflasyon baskısının hafifleyeceği ve Fed&#039;in faiz artırımından uzaklaşacağı öngörüsüyle altının onsu yüzde 4&#039;ten fazla değer kazanarak 4 bin 200 doları test etti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/anlasma-umudu-altini-ucurdu-kritik-seviye-asildi-galeri-835072",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T13:10:00"
-    },
-    {
-      "title": "ABD'de özel sektör istihdamı beklentilerin altında arttı",
-      "summary": "ABD&#039;de özel sektör istihdamı temmuz ayında beklentilerin altında artarak iş gücü piyasasında yavaşlama sinyali verdi. ADP verilerine göre özel sektör istihdamı 44 bin kişi artarken, ekonomistler 68 bin kişilik artış bekliyordu.",
-      "url": "https://www.dunya.com/ekonomi/abdde-ozel-sektor-istihdami-beklentilerin-altinda-artti-haberi-835070",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-05T13:07:00"
-    },
-    {
-      "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-      "summary": "Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting.",
-      "url": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
+      "title": "Disney weighs free, ad-supported streaming, says it has sold out Super Bowl ad spots",
+      "summary": "Disney is considering a free streaming product as advertising takes a bigger role in making streaming profitable.",
+      "url": "https://www.cnbc.com/2026/08/05/disney-free-ad-supported-streaming-super-bowl-ads.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-05T13:06:35"
+      "published": "2026-08-05T15:25:55"
+    },
+    {
+      "title": "DA Davidson, AMD’nin hedef fiyatını veri merkezi gücüyle 550 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-amdnin-hedef-fiyatn-veri-merkezi-gucuyle-550-dolara-yukseltti-93CH-4015013",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:24:16"
+    },
+    {
+      "title": "Eli Lilly 2026 ikinci çeyrek gelir tahminlerini aştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/eli-lilly-2026-ikinci-ceyrek-gelir-tahminlerini-ast-93CH-4015012",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:24:14"
+    },
+    {
+      "title": "D.A. Davidson, OneSpan hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-onespan-hissesi-icin-hedef-fiyat-yukseltti-93CH-4015011",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:24:04"
+    },
+    {
+      "title": "OYAK, Tekfen Holding'de ilk yönetim kurulu toplantısını gerçekleştirdi",
+      "summary": "Tekfen Holding&#039;in yüzde 42,8&#039;lik payının, çoğunluk sermayesi OYAK&#039;a ait ON Investment BV&#039;ye devrinin ardından ilk yönetim kurulu toplantısı gerçekleştirildi.",
+      "url": "https://www.dunya.com/sirketler/oyak-tekfen-holdingde-ilk-yonetim-kurulu-toplantisini-gerceklestirdi-haberi-835098",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T15:24:00"
+    },
+    {
+      "title": "DA Davidson, Ichor Holdings için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-ichor-holdings-icin-hedef-fiyat-yukseltti-93CH-4015010",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:23:55"
+    },
+    {
+      "title": "Allianz Technology Trust Temmuz portföy varlıklarını açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/allianz-technology-trust-temmuz-portfoy-varlklarn-acklad-93CH-4015009",
+      "source": "Investing Türkiye",
+      "published": "2026-08-05T15:23:44"
+    },
+    {
+      "title": "Bakan Fidan: Mescid-i Aksa Türkiye'nin kutsal yerlerinden biri",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Mescid-i Aksa&#039;nın, Türkiye&#039;nin kutsal yerlerinden biri olarak görüldüğünü belirterek, &quot;Buraya yönelik yapılacak her türlü tecavüz, bizim milletimizin değerlerine yapılmış kabul ediliyor.&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/bakan-fidan-mescid-i-aksa-turkiyenin-kutsal-yerlerinden-biri-haberi-835095",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-05T15:11:00"
     }
   ]
 }

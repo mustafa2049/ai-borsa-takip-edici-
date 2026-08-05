@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T16:45:25+03:00",
+  "updated_at": "2026-08-05T18:55:00+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -11,7 +11,7 @@
       "return_1y": 54.89,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %6.35 getiri sağladı, ancak son 3 ayda %3.15 kaybetti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %6,35, 1 yıllık getirisi %54,89. Yüksek getiri potansiyeli ile birlikte yüksek risk taşıyor."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 48.34,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %5.92 getiri sağladı ve son 1 senede %48.34 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %5,92, 1 yıllık getirisi %48,34. Orta düzeyde risk ve getiri potansiyeli sunuyor."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 43.01,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %4.7 getiri sağladı ve son 1 senede %43.01 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %4,7, 1 yıllık getirisi %43,01. Orta düzeyde risk ve getiri potansiyeli sunuyor."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 46.3,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %1.38 getiri sağladı ve son 1 senede %46.3 getiri sağladı. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %1,38, 1 yıllık getirisi %46,3. Düşük risk ve orta düzeyde getiri potansiyeli sunuyor."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 68.76,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %1.12 getiri sağladı ve son 1 senede %68.76 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %1,12, 1 yıllık getirisi %68,76. Yüksek getiri potansiyeli ile birlikte yüksek risk taşıyor."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 30.48,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.68 getiri sağladı ve son 1 senede %30.48 getiri sağladı. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %0,68, 1 yıllık getirisi %30,48. Düşük risk ve düşük getiri potansiyeli sunuyor."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 23.08,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 ayda %0.58 getiri sağladı ve son 1 senede %23.08 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %0,58, 1 yıllık getirisi %23,08. Yüksek risk ve düşük getiri potansiyeli sunuyor."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 30.32,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 ayda %0.23 getiri sağladı ve son 1 senede %30.32 getiri sağladı. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %0,23, 1 yıllık getirisi %30,32. Düşük risk ve düşük getiri potansiyeli sunuyor."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 28.09,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.12 getiri sağladı ve son 1 senede %28.09 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %0,12, 1 yıllık getirisi %28,09. Orta düzeyde risk ve getiri potansiyeli sunuyor."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 37.86,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 ayda %0.22 kaybetti ve son 1 senede %37.86 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Fonun 1 aylık getirisi %-0,22, 1 yıllık getirisi %37,86. Orta düzeyde risk ve getiri potansiyeli sunuyor."
       }
     },
     {

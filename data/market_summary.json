@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-08-05T16:45:25+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksi hafif bir düşüş gösterirken, uluslararası piyasalarda S&P 500, Nasdaq ve DAX endeksleri artış gösterdi. USD/TRY ve EUR/TRY kurunda küçük dalgalanmalar yaşandı. Altın fiyatları önemli bir artış kaydetti. Hisse sinyallerinde THYAO, TUPRS, GARAN ve YKBNK gibi hisseler al sinyali verirken, TOASO ve EKGYO gibi hisseler güçlü satış sinyali verdi.",
+  "updated_at": "2026-08-05T18:55:00+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksi hafif yükselirken, global piyasalarda kararsızlık hakim. Döviz kurlarında dalgalanma devam ediyor. Altın fiyatlarında önemli bir artış görülürken, petrol fiyatları hafif geriliyor. Hisse senedi sinyallerinde al ve sat sinyalleri karışıklık yaratıyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13657.35,
-      "change_pct": -0.22
+      "value": 13703.13,
+      "change_pct": 0.11
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7783.24,
-      "change_pct": 0.6
+      "value": 7736.17,
+      "change_pct": -0.0
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26705.94,
-      "change_pct": 0.45
+      "value": 26509.76,
+      "change_pct": -0.28
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26256.4,
-      "change_pct": 0.21
+      "value": 26126.3,
+      "change_pct": -0.29
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 66300.44,
-      "change_pct": 3.66
+      "value": 63957.53,
+      "change_pct": 0.32
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.49,
-      "change_pct": -0.11
+      "value": 47.57,
+      "change_pct": 0.06
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.96,
-      "change_pct": 0.44
+      "value": 54.95,
+      "change_pct": 0.43
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4262.3,
-      "change_pct": 4.08
+      "value": 4315.3,
+      "change_pct": 5.37
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 79.99,
-      "change_pct": 0.79
+      "value": 79.27,
+      "change_pct": -0.11
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6507.83,
+      "value": 6599.89,
       "change_pct": null
     }
   ]
