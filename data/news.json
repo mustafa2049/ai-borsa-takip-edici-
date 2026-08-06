@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-06T14:58:07+03:00",
+  "updated_at": "2026-08-06T17:04:35+03:00",
   "news": [
     {
-      "title": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
-      "summary": "Warner Bros. Discovery's streaming segment surpassed $3 million in revenue for the second quarter, marking a 10% increase from the year prior",
-      "url": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
+      "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
+      "summary": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
+      "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-06T11:51:22",
+      "published": "2026-08-06T13:57:20",
       "ai": {
-        "impact": "Warner Bros. Discovery'ın streaming gelirlerindeki artış, şirketin büyümesine olumlu yansıyabilir. Bu durum, medya ve eğlence sektöründe olumlu bir etki yaratabilir.",
+        "impact": "Fox'un NFL medya hakları anlaşmasını yenilememesi, şirketin gelirlerine olumsuz yansıyabilir. Bu durum, şirketin hisse senetlerinin değerini düşürebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings",
+      "summary": "As Lilly widens its lead in the obesity race, Novo is still racing to win back market share and restore investor confidence in its pipeline.",
+      "url": "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T13:45:29",
+      "ai": {
+        "impact": "Eli Lilly ve Novo Nordisk arasındaki rekabet, ilaç sektöründe önemli bir gelişme olabilir. Bu durum, Eli Lilly'nin hisse senetlerine olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "TCMB rezervlerinde artış",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın rezervlerinde temmuz ayının son haftasında dikkat çeken bir yükseliş yaşandı. Brüt rezervler 1,8 milyar dolarlık artışla 164,4 milyar dolara ulaşırken net rezervler 54,2 milyar dolara çıktı.",
-      "url": "https://www.dunya.com/ekonomi/tcmb-rezervlerinde-artis-haberi-835224",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:51:00",
+      "title": "Virtuix Holdings, bağımsız denetçi olarak EisnerAmper’ı atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/virtuix-holdings-bagmsz-denetci-olarak-eisneramper-atad-93CH-4018227",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T13:42:03",
       "ai": {
-        "impact": "TCMB rezervlerindeki artış, Türkiye'nin ekonomik istikrarına katkıda bulunabilir. Bu durum, Türk Lirası'nın değerini olumlu etkileyebilir.",
+        "impact": "Virtuix Holdings'in bağımsız denetçi olarak EisnerAmper'ı ataması, şirketin şeffaflık ve güvenliğe verdiği önem hakkında bilgi verir. Bu durum, şirketin itibarına olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Bu otelde para geçmiyor, konaklamak için tek bir şart var",
-      "summary": "Konya&#039;da çiftçilik yapan Timur ve Handan Bulut çifti, sosyal medyada tanıştıkları aileleri &quot;köy oteli&quot; adını verdikleri çiftlik evinde ücretsiz ağırlıyor. Misafirlerden para yerine tarla ve bahçe işlerinde emek vermeleri istenirken, çiftlikte geçirilen birkaç gün hem şehir hayatından uzaklaşma hem de köy yaşamını deneyimleme fırsatı sunuyor.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/bu-otelde-para-gecmiyor-konaklamak-icin-tek-bir-sart-var-galeri-835223",
+      "title": "LGS 1. nakil sonuçları ne zaman açıklanacak?",
+      "summary": "LGS terch sonuçlarının ilanı ile birlikte nakil işlemleri de başladı. Dün ve bugün işlemlerini tamamlayanlar şimdi sonuç tarihine odaklanmış durumda... Peki, LGS 1. nakil sonuçları ne zaman açıklanacak?",
+      "url": "https://www.dunya.com/gundem/lgs-1-nakil-sonuclari-ne-zaman-aciklanacak-haberi-835244",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:49:00",
+      "published": "2026-08-06T13:42:00",
       "ai": {
-        "impact": "Köy oteli projesi, yerel turizmi ve toplum arasındaki bağları güçlendirebilir. Ancak, bu haberin genel ekonomi üzerinde büyük bir etkisi olmayabilir.",
+        "impact": "LGS 1. nakil sonuçlarının açıklanması, eğitim sektörüne ve ilgili şirketlere herhangi bir doğrudan etki yapmayacaktır.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Six Flags Entertainment hisseleri neden düşüyor?",
+      "title": "D-Wave hisseleri 2Ç26 tahminlerini kaçırınca düştü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/six-flags-entertainment-hisseleri-neden-dusuyor-93CH-4017510",
+      "url": "https://tr.investing.com/news/transcripts/dwave-hisseleri-2c26-tahminlerini-kacrnca-dustu-93CH-4018226",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:47:30",
+      "published": "2026-08-06T13:40:52",
       "ai": {
-        "impact": "Six Flags Entertainment hisselerinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
+        "impact": "D-Wave hisselerinin düşmesi, şirketin mali performansının beklentileri karşılamaması nedeniyle oluşabilir. Bu durum, şirketin hisse senetlerinin değerini düşürebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Kenvue hissesi bugün neden düşüyor?",
+      "title": "Motorola hissesi 493,29 dolarlık zirveye ulaştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/kenvue-hissesi-bugun-neden-dusuyor-93CH-4017509",
+      "url": "https://tr.investing.com/news/company-news/motorola-hissesi-49329-dolarlk-zirveye-ulast-93CH-4018225",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:47:26",
+      "published": "2026-08-06T13:40:46",
       "ai": {
-        "impact": "Kenvue hissesinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
-      "summary": "The Slavneft-Yanos facility in Yaroslavl, which is situated hundreds of miles from the Ukraine border, is one of Russia's biggest oil refineries.",
-      "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-06T11:46:34",
-      "ai": {
-        "impact": "Rusya'nın büyük bir petrol rafinerisinin vurulması, enerji piyasalarını etkileyebilir. Bu durum, petrol fiyatlarının artmasına neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "İngiltere Paramount’un Warner Bros. Discovery satın alımını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ingiltere-paramountun-warner-bros-discovery-satn-almn-onaylad-93CH-4017502",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T11:45:31",
-      "ai": {
-        "impact": "İngiltere'nin Warner Bros. Discovery'ın Paramount'u satın almasını onaylaması, medya ve eğlence sektöründe birleşme ve satın almaların artmasına neden olabilir.",
+        "impact": "Motorola hissesinin zirveye ulaşması, şirketin mali performansının iyi olması ve yatırımcıların şirketin geleceğine güvenmesiyle ilgili olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "D-Wave Quantum hissesi bugün neden düşüyor?",
+      "title": "Liquidity Services hissesi 42,0 dolarla 52 haftalık zirveye ulaştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/dwave-quantum-hissesi-bugun-neden-dusuyor-93CH-4017501",
+      "url": "https://tr.investing.com/news/company-news/liquidity-services-hissesi-420-dolarla-52-haftalk-zirveye-ulast-93CH-4018224",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:45:28",
+      "published": "2026-08-06T13:39:55",
       "ai": {
-        "impact": "D-Wave Quantum hissesinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
-        "sentiment": "Negatif"
+        "impact": "Liquidity Services hissesinin zirveye ulaşması, şirketin mali performansının iyi olması ve yatırımcıların şirketin geleceğine güvenmesiyle ilgili olabilir.",
+        "sentiment": "Pozitif"
       }
     },
     {
-      "title": "InvestingPro’nun Gerçeğe Uygun Değeri CVK Maden’de %50 düşüş yakaladı",
+      "title": "News Corp hissesi 35,3 dolarlık zirveye ulaştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-cvk-madende-50-dusus-yakalad-93CH-4017500",
+      "url": "https://tr.investing.com/news/company-news/news-corp-hissesi-353-dolarlk-zirveye-ulast-93CH-4018222",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:45:21"
+      "published": "2026-08-06T13:39:54",
+      "ai": {
+        "impact": "News Corp hissesinin zirveye ulaşması, şirketin mali performansının iyi olması ve yatırımcıların şirketin geleceğine güvenmesiyle ilgili olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Unity Software hisseleri neden yükselişte?",
+      "title": "PACS Group hissesi 48,23 dolar ile rekor kırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/unity-software-hisseleri-neden-yukseliste-93CH-4017499",
+      "url": "https://tr.investing.com/news/company-news/pacs-group-hissesi-4823-dolar-ile-rekor-krd-93CH-4018223",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:45:19"
+      "published": "2026-08-06T13:39:54"
     },
     {
-      "title": "Molson Coors Brewing hissesi bugün neden yükseliyor?",
+      "title": "Tapestry Inc hissesi 162,0 dolar ile rekor kırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/molson-coors-brewing-hissesi-bugun-neden-yukseliyor-93CH-4017498",
+      "url": "https://tr.investing.com/news/company-news/tapestry-inc-hissesi-1620-dolar-ile-rekor-krd-93CH-4018221",
       "source": "Investing Türkiye",
-      "published": "2026-08-06T11:45:10"
+      "published": "2026-08-06T13:39:52"
+    },
+    {
+      "title": "GigaCloud Technology hissesi 52,04 dolarla zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/gigacloud-technology-hissesi-5204-dolarla-zirve-yapt-93CH-4018220",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T13:39:50"
+    },
+    {
+      "title": "Roku hissesi 148,93 dolarlık 52 haftalık zirvede",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/roku-hissesi-14893-dolarlk-52-haftalk-zirvede-93CH-4018218",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T13:39:47"
+    },
+    {
+      "title": "Republic Bancorp hissesi 102,22 dolar ile rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/republic-bancorp-hissesi-10222-dolar-ile-rekor-krd-93CH-4018219",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T13:39:47"
+    },
+    {
+      "title": "Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum",
+      "summary": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
+      "url": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T13:36:33"
+    },
+    {
+      "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
+      "summary": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform that Ford has said is key to making money with EVs.",
+      "url": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T13:29:39"
+    },
+    {
+      "title": "Bakan Şimşek'ten makro istikrar mesajı",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Cumhurbaşkanı Erdoğan&#039;ın liderliğinde, Türkiye&#039;nin kalkınma hedefleri doğrultusunda verimliliği artıran, yüksek katma değerli üretimi destekleyen ve makroekonomik istikrarı güçlendiren politikaları uygulamaya devam edeceklerini bildirdi.",
+      "url": "https://www.dunya.com/ekonomi/bakan-simsekten-makro-istikrar-mesaji-haberi-835245",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T13:25:00"
+    },
+    {
+      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+      "summary": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
+      "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T13:20:54"
+    },
+    {
+      "title": "Opinion: Demis Hassabis’ new role exposes Google’s AI balancing act",
+      "summary": "Demis Hassabis’ new role highlights the tension between his scientific ambitions and Google’s pressure to commercialize and scale AI.",
+      "url": "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T13:15:41"
+    },
+    {
+      "title": "Emekli maaş farkları ne zaman, hangi gün yatacak? Maaş farkı bugün mü, yarın mı yatıyor?",
+      "summary": "En düşük emekli aylığı alan vatandaşların gündeminde maaş farkı var. Sosyal Güvenlik Kurumu&#039;nun yayımlamış olduğu takvimi unutanlar veya kaçıranlar &quot;Emekli maaş farkları ne zaman yatacak&quot; diye soruyor.",
+      "url": "https://www.dunya.com/gundem/emekli-maas-farklari-ne-zaman-hangi-gun-yatacak-maas-farki-bugun-mu-yarin-mi-yatiyor-haberi-835234",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T13:11:00"
     },
     {
       "title": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
       "summary": "Diageo, whose brands include Johnnie Walker scotch whisky, Captain Morgan rum and Guinness stout, said costs relating to the savings program will amount to $1.2 billion.",
       "url": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-06T11:45:02"
-    },
-    {
-      "title": "Fidelity National Financial 0,52 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/fidelity-national-financial-052-dolar-temettu-acklad-93CH-4017497",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T11:44:59"
-    },
-    {
-      "title": "Becton Dickinson hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/becton-dickinson-hissesi-bugun-neden-yukseliyor-93CH-4017496",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T11:44:49"
-    },
-    {
-      "title": "Krispy Kreme hisseleri bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/krispy-kreme-hisseleri-bugun-neden-yukseliyor-93CH-4017495",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T11:44:28"
-    },
-    {
-      "title": "Rus İHA’ları Alman gemisini vurdu, mürettebat tahliye edildi",
-      "summary": "Karadeniz’de ticari gemilere yönelik saldırılara bir yenisi eklendi. Odesa açıklarında birden fazla İHA’nın hedef aldığı Alman işletmesindeki Emil gemisinde yangın çıktı; teknik sistemler durunca mürettebat tahliye edildi.",
-      "url": "https://www.dunya.com/gundem/rus-ihalari-alman-gemisini-vurdu-murettebat-tahliye-edildi-haberi-835221",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:42:00"
-    },
-    {
-      "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
-      "summary": "Burger King's U.S. business reported same-store sales growth of 8.5%.",
-      "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-06T11:38:35"
-    },
-    {
-      "title": "Vatandaşa yedireceklerdi, yakalandılar! Mide bulandıran görüntü...",
-      "summary": "Mersin&#039;de bir evde sağlıksız koşullarda üretildiği belirlenen yaklaşık 200 kilogram midye dolması ele geçirildi. Ağır koku yayan ve gazete kağıdıyla pişirildiği tespit edilen ürünler imha edilirken, üreticiye para cezası kesildi ve yasal işlem başlatıldı.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/vatandasa-yedireceklerdi-yakalandilar-mide-bulandiran-goruntu-galeri-835220",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:37:00"
-    },
-    {
-      "title": "KKM bakiyesindeki düşüş devam ediyor",
-      "summary": "Kur korumalı mevduatta (KKM) düşüş sürerken toplam bakiye geçen hafta 157 milyon liraya kadar geriledi. Aynı dönemde bankacılık sektörünün kredi hacmi 27,4 trilyon lirayı aşarken tüketici kredileri ve kredi kartı borçları da yükseldi. Toplam mevduat azalmasına rağmen takipteki alacaklar 818,5 milyar liraya çıktı.",
-      "url": "https://www.dunya.com/ekonomi/kkm-bakiyesindeki-dusus-devam-ediyor-haberi-835219",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:31:00"
-    },
-    {
-      "title": "Okullar ne zaman açılacak? Uyum haftası ne zaman başlıyor?",
-      "summary": "Ağustos ayı ilerliyor. Eylül ayına adım adım yaklaşılıyor. Eylül ayı öğrenciler ve veliler için yeni eğitim-öğretim yılı demek... Artık yavaş yavaş &quot;Okullar ne zaman açılacak&quot; sorusu hızlanıyor.",
-      "url": "https://www.dunya.com/gundem/okullar-ne-zaman-acilacak-uyum-haftasi-ne-zaman-basliyor-haberi-835218",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T11:21:00"
+      "published": "2026-08-06T13:10:07"
     }
   ]
 }

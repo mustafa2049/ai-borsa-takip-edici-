@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T14:58:07+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksi hafif yükselirken, uluslararası piyasalarda karışık bir görünüm hakim. DAX endeksi ile birlikte BIST 100 hafif artış gösterirken, S&P 500, Nasdaq ve Nikkei 225 endeksleri değer kaybetti. Hisse sinyalleri ise genel olarak alıma yönelik bir eğilim gösteriyor.",
+  "updated_at": "2026-08-06T17:04:35+03:00",
+  "overview": "Günün piyasa görünümü genel olarak karışık bir tablo sunuyor. BIST 100 endeksi hafif bir artış gösterirken, uluslararası piyasalar karışıklık içerisindeler. DAX ve BIST 100'de görülen artışa karşılık, S&P 500, Nasdaq ve Nikkei 225'de düşüşler yaşanıyor. Hisse sinyalleri ise çeşitli sektörlerde al ve sat sinyallerini içeriyor, bu da yatırımcıların dikkatli olması gerektiğini gösteriyor.",
   "ticker": [
     {
       "name": "BIST 100",
@@ -59,7 +59,7 @@
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6610.96,
+      "value": 6610.94,
       "change_pct": null
     }
   ]

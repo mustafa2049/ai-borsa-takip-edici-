@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T14:58:07+03:00",
+  "updated_at": "2026-08-06T17:04:35+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 49.41,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %49,41 ile yüksek görünüyor. Ancak riski de yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %49,41 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 44.62,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %44,62 ile yüksek görünüyor. Yabancı hisse senedi fonu olması nedeniyle kur riski de taşınmaktadır."
+        "comment": "Son 1 yıl içinde %44,62 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 55.33,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Emtia fiyatlarına bağlı olarak yüksek dalgalanma gösterebiliyor. Son 1 yıl içindeki getirisi %55,33 ile dikkat çekiyor."
+        "comment": "Son 1 yıl içinde %55,33 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 48.81,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Yeni teknolojiler fonu olarak yüksek risk taşıyor. Son 1 yıl içindeki getirisi %48,81 ile iyi bir performans gösteriyor."
+        "comment": "Son 1 yıl içinde %48,81 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 31.77,
       "ai": {
         "risk": "Orta",
-        "comment": "Hisse senedi yoğun fon olarak orta risk taşıyor. Son 1 yıl içindeki getirisi %31,77 ile orta düzeyde görünüyor."
+        "comment": "Son 1 yıl içinde %31,77 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 27.55,
       "ai": {
         "risk": "Orta",
-        "comment": "Değişken fon olarak orta risk taşıyor. Son 1 yıl içindeki getirisi %27,55 ile orta düzeyde görünüyor."
+        "comment": "Son 1 yıl içinde %27,55 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -88,8 +88,8 @@
       "return_6m": 4.73,
       "return_1y": 31.02,
       "ai": {
-        "risk": "Düşük",
-        "comment": "Fon sepети fonu olarak düşük risk taşıyor. Son 1 yıl içindeki getirisi %31,02 ile düşük riskli bir seçenek olabilir."
+        "risk": "Orta",
+        "comment": "Son 1 yıl içinde %31,02 getiri sağladı. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -101,8 +101,8 @@
       "return_6m": -3.46,
       "return_1y": 23.88,
       "ai": {
-        "risk": "Orta",
-        "comment": "Hisse senedi yoğun fon olarak orta risk taşıyor. Son 1 yıl içindeki getirisi %23,88 ile orta düzeyde görünüyor."
+        "risk": "Düşük",
+        "comment": "Son 1 yıl içinde %23,88 getiri sağladı. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 68.48,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Teknoloji ağırlıklı fon olarak yüksek risk taşıyor. Son 1 yıl içindeki getirisi %68,48 ile dikkat çekiyor."
+        "comment": "Son 1 yıl içinde %68,48 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 82.59,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Yabancı teknoloji sektörü fonu olarak yüksek risk taşıyor. Son 1 yıl içindeki getirisi %82,59 ile çok yüksek görünüyor."
+        "comment": "Son 1 yıl içinde %82,59 getiri sağladı. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
