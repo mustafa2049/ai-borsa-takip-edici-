@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-06T12:35:22+03:00",
+  "updated_at": "2026-08-06T14:58:07+03:00",
   "news": [
     {
-      "title": "Virtuix COO Allan 193.253 dolar değerinde hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/virtuix-coo-allan-193253-dolar-degerinde-hisse-satt-93CH-4016561",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:32:23",
-      "ai": {
-        "impact": "Virtuix COO'nun hisse satışı şirketin iç işleyişine ilişkin soru işaretleri oluşturabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Bernstein, yapay zeka gelir görünümüyle SpaceX hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-yapay-zeka-gelir-gorunumuyle-spacex-hisse-hedefini-yukseltti-93CH-4016560",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:32:19",
-      "ai": {
-        "impact": "Bernstein'ın SpaceX hisse hedefini yükseltmesi şirketin yapay zeka gelir görünümüne olan güveni artırabilir. Bu durum şirketin hisse değerini pozitif yönde etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Honeywell Aerospace hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/honeywell-aerospace-hissesi-bugun-neden-dusuyor-93CH-4016559",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:31:34",
-      "ai": {
-        "impact": "Honeywell Aerospace hissesinin düşmesi şirketin güncel performansına veya sektörel koşullara bağlı olabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Fastly hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/fastly-hissesi-bugun-neden-dusuyor-93CH-4016558",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:30:07",
-      "ai": {
-        "impact": "Fastly hissesinin düşmesi şirketin güncel performansına veya sektörel koşullara bağlı olabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Georgina Energy, Hussar helyum sahasında sondaj öncesi çalışmaları ilerletiyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/georgina-energy-hussar-helyum-sahasnda-sondaj-oncesi-calsmalar-ilerletiyor-93CH-4016551",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:29:40",
-      "ai": {
-        "impact": "Georgina Energy'nin helyum sahasında sondaj öncesi çalışmalarını ilerletmesi şirketin enerji üretimine olan katkılarını artırabilir. Bu durum şirketin hisse değerini pozitif yönde etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "JPMorgan, Smith & Nephew hissesini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-smith--nephew-hissesini-dusurdu-93CH-4016542",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:25:49",
-      "ai": {
-        "impact": "JPMorgan'ın Smith & Nephew hissesini düşürmesi şirketin güncel performansına veya sektörel koşullara bağlı olabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Aurubis hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/aurubis-hissesi-bugun-neden-dusuyor-93CH-4016534",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:22:27",
-      "ai": {
-        "impact": "Aurubis hissesinin düşmesi şirketin güncel performansına veya sektörel koşullara bağlı olabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Spyre CFO’su Scott Burrows 716.771 dolar değerinde hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/spyre-cfosu-scott-burrows-716771-dolar-degerinde-hisse-satt-93CH-4016532",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:21:54",
-      "ai": {
-        "impact": "Spyre CFO'sunun hisse satışı şirketin iç işleyişine ilişkin soru işaretleri oluşturabilir. Bu durum şirketin hisse değerini negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Natera yönetim kurulu başkanı 195.900 dolar değerinde hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/natera-yonetim-kurulu-baskan-195900-dolar-degerinde-hisse-satt-93CH-4016528",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:21:39"
-    },
-    {
-      "title": "ÜNİVERSİTE TERCİH SONUÇ TARİHİ BELLİ OLDU MU? 2026 YKS tercih sonuçları ne zaman açıklanıyor?",
-      "summary": "YKS tercihleri için son günler... Üniversite adayları işlemlerin tamamlanmasını ve ardından sonuçların ilan edilmesini istiyor. Her gün binlerce kişi &quot;2026 YKS tercih sonuçları ne zaman açıklanıyor&quot; diye soruyor. İşte beklenen tarih...",
-      "url": "https://www.dunya.com/gundem/universite-tercih-sonuc-tarihi-belli-oldu-mu-2026-yks-tercih-sonuclari-ne-zaman-aciklaniyor-haberi-835197",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T09:20:00"
-    },
-    {
-      "title": "IONOS hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ionos-hissesi-bugun-neden-dusuyor-93CH-4016523",
-      "source": "Investing Türkiye",
-      "published": "2026-08-06T09:18:14"
-    },
-    {
-      "title": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu: 5G abone sayısı 4 ayda 44,5 milyona ulaştı",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye&#039;de 5G abone sayısının yaklaşık 4 ayda 44,5 milyona ulaştığını belirterek, ülke nüfusunun yarısından fazlasının 5G ile buluştuğunu söyledi. Uraloğlu, 5G&#039;nin yüksek hız, düşük gecikme süresi ve yoğun cihaz bağlantı kapasitesiyle Türkiye&#039;nin dijital dönüşümüne ivme kazandıracağını ifade etti.",
-      "url": "https://www.dunya.com/ekonomi/ulastirma-ve-altyapi-bakani-abdulkadir-uraloglu-5g-abone-sayisi-4-ayda-445-milyona-ulasti-haberi-835195",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T09:15:00"
-    },
-    {
-      "title": "MSB'den kritik 'Terörsüz Türkiye' açıklaması",
-      "summary": "Milli Savunma Bakanlığı tarafından haftalık basın toplantısında &quot;Terörsüz Türkiye&quot; sürecine ilişkin yeni bir açıklama yapıldı. Terörün kalıcı biçimde ülke gündeminden çıkarılmasının Türkiye&#039;nin yanı sıra bölgenin barış, güvenlik ve istikrarına da katkı sunacağı vurgulanırken TSK&#039;nın süreçte üzerine düşen görevleri kararlılıkla sürdüreceği ve elde edilen başarının kalıcı barış o",
-      "url": "https://www.dunya.com/gundem/msbden-kritik-terorsuz-turkiye-aciklamasi-haberi-835198",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T09:14:00"
-    },
-    {
-      "title": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
-      "summary": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
-      "url": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "title": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
+      "summary": "Warner Bros. Discovery's streaming segment surpassed $3 million in revenue for the second quarter, marking a 10% increase from the year prior",
+      "url": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-06T09:11:15"
+      "published": "2026-08-06T11:51:22",
+      "ai": {
+        "impact": "Warner Bros. Discovery'ın streaming gelirlerindeki artış, şirketin büyümesine olumlu yansıyabilir. Bu durum, medya ve eğlence sektöründe olumlu bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Avrupa’nın en çok kazandıran 10 hissesi",
-      "summary": "Avrupa borsalarında 2026’nın kazananları belli oldu. Piyasa değeri 1 milyar euronun üzerindeki şirketler arasında çip üretim zinciri öne çıkarken, ilk iki sıradaki hisselerin getirisi yıl başından bu yana yüzde 300’ü aştı.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/avrupanin-en-cok-kazandiran-10-hissesi-galeri-835196",
+      "title": "TCMB rezervlerinde artış",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın rezervlerinde temmuz ayının son haftasında dikkat çeken bir yükseliş yaşandı. Brüt rezervler 1,8 milyar dolarlık artışla 164,4 milyar dolara ulaşırken net rezervler 54,2 milyar dolara çıktı.",
+      "url": "https://www.dunya.com/ekonomi/tcmb-rezervlerinde-artis-haberi-835224",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-06T09:09:00"
+      "published": "2026-08-06T11:51:00",
+      "ai": {
+        "impact": "TCMB rezervlerindeki artış, Türkiye'nin ekonomik istikrarına katkıda bulunabilir. Bu durum, Türk Lirası'nın değerini olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Bu otelde para geçmiyor, konaklamak için tek bir şart var",
+      "summary": "Konya&#039;da çiftçilik yapan Timur ve Handan Bulut çifti, sosyal medyada tanıştıkları aileleri &quot;köy oteli&quot; adını verdikleri çiftlik evinde ücretsiz ağırlıyor. Misafirlerden para yerine tarla ve bahçe işlerinde emek vermeleri istenirken, çiftlikte geçirilen birkaç gün hem şehir hayatından uzaklaşma hem de köy yaşamını deneyimleme fırsatı sunuyor.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/bu-otelde-para-gecmiyor-konaklamak-icin-tek-bir-sart-var-galeri-835223",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T11:49:00",
+      "ai": {
+        "impact": "Köy oteli projesi, yerel turizmi ve toplum arasındaki bağları güçlendirebilir. Ancak, bu haberin genel ekonomi üzerinde büyük bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Six Flags Entertainment hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/six-flags-entertainment-hisseleri-neden-dusuyor-93CH-4017510",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:47:30",
+      "ai": {
+        "impact": "Six Flags Entertainment hisselerinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Kenvue hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/kenvue-hissesi-bugun-neden-dusuyor-93CH-4017509",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:47:26",
+      "ai": {
+        "impact": "Kenvue hissesinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
       "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
       "summary": "The Slavneft-Yanos facility in Yaroslavl, which is situated hundreds of miles from the Ukraine border, is one of Russia's biggest oil refineries.",
       "url": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-06T09:07:54"
+      "published": "2026-08-06T11:46:34",
+      "ai": {
+        "impact": "Rusya'nın büyük bir petrol rafinerisinin vurulması, enerji piyasalarını etkileyebilir. Bu durum, petrol fiyatlarının artmasına neden olabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Euroda 25 yıl sonra büyük değişim: Geri sayım başladı",
-      "summary": "Avrupa Merkez Bankası (ECB), yaklaşık 20 yıldır kullanılan euro banknotlarını yenilemek için süreci resmen başlattı. Güvenlik özelliklerinin güçlendirilmesi ve banknotların daha erişilebilir hale getirilmesi amacıyla hazırlanan 10 yeni tasarım kamuoyunun görüşüne sunulurken, nihai tasarımın yıl sonunda belirlenmesi planlanıyor.",
-      "url": "https://www.dunya.com/ekonomi/euroda-25-yil-sonra-buyuk-degisim-geri-sayim-basladi-haberi-835199",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T09:03:00"
+      "title": "İngiltere Paramount’un Warner Bros. Discovery satın alımını onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ingiltere-paramountun-warner-bros-discovery-satn-almn-onaylad-93CH-4017502",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:45:31",
+      "ai": {
+        "impact": "İngiltere'nin Warner Bros. Discovery'ın Paramount'u satın almasını onaylaması, medya ve eğlence sektöründe birleşme ve satın almaların artmasına neden olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "DGS 2026 sonuçları ne zaman açıklanacak? İşte ÖSYM'nin geçtiği tarih...",
-      "summary": "DGS 2026 sonuçları için heyecanlı bekleyiş sürüyor. Yüz binler ÖSYM&#039;den gelecek duyuruyu bekliyor. Takvimi unutanlar veya henüz bilmeyenler &quot;DGS 2026 sonuçları ne zaman açıklanacak&quot; sorusuna ağırlık vermiş durumda...",
-      "url": "https://www.dunya.com/gundem/dgs-2026-sonuclari-ne-zaman-aciklanacak-iste-osymnin-gectigi-tarih-haberi-835192",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T08:51:00"
+      "title": "D-Wave Quantum hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/dwave-quantum-hissesi-bugun-neden-dusuyor-93CH-4017501",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:45:28",
+      "ai": {
+        "impact": "D-Wave Quantum hissesinin düşmesi, şirketin mali performansının zayıf olduğuna işaret edebilir. Bu durum, yatırımcıların şirket hisselerine olan güvenini azaltabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "YÖK imzayı attı: Şam'da Suriye-Türkiye Üniversitesi kuruluyor",
-      "summary": "Türkiye ile Suriye arasında yükseköğretim alanında yeni bir dönem başlıyor. YÖK ile Suriye Yükseköğretim ve Bilimsel Araştırma Bakanlığı, Şam&#039;da Suriye-Türkiye Üniversitesi kurulması için mutabakat zaptı imzaladı. Üniversitenin hukuki yapısından öğrenci kabul koşullarına kadar birçok başlıkta ortak çalışma yürütülecek.",
-      "url": "https://www.dunya.com/egitim/yok-imzayi-atti-samda-suriye-turkiye-universitesi-kuruluyor-haberi-835194",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-06T08:50:00"
+      "title": "InvestingPro’nun Gerçeğe Uygun Değeri CVK Maden’de %50 düşüş yakaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-cvk-madende-50-dusus-yakalad-93CH-4017500",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:45:21"
     },
     {
-      "title": "A101-CarrefourSA devralmasına şartlı onay! 48 mağaza elden çıkarılacak",
-      "summary": "Rekabet Kurumu, A101&#039;in çatı şirketi Yeni Mağazacılık&#039;ın CarrefourSA&#039;yı devralmasına belirli şartlarla onay verdi. Karar kapsamında 48 mağazanın elden çıkarılması zorunlu tutulurken, istihdamın korunması ve yerel üreticilere destek verilmesi de şartlar arasına girdi.",
-      "url": "https://www.dunya.com/ekonomi/a101-carrefoursa-devralmasina-sartli-onay-48-magaza-elden-cikarilacak-haberi-835191",
+      "title": "Unity Software hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/unity-software-hisseleri-neden-yukseliste-93CH-4017499",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:45:19"
+    },
+    {
+      "title": "Molson Coors Brewing hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/molson-coors-brewing-hissesi-bugun-neden-yukseliyor-93CH-4017498",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:45:10"
+    },
+    {
+      "title": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
+      "summary": "Diageo, whose brands include Johnnie Walker scotch whisky, Captain Morgan rum and Guinness stout, said costs relating to the savings program will amount to $1.2 billion.",
+      "url": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T11:45:02"
+    },
+    {
+      "title": "Fidelity National Financial 0,52 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fidelity-national-financial-052-dolar-temettu-acklad-93CH-4017497",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:44:59"
+    },
+    {
+      "title": "Becton Dickinson hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/becton-dickinson-hissesi-bugun-neden-yukseliyor-93CH-4017496",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:44:49"
+    },
+    {
+      "title": "Krispy Kreme hisseleri bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/krispy-kreme-hisseleri-bugun-neden-yukseliyor-93CH-4017495",
+      "source": "Investing Türkiye",
+      "published": "2026-08-06T11:44:28"
+    },
+    {
+      "title": "Rus İHA’ları Alman gemisini vurdu, mürettebat tahliye edildi",
+      "summary": "Karadeniz’de ticari gemilere yönelik saldırılara bir yenisi eklendi. Odesa açıklarında birden fazla İHA’nın hedef aldığı Alman işletmesindeki Emil gemisinde yangın çıktı; teknik sistemler durunca mürettebat tahliye edildi.",
+      "url": "https://www.dunya.com/gundem/rus-ihalari-alman-gemisini-vurdu-murettebat-tahliye-edildi-haberi-835221",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-06T08:46:00"
+      "published": "2026-08-06T11:42:00"
+    },
+    {
+      "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
+      "summary": "Burger King's U.S. business reported same-store sales growth of 8.5%.",
+      "url": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-06T11:38:35"
+    },
+    {
+      "title": "Vatandaşa yedireceklerdi, yakalandılar! Mide bulandıran görüntü...",
+      "summary": "Mersin&#039;de bir evde sağlıksız koşullarda üretildiği belirlenen yaklaşık 200 kilogram midye dolması ele geçirildi. Ağır koku yayan ve gazete kağıdıyla pişirildiği tespit edilen ürünler imha edilirken, üreticiye para cezası kesildi ve yasal işlem başlatıldı.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/vatandasa-yedireceklerdi-yakalandilar-mide-bulandiran-goruntu-galeri-835220",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T11:37:00"
+    },
+    {
+      "title": "KKM bakiyesindeki düşüş devam ediyor",
+      "summary": "Kur korumalı mevduatta (KKM) düşüş sürerken toplam bakiye geçen hafta 157 milyon liraya kadar geriledi. Aynı dönemde bankacılık sektörünün kredi hacmi 27,4 trilyon lirayı aşarken tüketici kredileri ve kredi kartı borçları da yükseldi. Toplam mevduat azalmasına rağmen takipteki alacaklar 818,5 milyar liraya çıktı.",
+      "url": "https://www.dunya.com/ekonomi/kkm-bakiyesindeki-dusus-devam-ediyor-haberi-835219",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T11:31:00"
+    },
+    {
+      "title": "Okullar ne zaman açılacak? Uyum haftası ne zaman başlıyor?",
+      "summary": "Ağustos ayı ilerliyor. Eylül ayına adım adım yaklaşılıyor. Eylül ayı öğrenciler ve veliler için yeni eğitim-öğretim yılı demek... Artık yavaş yavaş &quot;Okullar ne zaman açılacak&quot; sorusu hızlanıyor.",
+      "url": "https://www.dunya.com/gundem/okullar-ne-zaman-acilacak-uyum-haftasi-ne-zaman-basliyor-haberi-835218",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-06T11:21:00"
     }
   ]
 }

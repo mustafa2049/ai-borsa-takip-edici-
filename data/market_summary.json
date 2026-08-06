@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-06T12:35:22+03:00",
-  "overview": "BIST 100 endeksi hafif yükselirken, global piyasalarda kararsızlık hüküm sürüyor. USD/TRY ve EUR/TRY kurunda küçük dalgalanmalar görülürken, ons altın ve gram altın değerinde artış gözlemleniyor. Hisse senedi sinyallerinde al ve sat sinyalleri dengeli dağılmış durumda.",
+  "updated_at": "2026-08-06T14:58:07+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksi hafif yükselirken, uluslararası piyasalarda karışık bir görünüm hakim. DAX endeksi ile birlikte BIST 100 hafif artış gösterirken, S&P 500, Nasdaq ve Nikkei 225 endeksleri değer kaybetti. Hisse sinyalleri ise genel olarak alıma yönelik bir eğilim gösteriyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13766.01,
-      "change_pct": 0.46
+      "value": 13726.33,
+      "change_pct": 0.17
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26183.55,
-      "change_pct": 0.22
+      "value": 26169.89,
+      "change_pct": 0.17
     },
     {
       "name": "Nikkei 225",
@@ -35,31 +35,31 @@
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.58,
-      "change_pct": 0.02
+      "value": 47.59,
+      "change_pct": 0.05
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.04,
-      "change_pct": 0.33
+      "value": 55.05,
+      "change_pct": 0.35
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4341.5,
-      "change_pct": 2.25
+      "value": 4320.7,
+      "change_pct": 1.76
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 79.53,
-      "change_pct": 0.1
+      "value": 79.64,
+      "change_pct": 0.24
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6641.09,
+      "value": 6610.96,
       "change_pct": null
     }
   ]
