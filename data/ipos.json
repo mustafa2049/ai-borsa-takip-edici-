@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-05T18:55:00+03:00",
+  "updated_at": "2026-08-06T12:35:22+03:00",
   "ipos": [
+    {
+      "company": "Çitlekçi Mağazacılık Gıda A.Ş.",
+      "url": "https://halkarz.com/citlekci-magazacilik-gida-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
+    {
+      "company": "Teknika Plast Teknik Kalıp Plastik San. ve Tic. A.Ş.",
+      "url": "https://halkarz.com/teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
+    {
+      "company": "Türker Vangölü Enerji Yatırım A.Ş.",
+      "url": "https://halkarz.com/turker-vangolu-enerji-yatirim-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
+    {
+      "company": "Kapeks Kimya Sanayi A.Ş.",
+      "url": "https://halkarz.com/kapeks-kimya-sanayi-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
     {
       "company": "Bewen Enerji A.Ş.",
       "url": "https://halkarz.com/k/halka-arz/ertelenen/",
@@ -55,26 +75,6 @@
       "company": "Golda Gıda San. ve Tic. A.Ş.",
       "url": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
       "details": "GOLDA | 1-2 Temmuz 2026 | 1-2 Temmuz 2026"
-    },
-    {
-      "company": "Soho Giyim ve Enerji A.Ş.",
-      "url": "https://halkarz.com/soho-giyim-ve-enerji-a-s/",
-      "details": "SOHOE | 30 Haziran, 1 Temmuz 2026 | 30 Haziran, 1 Temmuz 2026"
-    },
-    {
-      "company": "(Orzax) Orzaks İlaç ve Kimya San. Tic. A.Ş.",
-      "url": "https://halkarz.com/orzaks-ilac-ve-kimya-san-tic-a-s/",
-      "details": "ORZAX | 29-30 Haziran, 1 Temmuz 2026 | 29-30 Haziran, 1 Temmuz 2026"
-    },
-    {
-      "company": "Beta Enerji ve Teknoloji A.Ş.",
-      "url": "https://halkarz.com/beta-enerji-ve-teknoloji-a-s/",
-      "details": "BETAE | 23-24-25 Haziran 2026 | 23-24-25 Haziran 2026"
-    },
-    {
-      "company": "Ekinciler Demir ve Çelik Sanayi A.Ş.",
-      "url": "https://halkarz.com/ekinciler-demir-ve-celik-sanayi-a-s/",
-      "details": "EKDMR | 13-14-15 Mayıs 2026 | 13-14-15 Mayıs 2026"
     }
   ]
 }
