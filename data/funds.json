@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T11:07:42+03:00",
+  "updated_at": "2026-08-07T12:29:35+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 50.37,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %50,37 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi fonu olması nedeniyle kur riski taşıyor."
+        "comment": "Son 1 yılda %50'nin üzerinde getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 55.68,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %55,68 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Emtia ve yabancı para birimi fonu olması nedeniyle kur ve emtia fiyatlarındaki değişimlerden etkileniyor."
+        "comment": "Son 1 yılda %55'in üzerinde getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 27.57,
       "return_1y": 44.83,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %44,83 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Amerika hisse senedi fonu olması nedeniyle kur riski ve piyasa dalgalanmalarından etkileniyor."
+        "risk": "Orta",
+        "comment": "Son 1 yılda %44'un üzerinde getiri elde etti. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 46.35,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %46,35 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Yeni teknolojiler hisse senedi fonu olması nedeniyle yüksek volatiliteye sahip olabilir."
+        "comment": "Son 1 yılda %46'nın üzerinde getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 18.81,
       "return_1y": 27.57,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %27,57 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Değişken fon olması nedeniyle farklı varlık sınıflarına yatırım yapıyor."
+        "risk": "Düşük",
+        "comment": "Son 1 yılda %27'nin üzerinde getiri elde etti. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.32,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %32,32 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Hisse senedi fonu olması nedeniyle piyasa dalgalanmalarından etkileniyor."
+        "comment": "Son 1 yılda %32'nin üzerinde getiri elde etti. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 30.96,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıllık dönemde %30,96 getiri elde etmiş olup düşük riskli bir fon olarak değerlendirilebilir. Fon sepети fonu olması nedeniyle farklı varlık sınıflarına yatırım yapıyor ve riski dağıtıyor."
+        "comment": "Son 1 yılda %30'un üzerinde getiri elde etti. Düşük riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 70.64,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %70,64 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. BIST teknoloji endeksine bağlı olarak yüksek volatiliteye sahip olabilir."
+        "comment": "Son 1 yılda %70'in üzerinde getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 61.29,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %61,29 getiri elde etmiş olup yüksek riskli bir fon olarak değerlendirilebilir. Elektrikli araçlar fonu olması nedeniyle yüksek büyüme potansiyeline sahip ancak yüksek risk taşıyor."
+        "comment": "Son 1 yılda %61'in üzerinde getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 22.83,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %22,83 getiri elde etmiş olup orta riskli bir fon olarak değerlendirilebilir. Hisse senedi fonu olması nedeniyle piyasa dalgalanmalarından etkileniyor."
+        "comment": "Son 1 yılda %22'nin üzerinde getiri elde etti. Orta riskli bir yatırım aracı olarak değerlendirilebilir."
       }
     },
     {
@@ -193,33 +193,6 @@
       "return_3m": -6.57,
       "return_6m": 0.52,
       "return_1y": 21.71
-    },
-    {
-      "code": "NNF",
-      "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 22.972126,
-      "return_1m": -3.0,
-      "return_3m": -1.07,
-      "return_6m": -3.51,
-      "return_1y": 7.44
-    },
-    {
-      "code": "HKH",
-      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 8.313352,
-      "return_1m": -3.37,
-      "return_3m": -6.17,
-      "return_6m": -4.58,
-      "return_1y": 3.56
-    },
-    {
-      "code": "GAF",
-      "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.615064,
-      "return_1m": -6.01,
-      "return_3m": -10.47,
-      "return_6m": -4.26,
-      "return_1y": 28.6
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T11:07:42+03:00",
-  "overview": "Gün içindeki piyasa değerlendirmesine göre, BIST 100 endeksinin hafif bir artış göstermesi ve bazı yabancı endekslerin karışık bir görünüm sergilemesi dikkat çekiyor. USD/TRY ve Brent Petrol fiyatlarındaki artışlar ve Ons Altın'daki yükseliş, yatırımcıların risk iştahını etkileyebilir. Hisse sinyalleri ise THYAO, TUPRS, GARAN ve YKBNK gibi hisselerde alım sinyalleri verirken, TOASO ve EKGYO'da güçlü satış sinyalleri görülüyor.",
+  "updated_at": "2026-08-07T12:29:35+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksinin hafif bir düşüş yaşadığı görülmektedir. DAX endeksinin pozitif performansına karşın diğer ana endekslerin majority negatif yönde hareket ettiği gözlemlenmektedir. Hisse senedi sinyallerine bakıldığında THYAO, TUPRS, GARAN ve YKBNK gibi hisselerin alım sinyali verdiği görülürken, TOASO ve EKGYO gibi hisselerin güçlü satış sinyali verdiği görülmektedir.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13884.37,
-      "change_pct": 0.62
+      "value": 13775.75,
+      "change_pct": -0.17
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26281.06,
-      "change_pct": 0.54
+      "value": 26312.21,
+      "change_pct": 0.66
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 54.99,
-      "change_pct": -0.09
+      "value": 55.02,
+      "change_pct": -0.03
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4348.2,
-      "change_pct": 2.5
+      "value": 4367.3,
+      "change_pct": 2.95
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 83.25,
-      "change_pct": 0.92
+      "value": 82.85,
+      "change_pct": 0.44
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6668.42,
+      "value": 6697.79,
       "change_pct": null
     }
   ]
