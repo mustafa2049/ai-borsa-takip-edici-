@@ -1,100 +1,170 @@
 {
-  "updated_at": "2026-08-07T17:45:41+03:00",
+  "updated_at": "2026-08-07T18:45:22+03:00",
   "news": [
+    {
+      "title": "Schiehallion Fund yönetim kuruluna iki üye atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/schiehallion-fund-yonetim-kuruluna-iki-uye-atad-93CH-4020919",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:31:37",
+      "ai": {
+        "impact": "Schiehallion Fund yönetim kuruluna iki üye atamak, şirketin gelecekteki stratejilerini şekillendirmede önemli bir rol oynayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Garmin hissesi 310,08 dolarda rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/garmin-hissesi-31008-dolarda-rekor-krd-93CH-4020915",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:30:48",
+      "ai": {
+        "impact": "Garmin hissesinin rekor kırmış olması, şirketin güçlü performansını ve yatırımcıların olumlu görüşünü yansıtabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T15:27:00",
+      "ai": {
+        "impact": "Todd Blanche'ın Attorney General olarak atanması, ABD'de siyasi ve hukuki alanda önemli etkiler yaratabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T15:26:56",
+      "ai": {
+        "impact": "Rockstar Energy founder'ın Celsius Holdings'da önemli bir paya sahip olması, şirketin yönetiminde değişikliklere yol açabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Bluerock Private Real Estate Fund’da mütevelli heyeti seçildi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/bluerock-private-real-estate-fundda-mutevelli-heyeti-secildi-93CH-4020905",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:25:24",
+      "ai": {
+        "impact": "Bluerock Private Real Estate Fund'da mütevelli heyeti seçimi, şirketin yönetim yapısını etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Auxmoney, Centerbridge desteğiyle satış veya halka arz değerlendiriyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/auxmoney-centerbridge-destegiyle-sats-veya-halka-arz-degerlendiriyor-93CH-4020904",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:23:36",
+      "ai": {
+        "impact": "Auxmoney'nin satış veya halka arz değerlendirmesi, şirketin büyüme stratejilerini etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Mulberry genel kurul tarihini açıkladı, iki yönetici ayrılacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/mulberry-genel-kurul-tarihini-acklad-iki-yonetici-ayrlacak-93CH-4020903",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:23:16",
+      "ai": {
+        "impact": "Mulberry'nin genel kurul tarihi açıklaması ve yöneticilerin ayrılması, şirketin gelecekteki yönünü belirlemede önemli olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Accenture satış atağı nedeniyle izin ertelemesine izin veriyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/accenture-sats-atag-nedeniyle-izin-ertelemesine-izin-veriyor-93CH-4020902",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:20:03",
+      "ai": {
+        "impact": "Accenture'ın satış atağı nedeniyle izin ertelemesi, şirketin satış stratejilerini ve müşteri ilişkilerini etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Red Violet 108,6 milyon dolarlık hisse arzını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/red-violet-1086-milyon-dolarlk-hisse-arzn-tamamlad-93CH-4020901",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:17:40"
+    },
+    {
+      "title": "Tenable hisseleri Bear Cave’in yapay zeka raporu sonrası düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/tenable-hisseleri-bear-cavein-yapay-zeka-raporu-sonras-dustu-93CH-4020900",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:15:40"
+    },
     {
       "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
       "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
       "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T14:32:43",
-      "ai": {
-        "impact": "Haber, şirketlerin ucuz iş sınıfı biletlerine karşı tavırlarını ele alıyor. Bu durum, havayollarının gelirlerine olumsuz yansıyabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-07T15:13:11"
     },
     {
-      "title": "New York borsası yükselişle açıldı",
-      "summary": "New York borsası, ABD&#039;de istihdamın temmuzda beklenmedik şekilde gerilediğini gösteren verilerin ardından ABD Merkez Bankasının (Fed) faiz artırımı beklentilerinin zayıflamasıyla haftanın son işlem gününe yükselişle başladı.",
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-835373",
+      "title": "FDA paneli GRAIL’in kanser testi için 23 Eylül’de toplanacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fda-paneli-grailin-kanser-testi-icin-23-eylulde-toplanacak-93CH-4020893",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T15:09:50"
+    },
+    {
+      "title": "Bolu Dağı Tüneli ulaşıma açıldı",
+      "summary": "Anadolu Otoyolu&#039;nda Bolu Dağı Tüneli&#039;nde çıkan araç yangını nedeniyle kapanan Ankara istikameti ulaşıma açıldı.",
+      "url": "https://www.dunya.com/gundem/bolu-dagi-tuneli-ulasima-acildi-haberi-835375",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T14:30:00",
-      "ai": {
-        "impact": "New York borsasının yükselişi, global piyasalarda olumlu bir etki yaratırken, Türkiye'de de borsa üzerinde pozitif bir yansımaya neden olabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T15:09:00"
     },
     {
       "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
       "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
       "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T14:26:40",
-      "ai": {
-        "impact": "Dijital tıp platformunun hisselerinin artması, sağlık teknolojisi sektörüne olan ilgiyi gösterir ve bu sektördeki diğer şirketleri de olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T15:06:40"
     },
     {
-      "title": "New Jersey REIT yönetim kurulu üyelerini seçti ve denetçiyi onayladı",
+      "title": "Eko Faktoring, 52,5 milyon TL nominal değerli finansman bonosu ihraç etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/new-jersey-reit-yonetim-kurulu-uyelerini-secti-ve-denetciyi-onaylad-93CH-4020836",
+      "url": "https://tr.investing.com/news/global-filings/eko-faktoring-525-milyon-tl-nominal-degerli-finansman-bonosu-ihrac-etti-93CH-4020890",
       "source": "Investing Türkiye",
-      "published": "2026-08-07T14:25:19",
-      "ai": {
-        "impact": "Özet bulunmadığından, New Jersey REIT yönetim kurulu üyelerinin seçilmesi ve denetçinin onaylanması hakkında yeterli bilgi bulunmuyor.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-07T15:05:24"
     },
     {
-      "title": "Ardelyx hisse senedi %18 düşerken opsiyon işlemleri arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ardelyx-hisse-senedi-18-duserken-opsiyon-islemleri-artt-93CH-4020824",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:19:12",
-      "ai": {
-        "impact": "Ardelyx hisse senedinin düşmesi ve opsiyon işlemlerinin artması, şirketin geleceği hakkında belirsizlik yaratıyor.",
-        "sentiment": "Negatif"
-      }
+      "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+      "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+      "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T14:57:29"
     },
     {
-      "title": "Oklo 2Ç 2026 gelir beklentisini aştı, hisse %5,4 yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/oklo-2c-2026-gelir-beklentisini-ast-hisse-54-yukseldi-93CH-4020819",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:18:36",
-      "ai": {
-        "impact": "Oklo'nun gelir beklentisini aşması ve hisse senetlerinin yükselmesi, şirketin performansı hakkında olumlu bir görüş sunar.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Qxo hissesi 14 Ağustos’taki açıklamada %7,9 hareket edebilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/qxo-hissesi-14-agustostaki-acklamada-79-hareket-edebilir-93CH-4020816",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:17:55",
-      "ai": {
-        "impact": "Qxo hissesinin hareket etmesi, şirketin gelecekteki performansı hakkında spekülasyonlara neden olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "İş Bankası'nda görev değişimi iddiası: Hakan Aran görevden ayrılıyor",
-      "summary": "İş Bankası Genel Müdürü Hakan Aran&#039;ın görevinden ayrılarak Şişecam Yönetim Kurulu Başkanlığı görevini üstlenmesinin beklendiği iddia edildi. Aran&#039;ın yerine ise İş Bankası Genel Müdür Yardımcısı Hasan Cahit Çınar&#039;ın atanmasının öngörüldüğü belirtildi.",
-      "url": "https://www.dunya.com/sirketler/is-bankasinda-gorev-degisimi-iddiasi-hakan-aran-gorevden-ayriliyor-haberi-835372",
+      "title": "YÖKDİL/2 sınavı ne zaman, saat kaçta başlıyor?",
+      "summary": "9 Ağustos Pazar günü YÖKDİL/2 sınavı gerçekleşecek. Adaylar sınav giriş belgeleri aldı ve almaya da devam ediyor. En önemli husus sınavın zamanı, saati... İşte &quot;YÖKDİL/2 sınavı ne zaman, saat kaçta başlıyor&quot; sorusunun yanıtı...",
+      "url": "https://www.dunya.com/gundem/yokdil2-sinavi-ne-zaman-saat-kacta-basliyor-haberi-835374",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T14:17:00",
-      "ai": {
-        "impact": "İş Bankası'nda görev değişimi iddiası, bankanın gelecekteki yönetim yapısı ve stratejisi hakkında soru işaretleri yaratıyor.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-07T14:51:00"
     },
     {
-      "title": "Poet Technologies hissesi 14 Ağustos’ta %11 oynayabilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/poet-technologies-hissesi-14-agustosta-11-oynayabilir-93CH-4020815",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:16:48"
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "New York borsası, ABD&#039;de istihdamın temmuzda beklenmedik şekilde gerilediğini gösteren verilerin ardından ABD Merkez Bankasının (Fed) faiz artırımı beklentilerinin zayıflamasıyla haftanın son işlem gününe yükselişle başladı.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-835373",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:30:00"
+    },
+    {
+      "title": "İş Bankası'nda görev değişimi: Hakan Aran dönemi sona erdi",
+      "summary": "Türkiye İş Bankası, Kamuyu Aydınlatma Platformu&#039;na (KAP) yaptığı açıklamada, Genel Müdür Hakan Aran&#039;ın, Türkiye Şişe ve Cam Fabrikaları A.Ş.&#039;de Yönetim Kurulu Başkanlığı görevini üstlenmesi nedeniyle 31 Ağustos 2026 itibarıyla bankadaki görevlerinden ayrılacağını duyurdu. Bankanın yeni genel müdürü ise gerekli izinlerin ardından H. Cahit Çınar olacak.",
+      "url": "https://www.dunya.com/sirketler/is-bankasinda-gorev-degisimi-hakan-aran-donemi-sona-erdi-haberi-835372",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:17:00"
     },
     {
       "title": "BJK Avrupa Ligi maçı ne zaman? Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
@@ -102,76 +172,6 @@
       "url": "https://www.dunya.com/spor/bjk-avrupa-ligi-maci-ne-zaman-besiktas-hradec-kralove-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835371",
       "source": "Dünya Gazetesi",
       "published": "2026-08-07T14:15:00"
-    },
-    {
-      "title": "ManpowerGroup hissesi 57,14 dolarla 52 haftalık zirveye ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/manpowergroup-hissesi-5714-dolarla-52-haftalk-zirveye-ulast-93CH-4020811",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:14:49"
-    },
-    {
-      "title": "Navan hisseleri 14 Ağustos’taki raporda %12 hareket edebilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/navan-hisseleri-14-agustostaki-raporda-12-hareket-edebilir-93CH-4020810",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:14:33"
-    },
-    {
-      "title": "Victoria’s Secret hissesi 96,11 dolarla rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/victorias-secret-hissesi-9611-dolarla-rekor-krd-93CH-4020798",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:12:08"
-    },
-    {
-      "title": "Chemed Corp hissesi 552,05 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/chemed-corp-hissesi-55205-dolarda-52-haftalk-zirve-yapt-93CH-4020797",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:11:45"
-    },
-    {
-      "title": "Petra Diamonds’ın Finsch madeni alacaklıları varlık satış planını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/petra-diamondsn-finsch-madeni-alacakllar-varlk-sats-plann-onaylad-93CH-4020785",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T14:09:27"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Anlaşma, kolektif caydırıcılığı temel alıyor",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye, Suudi Arabistan ve Pakistan arasında gün içinde imzalanan Ortak Savunma Anlaşması&#039;nın ardından açıklama yaptı. Erdoğan, anlaşmanın kolektif caydırıcılığı esas aldığını, hiçbir ülkeyi hedef almadığını ve bölgesel güvenlik ile istikrara katkı sağlamayı amaçladığını belirtti.",
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-anlasma-kolektif-caydiriciligi-temel-aliyor-haberi-835370",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T14:08:00"
-    },
-    {
-      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
-      "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat.",
-      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T14:06:10"
-    },
-    {
-      "title": "Aziz Yıldırım'ın kızının fotoğrafını paylaşan şüphelinin cezası belli oldu",
-      "summary": "Fenerbahçe Başkanı Aziz Yıldırım&#039;ın kızına ait kişisel verileri ve fotoğrafları sosyal medyada izinsiz paylaştığı iddia edilen kişi hakkında karar verildi. Yıldırım&#039;ın Bakırköy Cumhuriyet Başsavcılığına yaptığı şikâyetin ardından Siber Suçlarla Mücadele ekipleri tarafından gözaltına alınan şüpheli, emniyetteki işlemleri sonrası adliyeye sevk edildi.",
-      "url": "https://www.dunya.com/gundem/aziz-yildirimin-kizinin-fotografini-paylasan-suphelinin-cezasi-belli-oldu-haberi-835368",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T13:41:00"
-    },
-    {
-      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T13:40:19"
-    },
-    {
-      "title": "Afrika'yı uçuracak yatırım: Kıtanın kaderini değiştirecek",
-      "summary": "Afrika&#039;nın en zengin iş insanı Aliko Dangote, kıtanın enerji dengelerini değiştirebilecek yeni bir yatırım için düğmeye bastı. Dangote, Kenya&#039;da kurulacak milyarlarca dolarlık rafineriyle Doğu Afrika&#039;nın yakıt ihtiyacının büyük bölümünü karşılamayı ve bölgenin ithal petrole bağımlılığını azaltmayı hedeflediklerini açıkladı.",
-      "url": "https://www.dunya.com/ekonomi/afrikayi-ucuracak-yatirim-kitanin-kaderini-degistirecek-haberi-835369",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T13:35:00"
     }
   ]
 }
