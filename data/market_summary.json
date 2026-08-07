@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T14:17:27+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksi küçük bir artış gösterirken, uluslararası piyasalarda karışık bir görünüm hakim. DAX endeksinin güçlü artışına karşın, S&P 500 ve Nasdaq endeksleri hafif düşüş kaydettiler. USD/TRY kurunda küçük bir artış görülürken, ons altın fiyatları önemli bir artış gösterdi. Hisse sinyalleri genelinde al sinyalleri ağırlıkta olmakla birlikte, bazı hisselerde satış sinyalleri de görüldü.",
+  "updated_at": "2026-08-07T15:05:56+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksinin hafif bir düşüş yaşadığı, uluslararası endekslerin karışık bir görünüm sergilediği görülmektedir. Döviz kurlarında USD/TRY'nin hafif artış gösterdiği, ons altın ve gram altının değerinde artış olduğu gözlemlenmektedir. Hisse senedi sinyallerine bakıldığında ise THYAO, TUPRS, GARAN, AKBNK gibi hisselerin alım sinyali verdiği, FROTO, TOASO, EKGYO gibi hisselerin satış sinyali verdiği görülmektedir.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13821.2,
-      "change_pct": 0.16
+      "value": 13785.35,
+      "change_pct": -0.1
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26380.38,
-      "change_pct": 0.92
+      "value": 26352.27,
+      "change_pct": 0.81
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.02,
-      "change_pct": -0.03
+      "value": 55.05,
+      "change_pct": 0.02
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4381.8,
-      "change_pct": 3.3
+      "value": 4385.0,
+      "change_pct": 3.37
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 81.91,
-      "change_pct": -0.7
+      "value": 81.77,
+      "change_pct": -0.87
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6720.37,
+      "value": 6724.94,
       "change_pct": null
     }
   ]

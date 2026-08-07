@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-07T14:17:27+03:00",
+  "updated_at": "2026-08-07T15:05:56+03:00",
   "news": [
+    {
+      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T12:00:02",
+      "ai": {
+        "impact": "Haber, şirketlerin seyahat politikalarını etkileyebilir, ancak Türkiye ve dünya piyasaları üzerinde doğrudan bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "\"232 belediye başkanı CHP'den istifa etti\"",
+      "summary": "Yeni Parti Genel Başkan Yardımcısı Yaşar Tüzün, CHP&#039;den seçilen belediye başkanlarının partilerinden ayrılarak Yeni Parti&#039;ye geçtiğini öne sürdü. Tüzün, şu ana kadar 232 belediye başkanının CHP&#039;den istifa ettiğini, bunların büyük bölümünün üyelik işlemlerini tamamladığını söyledi.",
+      "url": "https://www.dunya.com/gundem/232-belediye-baskani-chpden-istifa-etti-haberi-835355",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T12:00:00",
+      "ai": {
+        "impact": "Yerel siyaset ve belediye başkanlarının partilerinden ayrılması Türkiye'nin iç siyasetini etkileyebilir, ancak dünya piyasaları üzerinde büyük bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Ardelyx hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ardelyx-hissesi-bugun-neden-dusuyor-93CH-4020277",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:55:59",
+      "ai": {
+        "impact": "Hisselerin düşmesi şirketin performansını etkileyebilir, ancak genel piyasalar üzerinde büyük bir etkisi olmayabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Take-Two Interactive hissesi bugün neden dalgalı?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/taketwo-interactive-hissesi-bugun-neden-dalgal-93CH-4020270",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:54:13",
+      "ai": {
+        "impact": "Hisselerin dalgalanması şirketin performansını etkileyebilir, ancak genel piyasalar üzerinde büyük bir etkisi olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Barclays, Safran ve Melrose’a kıyasla daha zayıf büyüme kaldıracı nedeniyle MTU’yu düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/barclays-safran-ve-melrosea-kyasla-daha-zayf-buyume-kaldrac-nedeniyle-mtuyu-dusurdu-4020276",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:54:07",
+      "ai": {
+        "impact": "Barclays'ın MTU'nun büyüme kaldıracını düşürmesi, şirketin performansını ve yatırımcı güvenini etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Applied Optoelectronics hissesi neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/applied-optoelectronics-hissesi-neden-yukseliste-93CH-4020269",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:52:18",
+      "ai": {
+        "impact": "Hisselerin yükselmesi şirketin performansını ve yatırımcı güvenini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Rosenblatt, Five9 için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-five9-icin-hisse-hedefini-yukseltti-93CH-4020250",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:51:58",
+      "ai": {
+        "impact": "Rosenblatt'ın hisse hedefini yükseltmesi, şirketin performansını ve yatırımcı güvenini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "SuperX 20 milyon dolarlık geri alımı tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/superx-20-milyon-dolarlk-geri-alm-tamamlad-93CH-4020236",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:45:15",
+      "ai": {
+        "impact": "SuperX'in 20 milyon dolarlık geri alımı, şirketin finansal durumunu güçlendirebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BofA belediye tahvili piyasasında getiri baskısı görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-belediye-tahvili-piyasasnda-getiri-basks-goruyor-93CH-4020235",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:44:46"
+    },
+    {
+      "title": "Fed ve yen riskleri artarken ’Amerika’yı sat’ taktiği geri döndü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/fed-ve-yen-riskleri-artarken-amerikay-sat-taktigi-geri-dondu-4020240",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:44:34"
+    },
+    {
+      "title": "Needham, Twilio’nun hedef fiyatını güçlü 2Ç büyümesiyle yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-twilionun-hedef-fiyatn-guclu-2c-buyumesiyle-yukseltti-93CH-4020233",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:44:00"
+    },
+    {
+      "title": "Papa John’s hissesi zayıf sonuçlar sonrası düşürüldü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/papa-johns-hissesi-zayf-sonuclar-sonras-dusuruldu-93CH-4020232",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:43:59"
+    },
+    {
+      "title": "Sağlıklı fast-food zinciri iflas etti! Tüm şubelerini kapatıyor",
+      "summary": "ABD&#039;de uygun fiyatlı sağlıklı yemek konseptiyle büyüyen Salad And Go, iflas koruması başvurusunun ardından kalan tüm restoranlarını kapatma kararı aldı. Bir dönem 146 şubeye ulaşan zincir, artan maliyetler, hızlı büyümenin getirdiği yük ve zayıflayan tüketici talebi nedeniyle faaliyetlerine son veriyor.",
+      "url": "https://www.dunya.com/ekonomi/saglikli-fast-food-zinciri-iflas-etti-tum-subelerini-kapatiyor-haberi-835354",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T11:39:00"
+    },
+    {
+      "title": "GS hazırlık maçı: Galatasaray - Villareal maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Galatasaray lig öncesi son hazırlık maçına çıkıyor. Aslan&#039;ın rakibi İspanyol temsilcisi Villareal… Mücadele tarihi ve saati yaklaşırken &quot;Galatasaray - Villareal maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu sıklaşıyor.",
+      "url": "https://www.dunya.com/spor/gs-hazirlik-maci-galatasaray-villareal-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835352",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T11:25:00"
+    },
+    {
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T11:23:07"
+    },
+    {
+      "title": "Adalet Bakanı Akın Gürlek: Eski Türkiye'de şahıslar güçlüydü, bugün ise devlet güçlü",
+      "summary": "Adalet Bakanı Akın Gürlek, Iğdır&#039;da düzenlenen Dijital Medya Çalıştayı&#039;nda gündeme ilişkin önemli değerlendirmelerde bulundu. &quot;Terörsüz Türkiye&quot; sürecinden sosyal medya yasasına, yapay zekâ çalışmalarından faili meçhul cinayetlere kadar birçok başlıkta açıklama yapan Gürlek, &quot;Türkiye artık eski Türkiye değil. Eski Türkiye&#039;de şahıslar güçlüydü. Bugün ise devlet güçlü, ",
+      "url": "https://www.dunya.com/gundem/adalet-bakani-akin-gurlek-eski-turkiyede-sahislar-gucluydu-bugun-ise-devlet-guclu-haberi-835351",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T11:20:00"
+    },
+    {
+      "title": "Çin'den altın hamlesi: Rezervlere yaklaşık 20 ton daha eklendi",
+      "summary": "Çin Merkez Bankası, temmuz ayında yaklaşık 20 tonluk altın alımıyla rezervlerini üst üste 21&#039;inci ay artırdı. Böylece Ekim 2023&#039;ten bu yana en güçlü aylık alım gerçekleşirken, rezervlerin toplam değeri 306 milyar doların üzerine çıktı.",
+      "url": "https://www.dunya.com/ekonomi/cinden-altin-hamlesi-rezervlere-yaklasik-20-ton-daha-eklendi-haberi-835350",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T11:18:00"
+    },
     {
       "title": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
       "summary": "MVAAFF founder Floyd Rance says the festival has found a sustainable audience on the Massachusetts island, helping it weather macroeconomic uncertainty.",
       "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T11:16:34",
-      "ai": {
-        "impact": "Martha's Vineyard African American Film Festival'in rekor katılım beklentisi, Turkiye ve dunya piyasalarina olumlu etkide bulunabilir. Festivalin basarisi, ekonomideki belirsizligi gostermekte ve insanlara umut vermektedir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T11:16:34"
     },
     {
-      "title": "Gravity Co hisseleri bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gravity-co-hisseleri-bugun-neden-yukseliyor-93CH-4020071",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:12:51",
-      "ai": {
-        "impact": "Gravity Co hisselerinin yukselmesi, Turkiye'de hisse piyasalarina olumlu yansiyabilir. Ancak ozet metni bulunmadigi icin net bir etki ozeti verilememektedir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "InvestingPro Adil Değer sinyalinin ardından Blackbaud %73 yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-sinyalinin-ardndan-blackbaud-73-yukseldi-93CH-4020069",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:10:29",
-      "ai": {
-        "impact": "Blackbaud'un %73'luk hisse artisi, adil deger sinyalinin olumlu etkisini gostermektedir. Bu, Turkiye'de hisse piyasalarina guveni arttirabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Evercore ISI, zayıf 2Ç ve rehber sonrası Trade Desk notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/evercore-isi-zayf-2c-ve-rehber-sonras-trade-desk-notunu-dusurdu-93CH-4020060",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:10:00",
-      "ai": {
-        "impact": "Trade Desk'in notunun dusurulmesi, sirketin gelecegiyle ilgili olumsuz beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumsuz yansiyabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "BofA, Dropbox için hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bofa-dropbox-icin-hisse-hedefini-yukseltti-93CH-4020059",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:09:56",
-      "ai": {
-        "impact": "Dropbox'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumlu yansiyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Needham, Instacart için hisse hedefini 63 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-instacart-icin-hisse-hedefini-63-dolara-yukseltti-93CH-4020058",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:09:51",
-      "ai": {
-        "impact": "Instacart'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumlu yansiyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Oppenheimer, güçlü çeyrek sonrası BioMarin hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/oppenheimer-guclu-ceyrek-sonras-biomarin-hisse-hedefini-yukseltti-93CH-4020057",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:09:43",
-      "ai": {
-        "impact": "BioMarin'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de saglik sektoru hisselerine olumlu yansiyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Guardian Pharmacy Services hisseleri neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/guardian-pharmacy-services-hisseleri-neden-yukseliste-93CH-4020044",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:06:52",
-      "ai": {
-        "impact": "Guardian Pharmacy Services'in hisse artisi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Ancak ozet metni bulunmadigi icin net bir etki ozeti verilememektedir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Halozyme Therapeutics hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/halozyme-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4020043",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:06:08"
-    },
-    {
-      "title": "Macerich 675 milyon dolarlık değiştirilebilir tahvil ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/macerich-675-milyon-dolarlk-degistirilebilir-tahvil-ihrac-etti-93CH-4020042",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:05:40"
-    },
-    {
-      "title": "Wrap Technologies eğitim platformu WrapTactics’i piyasaya sürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/wrap-technologies-egitim-platformu-wraptacticsi-piyasaya-surdu-93CH-4020041",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:05:39"
-    },
-    {
-      "title": "İslamabad ve Riyad'la üçlü anlaşma: Türkiye yeni savunma ittifakını imzaladı",
-      "summary": "Türkiye, Suudi Arabistan ve Pakistan, bölgesel güvenlik dengelerini değiştirebilecek kritik bir adım attı. Üç ülkenin temsilcileri Suudi Arabistan&#039;ın Cidde kentinde bir araya gelerek ortak savunma mekanizması oluşturmayı öngören Mekke Anlaşması&#039;nı imzaladı.",
-      "url": "https://www.dunya.com/dunya/islamabad-ve-riyadla-uclu-anlasma-turkiye-yeni-savunma-ittifakini-imzaladi-haberi-835347",
+      "title": "Turkcell'e rekor ilgi! 58 bin başvuru arasından seçilen 252 genç işe başladı",
+      "summary": "Turkcell&#039;in genç yetenek programı GNÇYTNK 2026 tamamlandı. Türkiye&#039;deki 208 üniversitenin tamamından 58 bin 36 başvuru alınırken, değerlendirme sürecini başarıyla geçen 252 genç Turkcell&#039;de kariyerine ilk adımı attı. Böylece program kapsamında bugüne kadar şirkete kazandırılan genç yetenek sayısı 1836&#039;ya ulaştı.",
+      "url": "https://www.dunya.com/sirketler/turkcelle-rekor-ilgi-58-bin-basvuru-arasindan-secilen-252-genc-ise-basladi-haberi-835348",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:54:00"
+      "published": "2026-08-07T11:15:00"
     },
     {
-      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-      "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
-      "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T10:31:29"
-    },
-    {
-      "title": "Trump'tan Fed Başkanı Warsh'a faiz mesajı: Karar tamamen ona ait değil",
-      "summary": "ABD Başkanı Donald Trump, seçim öncesi faiz kararına ilişkin değerlendirmesinde sürecin &quot;kısmen ama tamamen olmasa da&quot; Fed Başkanı Kevin Warsh&#039;a bağlı olduğunu söyledi. Trump, Warsh&#039;ı överken kararın tek başına kendisine ait olmadığını vurguladı.",
-      "url": "https://www.dunya.com/ekonomi/trumptan-fed-baskani-warsha-faiz-mesaji-karar-tamamen-ona-ait-degil-haberi-835345",
+      "title": "AB'den Ar-Ge'ye 130 milyar euroluk kaynak",
+      "summary": "Avrupa Birliği (AB) ülkeleri, 2025 yılında araştırma ve geliştirme (AR-GE) faaliyetleri için bütçelerinden toplam 130,2 milyar euro ayırdı. Son 10 yılda yüzde 60&#039;ın üzerinde artan kamu kaynaklarında en büyük payı üniversitelere ayrılan fonlar oluşturdu.",
+      "url": "https://www.dunya.com/ekonomi/abden-ar-geye-130-milyar-euroluk-kaynak-haberi-835353",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:30:00"
-    },
-    {
-      "title": "Kaybettikleri tohumlar yıllar sonra tavan arasından çıktı! Şerbet gibi tadı var...",
-      "summary": "Manisa&#039;nın Şehzadeler ilçesinde yıllar önce tavan arasında bulunan ata tohumları, unutulmaya yüz tutan Karaoğlanlı Altınbaş kavununu yeniden hayata döndürdü. Sadece yaklaşık 200 dönüm alanda yetiştirilen ve kendine özgü aromasıyla öne çıkan kavun, hasat döneminde çevre illerden gelen yoğun ilgiyle dikkat çekiyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/kaybettikleri-tohumlar-yillar-sonra-tavan-arasindan-cikti-serbet-gibi-tadi-var-galeri-835346",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:23:00"
-    },
-    {
-      "title": "Sağlık Bakanlığı 26 bin 673 personel ve işçi alım ilanı yayımlandı mı, başvurular ne zaman?",
-      "summary": "Sağlık Bakanlığından ve Sağlık Bakanı Kemal Memişoğlu&#039;ndan personel alım ilanı ile ilgili duyuru bekleniyor. Adaylar, yılın ilk alımları için aylardır bekleyiş içerisinde... Sürekli gelen soru ise &quot;Sağlık Bakanlığı personel alımı başvurular ne zaman&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/saglik-bakanligi-26-bin-673-personel-ve-isci-alim-ilani-yayimlandi-mi-basvurular-ne-zaman-haberi-835343",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:07:00"
-    },
-    {
-      "title": "Ömer Çelik'ten 1800 yıllık keşfe ilişkin dikkat çeken paylaşım",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, Aspendos Antik Kenti&#039;nde bulunan yaklaşık 1800 yıllık Asklepios heykeline ilişkin açıklama yaptı. Türkiye&#039;nin insan yaşamının tarihi ve insanlık mirası açısından eşsiz bir hazine olduğunu belirten Çelik, &quot;Ülkemiz insanlığın tarih yazımına katkıda bulunmaya devam ediyor&quot; dedi.",
-      "url": "https://www.dunya.com/sektorler/turizm/omer-celikten-1800-yillik-kesfe-iliskin-dikkat-ceken-paylasim-haberi-835344",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:03:00"
-    },
-    {
-      "title": "Bitcoin'de büyük hareket yaklaşıyor: Bu iki seviyeye dikkat",
-      "summary": "Bitcoin haftalardır 60 bin ile 67 bin dolar arasında sıkışırken yatırımcılar güçlü hareketin hangi yönde başlayacağını merak ediyor. Kısa süreli yükseliş ve düşüşlerin sık sık tersine dönmesi, aceleyle işlem yapanların zarar riskini artırıyor. Uzmanlara göre 67 bin doların kalıcı biçimde aşılması hâlinde 72 bin dolarlık yeni hedef gündeme gelebilir. Ancak 60 bin dolar desteğinin kaybedilmesi satış",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-buyuk-hareket-yaklasiyor-bu-iki-seviyeye-dikkat-galeri-835342",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:42:00"
-    },
-    {
-      "title": "Kızı ve torunu 95 yaşındaki kadının 13 milyon TL'sini 20 günde yedi",
-      "summary": "Adana&#039;da yaşayan 95 yaşındaki Türkan İşbilir, babasından miras kalan arsasının torunu ve öz kızı tarafından kandırılarak satıldığını öne sürdü. Yaşlı kadın, 10 daire vaadiyle ikna edildiğini, ancak arsanın 17 milyon liraya satıldığını ve paranın büyük bölümünün kısa sürede harcandığını iddia etti. Olay yargıya taşınırken, son sözü mahkeme söyleyecek.",
-      "url": "https://www.dunya.com/gundem/kizi-ve-torunu-95-yasindaki-kadinin-13-milyon-tlsini-20-gunde-yedi-haberi-835340",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:31:00"
-    },
-    {
-      "title": "Altın daha da yükselecek mi? Gram altın düşer mi? Altın son durum...",
-      "summary": "Ons altın bu hafta yüzde 6.5&#039;lik bir yükseliş kaydetti... Gram altın 6 bin 600&#039;leri görürken güvenli limana yatırım yapmak isteyenler &quot;Altın daha da yükselecek mi&quot;, &quot;Gram altın düşer mi&quot; diye soruyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-daha-da-yukselecek-mi-gram-altin-duser-mi-altin-son-durum-galeri-835339",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:30:00"
+      "published": "2026-08-07T11:13:00"
     }
   ]
 }
