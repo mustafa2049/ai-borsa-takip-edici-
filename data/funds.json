@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T16:46:31+03:00",
+  "updated_at": "2026-08-07T17:45:41+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 50.37,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %50,37 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Yabancı hisse senedi fonu olduğu için kur riski de bulunmaktadır."
+        "comment": "Son 1 yıl içindeki getirisi %50,37 ile yüksek görünüyor. Ancak riski de yüksek olabilir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 55.68,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %55,68 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Emtia fiyatlarına duyarlılığı nedeniyle riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "Son 1 yıl içindeki getirisi %55,68 ile oldukça yüksek. Ancak emtia fiyatlarına duyarlılığı nedeniyle riskli olabilir."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 27.57,
       "return_1y": 44.83,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %44,83 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Amerika hisse senedi fonu olduğu için kur riski de bulunmaktadır."
+        "risk": "Orta",
+        "comment": "Son 1 yıl içindeki getirisi %44,83 ile orta düzeyde görünüyor. Amerika hisse senedi fonu olarak riski orta düzeyde olabilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 46.35,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %46,35 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Yeni teknolojiler hisse senedi fonu olduğu için yüksek volatilite riski bulunmaktadır."
+        "comment": "Yeni teknolojiler hisse senedi fonu olarak riski yüksek olabilir. Son 1 yıl içindeki getirisi %46,35 ile dikkat çekiyor."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 18.81,
       "return_1y": 27.57,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %27,57 getiri elde etmiş olup, orta riskli bir yatırım aracı olarak değerlendirilebilir. Değişken fon yapısı nedeniyle riski diğer fonlara göre daha düşük olabilir."
+        "risk": "Düşük",
+        "comment": "Değişken fon olarak riski düşük olabilir. Son 1 yıl içindeki getirisi %27,57 ile orta düzeyde görünüyor."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.32,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %32,32 getiri elde etmiş olup, orta riskli bir yatırım aracı olarak değerlendirilebilir. Hisse senedi fonu olduğu için piyasa riski bulunmaktadır."
+        "comment": "Hisse senedi yoğun fon olarak riski orta düzeyde olabilir. Son 1 yıl içindeki getirisi %32,32 ile dikkat çekiyor."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 30.96,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıllık dönemde %30,96 getiri elde etmiş olup, düşük riskli bir yatırım aracı olarak değerlendirilebilir. Fon sepети fonu yapısı nedeniyle riski diğer fonlara göre daha düşük olabilir."
+        "comment": "Fon sepети fonu olarak riski düşük olabilir. Son 1 yıl içindeki getirisi %30,96 ile orta düzeyde görünüyor."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 70.64,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %70,64 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Teknoloji ağırlıklı endeks fonu olduğu için yüksek volatilite riski bulunmaktadır."
+        "comment": "Teknoloji ağırlıklı fon olarak riski yüksek olabilir. Son 1 yıl içindeki getirisi %70,64 ile oldukça yüksek."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 61.29,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıllık dönemde %61,29 getiri elde etmiş olup, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Elektrikli araçlar fonu olduğu için yüksek volatilite riski bulunmaktadır."
+        "comment": "Elektrikli araçlar fonu olarak riski yüksek olabilir. Son 1 yıl içindeki getirisi %61,29 ile dikkat çekiyor."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 22.83,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıllık dönemde %22,83 getiri elde etmiş olup, orta riskli bir yatırım aracı olarak değerlendirilebilir. Hisse senedi fonu olduğu için piyasa riski bulunmaktadır."
+        "comment": "Hisse senedi fonu olarak riski orta düzeyde olabilir. Son 1 yıl içindeki getirisi %22,83 ile orta düzeyde görünüyor."
       }
     },
     {

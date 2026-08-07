@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-07T16:46:31+03:00",
+  "updated_at": "2026-08-07T17:45:41+03:00",
   "news": [
+    {
+      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T14:32:43",
+      "ai": {
+        "impact": "Haber, şirketlerin ucuz iş sınıfı biletlerine karşı tavırlarını ele alıyor. Bu durum, havayollarının gelirlerine olumsuz yansıyabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "New York borsası, ABD&#039;de istihdamın temmuzda beklenmedik şekilde gerilediğini gösteren verilerin ardından ABD Merkez Bankasının (Fed) faiz artırımı beklentilerinin zayıflamasıyla haftanın son işlem gününe yükselişle başladı.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-835373",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:30:00",
+      "ai": {
+        "impact": "New York borsasının yükselişi, global piyasalarda olumlu bir etki yaratırken, Türkiye'de de borsa üzerinde pozitif bir yansımaya neden olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+      "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T14:26:40",
+      "ai": {
+        "impact": "Dijital tıp platformunun hisselerinin artması, sağlık teknolojisi sektörüne olan ilgiyi gösterir ve bu sektördeki diğer şirketleri de olumlu etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "New Jersey REIT yönetim kurulu üyelerini seçti ve denetçiyi onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/new-jersey-reit-yonetim-kurulu-uyelerini-secti-ve-denetciyi-onaylad-93CH-4020836",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:25:19",
+      "ai": {
+        "impact": "Özet bulunmadığından, New Jersey REIT yönetim kurulu üyelerinin seçilmesi ve denetçinin onaylanması hakkında yeterli bilgi bulunmuyor.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Ardelyx hisse senedi %18 düşerken opsiyon işlemleri arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ardelyx-hisse-senedi-18-duserken-opsiyon-islemleri-artt-93CH-4020824",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:19:12",
+      "ai": {
+        "impact": "Ardelyx hisse senedinin düşmesi ve opsiyon işlemlerinin artması, şirketin geleceği hakkında belirsizlik yaratıyor.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Oklo 2Ç 2026 gelir beklentisini aştı, hisse %5,4 yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/oklo-2c-2026-gelir-beklentisini-ast-hisse-54-yukseldi-93CH-4020819",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:18:36",
+      "ai": {
+        "impact": "Oklo'nun gelir beklentisini aşması ve hisse senetlerinin yükselmesi, şirketin performansı hakkında olumlu bir görüş sunar.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Qxo hissesi 14 Ağustos’taki açıklamada %7,9 hareket edebilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/qxo-hissesi-14-agustostaki-acklamada-79-hareket-edebilir-93CH-4020816",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:17:55",
+      "ai": {
+        "impact": "Qxo hissesinin hareket etmesi, şirketin gelecekteki performansı hakkında spekülasyonlara neden olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "İş Bankası'nda görev değişimi iddiası: Hakan Aran görevden ayrılıyor",
+      "summary": "İş Bankası Genel Müdürü Hakan Aran&#039;ın görevinden ayrılarak Şişecam Yönetim Kurulu Başkanlığı görevini üstlenmesinin beklendiği iddia edildi. Aran&#039;ın yerine ise İş Bankası Genel Müdür Yardımcısı Hasan Cahit Çınar&#039;ın atanmasının öngörüldüğü belirtildi.",
+      "url": "https://www.dunya.com/sirketler/is-bankasinda-gorev-degisimi-iddiasi-hakan-aran-gorevden-ayriliyor-haberi-835372",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:17:00",
+      "ai": {
+        "impact": "İş Bankası'nda görev değişimi iddiası, bankanın gelecekteki yönetim yapısı ve stratejisi hakkında soru işaretleri yaratıyor.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Poet Technologies hissesi 14 Ağustos’ta %11 oynayabilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/poet-technologies-hissesi-14-agustosta-11-oynayabilir-93CH-4020815",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:16:48"
+    },
+    {
+      "title": "BJK Avrupa Ligi maçı ne zaman? Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "UEFA Avrupa Ligi 3. Ön Eleme turunda ilk maç heyecanı dün akşam yaşandı. Temsilcimiz Beşiktaş da Hradec Kralove&#039;yi 1-0&#039;la geçti. Kara Kartal rövanş maçını sahasında oynayacak. Peki, Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
+      "url": "https://www.dunya.com/spor/bjk-avrupa-ligi-maci-ne-zaman-besiktas-hradec-kralove-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835371",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:15:00"
+    },
+    {
+      "title": "ManpowerGroup hissesi 57,14 dolarla 52 haftalık zirveye ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/manpowergroup-hissesi-5714-dolarla-52-haftalk-zirveye-ulast-93CH-4020811",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:14:49"
+    },
+    {
+      "title": "Navan hisseleri 14 Ağustos’taki raporda %12 hareket edebilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/navan-hisseleri-14-agustostaki-raporda-12-hareket-edebilir-93CH-4020810",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:14:33"
+    },
+    {
+      "title": "Victoria’s Secret hissesi 96,11 dolarla rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/victorias-secret-hissesi-9611-dolarla-rekor-krd-93CH-4020798",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:12:08"
+    },
+    {
+      "title": "Chemed Corp hissesi 552,05 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/chemed-corp-hissesi-55205-dolarda-52-haftalk-zirve-yapt-93CH-4020797",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:11:45"
+    },
+    {
+      "title": "Petra Diamonds’ın Finsch madeni alacaklıları varlık satış planını onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/petra-diamondsn-finsch-madeni-alacakllar-varlk-sats-plann-onaylad-93CH-4020785",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T14:09:27"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Anlaşma, kolektif caydırıcılığı temel alıyor",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye, Suudi Arabistan ve Pakistan arasında gün içinde imzalanan Ortak Savunma Anlaşması&#039;nın ardından açıklama yaptı. Erdoğan, anlaşmanın kolektif caydırıcılığı esas aldığını, hiçbir ülkeyi hedef almadığını ve bölgesel güvenlik ile istikrara katkı sağlamayı amaçladığını belirtti.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-anlasma-kolektif-caydiriciligi-temel-aliyor-haberi-835370",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T14:08:00"
+    },
+    {
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat.",
+      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T14:06:10"
+    },
+    {
+      "title": "Aziz Yıldırım'ın kızının fotoğrafını paylaşan şüphelinin cezası belli oldu",
+      "summary": "Fenerbahçe Başkanı Aziz Yıldırım&#039;ın kızına ait kişisel verileri ve fotoğrafları sosyal medyada izinsiz paylaştığı iddia edilen kişi hakkında karar verildi. Yıldırım&#039;ın Bakırköy Cumhuriyet Başsavcılığına yaptığı şikâyetin ardından Siber Suçlarla Mücadele ekipleri tarafından gözaltına alınan şüpheli, emniyetteki işlemleri sonrası adliyeye sevk edildi.",
+      "url": "https://www.dunya.com/gundem/aziz-yildirimin-kizinin-fotografini-paylasan-suphelinin-cezasi-belli-oldu-haberi-835368",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T13:41:00"
+    },
     {
       "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
       "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
       "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T13:40:19",
-      "ai": {
-        "impact": "ABD'de beklenmedik şekilde 23.000 iş kaybı, küresel piyasalarda ekonomik yavaşlama endişelerini artırabilir. Türkiye'de ise dolar kuru ve faiz oranlarına etkisi olabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-07T13:40:19"
     },
     {
-      "title": "Take-Two ilk çeyrek rezervasyonları beklentileri aştı, hisse yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/taketwo-ilk-ceyrek-rezervasyonlar-beklentileri-ast-hisse-yukseldi-93CH-4020680",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:18:37",
-      "ai": {
-        "impact": "Take-Two'nun ilk çeyrek rezervasyonlarının beklentileri aşması, şirketin hisse değerini olumlu etkileyebilir. Türkiye'de ise teknoloji ve oyun sektörüne yatırım yapan yatırımcılar için olumlu bir sinyal olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mizuho, First Solar için hisse hedefini tarife rüzgarıyla yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-first-solar-icin-hisse-hedefini-tarife-ruzgaryla-yukseltti-93CH-4020679",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:18:11",
-      "ai": {
-        "impact": "Mizuho'nun First Solar için hisse hedefini yükseltmesi, şirketin geleceğine olan güveni artırabilir. Türkiye'de ise yenilenebilir enerji sektörüne yatırım yapan yatırımcılar için olumlu bir gelişme olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
-      "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
-      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T13:18:07",
-      "ai": {
-        "impact": "Dijital tıp platformunun hisse değerindeki artış, sağlık sektörüne yatırım yapan yatırımcılar için olumlu bir sinyal olabilir. Türkiye'de ise sağlık teknolojilerine yatırım yapan şirketler için bir fırsat olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "SharonAI Holdings dönüştürülebilir tahvil sahiplerine bildirimde bulundu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/sharonai-holdings-donusturulebilir-tahvil-sahiplerine-bildirimde-bulundu-93CH-4020678",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:17:36",
-      "ai": {
-        "impact": "SharonAI Holdings'in dönüştürülebilir tahvil sahiplerine bildirimde bulunması, şirketin finansal durumu hakkında bilgi verebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "AeroVironment yönetim kuruluna Michael Ruppert’i atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/aerovironment-yonetim-kuruluna-michael-rupperti-atad-93CH-4020677",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:17:23",
-      "ai": {
-        "impact": "AeroVironment'in yeni yönetim kurulu üyesi ataması, şirketin yönetim yapısını güçlendirebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "SouthState Bank yöneticisi David Brooks 2,71 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/southstate-bank-yoneticisi-david-brooks-271-milyon-dolarlk-hisse-satt-93CH-4020676",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:16:47",
-      "ai": {
-        "impact": "SouthState Bank yöneticisinin hisse satması, şirketin içsel bilgisi hakkında şüpheler uyandırabilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir endişe kaynağı olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Silicon Valley Acquisition, EigenQ ile anlaşmasını değiştirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/silicon-valley-acquisition-eigenq-ile-anlasmasn-degistirdi-93CH-4020660",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:13:42",
-      "ai": {
-        "impact": "Silicon Valley Acquisition'ın EigenQ ile anlaşmasını değiştirmesi, şirketin stratejik planlarını etkileyebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Fed toplantısı ne zaman? Fed faiz kararı hangi gün açıklanacak?",
-      "summary": "ABD&#039;de tarım dışı istihdam rakamları açıklandı. Sırada enflasyon rakamları ve Fed faiz kararı var. Tam tarihi öğrenmek isteyenler &quot;Fed faiz kararı ne zaman açıklanacak&quot; sorusuna başvuruyor.",
-      "url": "https://www.dunya.com/ekonomi/fed-toplantisi-ne-zaman-fed-faiz-karari-hangi-gun-aciklanacak-haberi-835365",
+      "title": "Afrika'yı uçuracak yatırım: Kıtanın kaderini değiştirecek",
+      "summary": "Afrika&#039;nın en zengin iş insanı Aliko Dangote, kıtanın enerji dengelerini değiştirebilecek yeni bir yatırım için düğmeye bastı. Dangote, Kenya&#039;da kurulacak milyarlarca dolarlık rafineriyle Doğu Afrika&#039;nın yakıt ihtiyacının büyük bölümünü karşılamayı ve bölgenin ithal petrole bağımlılığını azaltmayı hedeflediklerini açıkladı.",
+      "url": "https://www.dunya.com/ekonomi/afrikayi-ucuracak-yatirim-kitanin-kaderini-degistirecek-haberi-835369",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T13:12:00"
-    },
-    {
-      "title": "Wedbush: Lumilens finansmanı POET Technologies için olumlu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wedbush-lumilens-finansman-poet-technologies-icin-olumlu-93CH-4020647",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:10:12"
-    },
-    {
-      "title": "THY temmuzda 9,5 milyon yolcu taşıyarak rekor kırdı",
-      "summary": "Türk Hava Yolları (THY), 2026 yılı temmuz ayına ilişkin trafik verilerini açıkladı. Şirket, bir ayda 9,5 milyon yolcu taşıyarak tarihinin en yüksek temmuz ayı doluluk oranına ulaştı. Yılın ilk yedi ayında taşınan toplam yolcu sayısı ise 54 milyona yükseldi.",
-      "url": "https://www.dunya.com/ekonomi/thy-temmuzda-95-milyon-yolcu-tasiyarak-rekor-kirdi-haberi-835364",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T13:07:00"
-    },
-    {
-      "title": "Castor Maritime ortak girişim kurdu, gemi hissesi sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/castor-maritime-ortak-girisim-kurdu-gemi-hissesi-satt-93CH-4020636",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:05:19"
-    },
-    {
-      "title": "Jefferies, Arteris hissesini kârlılık görünümüyle yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-arteris-hissesini-karllk-gorunumuyle-yukseltti-93CH-4020635",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:04:00"
-    },
-    {
-      "title": "Halk Finansal Kiralama, 4 milyar TL borçlanma aracı ihracı kararı aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/halk-finansal-kiralama-4-milyar-tl-borclanma-arac-ihrac-karar-ald-93CH-4020633",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T13:03:46"
-    },
-    {
-      "title": "Trabzonspor, Muhammed Salah'ın alacaklarına ilişkin haciz iddialarını yalanladı",
-      "summary": "Trabzonspor, Mısırlı futbolcu Muhammed Salah&#039;ın bordo-mavili kulüpten alacaklarına haciz konulduğu yönündeki iddiaları yalanladı. Kulüp, gerçeği yansıtmadığını belirttiği haberleri yayımlayan kişi ve kuruluşlar hakkında hukuki süreç başlatıldığını açıkladı.",
-      "url": "https://www.dunya.com/spor/trabzonspor-muhammed-salahin-alacaklarina-iliskin-haciz-iddialarini-yalanladi-haberi-835367",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T13:02:00"
-    },
-    {
-      "title": "ABD'den gelen veri altını ateşledi! Fiyatlar bir anda sıçradı",
-      "summary": "ABD&#039;de tarım dışı istihdamın artış beklentisine karşın gerilemesi, değerli metal piyasalarında sert yükseliş getirdi. Ons altın dakikalar içinde yüzde 3&#039;ten fazla değer kazanırken gram altın 6 bin 700 lira sınırına dayandı. Gümüşteki yükseliş ise yüzde 5&#039;i aştı.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/abdden-gelen-veri-altini-atesledi-fiyatlar-bir-anda-sicradi-galeri-835366",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T12:59:00"
-    },
-    {
-      "title": "ABD enflasyon rakamları ne zaman açıklanacak? ABD TÜFE oranları hangi gün ilan edilecek?",
-      "summary": "ABD tarım dışı istihdam rakamları açıklandı. Tarım dışı istihdam beklentinin altında kalırken gözler şimdi enflasyon rakamlarına çevrildi. Şimdi sıkça &quot;ABD enflasyon rakamları ne zaman açıklanacak&quot; sorusu geliyor.",
-      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-aciklanacak-abd-tufe-oranlari-hangi-gun-ilan-edilecek-haberi-835362",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T12:56:00"
-    },
-    {
-      "title": "İspanya'dan İtalya'ya ültimatom: 9 Ağustos'a kadar süre verdi",
-      "summary": "İspanya ile İtalya arasında sınır kontrolü gerilimi tırmandı. Madrid yönetimi, İspanya&#039;dan gelen yolculara uygulanan geçici kontrollerin kaldırılması için Roma&#039;ya 9 Ağustos&#039;a kadar süre verdi. Kararı &quot;tek taraflı&quot; ve &quot;haksız&quot; olarak nitelendiren İspanya, aksi hâlde mütekabiliyet ilkesi doğrultusunda orantılı tedbirler alacağını duyurdu.",
-      "url": "https://www.dunya.com/dunya/ispanyadan-italyaya-ultimatom-9-agustosa-kadar-sure-verdi-haberi-835361",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T12:45:00"
-    },
-    {
-      "title": "Yapay zekanın babasından yeni uyarı: Kontrolü kaybediyoruz",
-      "summary": "Yapay zekanın babası olarak tanınan Nobel ödüllü bilgisayar bilimcisi Geoffrey Hinton, gelişmiş yapay zeka sistemlerinin giderek daha zor kontrol edileceği uyarısında bulundu. Son dönemde bazı yapay zeka modellerinin test ortamlarının dışına çıkarak farklı sistemlere erişmesi de Hinton&#039;ın güvenlik endişelerini yeniden gündeme taşıdı.",
-      "url": "https://www.dunya.com/dunya/yapay-zekanin-babasindan-yeni-uyari-kontrolu-kaybediyoruz-haberi-835363",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T12:44:00"
-    },
-    {
-      "title": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
-      "summary": "Private equity investors could target more undervalued airlines following Apollo's swoop for EasyJet.",
-      "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T12:35:19"
+      "published": "2026-08-07T13:35:00"
     }
   ]
 }
