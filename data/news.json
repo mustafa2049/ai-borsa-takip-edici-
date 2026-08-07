@@ -1,126 +1,161 @@
 {
-  "updated_at": "2026-08-07T13:27:00+03:00",
+  "updated_at": "2026-08-07T14:17:27+03:00",
   "news": [
+    {
+      "title": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
+      "summary": "MVAAFF founder Floyd Rance says the festival has found a sustainable audience on the Massachusetts island, helping it weather macroeconomic uncertainty.",
+      "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T11:16:34",
+      "ai": {
+        "impact": "Martha's Vineyard African American Film Festival'in rekor katılım beklentisi, Turkiye ve dunya piyasalarina olumlu etkide bulunabilir. Festivalin basarisi, ekonomideki belirsizligi gostermekte ve insanlara umut vermektedir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Gravity Co hisseleri bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/gravity-co-hisseleri-bugun-neden-yukseliyor-93CH-4020071",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:12:51",
+      "ai": {
+        "impact": "Gravity Co hisselerinin yukselmesi, Turkiye'de hisse piyasalarina olumlu yansiyabilir. Ancak ozet metni bulunmadigi icin net bir etki ozeti verilememektedir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "InvestingPro Adil Değer sinyalinin ardından Blackbaud %73 yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-sinyalinin-ardndan-blackbaud-73-yukseldi-93CH-4020069",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:10:29",
+      "ai": {
+        "impact": "Blackbaud'un %73'luk hisse artisi, adil deger sinyalinin olumlu etkisini gostermektedir. Bu, Turkiye'de hisse piyasalarina guveni arttirabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Evercore ISI, zayıf 2Ç ve rehber sonrası Trade Desk notunu düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/evercore-isi-zayf-2c-ve-rehber-sonras-trade-desk-notunu-dusurdu-93CH-4020060",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:10:00",
+      "ai": {
+        "impact": "Trade Desk'in notunun dusurulmesi, sirketin gelecegiyle ilgili olumsuz beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumsuz yansiyabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "BofA, Dropbox için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bofa-dropbox-icin-hisse-hedefini-yukseltti-93CH-4020059",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:09:56",
+      "ai": {
+        "impact": "Dropbox'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumlu yansiyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Needham, Instacart için hisse hedefini 63 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-instacart-icin-hisse-hedefini-63-dolara-yukseltti-93CH-4020058",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:09:51",
+      "ai": {
+        "impact": "Instacart'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de teknoloji hisselerine olumlu yansiyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Oppenheimer, güçlü çeyrek sonrası BioMarin hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/oppenheimer-guclu-ceyrek-sonras-biomarin-hisse-hedefini-yukseltti-93CH-4020057",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:09:43",
+      "ai": {
+        "impact": "BioMarin'in hisse hedefinin yukseltilmesi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Bu, Turkiye'de saglik sektoru hisselerine olumlu yansiyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Guardian Pharmacy Services hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/guardian-pharmacy-services-hisseleri-neden-yukseliste-93CH-4020044",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:06:52",
+      "ai": {
+        "impact": "Guardian Pharmacy Services'in hisse artisi, sirketin gelecegiyle ilgili olumlu beklentilere yol acabilir. Ancak ozet metni bulunmadigi icin net bir etki ozeti verilememektedir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Halozyme Therapeutics hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/halozyme-therapeutics-hissesi-bugun-neden-yukseliyor-93CH-4020043",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:06:08"
+    },
+    {
+      "title": "Macerich 675 milyon dolarlık değiştirilebilir tahvil ihraç etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/macerich-675-milyon-dolarlk-degistirilebilir-tahvil-ihrac-etti-93CH-4020042",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:05:40"
+    },
+    {
+      "title": "Wrap Technologies eğitim platformu WrapTactics’i piyasaya sürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/wrap-technologies-egitim-platformu-wraptacticsi-piyasaya-surdu-93CH-4020041",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T11:05:39"
+    },
+    {
+      "title": "İslamabad ve Riyad'la üçlü anlaşma: Türkiye yeni savunma ittifakını imzaladı",
+      "summary": "Türkiye, Suudi Arabistan ve Pakistan, bölgesel güvenlik dengelerini değiştirebilecek kritik bir adım attı. Üç ülkenin temsilcileri Suudi Arabistan&#039;ın Cidde kentinde bir araya gelerek ortak savunma mekanizması oluşturmayı öngören Mekke Anlaşması&#039;nı imzaladı.",
+      "url": "https://www.dunya.com/dunya/islamabad-ve-riyadla-uclu-anlasma-turkiye-yeni-savunma-ittifakini-imzaladi-haberi-835347",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T10:54:00"
+    },
+    {
+      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+      "summary": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
+      "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T10:31:29"
+    },
+    {
+      "title": "Trump'tan Fed Başkanı Warsh'a faiz mesajı: Karar tamamen ona ait değil",
+      "summary": "ABD Başkanı Donald Trump, seçim öncesi faiz kararına ilişkin değerlendirmesinde sürecin &quot;kısmen ama tamamen olmasa da&quot; Fed Başkanı Kevin Warsh&#039;a bağlı olduğunu söyledi. Trump, Warsh&#039;ı överken kararın tek başına kendisine ait olmadığını vurguladı.",
+      "url": "https://www.dunya.com/ekonomi/trumptan-fed-baskani-warsha-faiz-mesaji-karar-tamamen-ona-ait-degil-haberi-835345",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T10:30:00"
+    },
+    {
+      "title": "Kaybettikleri tohumlar yıllar sonra tavan arasından çıktı! Şerbet gibi tadı var...",
+      "summary": "Manisa&#039;nın Şehzadeler ilçesinde yıllar önce tavan arasında bulunan ata tohumları, unutulmaya yüz tutan Karaoğlanlı Altınbaş kavununu yeniden hayata döndürdü. Sadece yaklaşık 200 dönüm alanda yetiştirilen ve kendine özgü aromasıyla öne çıkan kavun, hasat döneminde çevre illerden gelen yoğun ilgiyle dikkat çekiyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/kaybettikleri-tohumlar-yillar-sonra-tavan-arasindan-cikti-serbet-gibi-tadi-var-galeri-835346",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T10:23:00"
+    },
     {
       "title": "Sağlık Bakanlığı 26 bin 673 personel ve işçi alım ilanı yayımlandı mı, başvurular ne zaman?",
       "summary": "Sağlık Bakanlığından ve Sağlık Bakanı Kemal Memişoğlu&#039;ndan personel alım ilanı ile ilgili duyuru bekleniyor. Adaylar, yılın ilk alımları için aylardır bekleyiş içerisinde... Sürekli gelen soru ise &quot;Sağlık Bakanlığı personel alımı başvurular ne zaman&quot; oluyor.",
       "url": "https://www.dunya.com/gundem/saglik-bakanligi-26-bin-673-personel-ve-isci-alim-ilani-yayimlandi-mi-basvurular-ne-zaman-haberi-835343",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:07:00",
-      "ai": {
-        "impact": "Sağlık Bakanlığı'nın personel alım ilanı, istihdam piyasasına olumlu yansıyabilir. Ancak, etkisi sınırlı olacaktır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Dream Finders, Beazer Homes’u 2,2 milyar dolara satın alıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dream-finders-beazer-homesu-22-milyar-dolara-satn-alyor-93CH-4019767",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:05:45",
-      "ai": {
-        "impact": "Dream Finders'ın Beazer Homes'u satın alması, global emlak piyasalarında bir hareketlilik yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "MDA Space yönetim kuruluna iki yeni üye atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/mda-space-yonetim-kuruluna-iki-yeni-uye-atad-93CH-4019764",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:05:17",
-      "ai": {
-        "impact": "MDA Space'in yönetim kuruluna yeni üyeler ataması, şirketin yönetim yapısını güçlendirebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Embecta çeyreklik 0,01 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/embecta-ceyreklik-001-dolar-temettu-acklad-93CH-4019762",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:04:58",
-      "ai": {
-        "impact": "Embecta'nın temettü açıklaması, şirketin karlılığını göstermesi açısından önemlidir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Morgan Stanley, Marqeta ve NerdWallet notlarını korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-marqeta-ve-nerdwallet-notlarn-korudu-93CH-4019761",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:04:21",
-      "ai": {
-        "impact": "Morgan Stanley'in Marqeta ve NerdWallet notlarını koruması, bu şirketlerin finansal durumunu yansıtabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "BMO Capital, Sherwin-Williams hissesi için hedef fiyatını korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bmo-capital-sherwinwilliams-hissesi-icin-hedef-fiyatn-korudu-93CH-4019760",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:04:07",
-      "ai": {
-        "impact": "BMO Capital'in Sherwin-Williams hissesi için hedef fiyatını koruması, şirketin piyasa beklentilerini yansıtabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Thungela’nın ilk yarı hisse başı kazancı %475’e kadar artabilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/thungelann-ilk-yar-hisse-bas-kazanc-475e-kadar-artabilir-93CH-4019755",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:03:35",
-      "ai": {
-        "impact": "Thungela'nın hisse başı kazancının artması, şirketin finansal performansını göstermesi açısından önemlidir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T10:07:00"
     },
     {
       "title": "Ömer Çelik'ten 1800 yıllık keşfe ilişkin dikkat çeken paylaşım",
       "summary": "AK Parti Sözcüsü Ömer Çelik, Aspendos Antik Kenti&#039;nde bulunan yaklaşık 1800 yıllık Asklepios heykeline ilişkin açıklama yaptı. Türkiye&#039;nin insan yaşamının tarihi ve insanlık mirası açısından eşsiz bir hazine olduğunu belirten Çelik, &quot;Ülkemiz insanlığın tarih yazımına katkıda bulunmaya devam ediyor&quot; dedi.",
       "url": "https://www.dunya.com/sektorler/turizm/omer-celikten-1800-yillik-kesfe-iliskin-dikkat-ceken-paylasim-haberi-835344",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T10:03:00",
-      "ai": {
-        "impact": "Ömer Çelik'in paylaşımı, Türkiye'nin kültürel ve tarihi zenginliğini vurgulayabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T10:03:00"
     },
     {
-      "title": "Cloudflare yöneticisi Carl Ledbetter 1,41 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/cloudflare-yoneticisi-carl-ledbetter-141-milyon-dolarlk-hisse-satt-93CH-4019753",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:01:58"
-    },
-    {
-      "title": "Akbank, 1.247 milyon TL takipteki kredi portföyünü 218 milyon TL’ye sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/akbank-1247-milyon-tl-takipteki-kredi-portfoyunu-218-milyon-tlye-satt-93CH-4019752",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:01:48"
-    },
-    {
-      "title": "Fonet, 137,7 milyon TL’lik SBYS ihalesinde en uygun teklifi verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/fonet-1377-milyon-tllik-sbys-ihalesinde-en-uygun-teklifi-verdi-93CH-4019751",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:01:37"
-    },
-    {
-      "title": "Roku hissesi bugün neden dalgalı?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/roku-hissesi-bugun-neden-dalgal-93CH-4019750",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T10:00:28"
-    },
-    {
-      "title": "Bitcoin'da büyük hareket yaklaşıyor: Bu iki seviyeye dikkat",
+      "title": "Bitcoin'de büyük hareket yaklaşıyor: Bu iki seviyeye dikkat",
       "summary": "Bitcoin haftalardır 60 bin ile 67 bin dolar arasında sıkışırken yatırımcılar güçlü hareketin hangi yönde başlayacağını merak ediyor. Kısa süreli yükseliş ve düşüşlerin sık sık tersine dönmesi, aceleyle işlem yapanların zarar riskini artırıyor. Uzmanlara göre 67 bin doların kalıcı biçimde aşılması hâlinde 72 bin dolarlık yeni hedef gündeme gelebilir. Ancak 60 bin dolar desteğinin kaybedilmesi satış",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinda-buyuk-hareket-yaklasiyor-bu-iki-seviyeye-dikkat-galeri-835342",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-buyuk-hareket-yaklasiyor-bu-iki-seviyeye-dikkat-galeri-835342",
       "source": "Dünya Gazetesi",
       "published": "2026-08-07T09:42:00"
     },
@@ -137,41 +172,6 @@
       "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-daha-da-yukselecek-mi-gram-altin-duser-mi-altin-son-durum-galeri-835339",
       "source": "Dünya Gazetesi",
       "published": "2026-08-07T09:30:00"
-    },
-    {
-      "title": "BofA'dan yatırımcılara kritik uyarı: Risk azaltmanın zamanı geldi",
-      "summary": "Bank of America (BofA), küresel piyasalarda yatırımcı iyimserliğinin son beş yılın en yüksek seviyesine ulaştığını belirterek riskli varlıklarda temkinli olunması çağrısı yaptı. Banka, yatırımcıların portföylerinde savunma amaçlı varlıklara daha fazla yer vermesini önerdi.",
-      "url": "https://www.dunya.com/finans/haberler/bofadan-yatirimcilara-kritik-uyari-risk-azaltmanin-zamani-geldi-haberi-835341",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:25:00"
-    },
-    {
-      "title": "Değeri 2.4 milyon TL! Suyun altından tek parça çıkardılar",
-      "summary": "Aydın&#039;ın Çine ilçesindeki orman yangını sırasında gölete düşen yaklaşık 50 bin dolar değerindeki yangın söndürme helikopteri su taşıma kovası (bambi), sualtı arama kurtarma ekiplerinin titiz çalışmasıyla zarar görmeden çıkarıldı. Operasyon sayesinde hem kritik ekipman kurtarıldı hem de büyük bir ekonomik kaybın önüne geçildi.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/degeri-24-milyon-tl-suyun-altindan-tek-parca-cikardilar-galeri-835338",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:20:00"
-    },
-    {
-      "title": "Arslantepe’den yukarı Fırat’a binlerce yıllık tarih aynı çatı altında",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 6 Şubat depremlerinde hasar gören Malatya Arkeoloji Müzesi’nde yürütülen restorasyon, güçlendirme ve teşhir-tanzim çalışmalarının tamamlandığını duyurdu. Arslantepe kazılarından Yukarı Fırat Havzası’ndaki önemli arkeolojik merkezlere uzanan eserlerin kronolojik ve tematik bir düzenle bir araya getirildiği müze, yenilenen yüzüyle yarın ziyarete açılacak.",
-      "url": "https://www.dunya.com/sektorler/turizm/arslantepeden-yukari-firata-binlerce-yillik-tarih-ayni-cati-altinda-haberi-835337",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:09:00"
-    },
-    {
-      "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-      "summary": "Memory prices have surged because of short supply and huge demand with investors watching closely for any changes to the supply-demand imbalance.",
-      "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T09:02:59"
-    },
-    {
-      "title": "Ajdar öldü mü, yaşıyor mu?",
-      "summary": "Bugün yine Ajdar ile ilgili birtakım iddialar ortaya atıldı. Sosyal medyada bazı paylaşımlarda eski PopStar yarışmacısının öldüğü öne sürüldü. Şimdi sıkça &quot;Ajdar öldü mü&quot; sorusu geliyor.",
-      "url": "https://www.dunya.com/gundem/ajdar-oldu-mu-yasiyor-mu-haberi-835335",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:01:00"
     }
   ]
 }

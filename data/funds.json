@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:27:00+03:00",
+  "updated_at": "2026-08-07T14:17:27+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 50.37,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %50,37 ile yüksek. Ancak riski de yüksek olan bir fon."
+        "comment": "Son 1 yıl içerisinde %50'nin üzerinde getiri elde etmiş, ancak yüksek risk içeriyor. Yatırımcıların dikkatli olması gerekiyor."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 55.68,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %55,68 ile yüksek. Ancak emtia fiyatlarına duyarlılığı nedeniyle riski de yüksek."
+        "comment": "Son 1 yıl içerisinde %55'in üzerinde getiri elde etmiş, ancak emtia fiyatlarına bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 27.57,
       "return_1y": 44.83,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %44,83 ile yüksek. Ancak yabancı hisse senedi fonu olarak riski de yüksek."
+        "risk": "Orta",
+        "comment": "Son 1 yıl içerisinde %44'un üzerinde getiri elde etmiş, ancak yabancı hisse senedi fiyatlarına bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 46.35,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %46,35 ile yüksek. Ancak yeni teknolojilere yatırım yaptığı için riski de yüksek."
+        "comment": "Yeni teknolojilere yatırım yapıyor, ancak bu alanda yüksek dalgalanma gösterebiliyor."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 18.81,
       "return_1y": 27.57,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %27,57 ile ortalamanın üzerinde. Riski orta düzeyde."
+        "risk": "Düşük",
+        "comment": "Değişken fon olarak bilinen bu yatırım aracı, düşük risk içeriyor ve稳il getiri elde ediliyor."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.32,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %32,32 ile ortalamanın üzerinde. Riski orta düzeyde."
+        "comment": "Hisse senedi yoğunluklu fon olarak bilinir, ancak hisse senedi fiyatlarına bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 30.96,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içindeki getirisi %30,96 ile ortalamanın altında. Ancak riski düşük olan bir fon."
+        "comment": "Fon sepetsi fonu olarak bilinir, düşük risk içeriyor ve çeşitli yatırım araçlarına dağılım gösteriyor."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 70.64,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %70,64 ile çok yüksek. Ancak teknoloji hisselerine yatırım yaptığı için riski de yüksek."
+        "comment": "Teknoloji ağırlıklı fon olarak bilinir, yüksek getiri elde ediliyor ancak teknoloji sektörüne bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 61.29,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %61,29 ile çok yüksek. Ancak elektrikli araçlara yatırım yaptığı için riski de yüksek."
+        "comment": "Elektrikli araçlar karma fonu olarak bilinir, yüksek getiri elde ediliyor ancak elektrikli araç sektörüne bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 22.83,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %22,83 ile ortalamanın altında. Riski orta düzeyde."
+        "comment": "Hisse senedi yoğunluklu fon olarak bilinir, ancak hisse senedi fiyatlarına bağlı olarak dalgalanma gösterebiliyor."
       }
     },
     {
