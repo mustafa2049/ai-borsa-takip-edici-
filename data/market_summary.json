@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T12:29:35+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksinin hafif bir düşüş yaşadığı görülmektedir. DAX endeksinin pozitif performansına karşın diğer ana endekslerin majority negatif yönde hareket ettiği gözlemlenmektedir. Hisse senedi sinyallerine bakıldığında THYAO, TUPRS, GARAN ve YKBNK gibi hisselerin alım sinyali verdiği görülürken, TOASO ve EKGYO gibi hisselerin güçlü satış sinyali verdiği görülmektedir.",
+  "updated_at": "2026-08-07T13:27:00+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksi hafif bir yükseliş gösterirken, global piyasalarda karışık bir görünüm hakim. DAX endeksinin güçlü yükselişi dikkati çekiyor. Hisse sinyallerine göre THYAO, TUPRS, GARAN ve YKBNK gibi hisseler al sinyali verirken, KCHOL, FROTO ve TOASO gibi hisseler sat sinyali veriyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13775.75,
-      "change_pct": -0.17
+      "value": 13808.12,
+      "change_pct": 0.07
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26312.21,
-      "change_pct": 0.66
+      "value": 26336.6,
+      "change_pct": 0.75
     },
     {
       "name": "Nikkei 225",
@@ -42,24 +42,24 @@
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
       "value": 55.02,
-      "change_pct": -0.03
+      "change_pct": -0.04
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4367.3,
-      "change_pct": 2.95
+      "value": 4368.6,
+      "change_pct": 2.98
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 82.85,
-      "change_pct": 0.44
+      "value": 82.28,
+      "change_pct": -0.25
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6697.79,
+      "value": 6699.85,
       "change_pct": null
     }
   ]

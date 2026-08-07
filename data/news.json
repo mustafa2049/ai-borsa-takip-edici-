@@ -1,121 +1,163 @@
 {
-  "updated_at": "2026-08-07T12:29:35+03:00",
+  "updated_at": "2026-08-07T13:27:00+03:00",
   "news": [
+    {
+      "title": "Sağlık Bakanlığı 26 bin 673 personel ve işçi alım ilanı yayımlandı mı, başvurular ne zaman?",
+      "summary": "Sağlık Bakanlığından ve Sağlık Bakanı Kemal Memişoğlu&#039;ndan personel alım ilanı ile ilgili duyuru bekleniyor. Adaylar, yılın ilk alımları için aylardır bekleyiş içerisinde... Sürekli gelen soru ise &quot;Sağlık Bakanlığı personel alımı başvurular ne zaman&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/saglik-bakanligi-26-bin-673-personel-ve-isci-alim-ilani-yayimlandi-mi-basvurular-ne-zaman-haberi-835343",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T10:07:00",
+      "ai": {
+        "impact": "Sağlık Bakanlığı'nın personel alım ilanı, istihdam piyasasına olumlu yansıyabilir. Ancak, etkisi sınırlı olacaktır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Dream Finders, Beazer Homes’u 2,2 milyar dolara satın alıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/dream-finders-beazer-homesu-22-milyar-dolara-satn-alyor-93CH-4019767",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:05:45",
+      "ai": {
+        "impact": "Dream Finders'ın Beazer Homes'u satın alması, global emlak piyasalarında bir hareketlilik yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "MDA Space yönetim kuruluna iki yeni üye atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/mda-space-yonetim-kuruluna-iki-yeni-uye-atad-93CH-4019764",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:05:17",
+      "ai": {
+        "impact": "MDA Space'in yönetim kuruluna yeni üyeler ataması, şirketin yönetim yapısını güçlendirebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Embecta çeyreklik 0,01 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/embecta-ceyreklik-001-dolar-temettu-acklad-93CH-4019762",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:04:58",
+      "ai": {
+        "impact": "Embecta'nın temettü açıklaması, şirketin karlılığını göstermesi açısından önemlidir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Morgan Stanley, Marqeta ve NerdWallet notlarını korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-marqeta-ve-nerdwallet-notlarn-korudu-93CH-4019761",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:04:21",
+      "ai": {
+        "impact": "Morgan Stanley'in Marqeta ve NerdWallet notlarını koruması, bu şirketlerin finansal durumunu yansıtabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "BMO Capital, Sherwin-Williams hissesi için hedef fiyatını korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-capital-sherwinwilliams-hissesi-icin-hedef-fiyatn-korudu-93CH-4019760",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:04:07",
+      "ai": {
+        "impact": "BMO Capital'in Sherwin-Williams hissesi için hedef fiyatını koruması, şirketin piyasa beklentilerini yansıtabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Thungela’nın ilk yarı hisse başı kazancı %475’e kadar artabilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/thungelann-ilk-yar-hisse-bas-kazanc-475e-kadar-artabilir-93CH-4019755",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:03:35",
+      "ai": {
+        "impact": "Thungela'nın hisse başı kazancının artması, şirketin finansal performansını göstermesi açısından önemlidir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Ömer Çelik'ten 1800 yıllık keşfe ilişkin dikkat çeken paylaşım",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, Aspendos Antik Kenti&#039;nde bulunan yaklaşık 1800 yıllık Asklepios heykeline ilişkin açıklama yaptı. Türkiye&#039;nin insan yaşamının tarihi ve insanlık mirası açısından eşsiz bir hazine olduğunu belirten Çelik, &quot;Ülkemiz insanlığın tarih yazımına katkıda bulunmaya devam ediyor&quot; dedi.",
+      "url": "https://www.dunya.com/sektorler/turizm/omer-celikten-1800-yillik-kesfe-iliskin-dikkat-ceken-paylasim-haberi-835344",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T10:03:00",
+      "ai": {
+        "impact": "Ömer Çelik'in paylaşımı, Türkiye'nin kültürel ve tarihi zenginliğini vurgulayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Cloudflare yöneticisi Carl Ledbetter 1,41 milyon dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/cloudflare-yoneticisi-carl-ledbetter-141-milyon-dolarlk-hisse-satt-93CH-4019753",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:01:58"
+    },
+    {
+      "title": "Akbank, 1.247 milyon TL takipteki kredi portföyünü 218 milyon TL’ye sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/akbank-1247-milyon-tl-takipteki-kredi-portfoyunu-218-milyon-tlye-satt-93CH-4019752",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:01:48"
+    },
+    {
+      "title": "Fonet, 137,7 milyon TL’lik SBYS ihalesinde en uygun teklifi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/fonet-1377-milyon-tllik-sbys-ihalesinde-en-uygun-teklifi-verdi-93CH-4019751",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:01:37"
+    },
+    {
+      "title": "Roku hissesi bugün neden dalgalı?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/roku-hissesi-bugun-neden-dalgal-93CH-4019750",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T10:00:28"
+    },
+    {
+      "title": "Bitcoin'da büyük hareket yaklaşıyor: Bu iki seviyeye dikkat",
+      "summary": "Bitcoin haftalardır 60 bin ile 67 bin dolar arasında sıkışırken yatırımcılar güçlü hareketin hangi yönde başlayacağını merak ediyor. Kısa süreli yükseliş ve düşüşlerin sık sık tersine dönmesi, aceleyle işlem yapanların zarar riskini artırıyor. Uzmanlara göre 67 bin doların kalıcı biçimde aşılması hâlinde 72 bin dolarlık yeni hedef gündeme gelebilir. Ancak 60 bin dolar desteğinin kaybedilmesi satış",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinda-buyuk-hareket-yaklasiyor-bu-iki-seviyeye-dikkat-galeri-835342",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T09:42:00"
+    },
+    {
+      "title": "Kızı ve torunu 95 yaşındaki kadının 13 milyon TL'sini 20 günde yedi",
+      "summary": "Adana&#039;da yaşayan 95 yaşındaki Türkan İşbilir, babasından miras kalan arsasının torunu ve öz kızı tarafından kandırılarak satıldığını öne sürdü. Yaşlı kadın, 10 daire vaadiyle ikna edildiğini, ancak arsanın 17 milyon liraya satıldığını ve paranın büyük bölümünün kısa sürede harcandığını iddia etti. Olay yargıya taşınırken, son sözü mahkeme söyleyecek.",
+      "url": "https://www.dunya.com/gundem/kizi-ve-torunu-95-yasindaki-kadinin-13-milyon-tlsini-20-gunde-yedi-haberi-835340",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T09:31:00"
+    },
+    {
+      "title": "Altın daha da yükselecek mi? Gram altın düşer mi? Altın son durum...",
+      "summary": "Ons altın bu hafta yüzde 6.5&#039;lik bir yükseliş kaydetti... Gram altın 6 bin 600&#039;leri görürken güvenli limana yatırım yapmak isteyenler &quot;Altın daha da yükselecek mi&quot;, &quot;Gram altın düşer mi&quot; diye soruyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-daha-da-yukselecek-mi-gram-altin-duser-mi-altin-son-durum-galeri-835339",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T09:30:00"
+    },
+    {
+      "title": "BofA'dan yatırımcılara kritik uyarı: Risk azaltmanın zamanı geldi",
+      "summary": "Bank of America (BofA), küresel piyasalarda yatırımcı iyimserliğinin son beş yılın en yüksek seviyesine ulaştığını belirterek riskli varlıklarda temkinli olunması çağrısı yaptı. Banka, yatırımcıların portföylerinde savunma amaçlı varlıklara daha fazla yer vermesini önerdi.",
+      "url": "https://www.dunya.com/finans/haberler/bofadan-yatirimcilara-kritik-uyari-risk-azaltmanin-zamani-geldi-haberi-835341",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T09:25:00"
+    },
     {
       "title": "Değeri 2.4 milyon TL! Suyun altından tek parça çıkardılar",
       "summary": "Aydın&#039;ın Çine ilçesindeki orman yangını sırasında gölete düşen yaklaşık 50 bin dolar değerindeki yangın söndürme helikopteri su taşıma kovası (bambi), sualtı arama kurtarma ekiplerinin titiz çalışmasıyla zarar görmeden çıkarıldı. Operasyon sayesinde hem kritik ekipman kurtarıldı hem de büyük bir ekonomik kaybın önüne geçildi.",
       "url": "https://www.dunya.com/foto-galeri/gundem/degeri-24-milyon-tl-suyun-altindan-tek-parca-cikardilar-galeri-835338",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:20:00",
-      "ai": {
-        "impact": "Yangın söndürme helikopteri su taşıma kovasının kurtarılması, ekonomik kaybın önüne geçilmesini sağladı. Bu durum, yerel ekonomi için pozitif bir etki yaratmıştır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "RBC Capital, Nielsen satın alımı sonrası DoubleVerify notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/rbc-capital-nielsen-satn-alm-sonras-doubleverify-notunu-dusurdu-93CH-4019647",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:15:53",
-      "ai": {
-        "impact": "RBC Capital'in Nielsen satın alımı sonrası DoubleVerify notunu düşürmesi, şirketin değerini düşürebilir. Bu durum, şirketin yatırımcıları için negatif bir etki yaratmıştır.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Sweetgreen hisseleri bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sweetgreen-hisseleri-bugun-neden-dusuyor-93CH-4019646",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:14:18",
-      "ai": {
-        "impact": "Sweetgreen hisselerinin düşmesi, şirketin değerini düşürebilir. Ancak, detaylı bilgi olmadan etki tam olarak belirlenemez.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Türkiye, Suudi Arabistan ve Pakistan bugün savunma anlaşması imzalayacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/turkiye-suudi-arabistan-ve-pakistan-bugun-savunma-anlasmas-imzalayacak-93CH-4019644",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:13:36",
-      "ai": {
-        "impact": "Türkiye, Suudi Arabistan ve Pakistan arasında savunma anlaşması imzalanması, bölgesel güvenliği güçlendirebilir. Bu durum, bölgesel ekonomi için pozitif bir etki yaratmıştır.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-07T09:20:00"
     },
     {
       "title": "Arslantepe’den yukarı Fırat’a binlerce yıllık tarih aynı çatı altında",
       "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 6 Şubat depremlerinde hasar gören Malatya Arkeoloji Müzesi’nde yürütülen restorasyon, güçlendirme ve teşhir-tanzim çalışmalarının tamamlandığını duyurdu. Arslantepe kazılarından Yukarı Fırat Havzası’ndaki önemli arkeolojik merkezlere uzanan eserlerin kronolojik ve tematik bir düzenle bir araya getirildiği müze, yenilenen yüzüyle yarın ziyarete açılacak.",
       "url": "https://www.dunya.com/sektorler/turizm/arslantepeden-yukari-firata-binlerce-yillik-tarih-ayni-cati-altinda-haberi-835337",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T09:09:00",
-      "ai": {
-        "impact": "Arslantepe kazılarından Yukarı Fırat Havzası’ndaki önemli arkeolojik merkezlere uzanan eserlerin kronolojik ve tematik bir düzenle bir araya getirilmesi, turizmi teşvik edebilir. Bu durum, yerel ekonomi için pozitif bir etki yaratmıştır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Sterlin bugün: Bordro riski dolara destek verirken sterlin geriledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/forex-news/sterlin-bugun-bordro-riski-dolara-destek-verirken-sterlin-geriledi-4019641",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:08:57",
-      "ai": {
-        "impact": "Sterlinin değerindeki düşüş, döviz kurlarını etkileyebilir. Bu durum, ekonomi için nötr bir etki yaratmıştır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Yum China, Pizza Hut markasını 1,2 milyar dolara satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/yum-china-pizza-hut-markasn-12-milyar-dolara-satn-ald-93CH-4019627",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:05:36",
-      "ai": {
-        "impact": "Yum China'nın Pizza Hut markasını satın alması, şirketin değerini artırabilir. Bu durum, şirketin yatırımcıları için pozitif bir etki yaratmıştır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Yum Brands, Pizza Hut Çin’i 1,2 milyar dolara sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/yum-brands-pizza-hut-cini-12-milyar-dolara-satt-93CH-4019625",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:05:13",
-      "ai": {
-        "impact": "Yum Brands'ın Pizza Hut Çin’i satması, şirketin değerini düşürebilir. Bu durum, şirketin yatırımcıları için negatif bir etki yaratmıştır.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "JPMorgan’a göre güçlü istihdam raporu hisse satışını tetikleyebilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/jpmorgana-gore-guclu-istihdam-raporu-hisse-satsn-tetikleyebilir-4019629",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:05:08"
-    },
-    {
-      "title": "Emlak Katılım Varlık Kiralama, 50 milyon TL’lik kira sertifikası ihracını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/emlak-katlm-varlk-kiralama-50-milyon-tllik-kira-sertifikas-ihracn-tamamlad-93CH-4019624",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:04:49"
-    },
-    {
-      "title": "MuniFin’in faaliyet karı 2026 ilk yarısında %19,9 düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/munifinin-faaliyet-kar-2026-ilk-yarsnda-199-dustu-93CH-4019616",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:03:27"
-    },
-    {
-      "title": "Deniz Finansal Kiralama, 53,27 milyon TL kupon ödemesi gerçekleştirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/deniz-finansal-kiralama-5327-milyon-tl-kupon-odemesi-gerceklestirdi-93CH-4019615",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T09:03:03"
+      "published": "2026-08-07T09:09:00"
     },
     {
       "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
@@ -130,48 +172,6 @@
       "url": "https://www.dunya.com/gundem/ajdar-oldu-mu-yasiyor-mu-haberi-835335",
       "source": "Dünya Gazetesi",
       "published": "2026-08-07T09:01:00"
-    },
-    {
-      "title": "Komşuda bir dönemin sonu: Etiketler değişiyor",
-      "summary": "Bulgaristan&#039;da euroya geçiş sürecinin önemli aşamalarından biri daha tamamlanıyor. Komşuda yarından itibaren ürün ve hizmet fiyatlarının hem leva hem de euro ile gösterilmesi zorunluluğu sona erecek, etiketlerde tek para birimi olarak Euro kullanılacak.",
-      "url": "https://www.dunya.com/dunya/komsuda-bir-donemin-sonu-etiketler-degisiyor-haberi-835336",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:53:00"
-    },
-    {
-      "title": "AHBAP'a kayyum atandı",
-      "summary": "İstanbul 29. Asliye Hukuk Mahkemesi tarafından AHBAP Derneği’nin yönetimi için kayyum atandı.",
-      "url": "https://www.dunya.com/gundem/ahbapa-kayyum-atandi-haberi-835333",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:52:00"
-    },
-    {
-      "title": "Karadeniz'de artan saldırılar tahıl sevkiyatını sekteye uğrattı",
-      "summary": "Karadeniz ile Azak Denizi&#039;nde limanlar, tahıl terminalleri ve ticari gemilere yönelik saldırıların artması, Rusya ve Ukrayna&#039;nın tahıl ihracatını olumsuz etkilerken küresel gıda arzına ilişkin kaygıları da yeniden gündeme taşıdı.",
-      "url": "https://www.dunya.com/sektorler/tarim/karadenizde-artan-saldirilar-tahil-sevkiyatini-sekteye-ugratti-haberi-835332",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:50:00"
-    },
-    {
-      "title": "FAO açıkladı: Gıda fiyatlarında ibre yeniden yukarı döndü",
-      "summary": "Küresel gıda fiyatları temmuz ayında yeniden yükselişe geçti. Tahıl, şeker ve bitkisel yağlardaki artış, et ile süt ürünlerinde yaşanan düşüşü geride bıraktı. Karadeniz’de ihracat akışının kesintiye uğraması ve üretici ülkelerde etkili olan sıcak hava, buğday fiyatlarını hızla yukarı taşırken bitkisel yağlar dört yılın zirvesine çıktı.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/fao-acikladi-gida-fiyatlarinda-ibre-yeniden-yukari-dondu-galeri-835334",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:48:00"
-    },
-    {
-      "title": "Tren istasyonlarında alkol dönemi bitiyor! Ülke genelinde yasak geliyor",
-      "summary": "Almanya&#039;nın ulusal demiryolu şirketi Deutsche Bahn, yolcu ve personel güvenliğini artırmak amacıyla ülke genelindeki yaklaşık 5 bin 400 tren istasyonunda alkol tüketimini yasaklamaya hazırlanıyor. Yeni düzenlemenin 15 Ekim 2026&#039;ya kadar yürürlüğe girmesi planlanıyor.",
-      "url": "https://www.dunya.com/ekonomi/tren-istasyonlarinda-alkol-donemi-bitiyor-ulke-genelinde-yasak-geliyor-haberi-835331",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:45:00"
-    },
-    {
-      "title": "Spor hisselerinde büyük ayrışma: Yılın ilk 7 ayında yüzü güldüren tek kulüp",
-      "summary": "Borsa İstanbul&#039;da işlem gören spor şirketleri arasında yılın ilk 7 ayında yatırımcısına kazandıran tek kulüp Beşiktaş oldu. Spor endeksi gerilerken siyah-beyazlıların hisseleri yüzde 17,2 yükselirken, diğer üç büyük kulübün hisseleri değer kaybetti.",
-      "url": "https://www.dunya.com/ekonomi/spor-hisselerinde-buyuk-ayrisma-yilin-ilk-7-ayinda-yuzu-gulduren-tek-kulup-haberi-835329",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T08:29:00"
     }
   ]
 }
