@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-08-06T17:04:35+03:00",
-  "overview": "Günün piyasa görünümü genel olarak karışık bir tablo sunuyor. BIST 100 endeksi hafif bir artış gösterirken, uluslararası piyasalar karışıklık içerisindeler. DAX ve BIST 100'de görülen artışa karşılık, S&P 500, Nasdaq ve Nikkei 225'de düşüşler yaşanıyor. Hisse sinyalleri ise çeşitli sektörlerde al ve sat sinyallerini içeriyor, bu da yatırımcıların dikkatli olması gerektiğini gösteriyor.",
+  "updated_at": "2026-08-07T11:07:42+03:00",
+  "overview": "Gün içindeki piyasa değerlendirmesine göre, BIST 100 endeksinin hafif bir artış göstermesi ve bazı yabancı endekslerin karışık bir görünüm sergilemesi dikkat çekiyor. USD/TRY ve Brent Petrol fiyatlarındaki artışlar ve Ons Altın'daki yükseliş, yatırımcıların risk iştahını etkileyebilir. Hisse sinyalleri ise THYAO, TUPRS, GARAN ve YKBNK gibi hisselerde alım sinyalleri verirken, TOASO ve EKGYO'da güçlü satış sinyalleri görülüyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13726.33,
-      "change_pct": 0.17
+      "value": 13884.37,
+      "change_pct": 0.62
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7723.55,
-      "change_pct": -0.17
+      "value": 7709.96,
+      "change_pct": -0.18
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26363.44,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change_pct": -0.06
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26169.89,
-      "change_pct": 0.17
+      "value": 26281.06,
+      "change_pct": 0.54
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 65683.26,
-      "change_pct": -0.93
+      "value": 65606.71,
+      "change_pct": -0.12
     },
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.59,
-      "change_pct": 0.05
+      "value": 47.7,
+      "change_pct": 0.32
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.05,
-      "change_pct": 0.35
+      "value": 54.99,
+      "change_pct": -0.09
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4320.7,
-      "change_pct": 1.76
+      "value": 4348.2,
+      "change_pct": 2.5
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 79.64,
-      "change_pct": 0.24
+      "value": 83.25,
+      "change_pct": 0.92
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6610.94,
+      "value": 6668.42,
       "change_pct": null
     }
   ]
