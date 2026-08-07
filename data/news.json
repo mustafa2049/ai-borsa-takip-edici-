@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-07T15:05:56+03:00",
+  "updated_at": "2026-08-07T16:46:31+03:00",
   "news": [
     {
-      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-      "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T12:00:02",
+      "published": "2026-08-07T13:40:19",
       "ai": {
-        "impact": "Haber, şirketlerin seyahat politikalarını etkileyebilir, ancak Türkiye ve dünya piyasaları üzerinde doğrudan bir etkisi olmayabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "\"232 belediye başkanı CHP'den istifa etti\"",
-      "summary": "Yeni Parti Genel Başkan Yardımcısı Yaşar Tüzün, CHP&#039;den seçilen belediye başkanlarının partilerinden ayrılarak Yeni Parti&#039;ye geçtiğini öne sürdü. Tüzün, şu ana kadar 232 belediye başkanının CHP&#039;den istifa ettiğini, bunların büyük bölümünün üyelik işlemlerini tamamladığını söyledi.",
-      "url": "https://www.dunya.com/gundem/232-belediye-baskani-chpden-istifa-etti-haberi-835355",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T12:00:00",
-      "ai": {
-        "impact": "Yerel siyaset ve belediye başkanlarının partilerinden ayrılması Türkiye'nin iç siyasetini etkileyebilir, ancak dünya piyasaları üzerinde büyük bir etkisi olmayabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Ardelyx hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ardelyx-hissesi-bugun-neden-dusuyor-93CH-4020277",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:55:59",
-      "ai": {
-        "impact": "Hisselerin düşmesi şirketin performansını etkileyebilir, ancak genel piyasalar üzerinde büyük bir etkisi olmayabilir.",
+        "impact": "ABD'de beklenmedik şekilde 23.000 iş kaybı, küresel piyasalarda ekonomik yavaşlama endişelerini artırabilir. Türkiye'de ise dolar kuru ve faiz oranlarına etkisi olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Take-Two Interactive hissesi bugün neden dalgalı?",
+      "title": "Take-Two ilk çeyrek rezervasyonları beklentileri aştı, hisse yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/taketwo-interactive-hissesi-bugun-neden-dalgal-93CH-4020270",
+      "url": "https://tr.investing.com/news/transcripts/taketwo-ilk-ceyrek-rezervasyonlar-beklentileri-ast-hisse-yukseldi-93CH-4020680",
       "source": "Investing Türkiye",
-      "published": "2026-08-07T11:54:13",
+      "published": "2026-08-07T13:18:37",
       "ai": {
-        "impact": "Hisselerin dalgalanması şirketin performansını etkileyebilir, ancak genel piyasalar üzerinde büyük bir etkisi olmayabilir.",
+        "impact": "Take-Two'nun ilk çeyrek rezervasyonlarının beklentileri aşması, şirketin hisse değerini olumlu etkileyebilir. Türkiye'de ise teknoloji ve oyun sektörüne yatırım yapan yatırımcılar için olumlu bir sinyal olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Mizuho, First Solar için hisse hedefini tarife rüzgarıyla yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-first-solar-icin-hisse-hedefini-tarife-ruzgaryla-yukseltti-93CH-4020679",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:18:11",
+      "ai": {
+        "impact": "Mizuho'nun First Solar için hisse hedefini yükseltmesi, şirketin geleceğine olan güveni artırabilir. Türkiye'de ise yenilenebilir enerji sektörüne yatırım yapan yatırımcılar için olumlu bir gelişme olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+      "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-07T13:18:07",
+      "ai": {
+        "impact": "Dijital tıp platformunun hisse değerindeki artış, sağlık sektörüne yatırım yapan yatırımcılar için olumlu bir sinyal olabilir. Türkiye'de ise sağlık teknolojilerine yatırım yapan şirketler için bir fırsat olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "SharonAI Holdings dönüştürülebilir tahvil sahiplerine bildirimde bulundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/sharonai-holdings-donusturulebilir-tahvil-sahiplerine-bildirimde-bulundu-93CH-4020678",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:17:36",
+      "ai": {
+        "impact": "SharonAI Holdings'in dönüştürülebilir tahvil sahiplerine bildirimde bulunması, şirketin finansal durumu hakkında bilgi verebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Barclays, Safran ve Melrose’a kıyasla daha zayıf büyüme kaldıracı nedeniyle MTU’yu düşürdü",
+      "title": "AeroVironment yönetim kuruluna Michael Ruppert’i atadı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/barclays-safran-ve-melrosea-kyasla-daha-zayf-buyume-kaldrac-nedeniyle-mtuyu-dusurdu-4020276",
+      "url": "https://tr.investing.com/news/company-news/aerovironment-yonetim-kuruluna-michael-rupperti-atad-93CH-4020677",
       "source": "Investing Türkiye",
-      "published": "2026-08-07T11:54:07",
+      "published": "2026-08-07T13:17:23",
       "ai": {
-        "impact": "Barclays'ın MTU'nun büyüme kaldıracını düşürmesi, şirketin performansını ve yatırımcı güvenini etkileyebilir.",
+        "impact": "AeroVironment'in yeni yönetim kurulu üyesi ataması, şirketin yönetim yapısını güçlendirebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "SouthState Bank yöneticisi David Brooks 2,71 milyon dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/southstate-bank-yoneticisi-david-brooks-271-milyon-dolarlk-hisse-satt-93CH-4020676",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:16:47",
+      "ai": {
+        "impact": "SouthState Bank yöneticisinin hisse satması, şirketin içsel bilgisi hakkında şüpheler uyandırabilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir endişe kaynağı olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Applied Optoelectronics hissesi neden yükselişte?",
+      "title": "Silicon Valley Acquisition, EigenQ ile anlaşmasını değiştirdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/applied-optoelectronics-hissesi-neden-yukseliste-93CH-4020269",
+      "url": "https://tr.investing.com/news/sec-filings/silicon-valley-acquisition-eigenq-ile-anlasmasn-degistirdi-93CH-4020660",
       "source": "Investing Türkiye",
-      "published": "2026-08-07T11:52:18",
+      "published": "2026-08-07T13:13:42",
       "ai": {
-        "impact": "Hisselerin yükselmesi şirketin performansını ve yatırımcı güvenini artırabilir.",
-        "sentiment": "Pozitif"
+        "impact": "Silicon Valley Acquisition'ın EigenQ ile anlaşmasını değiştirmesi, şirketin stratejik planlarını etkileyebilir. Türkiye'de ise şirketin faaliyetlerine yatırım yapan yatırımcılar için bir gelişme olabilir.",
+        "sentiment": "Nötr"
       }
     },
     {
-      "title": "Rosenblatt, Five9 için hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-five9-icin-hisse-hedefini-yukseltti-93CH-4020250",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:51:58",
-      "ai": {
-        "impact": "Rosenblatt'ın hisse hedefini yükseltmesi, şirketin performansını ve yatırımcı güvenini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "SuperX 20 milyon dolarlık geri alımı tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/superx-20-milyon-dolarlk-geri-alm-tamamlad-93CH-4020236",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:45:15",
-      "ai": {
-        "impact": "SuperX'in 20 milyon dolarlık geri alımı, şirketin finansal durumunu güçlendirebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "BofA belediye tahvili piyasasında getiri baskısı görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bofa-belediye-tahvili-piyasasnda-getiri-basks-goruyor-93CH-4020235",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:44:46"
-    },
-    {
-      "title": "Fed ve yen riskleri artarken ’Amerika’yı sat’ taktiği geri döndü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/fed-ve-yen-riskleri-artarken-amerikay-sat-taktigi-geri-dondu-4020240",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:44:34"
-    },
-    {
-      "title": "Needham, Twilio’nun hedef fiyatını güçlü 2Ç büyümesiyle yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-twilionun-hedef-fiyatn-guclu-2c-buyumesiyle-yukseltti-93CH-4020233",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:44:00"
-    },
-    {
-      "title": "Papa John’s hissesi zayıf sonuçlar sonrası düşürüldü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/papa-johns-hissesi-zayf-sonuclar-sonras-dusuruldu-93CH-4020232",
-      "source": "Investing Türkiye",
-      "published": "2026-08-07T11:43:59"
-    },
-    {
-      "title": "Sağlıklı fast-food zinciri iflas etti! Tüm şubelerini kapatıyor",
-      "summary": "ABD&#039;de uygun fiyatlı sağlıklı yemek konseptiyle büyüyen Salad And Go, iflas koruması başvurusunun ardından kalan tüm restoranlarını kapatma kararı aldı. Bir dönem 146 şubeye ulaşan zincir, artan maliyetler, hızlı büyümenin getirdiği yük ve zayıflayan tüketici talebi nedeniyle faaliyetlerine son veriyor.",
-      "url": "https://www.dunya.com/ekonomi/saglikli-fast-food-zinciri-iflas-etti-tum-subelerini-kapatiyor-haberi-835354",
+      "title": "Fed toplantısı ne zaman? Fed faiz kararı hangi gün açıklanacak?",
+      "summary": "ABD&#039;de tarım dışı istihdam rakamları açıklandı. Sırada enflasyon rakamları ve Fed faiz kararı var. Tam tarihi öğrenmek isteyenler &quot;Fed faiz kararı ne zaman açıklanacak&quot; sorusuna başvuruyor.",
+      "url": "https://www.dunya.com/ekonomi/fed-toplantisi-ne-zaman-fed-faiz-karari-hangi-gun-aciklanacak-haberi-835365",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:39:00"
+      "published": "2026-08-07T13:12:00"
     },
     {
-      "title": "GS hazırlık maçı: Galatasaray - Villareal maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "Galatasaray lig öncesi son hazırlık maçına çıkıyor. Aslan&#039;ın rakibi İspanyol temsilcisi Villareal… Mücadele tarihi ve saati yaklaşırken &quot;Galatasaray - Villareal maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu sıklaşıyor.",
-      "url": "https://www.dunya.com/spor/gs-hazirlik-maci-galatasaray-villareal-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835352",
+      "title": "Wedbush: Lumilens finansmanı POET Technologies için olumlu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/wedbush-lumilens-finansman-poet-technologies-icin-olumlu-93CH-4020647",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:10:12"
+    },
+    {
+      "title": "THY temmuzda 9,5 milyon yolcu taşıyarak rekor kırdı",
+      "summary": "Türk Hava Yolları (THY), 2026 yılı temmuz ayına ilişkin trafik verilerini açıkladı. Şirket, bir ayda 9,5 milyon yolcu taşıyarak tarihinin en yüksek temmuz ayı doluluk oranına ulaştı. Yılın ilk yedi ayında taşınan toplam yolcu sayısı ise 54 milyona yükseldi.",
+      "url": "https://www.dunya.com/ekonomi/thy-temmuzda-95-milyon-yolcu-tasiyarak-rekor-kirdi-haberi-835364",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:25:00"
+      "published": "2026-08-07T13:07:00"
     },
     {
-      "title": "The July jobs numbers are due out Friday. Here's what to expect",
-      "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+      "title": "Castor Maritime ortak girişim kurdu, gemi hissesi sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/castor-maritime-ortak-girisim-kurdu-gemi-hissesi-satt-93CH-4020636",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:05:19"
+    },
+    {
+      "title": "Jefferies, Arteris hissesini kârlılık görünümüyle yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-arteris-hissesini-karllk-gorunumuyle-yukseltti-93CH-4020635",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:04:00"
+    },
+    {
+      "title": "Halk Finansal Kiralama, 4 milyar TL borçlanma aracı ihracı kararı aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/halk-finansal-kiralama-4-milyar-tl-borclanma-arac-ihrac-karar-ald-93CH-4020633",
+      "source": "Investing Türkiye",
+      "published": "2026-08-07T13:03:46"
+    },
+    {
+      "title": "Trabzonspor, Muhammed Salah'ın alacaklarına ilişkin haciz iddialarını yalanladı",
+      "summary": "Trabzonspor, Mısırlı futbolcu Muhammed Salah&#039;ın bordo-mavili kulüpten alacaklarına haciz konulduğu yönündeki iddiaları yalanladı. Kulüp, gerçeği yansıtmadığını belirttiği haberleri yayımlayan kişi ve kuruluşlar hakkında hukuki süreç başlatıldığını açıkladı.",
+      "url": "https://www.dunya.com/spor/trabzonspor-muhammed-salahin-alacaklarina-iliskin-haciz-iddialarini-yalanladi-haberi-835367",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T13:02:00"
+    },
+    {
+      "title": "ABD'den gelen veri altını ateşledi! Fiyatlar bir anda sıçradı",
+      "summary": "ABD&#039;de tarım dışı istihdamın artış beklentisine karşın gerilemesi, değerli metal piyasalarında sert yükseliş getirdi. Ons altın dakikalar içinde yüzde 3&#039;ten fazla değer kazanırken gram altın 6 bin 700 lira sınırına dayandı. Gümüşteki yükseliş ise yüzde 5&#039;i aştı.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/abdden-gelen-veri-altini-atesledi-fiyatlar-bir-anda-sicradi-galeri-835366",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T12:59:00"
+    },
+    {
+      "title": "ABD enflasyon rakamları ne zaman açıklanacak? ABD TÜFE oranları hangi gün ilan edilecek?",
+      "summary": "ABD tarım dışı istihdam rakamları açıklandı. Tarım dışı istihdam beklentinin altında kalırken gözler şimdi enflasyon rakamlarına çevrildi. Şimdi sıkça &quot;ABD enflasyon rakamları ne zaman açıklanacak&quot; sorusu geliyor.",
+      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-aciklanacak-abd-tufe-oranlari-hangi-gun-ilan-edilecek-haberi-835362",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T12:56:00"
+    },
+    {
+      "title": "İspanya'dan İtalya'ya ültimatom: 9 Ağustos'a kadar süre verdi",
+      "summary": "İspanya ile İtalya arasında sınır kontrolü gerilimi tırmandı. Madrid yönetimi, İspanya&#039;dan gelen yolculara uygulanan geçici kontrollerin kaldırılması için Roma&#039;ya 9 Ağustos&#039;a kadar süre verdi. Kararı &quot;tek taraflı&quot; ve &quot;haksız&quot; olarak nitelendiren İspanya, aksi hâlde mütekabiliyet ilkesi doğrultusunda orantılı tedbirler alacağını duyurdu.",
+      "url": "https://www.dunya.com/dunya/ispanyadan-italyaya-ultimatom-9-agustosa-kadar-sure-verdi-haberi-835361",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T12:45:00"
+    },
+    {
+      "title": "Yapay zekanın babasından yeni uyarı: Kontrolü kaybediyoruz",
+      "summary": "Yapay zekanın babası olarak tanınan Nobel ödüllü bilgisayar bilimcisi Geoffrey Hinton, gelişmiş yapay zeka sistemlerinin giderek daha zor kontrol edileceği uyarısında bulundu. Son dönemde bazı yapay zeka modellerinin test ortamlarının dışına çıkarak farklı sistemlere erişmesi de Hinton&#039;ın güvenlik endişelerini yeniden gündeme taşıdı.",
+      "url": "https://www.dunya.com/dunya/yapay-zekanin-babasindan-yeni-uyari-kontrolu-kaybediyoruz-haberi-835363",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-07T12:44:00"
+    },
+    {
+      "title": "Private equity is circling budget airlines after Apollo's EasyJet deal — and this carrier could be next",
+      "summary": "Private equity investors could target more undervalued airlines following Apollo's swoop for EasyJet.",
+      "url": "https://www.cnbc.com/2026/08/07/easyjet-apollo-private-equity-airlines-travel.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-07T11:23:07"
-    },
-    {
-      "title": "Adalet Bakanı Akın Gürlek: Eski Türkiye'de şahıslar güçlüydü, bugün ise devlet güçlü",
-      "summary": "Adalet Bakanı Akın Gürlek, Iğdır&#039;da düzenlenen Dijital Medya Çalıştayı&#039;nda gündeme ilişkin önemli değerlendirmelerde bulundu. &quot;Terörsüz Türkiye&quot; sürecinden sosyal medya yasasına, yapay zekâ çalışmalarından faili meçhul cinayetlere kadar birçok başlıkta açıklama yapan Gürlek, &quot;Türkiye artık eski Türkiye değil. Eski Türkiye&#039;de şahıslar güçlüydü. Bugün ise devlet güçlü, ",
-      "url": "https://www.dunya.com/gundem/adalet-bakani-akin-gurlek-eski-turkiyede-sahislar-gucluydu-bugun-ise-devlet-guclu-haberi-835351",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:20:00"
-    },
-    {
-      "title": "Çin'den altın hamlesi: Rezervlere yaklaşık 20 ton daha eklendi",
-      "summary": "Çin Merkez Bankası, temmuz ayında yaklaşık 20 tonluk altın alımıyla rezervlerini üst üste 21&#039;inci ay artırdı. Böylece Ekim 2023&#039;ten bu yana en güçlü aylık alım gerçekleşirken, rezervlerin toplam değeri 306 milyar doların üzerine çıktı.",
-      "url": "https://www.dunya.com/ekonomi/cinden-altin-hamlesi-rezervlere-yaklasik-20-ton-daha-eklendi-haberi-835350",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:18:00"
-    },
-    {
-      "title": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
-      "summary": "MVAAFF founder Floyd Rance says the festival has found a sustainable audience on the Massachusetts island, helping it weather macroeconomic uncertainty.",
-      "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-07T11:16:34"
-    },
-    {
-      "title": "Turkcell'e rekor ilgi! 58 bin başvuru arasından seçilen 252 genç işe başladı",
-      "summary": "Turkcell&#039;in genç yetenek programı GNÇYTNK 2026 tamamlandı. Türkiye&#039;deki 208 üniversitenin tamamından 58 bin 36 başvuru alınırken, değerlendirme sürecini başarıyla geçen 252 genç Turkcell&#039;de kariyerine ilk adımı attı. Böylece program kapsamında bugüne kadar şirkete kazandırılan genç yetenek sayısı 1836&#039;ya ulaştı.",
-      "url": "https://www.dunya.com/sirketler/turkcelle-rekor-ilgi-58-bin-basvuru-arasindan-secilen-252-genc-ise-basladi-haberi-835348",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:15:00"
-    },
-    {
-      "title": "AB'den Ar-Ge'ye 130 milyar euroluk kaynak",
-      "summary": "Avrupa Birliği (AB) ülkeleri, 2025 yılında araştırma ve geliştirme (AR-GE) faaliyetleri için bütçelerinden toplam 130,2 milyar euro ayırdı. Son 10 yılda yüzde 60&#039;ın üzerinde artan kamu kaynaklarında en büyük payı üniversitelere ayrılan fonlar oluşturdu.",
-      "url": "https://www.dunya.com/ekonomi/abden-ar-geye-130-milyar-euroluk-kaynak-haberi-835353",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-07T11:13:00"
+      "published": "2026-08-07T12:35:19"
     }
   ]
 }
