@@ -1,121 +1,163 @@
 {
-  "updated_at": "2026-08-10T18:30:02+03:00",
+  "updated_at": "2026-08-10T19:23:59+03:00",
   "news": [
     {
-      "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
-      "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T15:28:45",
+      "title": "Kaleon Ağustos başında 3.150 euroya 794 hisse geri aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/kaleon-agustos-basnda-3150-euroya-794-hisse-geri-ald-93CH-4023219",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:17:30",
       "ai": {
-        "impact": "Petrol fiyatlarının artması, enflasyonu artırabilir ve Türkiye'de enerji maliyetlerini artırabilir. Bu durum, Türkiye'de üretim maliyetlerini artırarak ekonomiyi olumsuz etkileyebilir.",
+        "impact": "Kaleon'un hisse geri alımı şirketin finansal durumunu güçlendirebilir. Ancak, etkileri sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "ZGYO kârını yüzde 10,5 artırdı",
+      "summary": "Z GYO bilanço sonuçlarında 2026 yılının ilk yarısında 1,25 milyar TL net kâr açıkladı. Kâr geçen yılın aynı dönemine göre yüzde 10,5 artarken, sonuçlarda 1,83 milyar TL&#039;lik gayrimenkul değerleme kazancı belirleyici oldu.",
+      "url": "https://www.dunya.com/finans/haberler/zgyo-karini-yuzde-105-artirdi-haberi-835687",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T16:17:00",
+      "ai": {
+        "impact": "ZGYO'nun kâr artışının Türkiye'de gayrimenkul sektörüne olumlu yansıyabileceği düşünülüyor. Şirketin performansı sektörün genel durumunu yansıtabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Cognex Teknoloji Liderlik Forumu 2026’da: marjlar yükseliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/cognex-teknoloji-liderlik-forumu-2026da-marjlar-yukseliyor-93CH-4023217",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:14:49",
+      "ai": {
+        "impact": "Cognex Teknoloji Liderlik Forumu'nun teknoloji sektörüne etkileri sınırlı olabilir. Ancak, teknoloji liderlerinin bir araya gelmesi sektörün gelişimine katkıda bulunabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Prudential Financial hissesi 52 haftalık dipte 15,77 dolar",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/prudential-financial-hissesi-52-haftalk-dipte-1577-dolar-93CH-4023216",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:14:44",
+      "ai": {
+        "impact": "Prudential Financial hissesinin 52 haftalık dip seviyede olması şirketin kısa vadeli performansını yansıtabilir. Ancak, uzun vadeli etkileri belirsizdir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Spotify hisseleri neden yükselişte?",
+      "title": "Banco Santander 1,83 milyar euroluk geri alım programını onayladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/spotify-hisseleri-neden-yukseliste-93CH-4023163",
+      "url": "https://tr.investing.com/news/company-news/banco-santander-183-milyar-euroluk-geri-alm-programn-onaylad-93CH-4023215",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T15:23:27",
+      "published": "2026-08-10T16:13:52",
       "ai": {
-        "impact": "Spotify hisselerinin yükselişi, teknoloji sektörüne olan güveni artırabilir ve benzer şirketlerin hisselerine olumlu yansıyabilir.",
+        "impact": "Banco Santander'in hisse geri alım programı şirketin finansal durumunu güçlendirebilir. Bu, şirketin hisse değerini artırabilir.",
         "sentiment": "Pozitif"
       }
+    },
+    {
+      "title": "Gold just had its best week in 7 months. Here’s why Mike Khouw is buying more",
+      "summary": "Gold logged its best weekly gain in seven months driven by several forces.",
+      "url": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T16:09:32",
+      "ai": {
+        "impact": "Altın fiyatlarının artması global ekonomide belirsizliklerin arttığını gösterebilir. Bu, yatırımcıların güvenli limanlara yönelmesine neden olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "JFrog’da yapay zeka büyümeyi hızlandırıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/jfrogda-yapay-zeka-buyumeyi-hzlandryor-93CH-4023210",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:08:31",
+      "ai": {
+        "impact": "JFrog'da yapay zeka büyümesinin hızlanması şirketin inovasyon kapasitesini artırabilir. Bu, teknoloji sektöründe şirketin rekabet gücünü artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "HyOrc Corp dönüştürülebilir senet ve hisse finansmanı anlaşması yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/hyorc-corp-donusturulebilir-senet-ve-hisse-finansman-anlasmas-yapt-93CH-4023209",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:08:19",
+      "ai": {
+        "impact": "HyOrc Corp'un finansman anlaşması şirketin büyüme planlarını destekleyebilir. Ancak, etkileri sınırlı olabilir ve şirketin performansı belirsizdir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Trabzonspor'un borcu belli oldu",
+      "summary": "Trabzonspor Kulübünün, 31 Mayıs 2026 itibarıyla net borcunun 5,9 milyar lira olduğu bildirildi.",
+      "url": "https://www.dunya.com/gundem/trabzonsporun-borcu-belli-oldu-haberi-835686",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T16:07:00"
+    },
+    {
+      "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T16:04:30"
+    },
+    {
+      "title": "Greenland Mines özel hissedar toplantısını Eylül’e erteledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/greenland-mines-ozel-hissedar-toplantsn-eylule-erteledi-93CH-4023202",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:03:51"
+    },
+    {
+      "title": "Biomarin Pharmaceutical hissesi 66,28 dolarda zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/biomarin-pharmaceutical-hissesi-6628-dolarda-zirve-yapt-93CH-4023200",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:02:23"
+    },
+    {
+      "title": "İran gerginliği petrol fiyatlarını artırdı, havayolu hisseleri düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/iran-gerginligi-petrol-fiyatlarn-artrd-havayolu-hisseleri-dustu-93CH-4023199",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T16:02:22"
+    },
+    {
+      "title": "Equinix Teknoloji Liderlik Forumu 2026’da kapasite ve yapay zeka odaklı görünüm sundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/equinix-teknoloji-liderlik-forumu-2026da-kapasite-ve-yapay-zeka-odakl-gorunum-sundu-93CH-4023195",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T15:56:54"
+    },
+    {
+      "title": "Bulls GSYO’dan Sekuro Plastik’e yatırım",
+      "summary": "Bulls GSYO, Sekuro Plastik Ambalaj Sanayi A.Ş.’nin yüzde 27,18’lik payını devralmak üzere anlaşma imzaladı. Yatırımın tamamlanmasının ardından Sekuro Plastik’in katma değeri yüksek yeni bir alanda faaliyet göstermesi planlanıyor.",
+      "url": "https://www.dunya.com/sirketler/bulls-gsyodan-sekuro-plastike-yatirim-haberi-835685",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T15:51:00"
+    },
+    {
+      "title": "İran Cumhurbaşkanı Pezeşkiyan: Mücteba Hamaney'in sağlık durumu iyi",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülke lideri Mücteba Hamaney&#039;in sağlık durumunun iyi olduğunu söyledi.",
+      "url": "https://www.dunya.com/dunya/iran-cumhurbaskani-pezeskiyan-mucteba-hamaneyin-saglik-durumu-iyi-haberi-835683",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T15:48:00"
+    },
+    {
+      "title": "SpaceX stock rebounds to near $135 IPO price",
+      "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+      "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T15:40:03"
     },
     {
       "title": "Borsa İstanbul günü yükselişle tamamladı",
       "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,23 değer kazanarak 13.811,60 puandan tamamladı.",
       "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-835682",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T15:23:00",
-      "ai": {
-        "impact": "Borsa İstanbul'da BIST 100 endeksinin yükselişi, Türkiye ekonomisine olan güveni artırabilir ve yatırımcıların iştahını artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Benchmark, Texas Roadhouse hisseleri için Tut tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-texas-roadhouse-hisseleri-icin-tut-tavsiyesini-yineledi-93CH-4023161",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:22:03",
-      "ai": {
-        "impact": "Texas Roadhouse hisseleri için Tut tavsiyesinin yinelenmesi, şirketin geleceğine olan güveni artırabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Benchmark, 2Ç sonrası Dine Brands için Tut tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-2c-sonras-dine-brands-icin-tut-tavsiyesini-korudu-93CH-4023162",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:22:03",
-      "ai": {
-        "impact": "Dine Brands için Tut tavsiyesinin korunması, şirketin performansına olan güveni artırabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Datadog hissesi bugün neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/datadog-hissesi-bugun-neden-yukseliste-93CH-4023160",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:20:45",
-      "ai": {
-        "impact": "Datadog hissesinin yükselişi, teknoloji sektörüne olan güveni artırabilir ve benzer şirketlerin hisselerine olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Uber hisseleri bugün neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/uber-hisseleri-bugun-neden-yukseliste-93CH-4023159",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:18:46",
-      "ai": {
-        "impact": "Uber hisselerinin yükselişi, teknoloji sektörüne olan güveni artırabilir ve benzer şirketlerin hisselerine olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "OSR Health yönetim kurulunu yeniden seçti, önemli teklifleri onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/osr-health-yonetim-kurulunu-yeniden-secti-onemli-teklifleri-onaylad-93CH-4023158",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:16:24",
-      "ai": {
-        "impact": "OSR Health yönetim kurulunun yeniden seçilmesi ve önemli tekliflerin onaylanması, şirketin geleceğine olan güveni artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "UBS, Micron hissesi için Al tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-micron-hissesi-icin-al-tavsiyesini-yineledi-93CH-4023157",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:16:19"
-    },
-    {
-      "title": "Benchmark, Disney hissesi için hedef fiyatı korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-disney-hissesi-icin-hedef-fiyat-korudu-93CH-4023156",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:16:10"
-    },
-    {
-      "title": "Benchmark, Take-Two hissesi için Al tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-taketwo-hissesi-icin-al-tavsiyesini-korudu-93CH-4023155",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:16:07"
-    },
-    {
-      "title": "UBS, Matador’un hisse hedefini güçlü 2Ç performansıyla yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-matadorun-hisse-hedefini-guclu-2c-performansyla-yukseltti-93CH-4023154",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T15:15:50"
+      "published": "2026-08-10T15:23:00"
     },
     {
       "title": "KKTC Başbakanı Üstel'den Dışişleri Bakanı Fidan'a teşekkür",
@@ -125,53 +167,11 @@
       "published": "2026-08-10T15:14:00"
     },
     {
-      "title": "SpaceX stock rebounds to near $135 IPO price",
-      "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
-      "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T15:13:09"
-    },
-    {
       "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
       "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
       "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
       "source": "CNBC World Markets",
       "published": "2026-08-10T15:06:58"
-    },
-    {
-      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-      "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
-      "url": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T15:03:24"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Avusturya ile ticaret hacminde 5 milyar dolar hedefliyoruz",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Avusturya ile ekonomik ve ticari ilişkilerde yakalanan olumlu ivmeye dikkati çekerek, 2025&#039;te yaklaşık 4,5 milyar dolar olan ticaret hacmini bu yıl 5 milyar dolara ulaştırmayı hedeflediklerini söyledi. Erdoğan, Türkiye-Avrupa Birliği ilişkileri, Suriye, Gazze ve bölgesel gelişmelere ilişkin de değerlendirmelerde bulundu.",
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-avusturya-ile-ticaret-hacminde-5-milyar-dolar-hedefliyoruz-haberi-835677",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T14:59:00"
-    },
-    {
-      "title": "Irak: Hiçbir ittifakın ya da eksenin bir parçası olmayacağız",
-      "summary": "Irak hükümeti, her türlü siyasi veya ekonomik işbirliğini desteklediğini ancak hiçbir &quot;eksen veya ittifakın&quot; parçası olmayacağını açıkladı.",
-      "url": "https://www.dunya.com/dunya/irak-hicbir-ittifakin-ya-da-eksenin-bir-parcasi-olmayacagiz-haberi-835675",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T14:53:00"
-    },
-    {
-      "title": "Hürmüz krizi Avrupa'yı vurdu: Doğal gaz fiyatları yüzde 8 yükseldi",
-      "summary": "Avrupa&#039;da doğal gaz fiyatları Hürmüz Boğazı&#039;ndan sevkiyatlara ilişkin belirsizliklerin etkisiyle yüzde 8 yükseldi.",
-      "url": "https://www.dunya.com/ekonomi/hurmuz-krizi-avrupayi-vurdu-dogal-gaz-fiyatlari-yuzde-8-yukseldi-haberi-835673",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T14:47:00"
-    },
-    {
-      "title": "Tam Güneş tutulması ne zaman, saat kaçta? Ülkemizden Güneş tutulması izlenecek mi?",
-      "summary": "Tam Güneş tutulması için heyecanlı bekleyiş. Doğa olaylarına ilgi duyanlar Türkiye&#039;den tutulmanın görülüp görülmeyeceğini merak ediyor. Tarih yaklaştıkça &quot;Tam Güneş tutulması ne zaman, saat kaçta&quot; sorusu hızlanıyor.",
-      "url": "https://www.dunya.com/gundem/tam-gunes-tutulmasi-ne-zaman-saat-kacta-ulkemizden-gunes-tutulmasi-izlenecek-mi-haberi-835674",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T14:47:00"
     }
   ]
 }

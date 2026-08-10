@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T18:30:02+03:00",
+  "updated_at": "2026-08-10T19:23:59+03:00",
   "eval_days": 7,
   "overall": {
     "evaluated": 82,
@@ -29,32 +29,12 @@
     }
   },
   "by_symbol": {
-    "ISCTR": {
-      "evaluated": 4,
-      "correct": 1,
-      "accuracy_pct": 25.0
-    },
-    "THYAO": {
+    "KCHOL": {
       "evaluated": 6,
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "TOASO": {
-      "evaluated": 6,
-      "correct": 4,
-      "accuracy_pct": 66.7
-    },
-    "ASELS": {
-      "evaluated": 6,
-      "correct": 2,
-      "accuracy_pct": 33.3
-    },
-    "FROTO": {
-      "evaluated": 6,
-      "correct": 4,
-      "accuracy_pct": 66.7
-    },
-    "KCHOL": {
+    "THYAO": {
       "evaluated": 6,
       "correct": 0,
       "accuracy_pct": 0.0
@@ -64,35 +44,20 @@
       "correct": 6,
       "accuracy_pct": 100.0
     },
-    "PGSUS": {
-      "evaluated": 1,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "AKBNK": {
+    "ASELS": {
       "evaluated": 6,
-      "correct": 6,
-      "accuracy_pct": 100.0
+      "correct": 2,
+      "accuracy_pct": 33.3
     },
-    "EKGYO": {
+    "TOASO": {
       "evaluated": 6,
-      "correct": 5,
-      "accuracy_pct": 83.3
-    },
-    "YKBNK": {
-      "evaluated": 6,
-      "correct": 5,
-      "accuracy_pct": 83.3
+      "correct": 4,
+      "accuracy_pct": 66.7
     },
     "GARAN": {
       "evaluated": 6,
       "correct": 3,
       "accuracy_pct": 50.0
-    },
-    "SISE": {
-      "evaluated": 5,
-      "correct": 1,
-      "accuracy_pct": 20.0
     },
     "BIMAS": {
       "evaluated": 6,
@@ -103,6 +68,41 @@
       "evaluated": 6,
       "correct": 0,
       "accuracy_pct": 0.0
+    },
+    "YKBNK": {
+      "evaluated": 6,
+      "correct": 5,
+      "accuracy_pct": 83.3
+    },
+    "SISE": {
+      "evaluated": 5,
+      "correct": 1,
+      "accuracy_pct": 20.0
+    },
+    "ISCTR": {
+      "evaluated": 4,
+      "correct": 1,
+      "accuracy_pct": 25.0
+    },
+    "AKBNK": {
+      "evaluated": 6,
+      "correct": 6,
+      "accuracy_pct": 100.0
+    },
+    "PGSUS": {
+      "evaluated": 1,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "FROTO": {
+      "evaluated": 6,
+      "correct": 4,
+      "accuracy_pct": 66.7
+    },
+    "EKGYO": {
+      "evaluated": 6,
+      "correct": 5,
+      "accuracy_pct": 83.3
     }
   },
   "recent": [

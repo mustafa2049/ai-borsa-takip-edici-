@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T18:30:02+03:00",
+  "updated_at": "2026-08-10T19:23:59+03:00",
   "signals": [
     {
       "symbol": "THYAO",
@@ -24,14 +24,14 @@
       "revenue_growth": 20.5,
       "ai": {
         "signal": "AL",
-        "confidence": 70,
+        "confidence": 60,
         "target_price": 320.0,
         "stop_loss": 280.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 38.6 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük hareketli ortalamalarının altında olması",
-          "Son dönemde hisse fiyatında görülen düşüş trendinin tersine dönme ihtimali"
+          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
+          "Son 1 ayda %10.42'luk değer kaybı"
         ]
       }
     },
@@ -58,14 +58,14 @@
       "revenue_growth": 32.6,
       "ai": {
         "signal": "SAT",
-        "confidence": 60,
-        "target_price": null,
-        "stop_loss": null,
-        "timeframe": "1-2 Hafta",
+        "confidence": 70,
+        "target_price": 320.0,
+        "stop_loss": 380.0,
+        "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 48.3 ile orta seviyede",
-          "Fiyatın 20 günlük hareketli ortalamasının üzerinde olması",
-          "Son dönemde hisse fiyatında görülen yükseliş trendinin devam etme ihtimali düşük"
+          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde kalması",
+          "P/B oranı 5.3 ile diğer hisselerle karşılaştırıldığında yüksek"
         ]
       }
     },
@@ -92,14 +92,14 @@
       "revenue_growth": 56.7,
       "ai": {
         "signal": "NÖTR",
-        "confidence": 50,
+        "confidence": 40,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "1-2 Hafta",
+        "timeframe": "Belirsiz",
         "rationale": [
           "RSI 14 değeri 33.2 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük hareketli ortalamalarının altında olması",
-          "Son dönemde hisse fiyatında görülen düşüş trendinin devam etme ihtimali"
+          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
+          "P/E oranı 526.86 ile çok yüksek"
         ]
       }
     },
@@ -127,13 +127,13 @@
       "ai": {
         "signal": "GÜÇLÜ AL",
         "confidence": 80,
-        "target_price": 360.0,
+        "target_price": 380.0,
         "stop_loss": 300.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 76.7 ile yüksek seviyede",
-          "Fiyatın 20 ve 50 günlük hareketli ortalamalarının üzerinde olması",
-          "Son dönemde hisse fiyatında görülen yükseliş trendinin devam etme ihtimali yüksek"
+          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının üzerinde kalması",
+          "Son 1 ayda %28.67'lik değer kazancı"
         ]
       }
     },
@@ -161,13 +161,13 @@
       "ai": {
         "signal": "AL",
         "confidence": 65,
-        "target_price": 135.0,
-        "stop_loss": 120.0,
-        "timeframe": "1-2 Hafta",
+        "target_price": 140.0,
+        "stop_loss": 110.0,
+        "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 45.3 ile orta seviyede",
-          "Fiyatın 20 günlük hareketli ortalamasının altında olması",
-          "Son dönemde hisse fiyatında görülen düşüş trendinin tersine dönme ihtimali"
+          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde kalması",
+          "P/B oranı 1.09 ile düşük"
         ]
       }
     },
@@ -196,12 +196,12 @@
         "signal": "AL",
         "confidence": 70,
         "target_price": 72.5,
-        "stop_loss": 63.0,
+        "stop_loss": 62.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
-          "RSI 14 değeri 45.8 ile aşırı satım bölgesinde",
-          "MACD ve sinyal çizgisi arasında negatif ayrışmanın devam etmesi",
-          "Bollinger bantlarının alt sınırının destek olarak görev yapması"
+          "RSI 14 değeri 45.8 ile düşük seviyede",
+          "F/K oranı 5.21 ile sektörde düşük",
+          "Özkaynak karlılığı %22.9 ile yüksek"
         ]
       }
     },
@@ -227,15 +227,15 @@
       "profit_margin": 16.1,
       "revenue_growth": 24.8,
       "ai": {
-        "signal": "SAT",
-        "confidence": 60,
-        "target_price": 11.0,
-        "stop_loss": 13.5,
-        "timeframe": "1-3 Hafta",
+        "signal": "NÖTR",
+        "confidence": 40,
+        "target_price": null,
+        "stop_loss": null,
+        "timeframe": "2-4 Hafta",
         "rationale": [
-          "RSI 14 değeri 31.5 ile aşırı satım bölgesinde",
-          "Firma gelir büyümesinde yavaşlama gözlemlenmesi",
-          "SMA 20 ve SMA 50'nin aşağı yönlü eğilimini koruması"
+          "RSI 14 değeri 31.5 ile çok düşük",
+          "F/K oranı 3.97 ile sektörde düşük",
+          "Hacim düşük"
         ]
       }
     },
@@ -263,13 +263,13 @@
       "ai": {
         "signal": "AL",
         "confidence": 65,
-        "target_price": 36.5,
-        "stop_loss": 32.0,
+        "target_price": 37.5,
+        "stop_loss": 30.0,
         "timeframe": "2-4 Hafta",
         "rationale": [
-          "RSI 14 değeri 46.4 ile nötr bölgede",
-          "MACD ve sinyal çizgisi arasında negatif ayrışmanın devam etmesi",
-          "Bollinger bantlarının alt sınırının destek olarak görev yapması"
+          "RSI 14 değeri 46.4 ile düşük",
+          "F/K oranı 5.19 ile sektörde düşük",
+          "Özkaynak karlılığı %21.8 ile yüksek"
         ]
       }
     },
@@ -296,14 +296,14 @@
       "revenue_growth": 12.8,
       "ai": {
         "signal": "SAT",
-        "confidence": 55,
+        "confidence": 60,
         "target_price": 190.0,
         "stop_loss": 210.0,
-        "timeframe": "1-3 Hafta",
+        "timeframe": "2-4 Hafta",
         "rationale": [
-          "RSI 14 değeri 57.9 ile aşırı alım bölgesine yaklaşıyor",
-          "Firma gelir büyümesinde yavaşlama gözlemlenmesi",
-          "SMA 20 ve SMA 50'nin yukarı yönlü eğilimini koruması"
+          "RSI 14 değeri 57.9 ile yüksek",
+          "F/K oranı 21.22 ile sektörde yüksek",
+          "Kâr marjı %1.9 ile düşük"
         ]
       }
     },
@@ -330,14 +330,14 @@
       "revenue_growth": 7.4,
       "ai": {
         "signal": "NÖTR",
-        "confidence": 50,
+        "confidence": 45,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "Değersiz",
+        "timeframe": "2-4 Hafta",
         "rationale": [
-          "RSI 14 değeri 47.7 ile nötr bölgede",
-          "MACD ve sinyal çizgisi arasında negatif ayrışmanın devam etmesi",
-          "Bollinger bantlarının alt ve üst sınırlarının daralması"
+          "RSI 14 değeri 47.7 ile orta seviyede",
+          "F/K oranı 22.87 ile sektörde yüksek",
+          "Özkaynak karlılığı %2.4 ile düşük"
         ]
       }
     },
@@ -370,8 +370,8 @@
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 39.2 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "P/B oranı 0.31 ile düşük seviyede"
+          "F/K oranı 11.0 ile makul seviyede",
+          "Özkaynak karlılığı %3.6 ile düşük olmakla birlikte, net kar marjı %4.5 ile kabul edilebilir"
         ]
       }
     },
@@ -401,11 +401,11 @@
         "confidence": 80,
         "target_price": 410.0,
         "stop_loss": 360.0,
-        "timeframe": "2-4 Hafta",
+        "timeframe": "4-6 Hafta",
         "rationale": [
-          "RSI 14 değeri 50.7 ile orta seviyede",
-          "Fiyatın 20 günlük basit hareketli ortalamasının üzerinde kalması",
-          "Gelir büyümesi %10.1 ile yüksek seviyede"
+          "RSI 14 değeri 50.7 ile nötr seviyede",
+          "F/K oranı 21.37 ile slightly yüksek olmakla birlikte, özkaynak karlılığı %13.4 ile iyi",
+          "Gelir büyümesi %10.1 ile olumlu"
         ]
       }
     },
@@ -433,13 +433,13 @@
       "ai": {
         "signal": "SAT",
         "confidence": 60,
-        "target_price": null,
-        "stop_loss": null,
-        "timeframe": "1-2 Hafta",
+        "target_price": 70.0,
+        "stop_loss": 85.0,
+        "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 38.4 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "Gelir büyümesi %-14.1 ile düşük seviyede"
+          "Gelir büyümesi %-14.1 ile çok olumsuz",
+          "F/K oranı 8.76 ile makul seviyede olmakla birlikte, net kar marjı %3.5 ile slightly düşük"
         ]
       }
     },
@@ -465,15 +465,15 @@
       "profit_margin": 3.0,
       "revenue_growth": 11.0,
       "ai": {
-        "signal": "GÜÇLÜ SAT",
-        "confidence": 90,
-        "target_price": null,
-        "stop_loss": null,
-        "timeframe": "1-2 Hafta",
+        "signal": "SAT",
+        "confidence": 85,
+        "target_price": 240.0,
+        "stop_loss": 280.0,
+        "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 38.0 ile düşük seviyede",
-          "Fiyatın 20 ve 50 günlük basit hareketli ortalamalarının altında kalması",
-          "MACD ve MACD sinyal çizgilerinin altında kalması"
+          "Gelir büyümesi %11.0 ile olumlu olmakla birlikte, son 1 aylık değişim %-10.42 ile çok olumsuz",
+          "F/K oranı 10.54 ile makul seviyede"
         ]
       }
     },
@@ -503,11 +503,11 @@
         "confidence": 50,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "1-2 Hafta",
+        "timeframe": "İzleme",
         "rationale": [
-          "RSI 14 değeri 48.1 ile orta seviyede",
-          "Fiyatın 20 günlük basit hareketli ortalamasının altında kalması",
-          "Gelir büyümesi %8.9 ile orta seviyede"
+          "RSI 14 değeri 48.1 ile nötr seviyede",
+          "F/K oranı 12.46 ile slightly yüksek",
+          "Özkaynak karlılığı %7.3 ile slightly düşük olmakla birlikte, net kar marjı %7.4 ile iyi"
         ]
       }
     },
@@ -540,7 +540,7 @@
         "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 41.8 ile düşük seviyede",
-          "MACD ve sinyal çizgisi aşağı yönlü ancak yakın zamanda kesişme olasılığı var",
+          "MACD ve sinyal çizgisi arasında negatif ayrışma var",
           "Bollinger bantlarının alt sınırına yakın fiyatlanması"
         ]
       }
@@ -570,11 +570,11 @@
         "signal": "SAT",
         "confidence": 70,
         "target_price": 280.0,
-        "stop_loss": 310.0,
+        "stop_loss": 320.0,
         "timeframe": "1-3 Hafta",
         "rationale": [
-          "RSI 14 değeri 52.0 ile orta seviyede",
-          "MACD ve sinyal çizgisi yukarı yönlü ancak sinyal çizgisi MACD'nin altında",
+          "RSI 14 değeri 52.0 ile yüksek seviyede",
+          "MACD ve sinyal çizgisi arasında pozitif ayrışma var",
           "Bollinger bantlarının üst sınırına yakın fiyatlanması"
         ]
       }
@@ -605,10 +605,10 @@
         "confidence": 65,
         "target_price": 165.0,
         "stop_loss": 140.0,
-        "timeframe": "3-5 Hafta",
+        "timeframe": "2-4 Hafta",
         "rationale": [
           "RSI 14 değeri 34.2 ile düşük seviyede",
-          "MACD ve sinyal çizgisi aşağı yönlü ancak yakın zamanda kesişme olasılığı var",
+          "MACD ve sinyal çizgisi arasında negatif ayrışma var",
           "Bollinger bantlarının alt sınırına yakın fiyatlanması"
         ]
       }
@@ -642,8 +642,8 @@
         "timeframe": "1-3 Hafta",
         "rationale": [
           "RSI 14 değeri 33.8 ile düşük seviyede",
-          "MACD ve sinyal çizgisi aşağı yönlü",
-          "Bollinger bantlarının alt sınırına yakın fiyatlanması ve gelir büyümesi negatif"
+          "MACD ve sinyal çizgisi arasında negatif ayrışma var",
+          "Bollinger bantlarının alt sınırına yakın fiyatlanması ve negatif trend"
         ]
       }
     },
@@ -673,10 +673,10 @@
         "confidence": 50,
         "target_price": null,
         "stop_loss": null,
-        "timeframe": "Değişken",
+        "timeframe": "Belirsiz",
         "rationale": [
           "RSI 14 değeri 43.6 ile orta seviyede",
-          "MACD ve sinyal çizgisi aşağı yönlü ancak yakın zamanda kesişme olasılığı var",
+          "MACD ve sinyal çizgisi arasında zayıf ayrışma var",
           "Bollinger bantlarının içinde fiyatlanması"
         ]
       }
