@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-10T13:59:20+03:00",
+  "updated_at": "2026-08-10T14:48:24+03:00",
   "news": [
+    {
+      "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
+      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
+      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T11:44:14",
+      "ai": {
+        "impact": "Avustralya nadir toprak madencisi şirketinin hisse senedi değerinde artış beklenebilir. Bu durum, nadir toprak madenciliği sektörüne olan ilgiyi artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Vanda Pharmaceuticals hedefini 20 dolara düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-vanda-pharmaceuticals-hedefini-20-dolara-dusurdu-93CH-4022383",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:43:44",
+      "ai": {
+        "impact": "Vanda Pharmaceuticals'in hedef fiyatının düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Rosenblatt, IMAX hissesi için hedef fiyatı 60 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-imax-hissesi-icin-hedef-fiyat-60-dolara-yukseltti-93CH-4022381",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:43:22",
+      "ai": {
+        "impact": "IMAX hissesi için hedef fiyatının yükseltilmesi, şirketin hisse senedi değerinde artışa neden olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Emergent BioSolutions hissesi için hedef fiyatı düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-emergent-biosolutions-hissesi-icin-hedef-fiyat-dusurdu-93CH-4022380",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:43:16",
+      "ai": {
+        "impact": "Emergent BioSolutions hissesi için hedef fiyatının düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Aligos hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-aligos-hissesi-icin-tavsiyesini-korudu-93CH-4022379",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:43:15",
+      "ai": {
+        "impact": "Aligos hissesi için tavsiyenin korunması, şirketin hisse senedi değerinde önemli bir değişikliğe neden olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Regenxbio hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-regenxbio-hisse-hedefini-dusurdu-93CH-4022377",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:43:09",
+      "ai": {
+        "impact": "Regenxbio hisse hedefinin düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Surrozen hissesi için al tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-surrozen-hissesi-icin-al-tavsiyesini-korudu-93CH-4022375",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:42:42",
+      "ai": {
+        "impact": "Surrozen hissesi için al tavsiyesinin korunması, şirketin hisse senedi değerinde artışa neden olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "İngiltere Eli Lilly’nin kilo ve diyabet ilacını onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ingiltere-eli-lillynin-kilo-ve-diyabet-ilacn-onaylad-93CH-4022374",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:42:08",
+      "ai": {
+        "impact": "Eli Lilly'nin kilo ve diyabet ilacının onaylanması, şirketin hisse senedi değerinde artışa neden olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "MoonLake Immunotherapeutics hissesi neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/moonlake-immunotherapeutics-hissesi-neden-dusuyor-93CH-4022373",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:41:07"
+    },
+    {
+      "title": "SanDisk hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sandisk-hissesi-bugun-neden-dusuyor-93CH-4022365",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:39:29"
+    },
+    {
+      "title": "Bowman Consulting, Bernhard’ın 1 milyar dolarlık teklifini kabul etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/bowman-consulting-bernhardn-1-milyar-dolarlk-teklifini-kabul-etti-93CH-4022364",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T11:38:49"
+    },
+    {
+      "title": "Avrupa’nın büyümesini sıcaklar yutuyor",
+      "summary": "Avrupa’yı vuran aşırı sıcak ve kuraklığın ekonomik faturası büyüyor. Triodos Bank, kaybın 180 milyar euroya ulaşarak AB ekonomisinden yaklaşık yüzde 1 götürebileceğini, tarım, enerji, ulaştırma ve iş gücünün baskı altında olduğunu hesaplıyor.",
+      "url": "https://www.dunya.com/ekonomi/avrupanin-buyumesini-sicaklar-yutuyor-haberi-835643",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:32:00"
+    },
+    {
+      "title": "Altından sonra en yüksek getiri BES fonlarından",
+      "summary": "Türkiye’de sigorta sektörü 2025’te 1,2 trilyon liralık prim üretirken, hak sahiplerine yaklaşık 500 milyar lira hasar ödemesi yaptı. Sektörün ekonomiye sağladığı teminat hacmi 1,3 katrilyon liraya ulaşırken, BES fonları altının ardından en yüksek ortalama getiriyi sağlayan yatırım araçları arasında öne çıktı.",
+      "url": "https://www.dunya.com/ekonomi/altindan-sonra-en-yuksek-getiri-bes-fonlarindan-haberi-835642",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:27:00"
+    },
+    {
+      "title": "Astor Enerji 351 milyon TL’lik sözleşmeyi imzaladı",
+      "summary": "Astor Enerji, TEİAŞ tarafından gerçekleştirilen 11 adet Mobil Hibrit Modülü ve yedek malzeme ihalesi kapsamında 351,1 milyon TL bedelli sözleşmenin imzalandığını açıkladı.",
+      "url": "https://www.dunya.com/finans/haberler/astor-enerji-351-milyon-tllik-sozlesmeyi-imzaladi-haberi-835640",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:16:00"
+    },
+    {
+      "title": "Doğanın Kanunu final mi yapıyor, neden final yapacak?",
+      "summary": "Yaz sezonu dizisi Doğanın Kanunu ile ilgili &quot;final yapacak&quot; iddiası ortaya atıldı. Dizinin seyircileri bu söylentinin gerçekliğini araştırmaya başladı.",
+      "url": "https://www.dunya.com/yasam/doganin-kanunu-final-mi-yapiyor-neden-final-yapacak-haberi-835639",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:13:00"
+    },
+    {
+      "title": "İstanbul Havalimanı'nda yolcu rekoru: Avrupa'nın zirvesine çıktı",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Havalimanı&#039;nın dün 289 bin 732 yolcuya hizmet vererek, Türkiye ve Avrupa&#039;da tüm zamanların en yüksek günlük yolcu sayısına ulaştığını bildirdi.",
+      "url": "https://www.dunya.com/ekonomi/istanbul-havalimaninda-yolcu-rekoru-avrupanin-zirvesine-cikti-haberi-835638",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:09:00"
+    },
+    {
+      "title": "İsveç'te 9 bin yıllık keşif: Hamile kadının iskeleti bulundu",
+      "summary": "İsveç&#039;in Gotland Adası açıklarında yer alan Lilla Karlsö Adası&#039;nda yürütülen kazı çalışmalarında, hamile bir kadına ait 9 bin yıllık iskelet bulundu.",
+      "url": "https://www.dunya.com/kesfet/isvecte-9-bin-yillik-kesif-hamile-kadinin-iskeleti-bulundu-haberi-835637",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:06:00"
+    },
     {
       "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
       "summary": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
       "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T10:59:17",
-      "ai": {
-        "impact": "Yapay zekâ güvenliği konusunda artan endişeler, siber saldırı riskine karşı şirketlerin önlem almasına neden olabilir. Bu durum, siber güvenlik şirketlerine olan talebi artırabilir.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-10T11:04:50"
     },
     {
-      "title": "ABD enflasyon rakamları açıklandı mı, ne zaman açıklanıyor? ABD enflasyon beklentisi ne?",
-      "summary": "ABD&#039;de yakın zamanda temmuz ayı enflasyonu açıklanacak. Dünya bu oranlara odaklanırken beklenti ve tarih merak ediliyor. Sıkça yöneltilen sorundan biri &quot;ABD enflasyon rakamları ne zaman açıklanacak&quot; oluyor.",
-      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-aciklandi-mi-ne-zaman-aciklaniyor-abd-enflasyon-beklentisi-ne-haberi-835635",
+      "title": "Warren Buffett'ın halefi düğmeye bastı: Rekor nakit rezervi yatırıma dönüyor",
+      "summary": "Warren Buffett&#039;ın ardından Berkshire Hathaway&#039;in yönetimini devralan Greg Abel, şirketin yüz milyarlarca dolarlık nakit rezervini kullanmaya başladı. Berkshire&#039;ın nakdi 2022&#039;den bu yana ilk kez milyarlarca dolar azalırken, şirket 14 çeyrek sonra ilk kez sattığından daha fazla hisse alarak kendi hissesini geri topladı.",
+      "url": "https://www.dunya.com/ekonomi/warren-buffettin-halefi-dugmeye-basti-rekor-nakit-rezervi-yatirima-donuyor-haberi-835641",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:50:00",
-      "ai": {
-        "impact": "ABD enflasyon rakamlarının açıklanması, faiz oranlarına ve dolar kuruyla birlikte global piyasalara etki edebilir. Yüksek enflasyon, faiz artırımına neden olabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-10T11:01:00"
     },
     {
-      "title": "Yapay zekâya 130 milyar dolarlık halk freni",
-      "summary": "ABD’de yapay zekâ veri merkezlerine karşı büyüyen yerel tepki finansman cephesine sıçradı. İlk çeyrekte yaklaşık 130 milyar dolarlık en az 75 proje itirazlarla karşılaşırken bankalar kredi kararlarında halk desteğini de inceliyor.",
-      "url": "https://www.dunya.com/ekonomi/yapay-zekaya-130-milyar-dolarlik-halk-freni-haberi-835636",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:50:00",
-      "ai": {
-        "impact": "Yapay zekâ veri merkezlerine karşı büyüyen yerel tepki, bu alanda yatırım yapan şirketlerin finansmanını zorlaştırabilir. Bu durum, yapay zekâ şirketlerinin büyümesini olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Santoli: Stocks return to their winning ways. But was July's brief pain enough to satisfy the market gods?",
-      "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
-      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+      "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
+      "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
+      "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T10:43:38",
-      "ai": {
-        "impact": "Hisse senedi piyasalarının kazandığı ivme, yatırımcıların risk iştahını artırabilir. Ancak, piyasa dalgalanmaları devam edebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Morgan Stanley, Global-E Online hissesi için notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-globale-online-hissesi-icin-notunu-dusurdu-93CH-4021956",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:32",
-      "ai": {
-        "impact": "Morgan Stanley'in Global-E Online hissesi için notunu düşürmesi, şirketin hisse senedi değerini olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "BofA, MiniMed Group hissesi için hedef fiyatı 24 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bofa-minimed-group-hissesi-icin-hedef-fiyat-24-dolara-yukseltti-93CH-4021955",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:25",
-      "ai": {
-        "impact": "BofA'nın MiniMed Group hissesi için hedef fiyatını yükseltmesi, şirketin hisse senedi değerini olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Irak Eylül ayı ham petrol fiyatlarını Asyalı alıcılar için artırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/irak-eylul-ay-ham-petrol-fiyatlarn-asyal-alclar-icin-artrd-93CH-4021954",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:24",
-      "ai": {
-        "impact": "Irak'ın ham petrol fiyatlarını artırması, enerji şirketlerinin karlılığını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Wells Fargo, Vistra Energy hissesi için hedef fiyatı 212 dolara çekti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wells-fargo-vistra-energy-hissesi-icin-hedef-fiyat-212-dolara-cekti-93CH-4021953",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:09",
-      "ai": {
-        "impact": "Wells Fargo'nun Vistra Energy hissesi için hedef fiyatını düşürmesi, şirketin hisse senedi değerini olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Wells Fargo, AIG hissesi için hedef fiyatı düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wells-fargo-aig-hissesi-icin-hedef-fiyat-dusurdu-93CH-4021952",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:07"
-    },
-    {
-      "title": "BTIG, gelir artışıyla Consensus Cloud hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/btig-gelir-artsyla-consensus-cloud-hisse-hedefini-yukseltti-93CH-4021950",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:05"
-    },
-    {
-      "title": "BTIG, güçlü sonuçlar sonrası Omada Health hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/btig-guclu-sonuclar-sonras-omada-health-hisse-hedefini-yukseltti-93CH-4021951",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:05"
-    },
-    {
-      "title": "National Energy Services Reunited hisseleri neden yükseldi?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/national-energy-services-reunited-hisseleri-neden-yukseldi-93CH-4021949",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:34:02"
-    },
-    {
-      "title": "Floor & Decor yönetim kurulu başkanı 13,6 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/floor--decor-yonetim-kurulu-baskan-136-milyon-dolarlk-hisse-satt-93CH-4021947",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:33:06"
-    },
-    {
-      "title": "AK Parti'den Üsküdar Belediyesi Başkan Vekilliği seçimi için suç duyurusu",
-      "summary": "AK Parti Üsküdar İlçe Başkanı Taha Sarıcaoğlu, Üsküdar Belediye Meclisinde 5 Ağustos&#039;ta gerçekleştirilen başkan vekili seçimine ilişkin iki ayrı suç duyurusunda bulunduklarını belirterek, seçim işleminin ve meclis kararının iptali ile seçimin yenilenmesi talebiyle idare mahkemesinde de dava açacaklarını bildirdi.",
-      "url": "https://www.dunya.com/gundem/ak-partiden-uskudar-belediyesi-baskan-vekilligi-secimi-icin-suc-duyurusu-haberi-835634",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:33:00"
-    },
-    {
-      "title": "Sezzle hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sezzle-hissesi-bugun-neden-yukseliyor-93CH-4021942",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T10:31:52"
-    },
-    {
-      "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
-      "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
-      "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T10:30:01"
-    },
-    {
-      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
-      "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
-      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T10:29:27"
-    },
-    {
-      "title": "Rekabet Kurulu’ndan ilaç sektörüne kapsamlı inceleme",
-      "summary": "Rekabet Kurulunca hazırlanan ilaç sektörüne yönelik inceleme raporunda, olası rekabet ihlalleri ve sorun alanları analiz edilerek iyileştirmeye yönelik uygulanabilir ve hedef odaklı çözüm önerileri sunuldu.",
-      "url": "https://www.dunya.com/gundem/rekabet-kurulundan-ilac-sektorune-kapsamli-inceleme-haberi-835632",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:29:00"
-    },
-    {
-      "title": "Borsada FOMO çılgınlığı",
-      "summary": "ABD borsalarında son günlerde görülen sert toparlanma yatırımcı davranışını da değiştirdi. Orta Doğu geriliminin hafiflemesi, petrol fiyatlarının gerilemesi ve güçlü şirket bilançolarının yanına şimdi bir başka güç eklendi: FOMO.",
-      "url": "https://www.dunya.com/finans/haberler/borsada-fomo-cilginligi-haberi-835633",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:29:00"
-    },
-    {
-      "title": "Batı Akdeniz ihracatta rekora koşuyor: 7 ayda 1,76 milyar dolar",
-      "summary": "Batı Akdeniz&#039;den ocak-temmuz döneminde 1 milyar 763 milyon dolarlık ihracat gerçekleştirildi. Temmuzda 291 milyon dolarla tüm zamanların aylık rekoru kırılırken, BAİB yıl sonunda 3 milyar dolarlık ihracata ulaşmayı hedefliyor.",
-      "url": "https://www.dunya.com/ihracat/bati-akdeniz-ihracatta-rekora-kosuyor-7-ayda-176-milyar-dolar-haberi-835631",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T10:13:00"
+      "published": "2026-08-10T11:00:01"
     }
   ]
 }

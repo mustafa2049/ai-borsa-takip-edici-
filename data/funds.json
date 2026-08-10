@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:59:20+03:00",
+  "updated_at": "2026-08-10T14:48:24+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 48.6,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %48,6 ile yüksek görünüyor. Ancak riski de yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %48,6 getiri elde etmiş olan fon, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Yüksek getiri potansiyeli sunuyor."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 44.5,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %44,5 ile yüksek görünüyor. Ancak riski de yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %44,5 getiri elde etmiş olan fon, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Amerika hisse senedi piyasalarına yatırım yapıyor."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 28.25,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %28,25 ile orta düzeyde görünüyor. Riski de orta olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %28,25 getiri elde etmiş olan fon, orta riskli bir yatırım aracı olarak değerlendirilebilir. Değişken bir portföye sahip."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 56.93,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %56,93 ile çok yüksek görünüyor. Ancak riski de çok yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %56,93 getiri elde etmiş olan fon, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Emtia ve yabancı yatırım fonlarına yatırım yapıyor."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 70.36,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %70,36 ile çok yüksek görünüyor. Ancak riski de çok yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %70,36 getiri elde etmiş olan fon, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. BIST teknoloji endeksine yatırım yapıyor."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 22.46,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %22,46 ile orta düzeyde görünüyor. Riski de orta olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %22,46 getiri elde etmiş olan fon, orta riskli bir yatırım aracı olarak değerlendirilebilir. Hisse senedi yoğun bir portföye sahip."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 31.51,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %31,51 ile orta düzeyde görünüyor. Riski de orta olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %31,51 getiri elde etmiş olan fon, orta riskli bir yatırım aracı olarak değerlendirilebilir. Hisse senedi yoğun bir portföye sahip."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 37.0,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içindeki getirisi %37 ile orta düzeyde görünüyor. Riski de orta olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %37 getiri elde etmiş olan fon, orta riskli bir yatırım aracı olarak değerlendirilebilir. Değişken bir portföye sahip."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 30.78,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içindeki getirisi %30,78 ile düşük görünüyor. Riski de düşük olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %30,78 getiri elde etmiş olan fon, düşük riskli bir yatırım aracı olarak değerlendirilebilir. Fon sepetime yatırım yapıyor."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 60.92,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içindeki getirisi %60,92 ile çok yüksek görünüyor. Ancak riski de çok yüksek olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %60,92 getiri elde etmiş olan fon, yüksek riskli bir yatırım aracı olarak değerlendirilebilir. Elektrikli araçlara yatırım yapıyor."
       }
     },
     {

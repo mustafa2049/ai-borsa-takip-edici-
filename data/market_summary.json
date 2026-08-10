@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10T13:59:20+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksi %0,78 artışla 13887,5 seviyesinde bulunuyor. Uluslararası piyasalarda da genel olarak pozitif bir eğilim hakim. Döviz kurlarında sakin bir seyir gözlemlenirken, ons altın ve brent petrol fiyatları da artış gösterdi. Hisse sinyallerine göre ise THYAO, TUPRS, GARAN, AKBNK ve YKBNK gibi hisseler alış sinyali verirken, EKGYO güçlü satış sinyali veriyor.",
+  "updated_at": "2026-08-10T14:48:24+03:00",
+  "overview": "Gün içinde BIST 100 endeksi pozitif seyir izlerken, global piyasalarda da genel olarak yükseliş eğilimi gözlendi. Döviz kurlarında sınırlı dalgalanma olurken, ons altın ve brent petrol fiyatları da artış gösterdi. Hisse senedi sinyallerine göre THYAO, TUPRS, GARAN ve YKBNK gibi hisseler alış sinyali verirken, KCHOL, FROTO ve TOASO gibi hisseler satış sinyali verdi.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13887.5,
-      "change_pct": 0.78
+      "value": 13870.07,
+      "change_pct": 0.66
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26424.48,
-      "change_pct": 0.4
+      "value": 26397.87,
+      "change_pct": 0.3
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.17,
-      "change_pct": 0.59
+      "value": 55.14,
+      "change_pct": 0.55
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4398.2,
-      "change_pct": 1.32
+      "value": 4395.4,
+      "change_pct": 1.26
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 84.78,
-      "change_pct": 1.47
+      "value": 84.62,
+      "change_pct": 1.28
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6746.45,
+      "value": 6742.29,
       "change_pct": null
     }
   ]
