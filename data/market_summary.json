@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-10T17:14:35+03:00",
-  "overview": "Piyasa genel olarak olumlu bir seyir izliyor. BIST 100 endeksi hafif yükseliş gösterirken, global piyasalarda da genel olarak pozitif bir atmosfer hakim. USD/TRY ve EUR/TRY kurunda görülen artışlar, ithalat bağımlı sektörleri olumsuz etkileyebilir. Brent petrolün yükselişi ise enerji sektörünü olumlu etkileyebilir.",
+  "updated_at": "2026-08-10T18:30:02+03:00",
+  "overview": "Günün piyasa görünümü genel olarak olumlu bir seyir izlemektedir. BIST 100 endeksinin hafif bir artış göstermesi ve bazı büyük şirketlere yönelik güçlü alım sinyalleri, piyasada pozitif bir atmosferin oluşmasına katkıda bulunmuştur. Döviz kurlarındaki dalgalanmalar ve emtia fiyatlarındaki değişimler ise yatırımcıların dikkatle izlediği diğer önemli faktörler arasında yer almaktadır.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13795.88,
-      "change_pct": 0.12
+      "value": 13811.6,
+      "change_pct": 0.23
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7765.0,
-      "change_pct": 0.09
+      "value": 7760.15,
+      "change_pct": 0.03
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26699.09,
-      "change_pct": 0.03
+      "value": 26620.44,
+      "change_pct": -0.26
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26310.37,
-      "change_pct": -0.03
+      "value": 26364.09,
+      "change_pct": 0.17
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 66970.22,
-      "change_pct": 2.08
+      "value": 65606.71,
+      "change_pct": -0.12
     },
     {
       "name": "USD/TRY",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.14,
-      "change_pct": 0.54
+      "value": 55.13,
+      "change_pct": 0.53
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4382.9,
-      "change_pct": 0.97
+      "value": 4409.8,
+      "change_pct": 1.59
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 86.04,
-      "change_pct": 2.98
+      "value": 86.32,
+      "change_pct": 3.32
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6722.61,
+      "value": 6764.06,
       "change_pct": null
     }
   ]
