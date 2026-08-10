@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-10T14:48:24+03:00",
+  "updated_at": "2026-08-10T15:47:09+03:00",
   "news": [
+    {
+      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+      "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+      "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T12:40:36",
+      "ai": {
+        "impact": "Meta'nın AI modelini açık kaynak olarak yayınlamaya karar vermesi, teknoloji şirketlerine ve yapay zeka sektörüne olumlu yansıyabilir. Bu gelişme, ABD'de açık AI'de liderlik için bir adım olarak görülüyor.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Barrick Mining hisseleri neden bugün düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/barrick-mining-hisseleri-neden-bugun-dusuyor-93CH-4022577",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:30",
+      "ai": {
+        "impact": "Barrick Mining hisselerinin düşmesi, madencilik sektörüne ve ilgili hisselerine negatif yansıyabilir. Ancak, haberin özeti bulunmadığı için具体 etkisini değerlendirmek zor.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Canaccord, BioMarin’in hisse hedefini gelir artışıyla yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-biomarinin-hisse-hedefini-gelir-artsyla-yukseltti-93CH-4022574",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:24",
+      "ai": {
+        "impact": "Canaccord'un BioMarin'in hisse hedefini yükseltmesi, şirketin gelir artışına işaret ediyor olabilir. Bu, BioMarin hisselerine ve sağlık sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Canaccord, Evolent Health hissesi için hedef fiyatı düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-evolent-health-hissesi-icin-hedef-fiyat-dusurdu-93CH-4022573",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:20",
+      "ai": {
+        "impact": "Canaccord'un Evolent Health hissesi için hedef fiyatını düşürmesi, şirketin performansına ilişkin endişelere işaret ediyor olabilir. Bu, Evolent Health hisselerine ve sağlık sektörüne negatif yansıyabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "California Resources hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/california-resources-hisseleri-neden-dusuyor-93CH-4022572",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:18",
+      "ai": {
+        "impact": "California Resources hisselerinin düşmesi, enerji sektörüne ve ilgili hisselerine negatif yansıyabilir. Ancak, haberin özeti bulunmadığı için específik etkisini değerlendirmek zor.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Canaccord, Spectrum Brands hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-spectrum-brands-hissesi-icin-hedef-fiyat-yukseltti-93CH-4022571",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:16",
+      "ai": {
+        "impact": "Canaccord'un Spectrum Brands hissesi için hedef fiyatını yükseltmesi, şirketin performansına ilişkin olumlu beklentilere işaret ediyor olabilir. Bu, Spectrum Brands hisselerine ve tüketim malları sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Canaccord, Claritev için hisse hedefini rezervasyonlara dayanarak 43 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-claritev-icin-hisse-hedefini-rezervasyonlara-dayanarak-43-dolara-yukseltti-93CH-4022569",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:13",
+      "ai": {
+        "impact": "Canaccord'un Claritev için hisse hedefini yükseltmesi, şirketin rezervasyonlarına dayalı olarak olumlu beklentilere işaret ediyor olabilir. Bu, Claritev hisselerine ve ilgili sektöre olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Canaccord, Pulse Biosciences için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-pulse-biosciences-icin-hisse-hedefini-yukseltti-93CH-4022570",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:13",
+      "ai": {
+        "impact": "Canaccord'un Pulse Biosciences için hisse hedefini yükseltmesi, şirketin performansına ilişkin olumlu beklentilere işaret ediyor olabilir. Bu, Pulse Biosciences hisselerine ve sağlık sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Argus, güçlü temeller nedeniyle SanDisk hissesi notunu yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/argus-guclu-temeller-nedeniyle-sandisk-hissesi-notunu-yukseltti-93CH-4022568",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:11"
+    },
+    {
+      "title": "Canaccord, finansman belirsizliği nedeniyle CervoMed hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-finansman-belirsizligi-nedeniyle-cervomed-hisse-hedefini-dusurdu-93CH-4022567",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:22:08"
+    },
+    {
+      "title": "aTyr Pharma hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/atyr-pharma-hissesi-bugun-neden-yukseliyor-93CH-4022566",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T12:21:19"
+    },
+    {
+      "title": "TCMB rezervlerinde güçlü artış: Bir haftada 13,7 milyar dolar yükseldi",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın toplam rezervlerinin 7 Ağustos haftasında yaklaşık 13,7 milyar dolar artarak 178,2 milyar dolara yükseldiği hesaplandı. TCMB, resmi rezerv verilerini 13 Ağustos Perşembe günü açıklayacak.",
+      "url": "https://www.dunya.com/ekonomik-veriler/tcmb-rezervlerinde-guclu-artis-bir-haftada-137-milyar-dolar-yukseldi-haberi-835647",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T12:20:00"
+    },
+    {
+      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T12:19:47"
+    },
+    {
+      "title": "Student loan borrowers face steeper 'marriage penalty' under new repayment plan",
+      "summary": "Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.",
+      "url": "https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T12:15:01"
+    },
+    {
+      "title": "Özgür Özel açıkladı: Yeni Parti'nin 'Çerçeve Yasa' kararı belli oldu",
+      "summary": "Yeni Parti&#039;nin bugün oylancak &#039;Çerçeve Yasa&#039; teklifine ilişkin kararı belli oldu. Yeni Parti Genel Başkanı Özgür Özel, Türkiye&#039;nin önünü açacak bir sorumluluğu üstlendiğini belirterek &quot;Ben ve yönetici arkadaşlarım, tarihsel bir tutarlılık ve sorumluluk içinde bu yasaya &#039;evet&#039; diyeceğiz&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/ozgur-ozel-acikladi-yeni-partinin-cerceve-yasa-karari-belli-oldu-haberi-835648",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T12:15:00"
+    },
+    {
+      "title": "TMSF'den yeni ihale: Sidemir ve Kayapalı Nilüfer Turizm satışta",
+      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), Sidemir Sivas Demir Çelik Ticari ve İktisadi Bütünlüğü ile Kayapalı Nilüfer Turizm Araçları Ticari ve İktisadi Bütünlüğü&#039;nü satışa çıkardı.",
+      "url": "https://www.dunya.com/ekonomi/tmsfden-yeni-ihale-sidemir-ve-kayapali-nilufer-turizm-satista-haberi-835646",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T12:13:00"
+    },
+    {
+      "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+      "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
+      "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T12:03:25"
+    },
+    {
+      "title": "Yeni Parti \"Çerçeve yasayı\" imzaladı mı, onay verdi mi?",
+      "summary": "Toplumda &quot;Çerçeve Yasa&quot; olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM&#039;de görüşülüyor. Yeni Parti&#039;nin Çerçeve Yasa&#039;ya imza atıp atmadığı merak ediliyor.",
+      "url": "https://www.dunya.com/gundem/yeni-parti-cerceve-yasayi-imzaladi-mi-onay-verdi-mi-haberi-835645",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:58:00"
+    },
+    {
+      "title": "Gümüşte büyük hareket başladı: Fiyatları uçuracak tarih yaklaşıyor",
+      "summary": "ABD&#039;de istihdam verilerinin beklentileri karşılamaması Fed&#039;in faiz artırımlarına ilişkin beklentileri zayıflatırken, değerli metallerde güçlü bir yükseliş başladı. Geçen hafta yüzde 10,2 yükselerek altını geride bırakan gümüşte gözler şimdi 67 dolar seviyelerine çevrildi. Analstler ise gümüşün değer kazancında altını geçeceğini belirterek kritik bir tarih verdi.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/gumuste-buyuk-hareket-basladi-fiyatlari-ucuracak-tarih-yaklasiyor-galeri-835644",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T11:51:00"
+    },
     {
       "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
       "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
       "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T11:44:14",
-      "ai": {
-        "impact": "Avustralya nadir toprak madencisi şirketinin hisse senedi değerinde artış beklenebilir. Bu durum, nadir toprak madenciliği sektörüne olan ilgiyi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Vanda Pharmaceuticals hedefini 20 dolara düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-vanda-pharmaceuticals-hedefini-20-dolara-dusurdu-93CH-4022383",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:43:44",
-      "ai": {
-        "impact": "Vanda Pharmaceuticals'in hedef fiyatının düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Rosenblatt, IMAX hissesi için hedef fiyatı 60 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-imax-hissesi-icin-hedef-fiyat-60-dolara-yukseltti-93CH-4022381",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:43:22",
-      "ai": {
-        "impact": "IMAX hissesi için hedef fiyatının yükseltilmesi, şirketin hisse senedi değerinde artışa neden olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Emergent BioSolutions hissesi için hedef fiyatı düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-emergent-biosolutions-hissesi-icin-hedef-fiyat-dusurdu-93CH-4022380",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:43:16",
-      "ai": {
-        "impact": "Emergent BioSolutions hissesi için hedef fiyatının düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Aligos hissesi için tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-aligos-hissesi-icin-tavsiyesini-korudu-93CH-4022379",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:43:15",
-      "ai": {
-        "impact": "Aligos hissesi için tavsiyenin korunması, şirketin hisse senedi değerinde önemli bir değişikliğe neden olmayabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Regenxbio hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-regenxbio-hisse-hedefini-dusurdu-93CH-4022377",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:43:09",
-      "ai": {
-        "impact": "Regenxbio hisse hedefinin düşürülmesi, şirketin hisse senedi değerinde düşüşe neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "H.C. Wainwright, Surrozen hissesi için al tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-surrozen-hissesi-icin-al-tavsiyesini-korudu-93CH-4022375",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:42:42",
-      "ai": {
-        "impact": "Surrozen hissesi için al tavsiyesinin korunması, şirketin hisse senedi değerinde artışa neden olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "İngiltere Eli Lilly’nin kilo ve diyabet ilacını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ingiltere-eli-lillynin-kilo-ve-diyabet-ilacn-onaylad-93CH-4022374",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:42:08",
-      "ai": {
-        "impact": "Eli Lilly'nin kilo ve diyabet ilacının onaylanması, şirketin hisse senedi değerinde artışa neden olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "MoonLake Immunotherapeutics hissesi neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/moonlake-immunotherapeutics-hissesi-neden-dusuyor-93CH-4022373",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:41:07"
-    },
-    {
-      "title": "SanDisk hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sandisk-hissesi-bugun-neden-dusuyor-93CH-4022365",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:39:29"
-    },
-    {
-      "title": "Bowman Consulting, Bernhard’ın 1 milyar dolarlık teklifini kabul etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bowman-consulting-bernhardn-1-milyar-dolarlk-teklifini-kabul-etti-93CH-4022364",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T11:38:49"
-    },
-    {
-      "title": "Avrupa’nın büyümesini sıcaklar yutuyor",
-      "summary": "Avrupa’yı vuran aşırı sıcak ve kuraklığın ekonomik faturası büyüyor. Triodos Bank, kaybın 180 milyar euroya ulaşarak AB ekonomisinden yaklaşık yüzde 1 götürebileceğini, tarım, enerji, ulaştırma ve iş gücünün baskı altında olduğunu hesaplıyor.",
-      "url": "https://www.dunya.com/ekonomi/avrupanin-buyumesini-sicaklar-yutuyor-haberi-835643",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:32:00"
-    },
-    {
-      "title": "Altından sonra en yüksek getiri BES fonlarından",
-      "summary": "Türkiye’de sigorta sektörü 2025’te 1,2 trilyon liralık prim üretirken, hak sahiplerine yaklaşık 500 milyar lira hasar ödemesi yaptı. Sektörün ekonomiye sağladığı teminat hacmi 1,3 katrilyon liraya ulaşırken, BES fonları altının ardından en yüksek ortalama getiriyi sağlayan yatırım araçları arasında öne çıktı.",
-      "url": "https://www.dunya.com/ekonomi/altindan-sonra-en-yuksek-getiri-bes-fonlarindan-haberi-835642",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:27:00"
-    },
-    {
-      "title": "Astor Enerji 351 milyon TL’lik sözleşmeyi imzaladı",
-      "summary": "Astor Enerji, TEİAŞ tarafından gerçekleştirilen 11 adet Mobil Hibrit Modülü ve yedek malzeme ihalesi kapsamında 351,1 milyon TL bedelli sözleşmenin imzalandığını açıkladı.",
-      "url": "https://www.dunya.com/finans/haberler/astor-enerji-351-milyon-tllik-sozlesmeyi-imzaladi-haberi-835640",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:16:00"
-    },
-    {
-      "title": "Doğanın Kanunu final mi yapıyor, neden final yapacak?",
-      "summary": "Yaz sezonu dizisi Doğanın Kanunu ile ilgili &quot;final yapacak&quot; iddiası ortaya atıldı. Dizinin seyircileri bu söylentinin gerçekliğini araştırmaya başladı.",
-      "url": "https://www.dunya.com/yasam/doganin-kanunu-final-mi-yapiyor-neden-final-yapacak-haberi-835639",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:13:00"
-    },
-    {
-      "title": "İstanbul Havalimanı'nda yolcu rekoru: Avrupa'nın zirvesine çıktı",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Havalimanı&#039;nın dün 289 bin 732 yolcuya hizmet vererek, Türkiye ve Avrupa&#039;da tüm zamanların en yüksek günlük yolcu sayısına ulaştığını bildirdi.",
-      "url": "https://www.dunya.com/ekonomi/istanbul-havalimaninda-yolcu-rekoru-avrupanin-zirvesine-cikti-haberi-835638",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:09:00"
-    },
-    {
-      "title": "İsveç'te 9 bin yıllık keşif: Hamile kadının iskeleti bulundu",
-      "summary": "İsveç&#039;in Gotland Adası açıklarında yer alan Lilla Karlsö Adası&#039;nda yürütülen kazı çalışmalarında, hamile bir kadına ait 9 bin yıllık iskelet bulundu.",
-      "url": "https://www.dunya.com/kesfet/isvecte-9-bin-yillik-kesif-hamile-kadinin-iskeleti-bulundu-haberi-835637",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:06:00"
-    },
-    {
-      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
-      "summary": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
-      "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T11:04:50"
-    },
-    {
-      "title": "Warren Buffett'ın halefi düğmeye bastı: Rekor nakit rezervi yatırıma dönüyor",
-      "summary": "Warren Buffett&#039;ın ardından Berkshire Hathaway&#039;in yönetimini devralan Greg Abel, şirketin yüz milyarlarca dolarlık nakit rezervini kullanmaya başladı. Berkshire&#039;ın nakdi 2022&#039;den bu yana ilk kez milyarlarca dolar azalırken, şirket 14 çeyrek sonra ilk kez sattığından daha fazla hisse alarak kendi hissesini geri topladı.",
-      "url": "https://www.dunya.com/ekonomi/warren-buffettin-halefi-dugmeye-basti-rekor-nakit-rezervi-yatirima-donuyor-haberi-835641",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:01:00"
-    },
-    {
-      "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
-      "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
-      "url": "https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T11:00:01"
+      "published": "2026-08-10T11:44:14"
     }
   ]
 }
