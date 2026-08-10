@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-10T11:22:14+03:00",
+  "updated_at": "2026-08-10T12:55:07+03:00",
   "news": [
     {
-      "title": "Fenerbahçe maçı tarihi ve saati: Sturm Graz - FB maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "Fenerbahçe yine çok kritik bir sınava çıkıyor. Şampiyonlar Ligi 3. ön eleme turu rövanş maçında temsilcimiz Sturm Graz&#039;ın konuğu oluyor. Taraftar mücadeleyi iple çekerken &quot;Sturm Graz - FB maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu geliyor.",
-      "url": "https://www.dunya.com/spor/fenerbahce-maci-tarihi-ve-saati-sturm-graz-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835614",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T08:14:00",
+      "title": "Hedge fonlar ikinci haftada da küresel hisse senedi aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/hedge-fonlar-ikinci-haftada-da-kuresel-hisse-senedi-ald-93CH-4021794",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:35:39",
       "ai": {
-        "impact": "Bu haber Türkiye ve dünya piyasalarına herhangi bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
+        "impact": "Hedge fonların küresel hisse senedi alımları, piyasalarda güveni artırabilir ve yatırımcıların risk iştahını tăngıştırabilir. Bu durum, Türkiye'de de hisse senedi piyasalarında olumlu yansımalar yaratabilir.",
+        "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Treasury yields inch lower as investors look ahead to key inflation data",
-      "summary": "U.S. Treasury yields inched lower at the start of the week as investors look ahead to a busy week of economic data, particularly key inflation data.",
-      "url": "https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
+      "title": "TD Cowen, Trump’ın Cook’u görevden alma şansını %25 görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/td-cowen-trumpn-cooku-gorevden-alma-sansn-25-goruyor-93CH-4021793",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:35:25",
+      "ai": {
+        "impact": "Trump’ın Cook’u görevden alma şansının %25 olarak görülmesi, teknoloji sektöründe belirsizlik yaratabilir ve yatırımcıların bu sektöre olan güvenini sarsabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "İstihdam verisi Fed faiz artışı ihtimalini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/istihdam-verisi-fed-faiz-arts-ihtimalini-dusurdu-93CH-4021792",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:34:13",
+      "ai": {
+        "impact": "İstihdam verisinin Fed faiz artışı ihtimalini düşürmesi, faizlerin düşük kalmasına neden olabilir ve bu durum, hisse senedi piyasalarında olumlu yansımalar yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T08:11:27",
+      "published": "2026-08-10T09:33:31",
       "ai": {
-        "impact": "Enflasyon verilerinin piyasalar tarafından yakından takip edileceği bir haftaya girerken, faiz oranlarının düşmesi ile yatırımcılar ekonomideki gelişmeleri dikkatle izleyeceklerdir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Arda Güler için formül aranıyor! \"Garajda tozlanan bir Ferrari\"",
-      "summary": "Real Madrid önceki gün hazırlık maçında Ferencvaros ile karşı karşıya geldi. Jose Mourinho, Arda Güler&#039;e ilk 11&#039;de şans verdi ve milli futbolcumuz 90 dakika oyunda kaldı. Arda&#039;nın futbolu göz doldururken İspanyol basını 21 yaşındaki yıldıza övgüler yağdırdı. En dikkat çeken yorum ise &quot;Arda&#039;nın futbolundan feragat etmek, garajda tozlanan bir Ferrari&#039;ye sahip olmak gibi",
-      "url": "https://www.dunya.com/spor/arda-guler-icin-formul-araniyor-garajda-tozlanan-bir-ferrari-haberi-835611",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T08:03:00",
-      "ai": {
-        "impact": "Bu haber Türkiye ve dünya piyasalarına herhangi bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "İhracat pazarlarında talep güçlendi: Endeks 52,2'ye yükseldi",
-      "summary": "İSO Türkiye İmalat Sektörü İhracat Pazarları İklim Endeksi, temmuzda 50,4&#039;ten 52,2&#039;ye yükselerek son 8 ayın en belirgin iyileşmesine işaret etti. En büyük 10 ihracat pazarının 8&#039;inde ekonomik aktivite arttı.",
-      "url": "https://www.dunya.com/ekonomik-veriler/ihracat-pazarlarinda-talep-guclendi-endeks-522ye-yukseldi-haberi-835612",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T08:03:00",
-      "ai": {
-        "impact": "İhracat pazarlarındaki talep artışının Türkiye ekonomisi için olumlu bir gelişme olabileceği ve ihracat endeksindeki iyileşmenin ekonomiye olumlu yansıyabileceği düşünülmektedir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Bitcoin 60 dolarken yatırım yapmaya başlamıştı, 30’uncu kattan düştü",
-      "summary": "2 milyar dolardan fazla dijital varlık yatırımını yönettiğini açıklayan ünlü kripto yatırımcısı Harry Yeh, Paraguay’da lüks bir rezidansın 30’uncu katından düşerek hayatını kaybetti. Yeh’in bağlantılı olduğu dairelerden birinin darmadağın halde bulunması üzerine polis geniş çaplı soruşturma başlattı. Yetkililer kaza, intihar ve üçüncü kişinin müdahalesi dahil tüm ihtimalleri araştırıyor.",
-      "url": "https://www.dunya.com/finans/kripto-para/bitcoin-60-dolarken-yatirim-yapmaya-baslamisti-30uncu-kattan-dustu-haberi-835613",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:59:00",
-      "ai": {
-        "impact": "Bu haber kripto para piyasalarında dalgalanmalara neden olabilir, ancak genel olarak dünya piyasalarına büyük bir etkisi olmayacaktır.",
+        "impact": "İran ve ABD arasındaki gerilim, petrol fiyatlarını artırabilir ve bu durum, enerji maliyetlerinin artmasına neden olabilir. Bu, özellikle enerji ithalatına bağımlı olan Türkiye gibi ülkeler için negatif olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Lubawa ilk yarı net kârını 4,3 milyon zloti olarak tahmin ediyor",
+      "title": "AL Sydbank 32. haftada 35.000 hisse geri aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/lubawa-ilk-yar-net-karn-43-milyon-zloti-olarak-tahmin-ediyor-93CH-4021550",
+      "url": "https://tr.investing.com/news/company-news/al-sydbank-32-haftada-35000-hisse-geri-ald-93CH-4021788",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T07:54:57",
+      "published": "2026-08-10T09:29:17",
       "ai": {
-        "impact": "Lubawa'nın ilk yarı net kârının 4,3 milyon zloti olarak tahmin edilmesi şirketin mali performansını etkileyebilir.",
+        "impact": "AL Sydbank’ın hisse geri alımı, şirketin kendi hisselerine olan güvenini gösteriyor ve yatırımcıların da şirket hisselerine olan güvenini artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Barclays, James Hardie hissesi için tavsiyesini yükseltti",
+      "title": "Deutsche Bank, hisse fiyatındaki zayıflık sonrası Persimmon’u al’a yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/barclays-james-hardie-hissesi-icin-tavsiyesini-yukseltti-93CH-4021546",
+      "url": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisse-fiyatndaki-zayflk-sonras-persimmonu-ala-yukseltti-4021789",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T07:54:11",
+      "published": "2026-08-10T09:28:07",
       "ai": {
-        "impact": "Barclays'ın James Hardie hissesi için tavsiyesini yükseltmesi hisse fiyatını olumlu etkileyebilir.",
+        "impact": "Deutsche Bank’ın Persimmon’u al’a yükseltmesi, şirketin geleceğine olan güveni artırabilir ve yatırımcıların da bu şirkete olan ilgiyi artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "UBS, soğutucu endişeleriyle Chemours hissesini düşürdü",
+      "title": "HANetf II ICAV yedi ETF için Ağustos temettüsü açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-sogutucu-endiseleriyle-chemours-hissesini-dusurdu-93CH-4021547",
+      "url": "https://tr.investing.com/news/company-news/hanetf-ii-icav-yedi-etf-icin-agustos-temettusu-acklad-93CH-4021785",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T07:54:11",
+      "published": "2026-08-10T09:25:29",
       "ai": {
-        "impact": "UBS'nin Chemours hissesini düşürmesi hisse fiyatını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
+        "impact": "HANetf II ICAV’ın ETF’leri için Ağustos temettüsünü açıklaması, yatırımcılar için düzenli gelir kaynağı olabilir ve bu durum, yatırımcıların bu ETF’lere olan ilgisini artırabilir.",
+        "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Stabilus, CFO’nun ani istifası sonrası %5 düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/stabilus-cfonun-ani-istifas-sonras-5-dustu-4021551",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:52:34"
-    },
-    {
-      "title": "BAE’nin 1,7 trilyon dolarlık Washington kozu",
-      "summary": "BAE, petrol gelirleriyle büyüttüğü dev fonlarını artık yapay zekâ, çip, enerji ve ABD yatırımlarında stratejik kaldıraç olarak kullanıyor. Abu Dabi’nin 1,7 trilyon dolarlık sermaye gücü Washington’daki nüfuzunu da hızla büyütüyor.",
-      "url": "https://www.dunya.com/gundem/baenin-17-trilyon-dolarlik-washington-kozu-haberi-835610",
+      "title": "Çin dünya ticaretinin rotasını değiştiriyor",
+      "summary": "Çin ile Avrupa arasındaki deniz ticaretinde dengeleri değiştirebilecek yeni dönem başlıyor. Kuzey Kutbu üzerinden ilerleyen Kutup İpek Yolu, tek seferlik denemelerin ardından düzenli konteyner hattına dönüşüyor. Yeni rota, yaklaşık 40 günlük yolculuğu 20 gün civarına indirebiliyor.",
+      "url": "https://www.dunya.com/ekonomi/cin-dunya-ticaretinin-rotasini-degistiriyor-haberi-835626",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:51:00"
+      "published": "2026-08-10T09:24:00",
+      "ai": {
+        "impact": "Çin’in dünya ticaretinin rotasını değiştirmesi, Türkiye gibi ülkeler için yeni ticaret fırsatları yaratabilir ve bu durum, Türkiye’nin dış ticaret dengesini olumlu yönde etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "HSBC, Akamai hissesi için tavsiyesini düşürdü",
+      "title": "BofA: Indiana’daki kamu hizmetleri daha sıkı inceleme ile karşı karşıya",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hsbc-akamai-hissesi-icin-tavsiyesini-dusurdu-93CH-4021545",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-indianadaki-kamu-hizmetleri-daha-sk-inceleme-ile-kars-karsya-93CH-4021784",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T07:48:34"
+      "published": "2026-08-10T09:23:09"
     },
     {
-      "title": "Pharos hisseleri düştü: Serica teklifi artırmayacak; Ratio daha yüksek teklif sundu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/pharos-hisseleri-dustu-serica-teklifi-artrmayacak-ratio-daha-yuksek-teklif-sundu-4021552",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:48:12"
-    },
-    {
-      "title": "DK Yıldız Varlık Kiralama, 100 milyon TL kira sertifikası ihracını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/dk-yldz-varlk-kiralama-100-milyon-tl-kira-sertifikas-ihracn-tamamlad-93CH-4021543",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:47:07"
-    },
-    {
-      "title": "Best Brands Grup, Turka ile araç muayene sözleşmeleri imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/best-brands-grup-turka-ile-arac-muayene-sozlesmeleri-imzalad-93CH-4021542",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:46:51"
-    },
-    {
-      "title": "Bund’lar ABD istihdam düşüşü ve petrol yükselişi arasında sabit",
-      "summary": "",
-      "url": "https://tr.investing.com/news/forex-news/bundlar-abd-istihdam-dususu-ve-petrol-yukselisi-arasnda-sabit-4021541",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:45:00"
-    },
-    {
-      "title": "[Son Dakika] Şişecam Başkanı Adnan Bali istifa etti, yerine Hakan Aran",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/son-dakika-sisecam-baskan-adnan-bali-istifa-etti-yerine-hakan-aran-93CH-4021540",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T07:44:59"
-    },
-    {
-      "title": "Bakan Işıkhan açıkladı: İŞKUR 7 ayda 848 bine yakın kişiyi işe yerleştirdi",
-      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, İŞKUR aracılığıyla ocak-temmuz döneminde 848 bine yakın işe yerleştirmeye aracılık edildiğini belirterek, iş gücü piyasasının ihtiyaçları doğrultusunda istihdama katkı sağlamaya devam edeceklerini bildirdi.",
-      "url": "https://www.dunya.com/ekonomi/bakan-isikhan-acikladi-iskur-7-ayda-848-bine-yakin-kisiyi-ise-yerlestirdi-haberi-835608",
+      "title": "Cumhurbaşkanı Erdoğan'ın 32 yıl önceki konuşması: Türkiye her zamankinden daha fazla barışa, sevgiye, kardeşliğe muhtaç",
+      "summary": "Recep Tayyip Erdoğan&#039;ın 32 yıl önce İstanbul Büyükşehir Belediye Başkanlığı&#039;nın ilk aylarında yaptığı konuşma gün yüzüne çıktı. Cumhurbaşkanı Erdoğan o dönemde &quot;Türkiye her zamankinden daha fazla barışa, sevgiye, kardeşliğe muhtaç&quot; ifadelerini kullanmış.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdoganin-32-yil-onceki-konusmasi-turkiye-her-zamankinden-daha-fazla-barisa-sevgiye-kardeslige-muhtac-haberi-835625",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:40:00"
+      "published": "2026-08-10T09:22:00"
     },
     {
-      "title": "TCMB'den \"Net Hata ve Noksanın Nesi Noksan?\" videosu",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), ödemeler dengesi verilerinde zaman zaman tartışma konusu olan &quot;net hata ve noksan&quot; kaleminin ne anlama geldiğini anlattı. TCMB, bu kalemin kayıp ya da kaynağı belirsiz bir para anlamına gelmediğini, mevcut verilerle henüz açıklanamayan işlemlerden kaynaklandığını belirtti.",
-      "url": "https://www.dunya.com/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-videosu-haberi-835609",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:35:00"
+      "title": "Coca Cola HBC hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/coca-cola-hbc-hissesi-bugun-neden-dusuyor-93CH-4021781",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:21:22"
     },
     {
-      "title": "Bakan Gürlek, Muhsin Yazıcıoğlu'nun ailesini kabul edecek",
-      "summary": "Adalet Bakanı Akın Gürlek, merhum BBP Genel Başkanı Muhsin Yazıcıoğlu&#039;nun ailesiyle bir araya gelecek. Saat 12.00&#039;de yapılacak görüşmede, Yazıcıoğlu&#039;nun ölümüyle ilgili yürütülen soruşturma ve adli süreçteki son gelişmelerin ele alınması bekleniyor.",
-      "url": "https://www.dunya.com/gundem/bakan-gurlek-muhsin-yazicioglunun-ailesini-kabul-edecek-haberi-835606",
+      "title": "Ücretsiz halk plajları 3 milyona yakın ziyaretçiyi ağırladı",
+      "summary": "Türkiye&#039;nin ücretsiz halk plajlarına ilgi yaz sezonunda hızla arttı. Temmuz sonuna kadar yaklaşık 3 milyon kişinin ziyaret ettiği plajlarda Antalya 2 milyonu aşan ziyaretçiyle açık ara ilk sırada yer alırken, yıl sonuna kadar 3 yeni noktanın daha hizmete açılması planlanıyor.",
+      "url": "https://www.dunya.com/ekonomi/ucretsiz-halk-plajlari-3-milyona-yakin-ziyaretciyi-agirladi-haberi-835627",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:26:00"
+      "published": "2026-08-10T09:20:00"
     },
     {
-      "title": "Aspendos'ta 2 bin 400 yıllık mezar keşfedildi: Bir güreşçiye ait olabilir",
-      "summary": "Aspendos Antik Kenti&#039;nde yürütülen kazılarda, kentte varlığı ilk kez belirlenen Doğu Nekropolisi&#039;nde yaklaşık 2 bin 400 yıllık sandık tipi mezar gün yüzüne çıkarıldı. Mezarda bulunan güreşçi betimli sikkeler ve diğer buluntular, burada defnedilen kişinin sporla ilişkili, hatta Aspendoslu bir güreşçi olabileceğine işaret ediyor.",
-      "url": "https://www.dunya.com/foto-galeri/kultur-sanat/aspendosta-2-bin-400-yillik-mezar-kesfedildi-bir-guresciye-ait-olabilir-galeri-835607",
+      "title": "Benzine yeni zam geliyor: Bu gece pompaya yansıyacak",
+      "summary": "Benzine bu gece yarısından itibaren 2,08 liralık fiyat artışı bekleniyor. Artışın yüzde 25&#039;i ÖTV&#039;den karşılanırken, yüzde 75&#039;inin pompaya yansımasıyla benzinin litre fiyatına 1,56 lira zam gelecek.",
+      "url": "https://www.dunya.com/enerji/benzine-yeni-zam-geliyor-bu-gece-pompaya-yansiyacak-haberi-835624",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T07:21:00"
+      "published": "2026-08-10T09:19:00"
+    },
+    {
+      "title": "William Blair personel hizmeti hisselerinde sıkı işgücü piyasasına dikkat çekti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/william-blair-personel-hizmeti-hisselerinde-sk-isgucu-piyasasna-dikkat-cekti-93CH-4021773",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:18:46"
+    },
+    {
+      "title": "Morgan Stanley kazanç büyümesi genişlerken hangi hisseleri tercih ediyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-kazanc-buyumesi-genislerken-hangi-hisseleri-tercih-ediyor-4021782",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T09:16:21"
+    },
+    {
+      "title": "Hürmüz'e karşı yeni petrol rotası: Umman stratejik alternatif için kapasite artırıyor",
+      "summary": "Hürmüz Boğazı&#039;nda ticari geçişlerin normale dönmesine ilişkin belirsizlik, Körfez petrolü için alternatif arayışını hızlandırdı. Umman, boğazın dışında yer alan Ras Markaz terminalinin kapasitesini artırırken planlanan boru hattıyla petrolün Hürmüz&#039;e girmeden dünya piyasalarına ulaştırılmasının önü açılabilir.",
+      "url": "https://www.dunya.com/ekonomi/hurmuze-karsi-yeni-petrol-rotasi-umman-stratejik-alternatif-icin-kapasite-artiriyor-haberi-835623",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T09:05:00"
+    },
+    {
+      "title": "Petkim’den Türkiye’ye 7 milyar dolarlık dev yatırım planı: İthalatı 1,5 milyar dolar azaltabilir",
+      "summary": "Petkim Genel Müdürü ve SOCAR Türkiye Rafineri ve Petrokimya İş Birimi Başkanı Kanan Mirzayev, Petkim için 5 ila 7 milyar dolarlık yatırımın değerlendirildiğini açıkladı. Nihai yatırım kararının alınması halinde hayata geçirilecek Master Plan ile Türkiye&#039;nin polietilen ürünlerindeki dışa bağımlılığının yaklaşık 1,5 milyar dolar azaltılması hedefleniyor.",
+      "url": "https://www.dunya.com/sirketler/petkimden-turkiyeye-7-milyar-dolarlik-dev-yatirim-plani-ithalati-15-milyar-dolar-azaltabilir-haberi-835620",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T09:03:00"
+    },
+    {
+      "title": "BJK maçı tarihi ve saati: Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "UEFA Avrupa Ligi 3. Ön Eleme turunda Beşiktaş, Çekya ekibi Hradec Kralove ile rövanş maçına çıkıyor. Kara Kartal ilk maçta deplasmanda 10 kişi kalmasına rağmen rakibini 1-0 mağlup ederek büyük bir avantaj elde etti. Şimdi ikinci maçın bilgileri araştırılıyor ve &quot;Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda&quot; diye soruluyor.",
+      "url": "https://www.dunya.com/spor/bjk-maci-tarihi-ve-saati-besiktas-hradec-kralove-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835619",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T09:02:00"
+    },
+    {
+      "title": "İsraf olan meyveleri ekonomiye kazandırıyor: 5 kilogramla başladı, Türkiye'ye açıldı",
+      "summary": "Isparta&#039;nın Eğirdir ilçesine bağlı Balkırı köyünde yaşayan kadın girişimci Hilal Çevik, pazarlanamadığı için israf olma riski taşıyan meyveleri geleneksel yöntemlerle kurutarak katma değerli ürünlere dönüştürüyor.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/israf-olan-meyveleri-ekonomiye-kazandiriyor-5-kilogramla-basladi-turkiyeye-acildi-galeri-835621",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T09:02:00"
+    },
+    {
+      "title": "Avrupa uzay yarışında duvara dayandı: Roketler yetmiyor",
+      "summary": "Avrupa, uydu yatırımlarını hızlandırırken kendi roket kapasitesinde kritik bir açıkla karşı karşıya. ESA Başkanı Josef Aschbacher, 2029-2031 döneminde fırlatma talebinin zirve yapacağını ve mevcut kapasitenin yetmeyebileceğini söyledi.",
+      "url": "https://www.dunya.com/gundem/avrupa-uzay-yarisinda-duvara-dayandi-roketler-yetmiyor-haberi-835622",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T09:00:00"
     }
   ]
 }
