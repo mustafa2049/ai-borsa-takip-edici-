@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-10T15:47:09+03:00",
+  "updated_at": "2026-08-10T17:14:35+03:00",
   "news": [
     {
-      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-      "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
-      "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+      "title": "SpaceX stock rebounds to near $135 IPO price",
+      "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+      "url": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T12:40:36",
+      "published": "2026-08-10T14:11:49",
       "ai": {
-        "impact": "Meta'nın AI modelini açık kaynak olarak yayınlamaya karar vermesi, teknoloji şirketlerine ve yapay zeka sektörüne olumlu yansıyabilir. Bu gelişme, ABD'de açık AI'de liderlik için bir adım olarak görülüyor.",
+        "impact": "SpaceX'in beklentilerin üzerinde geliri elde etmesi, şirketin hisse senetlerini olumlu etkileyebilir. Bu durum, teknoloji sektöründe yatırım yapan yatırımcılar için pozitif bir sinyal olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Barrick Mining hisseleri neden bugün düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/barrick-mining-hisseleri-neden-bugun-dusuyor-93CH-4022577",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:30",
+      "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
+      "summary": "A group of House Democrats is calling on leaders of Anthropic, OpenAI and other AI companies to testify in Congress about recent hacking incidents.",
+      "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T14:06:08",
       "ai": {
-        "impact": "Barrick Mining hisselerinin düşmesi, madencilik sektörüne ve ilgili hisselerine negatif yansıyabilir. Ancak, haberin özeti bulunmadığı için具体 etkisini değerlendirmek zor.",
+        "impact": "AI şirketlerinin güvenlik sorunları nedeniyle Kongre'de ifade vermeye çağrılması, bu şirketlerin hisse senetlerini olumsuz etkileyebilir. Bu durum, teknoloji sektöründe yatırım yapan yatırımcılar için negatif bir sinyal olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Canaccord, BioMarin’in hisse hedefini gelir artışıyla yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-biomarinin-hisse-hedefini-gelir-artsyla-yukseltti-93CH-4022574",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:24",
+      "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
+      "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T14:02:04",
       "ai": {
-        "impact": "Canaccord'un BioMarin'in hisse hedefini yükseltmesi, şirketin gelir artışına işaret ediyor olabilir. Bu, BioMarin hisselerine ve sağlık sektörüne olumlu yansıyabilir.",
+        "impact": "Petrol fiyatlarının artması, enerji sektöründe faaliyet gösteren şirketlerin hisse senetlerini olumlu etkileyebilir. Ancak, bu durum, petrol fiyatlarına bağlı olarak faaliyet gösteren diğer sektörlerde negatif etkiler yaratabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Türk CEO’ya 1 milyar 573 milyon TL maaş",
+      "summary": "İngiliz mühendislik devi Rolls-Royce, Türk CEO Tufan Erginbilgiç için dikkat çeken bir ücret paketine onay verdi. Performans hedeflerinin tutturulması halinde Erginbilgiç’in yıllık kazancı 4,4 milyon sterlinden 24,4 milyon sterline kadar çıkabilecek. Yeni paket, Türk yöneticiyi dünyanın en yüksek kazançlı CEO’ları arasına taşıyabilir.",
+      "url": "https://www.dunya.com/ekonomi/turk-ceoya-1-milyar-573-milyon-tl-maas-haberi-835658",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T13:55:00",
+      "ai": {
+        "impact": "Türk CEO Tufan Erginbilgiç'in yüksek maaş alması, Rolls-Royce şirketinin hisse senetlerini doğrudan etkilemeyebilir. Ancak, bu durum, şirketin yönetim yapısı ve performans hedefleri hakkında yatırımcıların olumlu veya olumsuz görüşlerini etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Axogen hissesi 47,09 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/axogen-hissesi-4709-dolarda-52-haftalk-zirve-yapt-93CH-4022936",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T13:47:57",
+      "ai": {
+        "impact": "Axogen hissesinin 52 haftalık zirve yapması, şirketin hisse senetlerini olumlu etkileyebilir. Bu durum, biyoteknoloji sektöründe yatırım yapan yatırımcılar için pozitif bir sinyal olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Canaccord, Evolent Health hissesi için hedef fiyatı düşürdü",
+      "title": "AleeanPeace Group Holdings isim ve sembol değiştirdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-evolent-health-hissesi-icin-hedef-fiyat-dusurdu-93CH-4022573",
+      "url": "https://tr.investing.com/news/sec-filings/aleeanpeace-group-holdings-isim-ve-sembol-degistirdi-93CH-4022935",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:20",
+      "published": "2026-08-10T13:47:33",
       "ai": {
-        "impact": "Canaccord'un Evolent Health hissesi için hedef fiyatını düşürmesi, şirketin performansına ilişkin endişelere işaret ediyor olabilir. Bu, Evolent Health hisselerine ve sağlık sektörüne negatif yansıyabilir.",
+        "impact": "AleeanPeace Group Holdings'in isim ve sembol değiştirmesi, şirketin hisse senetlerini doğrudan etkilemeyebilir. Ancak, bu durum, şirketin marka ve kimlik stratejisi hakkında yatırımcıların görüşlerini etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "The Trade Desk hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/the-trade-desk-hissesi-bugun-neden-dusuyor-93CH-4022934",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T13:47:04",
+      "ai": {
+        "impact": "The Trade Desk hissesinin düşmesi, şirketin hisse senetlerini olumsuz etkileyebilir. Bu durum, reklam teknolojisi sektöründe yatırım yapan yatırımcılar için negatif bir sinyal olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "California Resources hisseleri neden düşüyor?",
+      "title": "BMO Capital, tedarik endişeleriyle Honeywell Aerospace hedefini düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/california-resources-hisseleri-neden-dusuyor-93CH-4022572",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-capital-tedarik-endiseleriyle-honeywell-aerospace-hedefini-dusurdu-93CH-4022932",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:18",
+      "published": "2026-08-10T13:46:07",
       "ai": {
-        "impact": "California Resources hisselerinin düşmesi, enerji sektörüne ve ilgili hisselerine negatif yansıyabilir. Ancak, haberin özeti bulunmadığı için específik etkisini değerlendirmek zor.",
+        "impact": "BMO Capital'in Honeywell Aerospace hedefini düşürmesi, şirketin hisse senetlerini olumsuz etkileyebilir. Bu durum, havacılık ve savunma sektöründe yatırım yapan yatırımcılar için negatif bir sinyal olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Canaccord, Spectrum Brands hissesi için hedef fiyatı yükseltti",
+      "title": "BMO, PPL hissesi için hedef fiyatı 38 dolara düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-spectrum-brands-hissesi-icin-hedef-fiyat-yukseltti-93CH-4022571",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-ppl-hissesi-icin-hedef-fiyat-38-dolara-dusurdu-93CH-4022931",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:16",
-      "ai": {
-        "impact": "Canaccord'un Spectrum Brands hissesi için hedef fiyatını yükseltmesi, şirketin performansına ilişkin olumlu beklentilere işaret ediyor olabilir. Bu, Spectrum Brands hisselerine ve tüketim malları sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-10T13:46:01"
     },
     {
-      "title": "Canaccord, Claritev için hisse hedefini rezervasyonlara dayanarak 43 dolara yükseltti",
+      "title": "BMO güçlü 2Ç sonuçları sonrası Airbnb hisse hedefini yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-claritev-icin-hisse-hedefini-rezervasyonlara-dayanarak-43-dolara-yukseltti-93CH-4022569",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-guclu-2c-sonuclar-sonras-airbnb-hisse-hedefini-yukseltti-93CH-4022930",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:13",
-      "ai": {
-        "impact": "Canaccord'un Claritev için hisse hedefini yükseltmesi, şirketin rezervasyonlarına dayalı olarak olumlu beklentilere işaret ediyor olabilir. Bu, Claritev hisselerine ve ilgili sektöre olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-10T13:46:00"
     },
     {
-      "title": "Canaccord, Pulse Biosciences için hisse hedefini yükseltti",
+      "title": "BMO, CEO değişimi sürecinde Wendy’s hissesi için görüşünü korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-pulse-biosciences-icin-hisse-hedefini-yukseltti-93CH-4022570",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-ceo-degisimi-surecinde-wendys-hissesi-icin-gorusunu-korudu-93CH-4022929",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:13",
-      "ai": {
-        "impact": "Canaccord'un Pulse Biosciences için hisse hedefini yükseltmesi, şirketin performansına ilişkin olumlu beklentilere işaret ediyor olabilir. Bu, Pulse Biosciences hisselerine ve sağlık sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-10T13:45:58"
     },
     {
-      "title": "Argus, güçlü temeller nedeniyle SanDisk hissesi notunu yükseltti",
+      "title": "BMO, DuPont hissesi için Outperform notunu korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/argus-guclu-temeller-nedeniyle-sandisk-hissesi-notunu-yukseltti-93CH-4022568",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-dupont-hissesi-icin-outperform-notunu-korudu-93CH-4022928",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:11"
+      "published": "2026-08-10T13:45:54"
     },
     {
-      "title": "Canaccord, finansman belirsizliği nedeniyle CervoMed hisse hedefini düşürdü",
+      "title": "BMO, sağlık birimi zorlukları nedeniyle Linde hisse hedefini düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-finansman-belirsizligi-nedeniyle-cervomed-hisse-hedefini-dusurdu-93CH-4022567",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-saglk-birimi-zorluklar-nedeniyle-linde-hisse-hedefini-dusurdu-93CH-4022927",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T12:22:08"
+      "published": "2026-08-10T13:45:47"
     },
     {
-      "title": "aTyr Pharma hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/atyr-pharma-hissesi-bugun-neden-yukseliyor-93CH-4022566",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T12:21:19"
-    },
-    {
-      "title": "TCMB rezervlerinde güçlü artış: Bir haftada 13,7 milyar dolar yükseldi",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın toplam rezervlerinin 7 Ağustos haftasında yaklaşık 13,7 milyar dolar artarak 178,2 milyar dolara yükseldiği hesaplandı. TCMB, resmi rezerv verilerini 13 Ağustos Perşembe günü açıklayacak.",
-      "url": "https://www.dunya.com/ekonomik-veriler/tcmb-rezervlerinde-guclu-artis-bir-haftada-137-milyar-dolar-yukseldi-haberi-835647",
+      "title": "Deprem mi oldu? Kolombiya'da deprem mi oldu, kaç büyüklüğünde deprem oldu? Ölü ve yaralı var mı?",
+      "summary": "Kolombiya&#039;da 7.4 büyüklüğünde deprem oldu. Yaşanan sarsıntı sonrası tsunami alarmı verilirken can kaybı olup olmadığı araştırılıyor.",
+      "url": "https://www.dunya.com/dunya/deprem-mi-oldu-kolombiyada-deprem-mi-oldu-kac-buyuklugunde-deprem-oldu-olu-ve-yarali-var-mi-haberi-835656",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T12:20:00"
+      "published": "2026-08-10T13:45:00"
     },
     {
-      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "title": "Bristol Myers Squibb, Teksas’ta 2,3 milyar dolarlık tesis kuracak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/bristol-myers-squibb-teksasta-23-milyar-dolarlk-tesis-kuracak-93CH-4022925",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T13:42:33"
+    },
+    {
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+      "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T12:19:47"
+      "published": "2026-08-10T13:39:56"
     },
     {
-      "title": "Student loan borrowers face steeper 'marriage penalty' under new repayment plan",
-      "summary": "Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.",
-      "url": "https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T12:15:01"
-    },
-    {
-      "title": "Özgür Özel açıkladı: Yeni Parti'nin 'Çerçeve Yasa' kararı belli oldu",
-      "summary": "Yeni Parti&#039;nin bugün oylancak &#039;Çerçeve Yasa&#039; teklifine ilişkin kararı belli oldu. Yeni Parti Genel Başkanı Özgür Özel, Türkiye&#039;nin önünü açacak bir sorumluluğu üstlendiğini belirterek &quot;Ben ve yönetici arkadaşlarım, tarihsel bir tutarlılık ve sorumluluk içinde bu yasaya &#039;evet&#039; diyeceğiz&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/ozgur-ozel-acikladi-yeni-partinin-cerceve-yasa-karari-belli-oldu-haberi-835648",
+      "title": "5G ve yapay zekâyı yol güvenliği için kullandılar: 745 takım yarıştı, 20’si finale kaldı",
+      "summary": "Turkcell ve TEKNOFEST iş birliğiyle düzenlenen “5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması”nda final heyecanı yaşandı. 11 ülke ve 150’yi aşkın üniversiteden 745 takımın başvurduğu yarışmada 20 ekip finale kaldı. Gençler, Togg ile yapılan sürüş testlerinde 5G ve yapay zekâ destekli yol güvenliği çözümlerini gerçek koşullarda denedi.",
+      "url": "https://www.dunya.com/sirketler/5g-ve-yapay-zekayi-yol-guvenligi-icin-kullandilar-745-takim-yaristi-20si-finale-kaldi-haberi-835655",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T12:15:00"
+      "published": "2026-08-10T13:39:00"
     },
     {
-      "title": "TMSF'den yeni ihale: Sidemir ve Kayapalı Nilüfer Turizm satışta",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), Sidemir Sivas Demir Çelik Ticari ve İktisadi Bütünlüğü ile Kayapalı Nilüfer Turizm Araçları Ticari ve İktisadi Bütünlüğü&#039;nü satışa çıkardı.",
-      "url": "https://www.dunya.com/ekonomi/tmsfden-yeni-ihale-sidemir-ve-kayapali-nilufer-turizm-satista-haberi-835646",
+      "title": "KPSS Ortaöğretim başvuruları başladı mı, ne zaman başlıyor?",
+      "summary": "Lise mezunları bu sene KPSS Ortaöğretim&#039;de ter dökecek. 2 yılda bir düzenlenen sınavı kaçırmak istemeyenler başvuru tarihlerine odaklanmış durumda. Herhangi bir olumsuzluk yaşamak istemeyenler &quot;KPSS Ortaöğretim başvuruları başladı mı, ne zaman başlıyor&quot; sorusunu yöneltiyor.",
+      "url": "https://www.dunya.com/gundem/kpss-ortaogretim-basvurulari-basladi-mi-ne-zaman-basliyor-haberi-835654",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T12:13:00"
+      "published": "2026-08-10T13:33:00"
     },
     {
-      "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
-      "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
-      "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T12:03:25"
-    },
-    {
-      "title": "Yeni Parti \"Çerçeve yasayı\" imzaladı mı, onay verdi mi?",
-      "summary": "Toplumda &quot;Çerçeve Yasa&quot; olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi TBMM&#039;de görüşülüyor. Yeni Parti&#039;nin Çerçeve Yasa&#039;ya imza atıp atmadığı merak ediliyor.",
-      "url": "https://www.dunya.com/gundem/yeni-parti-cerceve-yasayi-imzaladi-mi-onay-verdi-mi-haberi-835645",
+      "title": "JPMorgan dolarda geri adım attı: Tavsiyesini değiştirdi",
+      "summary": "ABD’de tarım dışı istihdamın 80 bin kişilik artış beklentisine karşılık 23 bin azalması, JPMorgan’ın dolar stratejisini değiştirdi. Mayıs ortasından bu yana doların yükselişine oynayan banka pozisyonunu &#039;nötr&#039;e çekerken, dolar için daha dar bir hareket alanı öngördü.",
+      "url": "https://www.dunya.com/ekonomi/jpmorgan-dolarda-geri-adim-atti-tavsiyesini-degistirdi-haberi-835657",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:58:00"
+      "published": "2026-08-10T13:28:00"
     },
     {
-      "title": "Gümüşte büyük hareket başladı: Fiyatları uçuracak tarih yaklaşıyor",
-      "summary": "ABD&#039;de istihdam verilerinin beklentileri karşılamaması Fed&#039;in faiz artırımlarına ilişkin beklentileri zayıflatırken, değerli metallerde güçlü bir yükseliş başladı. Geçen hafta yüzde 10,2 yükselerek altını geride bırakan gümüşte gözler şimdi 67 dolar seviyelerine çevrildi. Analstler ise gümüşün değer kazancında altını geçeceğini belirterek kritik bir tarih verdi.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/gumuste-buyuk-hareket-basladi-fiyatlari-ucuracak-tarih-yaklasiyor-galeri-835644",
+      "title": "Hazine, tahvil ihalesiyle 72 milyar lira borçlandı",
+      "summary": "Hazine ve Maliye Bakanlığı, bugün düzenlediği devlet tahvili ihalesinde 71 milyar 963,8 milyon lira borçlanmaya gitti.",
+      "url": "https://www.dunya.com/ekonomi/hazine-tahvil-ihalesiyle-72-milyar-lira-borclandi-haberi-835653",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T11:51:00"
-    },
-    {
-      "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
-      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
-      "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-10T11:44:14"
+      "published": "2026-08-10T13:26:00"
     }
   ]
 }
