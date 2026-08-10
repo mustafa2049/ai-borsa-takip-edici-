@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-10T12:55:07+03:00",
+  "updated_at": "2026-08-10T13:59:20+03:00",
   "news": [
     {
-      "title": "Hedge fonlar ikinci haftada da küresel hisse senedi aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/hedge-fonlar-ikinci-haftada-da-kuresel-hisse-senedi-ald-93CH-4021794",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T09:35:39",
-      "ai": {
-        "impact": "Hedge fonların küresel hisse senedi alımları, piyasalarda güveni artırabilir ve yatırımcıların risk iştahını tăngıştırabilir. Bu durum, Türkiye'de de hisse senedi piyasalarında olumlu yansımalar yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "TD Cowen, Trump’ın Cook’u görevden alma şansını %25 görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/td-cowen-trumpn-cooku-gorevden-alma-sansn-25-goruyor-93CH-4021793",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T09:35:25",
-      "ai": {
-        "impact": "Trump’ın Cook’u görevden alma şansının %25 olarak görülmesi, teknoloji sektöründe belirsizlik yaratabilir ve yatırımcıların bu sektöre olan güvenini sarsabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "İstihdam verisi Fed faiz artışı ihtimalini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/istihdam-verisi-fed-faiz-arts-ihtimalini-dusurdu-93CH-4021792",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T09:34:13",
-      "ai": {
-        "impact": "İstihdam verisinin Fed faiz artışı ihtimalini düşürmesi, faizlerin düşük kalmasına neden olabilir ve bu durum, hisse senedi piyasalarında olumlu yansımalar yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-      "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
-      "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
+      "summary": "The AI lab said it could not rule out a new model had reached \"Critical\" capability, meaning it could launch cyberattacks against sophisticated cyber defenses.",
+      "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-10T09:33:31",
+      "published": "2026-08-10T10:59:17",
       "ai": {
-        "impact": "İran ve ABD arasındaki gerilim, petrol fiyatlarını artırabilir ve bu durum, enerji maliyetlerinin artmasına neden olabilir. Bu, özellikle enerji ithalatına bağımlı olan Türkiye gibi ülkeler için negatif olabilir.",
+        "impact": "Yapay zekâ güvenliği konusunda artan endişeler, siber saldırı riskine karşı şirketlerin önlem almasına neden olabilir. Bu durum, siber güvenlik şirketlerine olan talebi artırabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "ABD enflasyon rakamları açıklandı mı, ne zaman açıklanıyor? ABD enflasyon beklentisi ne?",
+      "summary": "ABD&#039;de yakın zamanda temmuz ayı enflasyonu açıklanacak. Dünya bu oranlara odaklanırken beklenti ve tarih merak ediliyor. Sıkça yöneltilen sorundan biri &quot;ABD enflasyon rakamları ne zaman açıklanacak&quot; oluyor.",
+      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-aciklandi-mi-ne-zaman-aciklaniyor-abd-enflasyon-beklentisi-ne-haberi-835635",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T10:50:00",
+      "ai": {
+        "impact": "ABD enflasyon rakamlarının açıklanması, faiz oranlarına ve dolar kuruyla birlikte global piyasalara etki edebilir. Yüksek enflasyon, faiz artırımına neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "AL Sydbank 32. haftada 35.000 hisse geri aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/al-sydbank-32-haftada-35000-hisse-geri-ald-93CH-4021788",
-      "source": "Investing Türkiye",
-      "published": "2026-08-10T09:29:17",
+      "title": "Yapay zekâya 130 milyar dolarlık halk freni",
+      "summary": "ABD’de yapay zekâ veri merkezlerine karşı büyüyen yerel tepki finansman cephesine sıçradı. İlk çeyrekte yaklaşık 130 milyar dolarlık en az 75 proje itirazlarla karşılaşırken bankalar kredi kararlarında halk desteğini de inceliyor.",
+      "url": "https://www.dunya.com/ekonomi/yapay-zekaya-130-milyar-dolarlik-halk-freni-haberi-835636",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T10:50:00",
       "ai": {
-        "impact": "AL Sydbank’ın hisse geri alımı, şirketin kendi hisselerine olan güvenini gösteriyor ve yatırımcıların da şirket hisselerine olan güvenini artırabilir.",
+        "impact": "Yapay zekâ veri merkezlerine karşı büyüyen yerel tepki, bu alanda yatırım yapan şirketlerin finansmanını zorlaştırabilir. Bu durum, yapay zekâ şirketlerinin büyümesini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Santoli: Stocks return to their winning ways. But was July's brief pain enough to satisfy the market gods?",
+      "summary": "The stock market's winning history – a hit rate of 100% over any past 20-year span - is well understood. But investors recognize – or need to – the genuine hazard in equities.",
+      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T10:43:38",
+      "ai": {
+        "impact": "Hisse senedi piyasalarının kazandığı ivme, yatırımcıların risk iştahını artırabilir. Ancak, piyasa dalgalanmaları devam edebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Deutsche Bank, hisse fiyatındaki zayıflık sonrası Persimmon’u al’a yükseltti",
+      "title": "Morgan Stanley, Global-E Online hissesi için notunu düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisse-fiyatndaki-zayflk-sonras-persimmonu-ala-yukseltti-4021789",
+      "url": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-globale-online-hissesi-icin-notunu-dusurdu-93CH-4021956",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:28:07",
+      "published": "2026-08-10T10:34:32",
       "ai": {
-        "impact": "Deutsche Bank’ın Persimmon’u al’a yükseltmesi, şirketin geleceğine olan güveni artırabilir ve yatırımcıların da bu şirkete olan ilgiyi artırabilir.",
+        "impact": "Morgan Stanley'in Global-E Online hissesi için notunu düşürmesi, şirketin hisse senedi değerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "BofA, MiniMed Group hissesi için hedef fiyatı 24 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bofa-minimed-group-hissesi-icin-hedef-fiyat-24-dolara-yukseltti-93CH-4021955",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T10:34:25",
+      "ai": {
+        "impact": "BofA'nın MiniMed Group hissesi için hedef fiyatını yükseltmesi, şirketin hisse senedi değerini olumlu etkileyebilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "HANetf II ICAV yedi ETF için Ağustos temettüsü açıkladı",
+      "title": "Irak Eylül ayı ham petrol fiyatlarını Asyalı alıcılar için artırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/hanetf-ii-icav-yedi-etf-icin-agustos-temettusu-acklad-93CH-4021785",
+      "url": "https://tr.investing.com/news/commodities-news/irak-eylul-ay-ham-petrol-fiyatlarn-asyal-alclar-icin-artrd-93CH-4021954",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:25:29",
+      "published": "2026-08-10T10:34:24",
       "ai": {
-        "impact": "HANetf II ICAV’ın ETF’leri için Ağustos temettüsünü açıklaması, yatırımcılar için düzenli gelir kaynağı olabilir ve bu durum, yatırımcıların bu ETF’lere olan ilgisini artırabilir.",
-        "sentiment": "Pozitif"
+        "impact": "Irak'ın ham petrol fiyatlarını artırması, enerji şirketlerinin karlılığını olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "Çin dünya ticaretinin rotasını değiştiriyor",
-      "summary": "Çin ile Avrupa arasındaki deniz ticaretinde dengeleri değiştirebilecek yeni dönem başlıyor. Kuzey Kutbu üzerinden ilerleyen Kutup İpek Yolu, tek seferlik denemelerin ardından düzenli konteyner hattına dönüşüyor. Yeni rota, yaklaşık 40 günlük yolculuğu 20 gün civarına indirebiliyor.",
-      "url": "https://www.dunya.com/ekonomi/cin-dunya-ticaretinin-rotasini-degistiriyor-haberi-835626",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:24:00",
+      "title": "Wells Fargo, Vistra Energy hissesi için hedef fiyatı 212 dolara çekti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/wells-fargo-vistra-energy-hissesi-icin-hedef-fiyat-212-dolara-cekti-93CH-4021953",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T10:34:09",
       "ai": {
-        "impact": "Çin’in dünya ticaretinin rotasını değiştirmesi, Türkiye gibi ülkeler için yeni ticaret fırsatları yaratabilir ve bu durum, Türkiye’nin dış ticaret dengesini olumlu yönde etkileyebilir.",
-        "sentiment": "Pozitif"
+        "impact": "Wells Fargo'nun Vistra Energy hissesi için hedef fiyatını düşürmesi, şirketin hisse senedi değerini olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "BofA: Indiana’daki kamu hizmetleri daha sıkı inceleme ile karşı karşıya",
+      "title": "Wells Fargo, AIG hissesi için hedef fiyatı düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bofa-indianadaki-kamu-hizmetleri-daha-sk-inceleme-ile-kars-karsya-93CH-4021784",
+      "url": "https://tr.investing.com/news/analyst-ratings/wells-fargo-aig-hissesi-icin-hedef-fiyat-dusurdu-93CH-4021952",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:23:09"
+      "published": "2026-08-10T10:34:07"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'ın 32 yıl önceki konuşması: Türkiye her zamankinden daha fazla barışa, sevgiye, kardeşliğe muhtaç",
-      "summary": "Recep Tayyip Erdoğan&#039;ın 32 yıl önce İstanbul Büyükşehir Belediye Başkanlığı&#039;nın ilk aylarında yaptığı konuşma gün yüzüne çıktı. Cumhurbaşkanı Erdoğan o dönemde &quot;Türkiye her zamankinden daha fazla barışa, sevgiye, kardeşliğe muhtaç&quot; ifadelerini kullanmış.",
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdoganin-32-yil-onceki-konusmasi-turkiye-her-zamankinden-daha-fazla-barisa-sevgiye-kardeslige-muhtac-haberi-835625",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:22:00"
-    },
-    {
-      "title": "Coca Cola HBC hissesi bugün neden düşüyor?",
+      "title": "BTIG, gelir artışıyla Consensus Cloud hisse hedefini yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/coca-cola-hbc-hissesi-bugun-neden-dusuyor-93CH-4021781",
+      "url": "https://tr.investing.com/news/analyst-ratings/btig-gelir-artsyla-consensus-cloud-hisse-hedefini-yukseltti-93CH-4021950",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:21:22"
+      "published": "2026-08-10T10:34:05"
     },
     {
-      "title": "Ücretsiz halk plajları 3 milyona yakın ziyaretçiyi ağırladı",
-      "summary": "Türkiye&#039;nin ücretsiz halk plajlarına ilgi yaz sezonunda hızla arttı. Temmuz sonuna kadar yaklaşık 3 milyon kişinin ziyaret ettiği plajlarda Antalya 2 milyonu aşan ziyaretçiyle açık ara ilk sırada yer alırken, yıl sonuna kadar 3 yeni noktanın daha hizmete açılması planlanıyor.",
-      "url": "https://www.dunya.com/ekonomi/ucretsiz-halk-plajlari-3-milyona-yakin-ziyaretciyi-agirladi-haberi-835627",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:20:00"
-    },
-    {
-      "title": "Benzine yeni zam geliyor: Bu gece pompaya yansıyacak",
-      "summary": "Benzine bu gece yarısından itibaren 2,08 liralık fiyat artışı bekleniyor. Artışın yüzde 25&#039;i ÖTV&#039;den karşılanırken, yüzde 75&#039;inin pompaya yansımasıyla benzinin litre fiyatına 1,56 lira zam gelecek.",
-      "url": "https://www.dunya.com/enerji/benzine-yeni-zam-geliyor-bu-gece-pompaya-yansiyacak-haberi-835624",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:19:00"
-    },
-    {
-      "title": "William Blair personel hizmeti hisselerinde sıkı işgücü piyasasına dikkat çekti",
+      "title": "BTIG, güçlü sonuçlar sonrası Omada Health hisse hedefini yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/william-blair-personel-hizmeti-hisselerinde-sk-isgucu-piyasasna-dikkat-cekti-93CH-4021773",
+      "url": "https://tr.investing.com/news/analyst-ratings/btig-guclu-sonuclar-sonras-omada-health-hisse-hedefini-yukseltti-93CH-4021951",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:18:46"
+      "published": "2026-08-10T10:34:05"
     },
     {
-      "title": "Morgan Stanley kazanç büyümesi genişlerken hangi hisseleri tercih ediyor?",
+      "title": "National Energy Services Reunited hisseleri neden yükseldi?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-kazanc-buyumesi-genislerken-hangi-hisseleri-tercih-ediyor-4021782",
+      "url": "https://tr.investing.com/news/stock-market-news/national-energy-services-reunited-hisseleri-neden-yukseldi-93CH-4021949",
       "source": "Investing Türkiye",
-      "published": "2026-08-10T09:16:21"
+      "published": "2026-08-10T10:34:02"
     },
     {
-      "title": "Hürmüz'e karşı yeni petrol rotası: Umman stratejik alternatif için kapasite artırıyor",
-      "summary": "Hürmüz Boğazı&#039;nda ticari geçişlerin normale dönmesine ilişkin belirsizlik, Körfez petrolü için alternatif arayışını hızlandırdı. Umman, boğazın dışında yer alan Ras Markaz terminalinin kapasitesini artırırken planlanan boru hattıyla petrolün Hürmüz&#039;e girmeden dünya piyasalarına ulaştırılmasının önü açılabilir.",
-      "url": "https://www.dunya.com/ekonomi/hurmuze-karsi-yeni-petrol-rotasi-umman-stratejik-alternatif-icin-kapasite-artiriyor-haberi-835623",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:05:00"
+      "title": "Floor & Decor yönetim kurulu başkanı 13,6 milyon dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/floor--decor-yonetim-kurulu-baskan-136-milyon-dolarlk-hisse-satt-93CH-4021947",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T10:33:06"
     },
     {
-      "title": "Petkim’den Türkiye’ye 7 milyar dolarlık dev yatırım planı: İthalatı 1,5 milyar dolar azaltabilir",
-      "summary": "Petkim Genel Müdürü ve SOCAR Türkiye Rafineri ve Petrokimya İş Birimi Başkanı Kanan Mirzayev, Petkim için 5 ila 7 milyar dolarlık yatırımın değerlendirildiğini açıkladı. Nihai yatırım kararının alınması halinde hayata geçirilecek Master Plan ile Türkiye&#039;nin polietilen ürünlerindeki dışa bağımlılığının yaklaşık 1,5 milyar dolar azaltılması hedefleniyor.",
-      "url": "https://www.dunya.com/sirketler/petkimden-turkiyeye-7-milyar-dolarlik-dev-yatirim-plani-ithalati-15-milyar-dolar-azaltabilir-haberi-835620",
+      "title": "AK Parti'den Üsküdar Belediyesi Başkan Vekilliği seçimi için suç duyurusu",
+      "summary": "AK Parti Üsküdar İlçe Başkanı Taha Sarıcaoğlu, Üsküdar Belediye Meclisinde 5 Ağustos&#039;ta gerçekleştirilen başkan vekili seçimine ilişkin iki ayrı suç duyurusunda bulunduklarını belirterek, seçim işleminin ve meclis kararının iptali ile seçimin yenilenmesi talebiyle idare mahkemesinde de dava açacaklarını bildirdi.",
+      "url": "https://www.dunya.com/gundem/ak-partiden-uskudar-belediyesi-baskan-vekilligi-secimi-icin-suc-duyurusu-haberi-835634",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:03:00"
+      "published": "2026-08-10T10:33:00"
     },
     {
-      "title": "BJK maçı tarihi ve saati: Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "UEFA Avrupa Ligi 3. Ön Eleme turunda Beşiktaş, Çekya ekibi Hradec Kralove ile rövanş maçına çıkıyor. Kara Kartal ilk maçta deplasmanda 10 kişi kalmasına rağmen rakibini 1-0 mağlup ederek büyük bir avantaj elde etti. Şimdi ikinci maçın bilgileri araştırılıyor ve &quot;Beşiktaş - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda&quot; diye soruluyor.",
-      "url": "https://www.dunya.com/spor/bjk-maci-tarihi-ve-saati-besiktas-hradec-kralove-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835619",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:02:00"
+      "title": "Sezzle hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sezzle-hissesi-bugun-neden-yukseliyor-93CH-4021942",
+      "source": "Investing Türkiye",
+      "published": "2026-08-10T10:31:52"
     },
     {
-      "title": "İsraf olan meyveleri ekonomiye kazandırıyor: 5 kilogramla başladı, Türkiye'ye açıldı",
-      "summary": "Isparta&#039;nın Eğirdir ilçesine bağlı Balkırı köyünde yaşayan kadın girişimci Hilal Çevik, pazarlanamadığı için israf olma riski taşıyan meyveleri geleneksel yöntemlerle kurutarak katma değerli ürünlere dönüştürüyor.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/israf-olan-meyveleri-ekonomiye-kazandiriyor-5-kilogramla-basladi-turkiyeye-acildi-galeri-835621",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:02:00"
+      "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
+      "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
+      "url": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T10:30:01"
     },
     {
-      "title": "Avrupa uzay yarışında duvara dayandı: Roketler yetmiyor",
-      "summary": "Avrupa, uydu yatırımlarını hızlandırırken kendi roket kapasitesinde kritik bir açıkla karşı karşıya. ESA Başkanı Josef Aschbacher, 2029-2031 döneminde fırlatma talebinin zirve yapacağını ve mevcut kapasitenin yetmeyebileceğini söyledi.",
-      "url": "https://www.dunya.com/gundem/avrupa-uzay-yarisinda-duvara-dayandi-roketler-yetmiyor-haberi-835622",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+      "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-10T10:29:27"
+    },
+    {
+      "title": "Rekabet Kurulu’ndan ilaç sektörüne kapsamlı inceleme",
+      "summary": "Rekabet Kurulunca hazırlanan ilaç sektörüne yönelik inceleme raporunda, olası rekabet ihlalleri ve sorun alanları analiz edilerek iyileştirmeye yönelik uygulanabilir ve hedef odaklı çözüm önerileri sunuldu.",
+      "url": "https://www.dunya.com/gundem/rekabet-kurulundan-ilac-sektorune-kapsamli-inceleme-haberi-835632",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-10T09:00:00"
+      "published": "2026-08-10T10:29:00"
+    },
+    {
+      "title": "Borsada FOMO çılgınlığı",
+      "summary": "ABD borsalarında son günlerde görülen sert toparlanma yatırımcı davranışını da değiştirdi. Orta Doğu geriliminin hafiflemesi, petrol fiyatlarının gerilemesi ve güçlü şirket bilançolarının yanına şimdi bir başka güç eklendi: FOMO.",
+      "url": "https://www.dunya.com/finans/haberler/borsada-fomo-cilginligi-haberi-835633",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T10:29:00"
+    },
+    {
+      "title": "Batı Akdeniz ihracatta rekora koşuyor: 7 ayda 1,76 milyar dolar",
+      "summary": "Batı Akdeniz&#039;den ocak-temmuz döneminde 1 milyar 763 milyon dolarlık ihracat gerçekleştirildi. Temmuzda 291 milyon dolarla tüm zamanların aylık rekoru kırılırken, BAİB yıl sonunda 3 milyar dolarlık ihracata ulaşmayı hedefliyor.",
+      "url": "https://www.dunya.com/ihracat/bati-akdeniz-ihracatta-rekora-kosuyor-7-ayda-176-milyar-dolar-haberi-835631",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-10T10:13:00"
     }
   ]
 }
