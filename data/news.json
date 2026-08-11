@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-11T15:06:16+03:00",
+  "updated_at": "2026-08-11T16:51:02+03:00",
   "news": [
     {
-      "title": "Baby products company Frida is expanding into kids’ personal care",
-      "summary": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
-      "url": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+      "title": "Parents could put pre-tax paycheck money into Trump Accounts, with employers matching, Treasury says",
+      "summary": "The U.S. Department of Treasury issued guidance that could allow parents to make pre-tax contributions to a child's Trump Account directly from their paycheck.",
+      "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T12:00:02",
+      "published": "2026-08-11T13:49:30",
       "ai": {
-        "impact": "Frida'nın kişisel bakım ürünleri piyasasına girmesi, şirketin büyümesine katkıda bulunabilir. Bu, çocuk ürünleri şirketleri için yeni bir pazar fırsatı olabilir.",
+        "impact": "ABD Hazinesi'nin Trump Hesapları için verdiği rehberlik, ebeveynlerin çocuklarının hesabına önceden vergi ödenmiş maaşlarından katkıda bulunmasına izin verebilir. Bu, ABD'de ailelerin vergi yükünü azaltabilir ve ekonomiye olumlu etkide bulunabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Under Armour hisseleri neden bugün düşüyor?",
+      "title": "Cheesecake Factory hissesi 113,24 dolarla rekor kırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/under-armour-hisseleri-neden-bugun-dusuyor-93CH-4024255",
+      "url": "https://tr.investing.com/news/company-news/cheesecake-factory-hissesi-11324-dolarla-rekor-krd-93CH-4024524",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T11:56:25",
+      "published": "2026-08-11T13:48:51",
       "ai": {
-        "impact": "Under Armour hisselerinin düşmesi, şirketin performansının beklentileri karşılamaması veya genel piyasa koşullarının olumsuz etkisinden kaynaklanabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Gap hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gap-hisseleri-neden-dusuyor-93CH-4024253",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T11:55:49",
-      "ai": {
-        "impact": "Gap hisselerinin düşmesi, şirketin satışlarının azalması veya genel moda endüstrisindeki değişimlerden kaynaklanabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Tesla’nın Robotaxi kanıtı göstermesi gerekiyor: Morgan Stanley",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/teslann-robotaxi-kant-gostermesi-gerekiyor-morgan-stanley-4024252",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T11:54:24",
-      "ai": {
-        "impact": "Tesla'nın Robotaxi kanıtı göstermesi, şirketin otonom araç teknolojisi alanındaki gelişimini göstermesi açısından önemlidir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Processa Pharmaceuticals hissedarları teşvik planı değişikliğini onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/processa-pharmaceuticals-hissedarlar-tesvik-plan-degisikligini-onaylad-93CH-4024251",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T11:54:22",
-      "ai": {
-        "impact": "Processa Pharmaceuticals'in hissedarlarının teşvik planı değişikliğini onaylaması, şirketin iç işleyişini güçlendirebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Signet Jewelers, Zales ve Blue Nile için yeni başkanlar atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/signet-jewelers-zales-ve-blue-nile-icin-yeni-baskanlar-atad-93CH-4024248",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T11:53:37",
-      "ai": {
-        "impact": "Signet Jewelers'in yeni başkanlar ataması, şirketin yönetim yapısını güçlendirebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Baxter International geçici CFO’su Eylül’de istifa edecek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/baxter-international-gecici-cfosu-eylulde-istifa-edecek-93CH-4024247",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T11:50:41",
-      "ai": {
-        "impact": "Baxter International'in geçici CFO'sunun istifası, şirketin finansal yönetiminde geçici bir boşluk yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan Eren Bülbül ve Ferhat Gedik için anma mesajı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şehadetlerinin 9&#039;uncu yılında Eren Bülbül ve Jandarma Astsubay Ferhat Gedik&#039;i anarak, &quot;Vatan için, bayrak için toprağa düşen iki kahramanımızı rahmetle yad ediyorum&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogandan-eren-bulbul-ve-ferhat-gedik-icin-anma-mesaji-haberi-835781",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:49:00",
-      "ai": {
-        "impact": "Cumhurbaşkanı Erdoğan'ın anma mesajı, ulusal birliğin ve kahramanların anılması açısından önemlidir, ancak doğrudan ekonomik etkisi yoktur.",
+        "impact": "Cheesecake Factory hisselerinin rekor kırmış olması, şirketin finansal performansının iyi olduğunu gösteriyor. Ancak bu, Türkiye veya dünya piyasaları üzerinde doğrudan bir etkiye sahip olmayabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Kripto paralarda yeni dönem: Bitcoin, Ethereum ve Tether için karar çıktı",
-      "summary": "Rusya Merkez Bankası, bitcoin, ethereum ve USDT&#039;nin (Tether) Rus borsalarında halka açık şekilde işlem görmesine izin verdi. Yeni düzenlemeyle nitelikli yatırımcılara miktar sınırı uygulanmazken, diğer yatırımcılar için yıllık 300 bin rublelik limit getirildi.",
-      "url": "https://www.dunya.com/finans/kripto-para/kripto-paralarda-yeni-donem-bitcoin-ethereum-ve-tether-icin-karar-cikti-haberi-835782",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:49:00"
+      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
+      "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T13:48:36",
+      "ai": {
+        "impact": "ABD ve İran arasındaki gerginliğin azalması, bölgede istikrarı artırabilir ve enerji piyasalarına olumlu yansıyabilir. Ancak bu süreçte stiller arasındaki anlaşmazlıklar devam ediyor.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Guggenheim, Septerna için hisse hedefini 51 dolara yükseltti",
+      "title": "Needham, Archer Aviation hissesi için tavsiyesini korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/guggenheim-septerna-icin-hisse-hedefini-51-dolara-yukseltti-93CH-4024245",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-archer-aviation-hissesi-icin-tavsiyesini-korudu-93CH-4024523",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T11:48:28"
+      "published": "2026-08-11T13:48:12",
+      "ai": {
+        "impact": "Needham'ın Archer Aviation hisseleri için tavsiyesini koruması, şirketin gelecekteki performansına ilişkin olumlu beklentileri yansıtabilir. Ancak bu, genel piyasa trendini doğrudan etkilemeyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "SPDI, Adven kredilerini Ekim’e uzattı ve 100 bin sterlin ekledi",
+      "title": "Weyco Group hisselerinde 47.300 dolarlık satış gerçekleşti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/spdi-adven-kredilerini-ekime-uzatt-ve-100-bin-sterlin-ekledi-93CH-4024244",
+      "url": "https://tr.investing.com/news/insider-trading-news/weyco-group-hisselerinde-47300-dolarlk-sats-gerceklesti-93CH-4024522",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T11:48:27"
+      "published": "2026-08-11T13:47:11",
+      "ai": {
+        "impact": "Weyco Group hisselerinde gerçekleşen satış, şirketin hisse senedi performansını etkileyebilir. Ancak bu, daha geniş bir piyasa etkisi yaratmayabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Guggenheim, Axsome Therapeutics için hedef fiyatı yükseltti",
+      "title": "Xencor hissesi 21,99 dolarda 52 haftalık zirve yaptı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/guggenheim-axsome-therapeutics-icin-hedef-fiyat-yukseltti-93CH-4024243",
+      "url": "https://tr.investing.com/news/company-news/xencor-hissesi-2199-dolarda-52-haftalk-zirve-yapt-93CH-4024521",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T11:48:24"
+      "published": "2026-08-11T13:46:53",
+      "ai": {
+        "impact": "Xencor hisselerinin 52 haftalık zirve yapması, şirketin hisse senedi performansının iyi olduğunu gösterir. Bu, biyoteknoloji sektöründe olumlu bir sinyal olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Guggenheim, Tenax Therapeutics için hedef fiyatı 4 dolara düşürdü",
+      "title": "Dell Technologies hisseleri neden bugün düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/guggenheim-tenax-therapeutics-icin-hedef-fiyat-4-dolara-dusurdu-93CH-4024242",
+      "url": "https://tr.investing.com/news/stock-market-news/dell-technologies-hisseleri-neden-bugun-dusuyor-93CH-4024520",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T11:48:15"
+      "published": "2026-08-11T13:44:00",
+      "ai": {
+        "impact": "Dell Technologies hisselerinin düşmesi, şirketin finansal performansının veya sektörel koşulların olumsuz olduğunu gösterebilir. Bu, teknoloji sektöründe bir endişe yaratabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Özgür Kabadayı hakkında 92 yıla kadar hapis istemi",
-      "summary": "Şile Belediyesi&#039;ne yönelik soruşturmada yeni bir gelişme yaşandı. Tutuklanan ve görevinden uzaklaştırılan Şile Belediye Başkanı Özgür Kabadayı hakkında hazırlanan iddianame mahkeme tarafından kabul edildi. Kabadayı&#039;nın 33 yıl 3 aydan 92 yıla kadar hapisle cezalandırılması talep edildi.",
-      "url": "https://www.dunya.com/gundem/ozgur-kabadayi-hakkinda-92-yila-kadar-hapis-istemi-haberi-835780",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:43:00"
+      "title": "Nebius hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/nebius-hissesi-bugun-neden-yukseliyor-93CH-4024518",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T13:41:38",
+      "ai": {
+        "impact": "Nebius hisselerinin yükselmesi, şirketin hisse senedi performansının iyi olduğunu gösterir. Ancak bu, daha geniş bir piyasa trendini veya genel ekonomiyi doğrudan etkilemeyebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "ABD her gün 3 milyar doları faize ödüyor",
-      "summary": "ABD’nin hızla büyüyen borç yükü bütçede giderek daha fazla alan kaplıyor. Mali yılın ilk 10 ayında faiz ödemeleri 963 milyar dolara ulaşırken günlük ortalama fatura 3 milyar doları aştı, bütçe açığı ise 1,8 trilyon dolara çıktı.",
-      "url": "https://www.dunya.com/ekonomi/abd-her-gun-3-milyar-dolari-faize-oduyor-haberi-835783",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:43:00"
+      "title": "Baird, First Solar’ı yükseltti, Bölüm 232 rezervasyonların önünü açıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/baird-first-solar-yukseltti-bolum-232-rezervasyonlarn-onunu-acyor-4024517",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T13:40:08"
     },
     {
-      "title": "Tuna'da kritik eşik: Nükleer santralin kapanmasına 3 santimetre kaldı",
-      "summary": "Avrupa&#039;da yaşanan kuraklık nedeniyle Tuna Nehri&#039;ndeki su seviyesi kritik seviyelere çekilirken Romanya&#039;daki Çernavoda Nükleer Santrali kapanmanın eşiğine geldi. Su seviyesindeki düşüşün sürmesi halinde çalışan reaktörün birkaç gün içinde devre dışı kalabileceği belirtilirken, Romanya da olası elektrik açığına karşı büyük sanayi tesislerinde kesinti seçeneğini devreye aldı.",
-      "url": "https://www.dunya.com/dunya/tunada-kritik-esik-nukleer-santralin-kapanmasina-3-santimetre-kaldi-haberi-835784",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:32:00"
+      "title": "Williams-Sonoma hissesi 253,46 dolarla rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/williamssonoma-hissesi-25346-dolarla-rekor-krd-93CH-4024516",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T13:38:50"
     },
     {
-      "title": "Tahran ile Trabzon arasında direkt uçuş seferleri başladı",
-      "summary": "Trabzon ile İran&#039;ın başkenti Tahran arasında direkt uçuşların ilk seferi gerçekleştirildi. Yaklaşık 2 saat süren uçuşların salı ve cuma günleri olmak üzere haftada iki kez yapılacağı bildirildi.",
-      "url": "https://www.dunya.com/gundem/tahran-ile-trabzon-arasinda-direkt-ucus-seferleri-basladi-haberi-835778",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:25:00"
+      "title": "Amplitude hissesi 12,46 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/amplitude-hissesi-1246-dolarda-52-haftalk-zirve-yapt-93CH-4024515",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T13:38:40"
     },
     {
-      "title": "Wall Street Apple’dan soğuyor",
-      "summary": "Apple hisseleri için olumsuz görüşler artıyor. Jefferies’in not indiriminin ardından satış yönlü tavsiye veren kurum sayısı 2012’den bu yana en yüksek seviyeye eşitlendi.",
-      "url": "https://www.dunya.com/finans/haberler/wall-street-appledan-soguyor-haberi-835779",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:22:00"
-    },
-    {
-      "title": "Avrupa hisselerinde yeni dönem: Dev bankalar fırsatı işaret etti",
-      "summary": "Avrupa’nın yeniden silahlanma sürecinde yeni bir aşamaya geçildiğini belirten Barclays ve RBC Capital Markets, savunma hisselerindeki geri çekilmeyi yatırım fırsatı olarak değerlendiriyor. Analistler, sektörün 2030’a kadar güçlü büyümesini sürdürmesini bekliyor.",
-      "url": "https://www.dunya.com/ekonomi/avrupa-hisselerinde-yeni-donem-dev-bankalar-firsati-isaret-etti-haberi-835777",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T11:19:00"
+      "title": "Appian ve Synechron sigorta taahhüt mimarisi başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/appian-ve-synechron-sigorta-taahhut-mimarisi-baslatt-93CH-4024514",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T13:37:49"
     },
     {
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
       "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T11:15:16"
+      "published": "2026-08-11T13:36:53"
+    },
+    {
+      "title": "Sıcaklar satışları artırdı: Vatandaş serinlemek için karpuza yöneldi",
+      "summary": "Kırşehir’de hava sıcaklıklarının yükselmesiyle kavun ve karpuza talep arttı. Satıcılar uygun fiyatların satışları desteklediğini belirtirken, üreticiler ise aşırı sıcak nedeniyle karpuzların tarlada zarar görme riskiyle karşı karşıya olduğuna dikkat çekti.",
+      "url": "https://www.dunya.com/video-galeri/gundem/sicaklar-satislari-artirdi-vatandas-serinlemek-icin-karpuza-yoneldi-video-835793",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T13:27:00"
+    },
+    {
+      "title": "İran ile ABD arasında anlaşma sinyali: Pakistan duyurdu",
+      "summary": "Pakistan Savunma Bakanı Khawaja Asif, ABD ile İran arasındaki görüşmelerden son günlerde olumlu sinyaller geldiğini belirterek tarafların bir anlaşmaya yaklaştığını söyledi. Pakistan İçişleri Bakanı Muhsin Rıza Nakvi ise İranlı yetkililerle görüşmek üzere Tahran&#039;a gitti.",
+      "url": "https://www.dunya.com/dunya/iran-ile-abd-arasinda-anlasma-sinyali-pakistan-duyurdu-haberi-835792",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T13:12:00"
+    },
+    {
+      "title": "Tesla'dan binlerce aracı için geri çağırma kararı: Kaza riskini var",
+      "summary": "Tesla, ABD&#039;de 20 bin 349 aracını geri çağırdı. Model 3 ve Model Y araçlarını kapsayan kararın, kısa hüzmeli farların aşırı parlak yanarak karşıdan gelen sürücülerin görüşünü azaltabileceği ve kaza riskini artırabileceği gerekçesiyle alındığı açıklandı.",
+      "url": "https://www.dunya.com/foto-galeri/otomotiv/tesladan-binlerce-araci-icin-geri-cagirma-karari-kaza-riskini-var-galeri-835791",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T13:06:00"
+    },
+    {
+      "title": "Merkez bankalarının uykusunu kaçıran asıl şey bu",
+      "summary": "Dünya ekonomisi bir krizi geride bırakmadan yenisiyle karşılaşırken, merkez bankaları enflasyonu sıçratan arz şoklarının artık &quot;yeni normal&quot; olup olmadığını değerlendiriyor. Ekonomistlere göre ise asıl tehlike tek bir krizde değil, bu şokların sıklaşarak büyümeyi, enflasyonu ve finans piyasalarını aynı anda vurabilecek bir döngüye dönüşmesinde.",
+      "url": "https://www.dunya.com/ekonomi/merkez-bankalarinin-uykusunu-kaciran-asil-sey-bu-haberi-835794",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T13:00:00"
+    },
+    {
+      "title": "MİA Teknoloji 98 milyon TL’lik projesini tamamladı",
+      "summary": "MİA Teknoloji, Gazi Üniversitesi Teknopark’ta yürüttüğü biyometrik kimlik doğrulama projesini tamamladı. Yaklaşık 98 milyon TL bütçeli projenin bitirme belgesi, Sanayi ve Teknoloji Bakanlığı ile Gazi Teknopark’ın onayının ardından tescillendi.",
+      "url": "https://www.dunya.com/finans/haberler/mia-teknoloji-98-milyon-tllik-projesini-tamamladi-haberi-835790",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T12:59:00"
+    },
+    {
+      "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+      "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
+      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T12:55:25"
+    },
+    {
+      "title": "AB'de ambalajlarda yeni dönem yarın başlıyor: Bu ürünler artık yasaklanacak",
+      "summary": "Avrupa Birliği, ambalaj atıklarını azaltmak ve tüketicileri zararlı kimyasallardan korumak için yeni dönemi başlatıyor. 12 Ağustos&#039;tan itibaren gıdayla temas eden ambalajlarda PFAS kullanımına sıkı sınırlar getirilecek. Pizza kutularından fast-food ambalajlarına kadar birçok ürünü ilgilendiren düzenlemenin diğer aşamaları ise 2028 ve 2030&#039;da yürürlüğe girecek.",
+      "url": "https://www.dunya.com/dunya/abde-ambalajlarda-yeni-donem-yarin-basliyor-bu-urunler-artik-yasaklanacak-haberi-835789",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T12:42:00"
     }
   ]
 }
