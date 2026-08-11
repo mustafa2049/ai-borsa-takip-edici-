@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-11T12:27:47+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksinin 1.42% değer kaybetmesi ve global endekslerin de genel olarak düşüş eğiliminde olması dikkat çekiyor. Hisse sinyallerine bakıldığında ise THYAO, TUPRS, GARAN, AKBNK ve YKBNK gibi hisselerin alım sinyali verirken, EKGYO güçlü satış sinyali veriyor. Toplamda piyasa görüntüsü karışık ancak satış baskısı hissediliyor.",
+  "updated_at": "2026-08-11T13:24:10+03:00",
+  "overview": "Piyasa genel olarak dusus trendinde devam ediyor. BIST 100 endeksi %1.26 duserek 13637.77 seviyesine geriledi. Dolar ve euro karsiinda Turk Lirasi hafif artista olsa da, global piyasalarda dusen borsa endeksleri ve artan petrol fiyatları piyasa ruhunu olumsuz etkiliyor. Bu durum hisse senedi piyasasinda alim sinyali veren hisselerin sayisinin satim sinyali verenlerden fazla olmasina ragmen, genel olarak temkinli bir yaklasim benimseniyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13615.56,
-      "change_pct": -1.42
+      "value": 13637.77,
+      "change_pct": -1.26
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26252.75,
-      "change_pct": -0.27
+      "value": 26282.42,
+      "change_pct": -0.16
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.09,
-      "change_pct": -0.03
+      "value": 55.1,
+      "change_pct": -0.02
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4431.1,
-      "change_pct": 1.59
+      "value": 4432.1,
+      "change_pct": 1.61
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 89.93,
-      "change_pct": 2.52
+      "value": 89.68,
+      "change_pct": 2.23
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6800.57,
+      "value": 6802.05,
       "change_pct": null
     }
   ]
