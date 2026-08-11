@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-11T11:04:17+03:00",
+  "updated_at": "2026-08-11T12:27:47+03:00",
   "news": [
     {
-      "title": "Instagram ve TikTok’ta 3 bin dava",
-      "summary": "ABD’de temyiz mahkemesi, Meta, Google, TikTok ve Snap’e karşı sosyal medya bağımlılığı iddiasıyla açılan 3 binden fazla federal davanın ilerlemesine izin verdi. Karar, teknoloji devlerinin genç kullanıcılar üzerindeki hukuki riskini büyüttü.",
-      "url": "https://www.dunya.com/gundem/instagram-ve-tiktokta-3-bin-dava-haberi-835756",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:49:00",
+      "title": "Piper Sandler, sermaye kullanımı görünümüyle Columbia Financial hissesini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-sermaye-kullanm-gorunumuyle-columbia-financial-hissesini-yukseltti-93CH-4023949",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T09:13:54",
       "ai": {
-        "impact": "Sosyal medya devlerinin genç kullanıcılar üzerindeki hukuki riski artabilir, bu durum şirketlerin hisse değerlerini olumsuz etkileyebilir. Türkiye ve dünya piyasalarında teknoloji hisselerine karşı temkinli bir yaklaşım görülebilir.",
+        "impact": "Piper Sandler'in Columbia Financial hissesini yükseltmesi, şirketin sermaye kullanımını olumlu etkileyebilir. Bu durum hisse senedi piyasalarında pozitif bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Citizens, Viant Technology hissesi için hedef fiyatı yapay zeka büyümesi nedeniyle yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-viant-technology-hissesi-icin-hedef-fiyat-yapay-zeka-buyumesi-nedeniyle-yukseltti-93CH-4023948",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T09:13:43",
+      "ai": {
+        "impact": "Citizens'in Viant Technology hissesi için hedef fiyatını yükseltmesi, yapay zeka büyümesinden kaynaklanmaktadır. Bu durum teknoloji sektöründe olumlu bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens",
+      "summary": "U.S. crude is back above $84 as last week's anticipation of a U.S.-Iran deal dissipates.",
+      "url": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T09:12:25",
+      "ai": {
+        "impact": "Hormuz anlaşması umutlarının azalması ve petrol fiyatlarının artması, enerji sektörünü olumsuz etkileyebilir. Bu durum dünya piyasalarında negatif bir etki yaratabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Salzgitter hissesi bugün neden düşüyor?",
+      "title": "S&P 500’de rekor kâr büyümesi: Rakamların arkasında Alphabet ve Amazon var",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/salzgitter-hissesi-bugun-neden-dusuyor-93CH-4023870",
+      "url": "https://tr.investing.com/news/economy-news/sp-500de-rekor-kar-buyumesi-rakamlarn-arkasnda-alphabet-ve-amazon-var-4023946",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:48:20",
+      "published": "2026-08-11T09:08:59",
       "ai": {
-        "impact": "Salzgitter hissesinin düşmesi, şirketin mali performansı veya sektörel koşullarla ilgili olabilir, ancak yeterli bilgi bulunmuyor.",
+        "impact": "S&P 500'de rekor kâr büyümesi, Alphabet ve Amazon gibi büyük şirketlerin performansı sayesinde gerçekleşmiştir. Bu durum genel olarak hisse senedi piyasalarında pozitif bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Raymond James, PowerFleet hissesi için tavsiyeyi düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-powerfleet-hissesi-icin-tavsiyeyi-dusurdu-93CH-4023945",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T09:08:11",
+      "ai": {
+        "impact": "Raymond James'in PowerFleet hissesi için tavsiyeyi düşürmesi, şirketin performansını olumsuz etkileyebilir. Bu durum hisse senedi piyasalarında negatif bir etki yaratabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Aşırı sıcak Avrupa ekonomisini yeniden şekillendiriyor",
+      "summary": "Avrupa’da kalıcı hale gelen aşırı sıcaklar turizmden sanayiye, taşımacılıktan enerjiye kadar ekonomik dengeleri değiştiriyor. Güney Avrupa büyüme kaybıyla karşı karşıya kalırken iklim uyum yatırımlarında yıllık 138 milyar dolarlık yeni pazar oluşabilir.",
+      "url": "https://www.dunya.com/ekonomi/asiri-sicak-avrupa-ekonomisini-yeniden-sekillendiriyor-haberi-835765",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T09:08:00",
+      "ai": {
+        "impact": "Avrupa'da aşırı sıcaklar, turizmden sanayiye kadar birçok sektörü etkileyebilir. Bu durum ekonomide büyüme kaybına neden olabilir, ancak iklim uyum yatırımlarında yeni fırsatlar yaratabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "InterContinental Hotels hissesi neden düşüyor?",
+      "title": "Ucloudlink’e Nasdaq’tan minimum teklif fiyatı uyarısı geldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/intercontinental-hotels-hissesi-neden-dusuyor-93CH-4023869",
+      "url": "https://tr.investing.com/news/company-news/ucloudlinke-nasdaqtan-minimum-teklif-fiyat-uyars-geldi-93CH-4023944",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:47:52",
+      "published": "2026-08-11T09:05:21",
       "ai": {
-        "impact": "InterContinental Hotels hissesinin düşmesi, seyahat ve turizm endüstrisinde yaşanan değişikliklere veya şirketin mali performansına bağlanabilir, ancak ayrıntı bulunmuyor.",
-        "sentiment": "Nötr"
+        "impact": "Ucloudlink'e Nasdaq'tan minimum teklif fiyatı uyarısı gelmesi, şirketin finansal performansını olumsuz etkileyebilir. Bu durum hisse senedi piyasalarında negatif bir etki yaratabilir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "Hollanda’nın ticaret fazlası Haziran’da 10,4 milyar euroya yükseldi",
+      "title": "İspanya Salı günkü ihalede 2,07 milyar euro değerinde hazine bonosu sattı",
       "summary": "",
-      "url": "https://tr.investing.com/news/economic-indicators/hollandann-ticaret-fazlas-haziranda-104-milyar-euroya-yukseldi-93CH-4023868",
+      "url": "https://tr.investing.com/news/economic-indicators/ispanya-sal-gunku-ihalede-207-milyar-euro-degerinde-hazine-bonosu-satt-93CH-4023943",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:47:31",
+      "published": "2026-08-11T09:04:27",
       "ai": {
-        "impact": "Hollanda'nın ticaret fazlasının artması, ülkenin ekonomisi için pozitif bir gösterge olabilir ve Avrupa piyasalarını olumlu etkileyebilir.",
+        "impact": "İspanya'nın hazine bonosu satışı, ülke ekonomisinin borçlanma ihtiyacını karşılayabilir. Bu durum ekonomide pozitif bir etki yaratabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Millrose Properties yöneticisi Matthew Gorson 86.400 dolar hisse aldı",
+      "title": "Golden Global Varlık Kiralama, 750 milyon TL sukuk ihracını tamamladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/millrose-properties-yoneticisi-matthew-gorson-86400-dolar-hisse-ald-93CH-4023866",
+      "url": "https://tr.investing.com/news/global-filings/golden-global-varlk-kiralama-750-milyon-tl-sukuk-ihracn-tamamlad-93CH-4023940",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:46:46",
-      "ai": {
-        "impact": "Yöneticinin hisse alması, şirketin geleceğine olan güveni gösterebilir, ancak genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-11T09:03:21"
     },
     {
-      "title": "Temmuz enflasyonu beklenti altında: TCMB’nin faiz yolu netleşiyor",
+      "title": "Kent Finans Faktoring, 57,5 milyon TL’lik finansman bonosu ihraç etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/economic-indicators/temmuz-enflasyonu-beklenti-altnda-tcmbnin-faiz-yolu-netlesiyor-4023862",
+      "url": "https://tr.investing.com/news/global-filings/kent-finans-faktoring-575-milyon-tllik-finansman-bonosu-ihrac-etti-93CH-4023939",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:44:20",
-      "ai": {
-        "impact": "Temmuz enflasyonunun beklenti altında gelmesi, TCMB'nin faiz kararı öncesi önemli bir gösterge olabilir ve Türkiye ekonomisini olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-11T09:03:19"
     },
     {
-      "title": "Citizens, Cherry Hill Mortgage hissesini satın alma sonrası düşürdü",
+      "title": "Galaxy Digital yöneticisi 100.113 dolar değerinde hisse aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-cherry-hill-mortgage-hissesini-satn-alma-sonras-dusurdu-93CH-4023861",
+      "url": "https://tr.investing.com/news/insider-trading-news/galaxy-digital-yoneticisi-100113-dolar-degerinde-hisse-ald-93CH-4023937",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:42:06",
-      "ai": {
-        "impact": "Citizens'ın Cherry Hill Mortgage hissesini satın alması ve sonrasında hisse değerini düşürmesi, şirketin stratejik hamlelerine bağlı olabilir, ancak geniş piyasalardaki etkisi sınırlıdır.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-11T09:02:04"
     },
     {
-      "title": "Citizens, Securitize hissesi için kapsam başlattı",
+      "title": "Neostellar Capital CEO’su Mark Klein 249.984 dolar hisse aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-securitize-hissesi-icin-kapsam-baslatt-93CH-4023860",
+      "url": "https://tr.investing.com/news/insider-trading-news/neostellar-capital-ceosu-mark-klein-249984-dolar-hisse-ald-93CH-4023936",
       "source": "Investing Türkiye",
-      "published": "2026-08-11T07:41:58",
-      "ai": {
-        "impact": "Citizens'ın Securitize hissesi için kapsam başlatması, şirketin büyüme ve diversifikasyon stratejilerini gösteriyor olabilir, ancak genel piyasalara etkisi sınırlıdır.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-11T09:01:57"
     },
     {
-      "title": "JPMorgan, Grupo Cibest hissesini kazanç başarısıyla yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-grupo-cibest-hissesini-kazanc-basarsyla-yukseltti-93CH-4023859",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T07:41:56"
-    },
-    {
-      "title": "Baird, zayıf sonuçlar nedeniyle Accendra Health hissesini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/baird-zayf-sonuclar-nedeniyle-accendra-health-hissesini-dusurdu-93CH-4023858",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T07:41:54"
-    },
-    {
-      "title": "Baird, tarife netliği sonrası First Solar hissesini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/baird-tarife-netligi-sonras-first-solar-hissesini-yukseltti-93CH-4023857",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T07:41:52"
-    },
-    {
-      "title": "Fenerbahçe Şampiyonlar Ligi'nde tur için sahada: Sturm Graz maçı saat kaçta, hangi kanalda?",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. eleme turu rövanşında Sturm Graz&#039;a konuk olacak. İstanbul&#039;daki ilk maçı 2-0 kazanan sarı-lacivertliler, Avusturya&#039;da play-off biletini almak için sahaya çıkacak. Saat 21.30&#039;da başlayacak mücadele TV100&#039;den canlı yayınlanacak.",
-      "url": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-liginde-tur-icin-sahada-sturm-graz-maci-saat-kacta-hangi-kanalda-haberi-835754",
+      "title": "Suriye'de Esad davası sonuçlandı: Beşar Esad, Mahir Esad ve Necib Atıf'a idam cezası",
+      "summary": "Suriye&#039;de mahkeme, ülkenin devrik lideri Beşar Esad, kardeşi Mahir Esad ve kuzeni Necib Atıf hakkında idam kararı verdi. Esad&#039;ın kasıtlı cinayet, işkence, keyfi gözaltı ve insanlığa karşı suçlardan mahkum edildiği bildirildi.",
+      "url": "https://www.dunya.com/dunya/suriyede-esad-davasi-sonuclandi-besar-esad-mahir-esad-ve-necib-atifa-idam-cezasi-haberi-835763",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:41:00"
+      "published": "2026-08-11T08:59:00"
     },
     {
-      "title": "Üniversiteler erken mi kapanacak? Akademik takvim değişti",
-      "summary": "Bazı üniversitelerin 2026-2027 akademik takvimindeki değişiklik sonrası üniversiteler erken mi kapanacak, üniversiteler neden erken kapanıyor, üniversiteler ne zaman kapanacak gibi sorular araştırılmaya başlandı. Özellikle İstanbul&#039;daki üniversitelerin akademik takvimlerinde dikkat çeken değişiklikler görülürken, YÖK&#039;ün kararının ardındaki gerekçe belli oldu.",
-      "url": "https://www.dunya.com/egitim/universiteler-erken-mi-kapanacak-akademik-takvim-degisti-haberi-835757",
+      "title": "Benzin ve motorine zam geliyor: Motorinde artış 5 lirayı aşacak",
+      "summary": "Petrol fiyatlarındaki yükseliş akaryakıt fiyatlarına yeni zam beklentisini beraberinde getirdi. Benzinin litre fiyatına 2 lira, motorine 6,85 lira artış beklenirken, eşel mobil sistemi nedeniyle pompaya benzinde 1,50 lira, motorinde ise 5,13 lira zam yansıyacak.",
+      "url": "https://www.dunya.com/enerji/benzin-ve-motorine-zam-geliyor-motorinde-artis-5-lirayi-asacak-haberi-835761",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:39:00"
+      "published": "2026-08-11T08:49:00"
     },
     {
-      "title": "Kuraklık tarımı vurdu: Patateste kayıp yüzde 50'ye çıkabilir",
-      "summary": "Belçika&#039;da etkisini sürdüren aşırı sıcaklar ve kuraklık tarımsal üretimi olumsuz etkiledi. Patateste verim kaybı yüzde 30&#039;a ulaşırken, yağışların yetersiz kalması durumunda bu oranın yüzde 50&#039;ye çıkabileceği belirtiliyor. Süt üretiminde de yüzde 40&#039;a varan düşüş yaşanıyor.",
-      "url": "https://www.dunya.com/sektorler/tarim/kuraklik-tarimi-vurdu-patateste-kayip-yuzde-50ye-cikabilir-haberi-835755",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:38:00"
-    },
-    {
-      "title": "Trump'ın şirketinde zarar patladı: Kripto faturası ağır oldu",
-      "summary": "ABD Başkanı Donald Trump&#039;ın şirketi Trump Media ve Teknoloji, kripto varlıklar ve hisse senetlerindeki değer kayıplarının etkisiyle ikinci çeyrekte 238 milyon dolarlık dev zarar açıkladı. Şirket aynı dönemde sadece 1,7 milyon dolar gelir elde ederken hisseleri de yüzde 8 geriledi.",
-      "url": "https://www.dunya.com/ekonomi/trumpin-sirketinde-zarar-patladi-kripto-faturasi-agir-oldu-haberi-835753",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:36:00"
-    },
-    {
-      "title": "Devlerin bilançosu belli oldu: Kâr eden sadece bir takım var",
-      "summary": "Galatasaray, 1 Haziran 2025-31 Mayıs 2026 dönemini 871 milyon TL kârla tamamladı. Sarı-kırmızılılar dört büyük kulüp arasında kâr açıklayan tek kulüp olurken, Fenerbahçe, Beşiktaş ve Trabzonspor aynı dönemde zarar bildirdi.",
-      "url": "https://www.dunya.com/spor/devlerin-bilancosu-belli-oldu-kar-eden-sadece-bir-takim-var-haberi-835752",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:33:00"
-    },
-    {
-      "title": "Erzurum’da 9 günlük festival maratonu başlıyor: Yüzlerce etkinlik düzenlenecek",
-      "summary": "Erzurum, Türkiye Kültür Yolu Festivali’ne dördüncü kez ev sahipliği yapmaya hazırlanıyor. 15-23 Ağustos tarihleri arasında gerçekleştirilecek 9 günlük festivalde konserlerden sergilere, geleneksel sanat atölyelerinden gastronomi etkinliklerine kadar yüzlerce program düzenlenecek. Kentin yöresel lezzetleri ise belirlenen 39 Lezzet Noktası’nda ziyaretçilerle buluşacak.",
-      "url": "https://www.dunya.com/video-galeri/aktuel/erzurumda-9-gunluk-festival-maratonu-basliyor-yuzlerce-etkinlik-duzenlenecek-video-835751",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:19:00"
-    },
-    {
-      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
-      "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
-      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "title": "Treasury yields up as oil prices jump and investors await inflation data",
+      "summary": "U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.",
+      "url": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T07:17:00"
+      "published": "2026-08-11T08:39:01"
     },
     {
-      "title": "Asya’dan 25,5 milyar dolar çıktı",
-      "summary": "Yapay zekâ yatırımlarının sürdürülebilirliğine ilişkin kaygılar Asya borsalarında yabancı satışını hızlandırdı. Temmuzda yedi piyasadan 25,48 milyar dolar çıktı; baskı özellikle Tayvan ve Güney Kore’deki teknoloji hisselerinde yoğunlaştı.",
-      "url": "https://www.dunya.com/finans/haberler/asyadan-255-milyar-dolar-cikti-haberi-835750",
+      "title": "Oltasına takılan balık servet getirdi: Tek avla milyonları kazandı",
+      "summary": "ABD’de düzenlenen White Marlin Open’da yaklaşık 36 kilogramlık beyaz marlin yakalayan Bill Sharpe, turnuvanın büyük ödülüne uzandı. Sharpe’ın avı, Mister Pete adlı tekneye 3,5 milyon doları aşan para ödülü kazandırdı.",
+      "url": "https://www.dunya.com/ekonomi/oltasina-takilan-balik-servet-getirdi-tek-avla-milyonlari-kazandi-haberi-835762",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:14:00"
+      "published": "2026-08-11T08:39:00"
     },
     {
-      "title": "Ticaret satışları geriledi, perakende yükseldi: Bir kalemde artış yüzde 30’a dayandı",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK), Haziran 2026 dönemine ilişkin Ticaret Satış Hacim Endeksi verilerini açıkladı. Ticaret satış hacmi yıllık bazda yüzde 4,5 azalırken, perakende satış hacmi yüzde 11,8 arttı. Perakendede en güçlü yıllık artış yüzde 28,8 ile bilgisayar, kitap ve iletişim aygıtlarında görüldü.",
-      "url": "https://www.dunya.com/ekonomik-veriler/ticaret-satislari-geriledi-perakende-yukseldi-bir-kalemde-artis-yuzde-30a-dayandi-haberi-835749",
+      "title": "2 dakikalık tutulma Avrupa'yı alarma geçirdi: Şebekede büyük sınav",
+      "summary": "Avrupa 12 Ağustos&#039;ta gerçekleşecek güneş tutulmasına hazırlanırken, 2 dakika sürecek bu doğa olayı kıtanın şebeke altyapısı için de zorlu bir sınava dönüşecek. Güneş enerjisinden elektrik üretiminin kısa sürede 9,7 gigavata kadar azalması beklenirken, şebeke operatörleri olası dengesizliklere karşı teyakkuza geçti.",
+      "url": "https://www.dunya.com/ekonomi/2-dakikalik-tutulma-avrupayi-alarma-gecirdi-sebekede-buyuk-sinav-haberi-835764",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-11T07:05:00"
+      "published": "2026-08-11T08:39:00"
+    },
+    {
+      "title": "Kentsel dönüşümde son durum: 2,7 milyon bağımsız bölüm kapsama alındı",
+      "summary": "Türkiye genelinde 2012&#039;den bu yana 2 milyon 737 bin bağımsız bölüm kentsel dönüşüm kapsamına alınırken, 2 milyon 369 bininin dönüşümü tamamlandı. 368 bin konut ve iş yerinde ise çalışmalar sürüyor.",
+      "url": "https://www.dunya.com/ekonomi/kentsel-donusumde-son-durum-27-milyon-bagimsiz-bolum-kapsama-alindi-haberi-835760",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T08:30:00"
+    },
+    {
+      "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+      "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.",
+      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T08:20:02"
+    },
+    {
+      "title": "Türkiye'nin ilaç sektöründe büyük sıçrama: 5 yılda tablo değişti",
+      "summary": "Türkiye ilaç sektöründe araştırma ve geliştirme yatırımları son yıllarda hızlı bir artış gösterdi. Sektörün 2020&#039;de 676,2 milyon lira seviyesinde bulunan AR-GE harcamaları, 2024&#039;te 5,6 milyar liraya ulaşarak 5 yılda 8,3 katına çıktı.",
+      "url": "https://www.dunya.com/saglik/turkiyenin-ilac-sektorunde-buyuk-sicrama-5-yilda-tablo-degisti-haberi-835758",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T08:11:00"
     }
   ]
 }
