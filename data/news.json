@@ -1,100 +1,156 @@
 {
-  "updated_at": "2026-08-11T13:24:10+03:00",
+  "updated_at": "2026-08-11T14:11:57+03:00",
   "news": [
+    {
+      "title": "Cardinal Health hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/cardinal-health-hisseleri-neden-yukseliste-93CH-4024094",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:54:48",
+      "ai": {
+        "impact": "Cardinal Health hisselerinin yükselişi, sağlık sektöründe olumlu bir eğilim gösterebilir. Ancak, detalılı bilgiler olmadan net bir etki değerlendirmesi yapmak zor.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BofA: Yapay zeka kullanımının istihdam artışına etkisi sınırlı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-yapay-zeka-kullanmnn-istihdam-artsna-etkisi-snrl-93CH-4024092",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:51:43",
+      "ai": {
+        "impact": "Yapay zeka kullanımının istihdam artışına etkisi sınırlı olabileceği öngörüsü, ekonomideki büyüme beklentilerini olumsuz etkileyebilir. Bu durum, işgücü piyasalarında durgunluğa neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Twenty One Capital CEO’su beş stratejik önceliği açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/twenty-one-capital-ceosu-bes-stratejik-onceligi-acklad-93CH-4024091",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:50:56",
+      "ai": {
+        "impact": "Twenty One Capital CEO'sunun stratejik önceliklerini açıklaması, şirketin gelecekteki büyüme planlarını netleştirebilir. Ancak, detaylı bilgi olmadan etki değerlendirmesi yapmak zor.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Blue Moon Metals ABD’de 33 tungsten ve antimon projesi aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/blue-moon-metals-abdde-33-tungsten-ve-antimon-projesi-ald-93CH-4024088",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:49:42",
+      "ai": {
+        "impact": "Blue Moon Metals'in tungsten ve antimon projeleri alması, madencilik sektöründe bir büyüme göstergesi olabilir. Bu, ilgili sektörde olumlu bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Jacobs, Utah’da 750 milyon dolarlık su kanalı projesi kazandı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/jacobs-utahda-750-milyon-dolarlk-su-kanal-projesi-kazand-93CH-4024087",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:49:30",
+      "ai": {
+        "impact": "Jacobs'ın 750 milyon dolarlık su kanalı projesi kazanması, inşaat ve altyapı sektöründe bir büyüme işareti olabilir. Bu, yerel ekonomi için olumlu bir gelişme olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "JBS hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/jbs-hissesi-bugun-neden-dusuyor-93CH-4024086",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:49:11",
+      "ai": {
+        "impact": "JBS hissesinin düşmesi, şirketin mali performansında veya sektörel koşullarda bir sorun gösterebilir. Bu, yatırımcılar için bir uyarı sinyali olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Silvercorp Metals hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/silvercorp-metals-hissesi-bugun-neden-dusuyor-93CH-4024084",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:49:03",
+      "ai": {
+        "impact": "Silvercorp Metals hissesinin düşmesi, madencilik sektöründe veya şirketin mali performansında bir sorun gösterebilir. Bu, ilgili sektörde bir durgunluğa işaret edebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Yapay zeka verimlilik artışı ABD borcunu çözmeyecek",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-verimlilik-arts-abd-borcunu-cozmeyecek-93CH-4024081",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:47:49",
+      "ai": {
+        "impact": "Yapay zeka verimlilik artışı ABD borcunu çözmeyecek olabileceği öngörüsü, ekonomideki borç sorununa kalıcı bir çözüm bulunamadığını gösterir. Bu, uzun vadeli ekonomik istikrar için olumsuz bir işaret olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "H.C. Wainwright, Riot Platforms için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-riot-platforms-icin-hedef-fiyat-yukseltti-93CH-4024079",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:46:41"
+    },
+    {
+      "title": "BofA obezite pazar tahminini Lilly’nin gücüyle yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-obezite-pazar-tahminini-lillynin-gucuyle-yukseltti-93CH-4024077",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T10:45:47"
+    },
+    {
+      "title": "MSB duyurdu: Personel temini başvurularında süre uzatıldı",
+      "summary": "Milli Savunma Bakanlığı, sözleşmeli er, uzman erbaş ve teknik sınıf uzman erbaş temini başvuru süresinin 17 Ağustos&#039;a kadar uzatıldığını bildirdi.",
+      "url": "https://www.dunya.com/gundem/msb-duyurdu-personel-temini-basvurularinda-sure-uzatildi-haberi-835775",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T10:41:00"
+    },
+    {
+      "title": "Çin yuanı Avrupa kapısını açtı",
+      "summary": "Çin, yuanın Avrupa’daki kullanımını büyütmek için yeni bir adım attı. Deutsche Bank, Avrupa’da yuan işlemlerini doğrudan takas edip sonuçlandırma yetkisi alan ilk yabancı banka oldu; Frankfurt yeni finans köprüsünün merkezi olacak.",
+      "url": "https://www.dunya.com/ekonomi/cin-yuani-avrupa-kapisini-acti-haberi-835776",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T10:41:00"
+    },
+    {
+      "title": "Trilyonlarca dolarlık miras el değiştirecek: Genç kuşakları hayal kırıklığı bekliyor",
+      "summary": "Dünyanın en büyük kuşaklar arası servet transferlerinden birine hazırlanılırken, miras bekleyen genç kuşaklar için dikkat çeken bir hesaplama geldi. Baby boomer kuşağının 93 trilyon dolarlık servetinin yalnızca 36 trilyon dolarının miras yoluyla aktarılabileceği tahmin edilirken, servetin büyük bölümünün borçlar, emeklilik harcamaları, vergiler ve diğer giderler nedeniyle eriyeceği öngörülüyor.",
+      "url": "https://www.dunya.com/ekonomi/trilyonlarca-dolarlik-miras-el-degistirecek-genc-kusaklari-hayal-kirikligi-bekliyor-haberi-835774",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T10:27:00"
+    },
     {
       "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
       "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
       "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T10:18:33",
-      "ai": {
-        "impact": "ABD ve İran arasındaki gerilimin artması, petrol fiyatlarını etkileyerek Türkiye ve dünya piyasalarını negatif yönde etkileyebilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-11T10:18:33"
+    },
+    {
+      "title": "Altında dengeler değişti: Yeni yükselişin anahtarı ABD’den gelecek",
+      "summary": "Altın fiyatları, Fed&#039;in faiz politikasına ilişkin beklentilerin değişmesiyle yeniden yükselişe geçti. Ons altın 11 Ağustos 2026&#039;da 4 bin 400 doların üzerine çıkarken, gram altında da 6 bin 700 lirayı aştı. Piyasaların gözü kulağı ise yeni ralliyi başlatacak ABD enflasyon verilerine çevrildi.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-dengeler-degisti-yeni-yukselisin-anahtari-abdden-gelecek-galeri-835773",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T10:18:00"
     },
     {
       "title": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
       "summary": "President Gianni Infantino pushed FIFA's commercialization drive, which culminated in the largest, most profitable World Cup on record",
       "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T10:17:53",
-      "ai": {
-        "impact": "FIFA Dünya Kupası'nın ticari başarısı, spor endüstrisi ve ilgili şirketlerin hisselerini pozitif yönde etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "NextEra Energy, Dominion birleşmesiyle ilgili mali tablo sundu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/nextera-energy-dominion-birlesmesiyle-ilgili-mali-tablo-sundu-93CH-4024023",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:14:01",
-      "ai": {
-        "impact": "NextEra Energy ve Dominion birleşmesi, enerji sektöründe büyük bir değişiklik olabilir, ancak etkileri henüz net değil.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Venture Global hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/venture-global-hissesi-bugun-neden-dusuyor-93CH-4024022",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:13:09",
-      "ai": {
-        "impact": "Venture Global hissesinin düşmesi, şirketin mali performansını veya sektörel trendleri yansıtabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-11T10:17:53"
     },
     {
       "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
       "summary": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
       "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T10:12:14",
-      "ai": {
-        "impact": "AI buildout'un artması, teknoloji şirketlerinin hisselerini ve genel olarak piyasaları pozitif yönde etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Intel hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/intel-hissesi-bugun-neden-dusuyor-93CH-4024021",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:11:44",
-      "ai": {
-        "impact": "Intel hissesinin düşmesi, şirketin mali performansını veya teknoloji sektöründeki trendleri yansıtabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Johnson Matthey hissedarları özel temettü ve hisse birleşmesini onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/johnson-matthey-hissedarlar-ozel-temettu-ve-hisse-birlesmesini-onaylad-93CH-4024020",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:11:30",
-      "ai": {
-        "impact": "Johnson Matthey'nin özel temettü ve hisse birleşmesi, şirketin hissedarlarına pozitif bir sinyal gönderebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "AMD hissesi yapay zeka talebi görünümüyle değerlendiriliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/amd-hissesi-yapay-zeka-talebi-gorunumuyle-degerlendiriliyor-93CH-4024018",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:10:12",
-      "ai": {
-        "impact": "AMD hissesinin yapay zeka talebi görünümü, şirketin gelecekteki performansını ve teknoloji sektörünü etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Raymond James optik arz görünümüyle Applied Optoelectronics için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-optik-arz-gorunumuyle-applied-optoelectronics-icin-hedef-fiyat-yukseltti-93CH-4024017",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:10:03"
+      "published": "2026-08-11T10:12:14"
     },
     {
       "title": "BRICS’te ortak ödeme sistemi masada",
@@ -104,20 +160,6 @@
       "published": "2026-08-11T10:10:00"
     },
     {
-      "title": "ACV Auctions hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/acv-auctions-hissesi-bugun-neden-dusuyor-93CH-4024016",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:08:27"
-    },
-    {
-      "title": "WF International hissesi bugün neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/wf-international-hissesi-bugun-neden-yukseliste-93CH-4024015",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:08:25"
-    },
-    {
       "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
       "summary": "IHG reported higher first-half profit as U.S. demand accelerated and Middle East disruption weighed on travel.",
       "url": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
@@ -125,53 +167,11 @@
       "published": "2026-08-11T10:06:07"
     },
     {
-      "title": "Barrick, Kuzey Amerika dışı operasyonlar için Bock’u atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/barrick-kuzey-amerika-ds-operasyonlar-icin-bocku-atad-93CH-4024012",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:05:57"
-    },
-    {
-      "title": "FreeCast telekomünikasyon genişlemesi için savunma danışmanı görevlendirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/freecast-telekomunikasyon-genislemesi-icin-savunma-dansman-gorevlendirdi-93CH-4024011",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T10:05:47"
-    },
-    {
       "title": "İstanbul'un en yüksek ikinci köprüsü yükseliyor: Yüzde 80'i tamamlandı",
       "summary": "Kanal İstanbul güzergahında inşa edilen ilk köprü olan Sazlıdere Köprüsü’nde çalışmalar gece saatlerinde de tüm hızıyla devam ediyor. Arnavutköy Sazlıbosna’da bulunan dev şantiye, gece karanlığında projektörlerle adeta gündüze dönerken, 196 metre yüksekliğindeki iki kulesi, yerleştirilen tabliyeleri ve gerilen eğik askı halatlarıyla köprü havadan görüntülendi.",
       "url": "https://www.dunya.com/foto-galeri/aktuel/istanbulun-en-yuksek-ikinci-koprusu-yukseliyor-yuzde-80i-tamamlandi-galeri-835771",
       "source": "Dünya Gazetesi",
       "published": "2026-08-11T10:01:00"
-    },
-    {
-      "title": "Bakan Uraloğlu Kalkınma Yolu için tarih verdi: 5 yılda tamamlanması hedefleniyor",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kalkınma Yolu Projesi&#039;nin 5 yılı geçmeyecek sürede tamamlanmasının hedeflendiğini açıkladı. Proje kapsamında Türkiye&#039;de yaklaşık 500 kilometrelik yeni demiryolu yapılacağını belirten Uraloğlu, Yavuz Sultan Selim Köprüsü&#039;nden geçecek 122 kilometrelik demiryolu hattının ihalesinin ise 14 Ekim&#039;de gerçekleştirileceğini söyledi.",
-      "url": "https://www.dunya.com/ekonomi/bakan-uraloglu-kalkinma-yolu-icin-tarih-verdi-5-yilda-tamamlanmasi-hedefleniyor-haberi-835769",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T09:43:00"
-    },
-    {
-      "title": "Gümüş 67 dolardan döndü: Sırada ne var?",
-      "summary": "Gümüşte geçen haftanın güçlü yükselişi yerini sert bir geri çekilmeye bıraktı. Fiyat 67 dolar sınırına yaklaşmasının ardından 64 doların alt yarısına gerilerken, piyasada şimdi hem kritik destekler hem de ABD’den gelecek enflasyon verisi izleniyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/gumus-67-dolardan-dondu-sirada-ne-var-galeri-835768",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T09:40:00"
-    },
-    {
-      "title": "Eli Lilly takes weight-loss pill battle global with first Foundayo approval outside U.S.",
-      "summary": "Lilly's Foundayo wins U.K. approval, taking its weight-loss pill battle with Novo Nordisk's Wegovy beyond the U.S. market.",
-      "url": "https://www.cnbc.com/2026/08/11/foundayo-eli-lilly-wegovy-pill-uk.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-11T09:27:44"
-    },
-    {
-      "title": "Çin otomobil ihracatı yüzde 88 arttı",
-      "summary": "Çin’de otomobil üreticileri zayıflayan iç talebi dış pazarlarla telafi etmeye çalışıyor. Temmuzda yurt içi satışlar yüzde 21,1 gerilerken ihracat yüzde 88,2 artarak 923 bin adede çıktı; rekabetin küresel pazarlara taşındığına işaret etti.",
-      "url": "https://www.dunya.com/ekonomik-veriler/cin-otomobil-ihracati-yuzde-88-artti-haberi-835767",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T09:24:00"
     }
   ]
 }

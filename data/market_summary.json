@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-11T13:24:10+03:00",
-  "overview": "Piyasa genel olarak dusus trendinde devam ediyor. BIST 100 endeksi %1.26 duserek 13637.77 seviyesine geriledi. Dolar ve euro karsiinda Turk Lirasi hafif artista olsa da, global piyasalarda dusen borsa endeksleri ve artan petrol fiyatları piyasa ruhunu olumsuz etkiliyor. Bu durum hisse senedi piyasasinda alim sinyali veren hisselerin sayisinin satim sinyali verenlerden fazla olmasina ragmen, genel olarak temkinli bir yaklasim benimseniyor.",
+  "updated_at": "2026-08-11T14:11:57+03:00",
+  "overview": "Piyasa genelinde BIST 100 endeksinin 1.21% değer kaybı ile 13644.89 seviyesine gerilediği görülürken, global piyasalarda S&P 500 ve Nasdaq endeksleri hafif değer kaybetti. USD/TRY ve EUR/TRY kurunda küçük artışlar olurken, ons altın ve brent petrol fiyatları yükseldi. Hisse sinyallerinde THYAO, TUPRS, GARAN ve YKBNK gibi hisseler için 'AL' sinyali verildi.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13637.77,
-      "change_pct": -1.26
+      "value": 13644.89,
+      "change_pct": -1.21
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26282.42,
-      "change_pct": -0.16
+      "value": 26308.39,
+      "change_pct": -0.06
     },
     {
       "name": "Nikkei 225",
@@ -35,31 +35,31 @@
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.74,
+      "value": 47.73,
       "change_pct": 0.09
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.1,
-      "change_pct": -0.02
+      "value": 55.12,
+      "change_pct": 0.02
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4432.1,
-      "change_pct": 1.61
+      "value": 4448.9,
+      "change_pct": 2.0
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 89.68,
-      "change_pct": 2.23
+      "value": 88.01,
+      "change_pct": 0.33
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6802.05,
+      "value": 6827.75,
       "change_pct": null
     }
   ]

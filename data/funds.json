@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:24:10+03:00",
+  "updated_at": "2026-08-11T14:11:57+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -11,7 +11,7 @@
       "return_1y": 49.27,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %49,27 getiri elde etti. Yüksek riskli bir yatırım aracı olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %49,27 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi fonu olması nedeniyle döviz kurlarından etkilenmesi muhtemeldir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 44.66,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %44,66 getiri elde etti. Yabancı hisse senedi fonu olarak yüksek risk içerir."
+        "comment": "Son 1 yıl içinde %44,66 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Amerika yabancı hisse senedi fonu olması nedeniyle küresel ekonomiden etkilenmesi muhtemeldir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 73.41,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %73,41 getiri elde etti. Yüksek riskli bir teknoloji ağırlıklı fon olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %73,41 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. BIST teknoloji ağırlıklı endeksine bağlı olarak yüksek dalgalanma gösterebilir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 59.92,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %59,92 getiri elde etti. Emtia fiyatlarına bağlı olarak yüksek risk içerir."
+        "comment": "Son 1 yıl içinde %59,92 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Emtia fiyatlarına bağlı olarak yüksek dalgalanma gösterebilir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 31.55,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yılda %31,55 getiri elde etti. Değişken bir fon olarak orta riskli olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %31,55 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Değişken fon olması nedeniyle çeşitli varlık sınıflarına yatırım yapması muhtemeldir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 23.31,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %23,31 getiri elde etti. Yüksek riskli bir hisse senedi fonu olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %23,31 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi fonu olması nedeniyle piyasa dalgalanmalarından etkilenmesi muhtemeldir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 31.8,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %31,8 getiri elde etti. Yüksek riskli bir hisse senedi fonu olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %31,8 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi fonu olması nedeniyle piyasa dalgalanmalarından etkilenmesi muhtemeldir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 31.25,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yılda %31,25 getiri elde etti. Fon sepети olarak orta riskli olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %31,25 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Fon sepети fonu olması nedeniyle çeşitli varlık sınıflarına yatırım yapması muhtemeldir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 60.57,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yılda %60,57 getiri elde etti. Yüksek riskli bir elektrikli araçlar fonu olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %60,57 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Elektrikli araçlar fonu olması nedeniyle sektörel risklerden etkilenmesi muhtemeldir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 36.47,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yılda %36,47 getiri elde etti. Değişken bir fon olarak orta riskli olarak değerlendirilebilir."
+        "comment": "Son 1 yıl içinde %36,47 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Değişken fon olması nedeniyle çeşitli varlık sınıflarına yatırım yapması muhtemeldir."
       }
     },
     {
