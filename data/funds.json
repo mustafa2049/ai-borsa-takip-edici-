@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T17:51:02+03:00",
+  "updated_at": "2026-08-11T18:52:01+03:00",
   "funds": [
     {
       "code": "TMG",
@@ -76,7 +76,7 @@
       "return_1y": 23.31,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 6 ay içindeki getirisi %-3,43 ile düşük görünüyor. Riski de yüksek olarak değerlendirilebilir."
+        "comment": "Son 6 aylık getirisi %-3,43 ile negatif görünüyor. Riski de yüksek olarak değerlendirilebilir."
       }
     },
     {

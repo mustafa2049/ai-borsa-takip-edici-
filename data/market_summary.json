@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-11T17:51:02+03:00",
-  "overview": "Gunun piyasa gorunumu genel olarak dusus yonunde seyir izlemektedir. BIST 100 endeksi dususte olup, USD/TRY ve EUR/TRY kurunda hafif artis gorulmektedir. Hisse sinyallerine gore THYAO, TUPRS, GARAN ve YKBNK gibi hisseler alim sinyali verirken, EKGYO ve FROTO gibi hisseler satim sinyali vermektedir.",
+  "updated_at": "2026-08-11T18:52:01+03:00",
+  "overview": "Günün piyasa görünümü, genel olarak BIST 100 endeksindeki düşüşe rağmen bazı yabancı endekslerdeki yükselişle karışık bir şekilde seyrediyor. DAX endeksinin hafif yükselişi ve Nikkei 225'in güçlü artışına karşın, S&P 500 ve Nasdaq'ta hafif düşüşler görüldü. Hisse sinyalleri ise THYAO, TUPRS, GARAN, AKBNK, YKBNK, SISE, BIMAS ve PGSUS gibi hisselerde alım sinyalleri verirken, EKGYO ve FROTO'da güçlü satış sinyalleri dikkat çekiyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13737.21,
-      "change_pct": -0.54
+      "value": 13704.52,
+      "change_pct": -0.78
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7758.92,
-      "change_pct": 0.07
+      "value": 7742.69,
+      "change_pct": -0.13
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26603.0,
-      "change_pct": -0.01
+      "value": 26510.15,
+      "change_pct": -0.36
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26472.42,
-      "change_pct": 0.56
+      "value": 26391.42,
+      "change_pct": 0.26
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.13,
-      "change_pct": 0.04
+      "value": 55.11,
+      "change_pct": 0.01
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4450.4,
-      "change_pct": 2.03
+      "value": 4430.7,
+      "change_pct": 1.58
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 87.94,
-      "change_pct": 0.25
+      "value": 88.9,
+      "change_pct": 1.35
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6830.28,
+      "value": 6800.12,
       "change_pct": null
     }
   ]

@@ -1,121 +1,170 @@
 {
-  "updated_at": "2026-08-11T17:51:02+03:00",
+  "updated_at": "2026-08-11T18:52:01+03:00",
   "news": [
+    {
+      "title": "FS Bancorp yöneticileri D.A. Davidson Batı Bankası Zirvesi’ne katılacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/fs-bancorp-yoneticileri-da-davidson-bat-bankas-zirvesine-katlacak-93CH-4024756",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:47:38",
+      "ai": {
+        "impact": "FS Bancorp yöneticilerinin konferansa katılması şirketin görünürlüğünü artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Horizon Kinetics Asset Management, RENN Fund hissesi satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-renn-fund-hissesi-satn-ald-93CH-4024755",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:46:35",
+      "ai": {
+        "impact": "Horizon Kinetics'in RENN Fund hissesi alması şirketin değerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Why JPMorgan is investing big in the 2028 LA Olympics",
+      "summary": "JPMorgan is making a nine-figure bet as the Olympics Games' first-ever global banking partner.",
+      "url": "https://www.cnbc.com/2026/08/11/why-jpmorgan-is-investing-big-in-the-2028-la-olympics.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T15:45:44",
+      "ai": {
+        "impact": "JPMorgan'ın 2028 LA Olimpiyatları'na yatırım yapması şirketin global görünürlüğünü artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "NXP’nin 2026 Teknoloji Liderlik Forumu: toparlanma, yapay zeka ve marjlar",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/nxpnin-2026-teknoloji-liderlik-forumu-toparlanma-yapay-zeka-ve-marjlar-93CH-4024754",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:44:56",
+      "ai": {
+        "impact": "NXP'nin Teknoloji Liderlik Forumu şirketin teknoloji alanındaki liderliğini pekiştirebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Target appoints its first chief AI officer as big retailers bet on AI",
+      "summary": "Target announced its first-ever chief artificial intelligence officer on Tuesday as retailers race to take advantage of the AI boom.",
+      "url": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T15:44:43",
+      "ai": {
+        "impact": "Target'ın ilk yapay zeka sorumlusunu ataması şirketin teknoloji alanındaki yarışta öne geçmesini sağlayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Tango Therapeutics hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/tango-therapeutics-hissesi-bugun-neden-dusuyor-93CH-4024753",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:44:39",
+      "ai": {
+        "impact": "Tango Therapeutics hissesinin düşmesi şirketin kısa vadeli değer kaybına uğramasına neden olabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Commvault Teknoloji Liderlik Forumu 2026’da bulundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/commvault-teknoloji-liderlik-forumu-2026da-bulundu-93CH-4024752",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:44:23",
+      "ai": {
+        "impact": "Commvault Teknoloji Liderlik Forumu şirketin teknoloji alanındaki görünürlüğünü artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BTIG, Alcon hissesi için Al tavsiyesini 2Ç sonuçları sonrası tekrarladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/btig-alcon-hissesi-icin-al-tavsiyesini-2c-sonuclar-sonras-tekrarlad-93CH-4024751",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:44:11",
+      "ai": {
+        "impact": "BTIG'in Alcon hissesi için Al tavsiyesini tekrarlaması şirketin değerini artırabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "İran anlaşması haberleri tahvil getirilerini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/iran-anlasmas-haberleri-tahvil-getirilerini-dusurdu-93CH-4024750",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:43:03"
+    },
+    {
+      "title": "Türk Altın İşletmeleri ve AzerGold'dan stratejik iş birliği adımı",
+      "summary": "Türk Altın İşletmeleri AŞ, Azerbaycan&#039;ın altın madenciliği alanında faaliyet gösteren AzerGold CJSC ile genel kapsamlı iş birliği yapmak üzere görüşmelere başladığını duyurdu.",
+      "url": "https://www.dunya.com/sirketler/turk-altin-isletmeleri-ve-azergolddan-stratejik-is-birligi-adimi-haberi-835816",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T15:40:00"
+    },
+    {
+      "title": "FMR LLC, Hiscox’taki payını %4,97’ye düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fmr-llc-hiscoxtaki-payn-497ye-dusurdu-93CH-4024749",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:39:19"
+    },
+    {
+      "title": "Merit Medical Canaccord konferansında: Büyüme ve marjlar güçlü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/merit-medical-canaccord-konferansnda-buyume-ve-marjlar-guclu-93CH-4024748",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:38:30"
+    },
+    {
+      "title": "Check-Cap Çarşamba günü 1’e 7 hisse birleştirmesi yapacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/checkcap-carsamba-gunu-1e-7-hisse-birlestirmesi-yapacak-93CH-4024747",
+      "source": "Investing Türkiye",
+      "published": "2026-08-11T15:37:36"
+    },
+    {
+      "title": "Parents could put pretax paycheck money into Trump Accounts, with employers matching, Treasury says",
+      "summary": "The U.S. Department of the Treasury issued guidance that could allow parents to make pretax contributions to a child's Trump Account directly from their paycheck.",
+      "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T15:29:22"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan Kurtulmuş'u kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, TBMM Başkanı Numan Kurtulmuş&#039;u Cumhurbaşkanlığı Külliyesinde kabul etti.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-kurtulmusu-kabul-etti-haberi-835811",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-11T15:11:00"
+    },
+    {
+      "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+      "summary": "Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
+      "url": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T15:08:48"
+    },
+    {
+      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
+      "summary": "Washington and Tehran remain far apart even as both sides talked of winding down regional hostilities.",
+      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-11T14:56:43"
+    },
     {
       "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
       "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
       "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T14:45:44",
-      "ai": {
-        "impact": "Intel'in hisse artırımı, teknoloji sektöründeki AI talebinin hızlanmasıyla birlikte şirketin büyüme potansiyelini artırabilir. Bu durum, Türkiye ve dünya piyasalarında teknoloji hisselerine olan talebi artırabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-11T14:45:44"
     },
     {
       "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
       "summary": "In Minnesota, progressive Lt. Gov. Peggy Flanagan and moderate Democratic Rep. Angie Craig are competing for the nomination to replace the retiring Sen. Tina Smith.",
       "url": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-11T14:34:32",
-      "ai": {
-        "impact": "Amerika'daki siyasi gelişmeler, Türkiye ve dünya piyasaları üzerinde doğrudan bir etkisi olmayabilir. Ancak, siyasi belirsizlik, genel olarak yatırımcıların risk iştahını azaltabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Cantor Fitzgerald, Neutron ilerlemesi ile Rocket Lab hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-neutron-ilerlemesi-ile-rocket-lab-hisse-hedefini-yukseltti-93CH-4024637",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:31",
-      "ai": {
-        "impact": "Cantor Fitzgerald'ın Rocket Lab hisse hedefini yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, Türkiye ve dünya piyasalarında uzay ve teknoloji hisselerine olan talebi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Cantor Fitzgerald, BridgeBio hissesi için 110 dolar hedefle Fazla Kilolu tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-bridgebio-hissesi-icin-110-dolar-hedefle-fazla-kilolu-tavsiyesini-yineledi-93CH-4024636",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:19",
-      "ai": {
-        "impact": "Cantor Fitzgerald'ın BridgeBio hissesi için hedefini yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, Türkiye ve dünya piyasalarında biyoteknoloji hisselerine olan talebi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Truist, RadNet için hisse hedefini güçlü sonuçlarla 94 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/truist-radnet-icin-hisse-hedefini-guclu-sonuclarla-94-dolara-yukseltti-93CH-4024634",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:16",
-      "ai": {
-        "impact": "Truist'in RadNet için hisse hedefini yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, Türkiye ve dünya piyasalarında sağlık hizmetleri hisselerine olan talebi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Keefe Bruyette, Radian Group’un hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keefe-bruyette-radian-groupun-hisse-hedefini-dusurdu-93CH-4024633",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:13",
-      "ai": {
-        "impact": "Keefe Bruyette'un Radian Group'un hisse hedefini düşürmesi, şirketin büyüme potansiyelini azaltabilir. Bu durum, Türkiye ve dünya piyasalarında finansal hizmetler hisselerine olan talebi azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Capricorn Energy hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/capricorn-energy-hisseleri-neden-dusuyor-93CH-4024632",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:12",
-      "ai": {
-        "impact": "Capricorn Energy hisselerinin düşmesi, şirketin büyüme potansiyelini azaltabilir. Bu durum, Türkiye ve dünya piyasalarında enerji hisselerine olan talebi azaltabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Keefe Bruyette, American Financial’ın hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keefe-bruyette-american-financialn-hisse-hedefini-yukseltti-93CH-4024631",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:05",
-      "ai": {
-        "impact": "Keefe Bruyette'un American Financial'ın hisse hedefini yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, Türkiye ve dünya piyasalarında finansal hizmetler hisselerine olan talebi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Elanco, kurtçuk spreyi için FDA acil kullanım izni aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/elanco-kurtcuk-spreyi-icin-fda-acil-kullanm-izni-ald-93CH-4024630",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:34:02"
-    },
-    {
-      "title": "Cantor Fitzgerald, Quantum Computing için Nötr görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-quantum-computing-icin-notr-gorusunu-korudu-93CH-4024629",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:33:50"
-    },
-    {
-      "title": "CleanCore Solutions hisseleri seyreltici hisse arzıyla çakıldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cleancore-solutions-hisseleri-seyreltici-hisse-arzyla-cakld-93CH-4024628",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:33:42"
-    },
-    {
-      "title": "Seneca Foods hissesi 188,07 dolarda rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/seneca-foods-hissesi-18807-dolarda-rekor-krd-93CH-4024627",
-      "source": "Investing Türkiye",
-      "published": "2026-08-11T14:32:42"
+      "published": "2026-08-11T14:34:32"
     },
     {
       "title": "New York borsası karışık seyirle açıldı",
@@ -123,55 +172,6 @@
       "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-karisik-seyirle-acildi-haberi-835798",
       "source": "Dünya Gazetesi",
       "published": "2026-08-11T14:16:00"
-    },
-    {
-      "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
-      "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
-      "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-11T14:15:33"
-    },
-    {
-      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-11T14:11:05"
-    },
-    {
-      "title": "Fransa'nın yüzde 85'i kuraklıkla karşı karşıya",
-      "summary": "Fransa&#039;nın yüzde 85&#039;lik bölümü sıcak hava ve yağışların yetersiz kalması nedeniyle kuraklıkla karşı karşıya kaldı.",
-      "url": "https://www.dunya.com/gundem/fransanin-yuzde-85i-kuraklikla-karsi-karsiya-haberi-835797",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T14:11:00"
-    },
-    {
-      "title": "Türker VEYAŞ halka arzında talep toplama başladı: Fiyatı 136 TL, büyüklüğü 10,5 milyar TL'yi bulacak",
-      "summary": "Türkerler Holding&#039;in enerji sektöründeki iştiraki Türker VEYAŞ&#039;ın halka arzında talep toplama süreci başladı. Pay başına 136 TL fiyat belirlenen halka arzda yatırımcılar 12-13-14 Ağustos tarihlerinde talepte bulunabilecek. Ek satışın tamamının gerçekleşmesi halinde halka arz büyüklüğünün yaklaşık 10,54 milyar TL&#039;ye ulaşması bekleniyor.",
-      "url": "https://www.dunya.com/sirketler/turker-veyas-halka-arzinda-talep-toplama-basladi-fiyati-136-tl-buyuklugu-105-milyar-tlyi-bulacak-haberi-835796",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T14:03:00"
-    },
-    {
-      "title": "Parents could put pre-tax paycheck money into Trump Accounts, with employers matching, Treasury says",
-      "summary": "The U.S. Department of Treasury issued guidance that could allow parents to make pre-tax contributions to a child's Trump Account directly from their paycheck.",
-      "url": "https://www.cnbc.com/2026/08/11/trump-accounts-employer-match-paycheck-contributions-treasury.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-11T13:49:30"
-    },
-    {
-      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
-      "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
-      "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-11T13:48:36"
-    },
-    {
-      "title": "Booking ile Airbnb'ye yüzde 17 sınırı ve 5 milyon TL şartı geliyor",
-      "summary": "Türkiye&#039;de faaliyet gösteren Booking ve Airbnb gibi yabancı konaklama platformları için kurallar baştan yazılıyor. TBMM&#039;ye sunulan kanun teklifiyle yabancı platformlara 5 milyon TL&#039;lik izin belgesi ve Türkiye&#039;de temsilci bulundurma zorunluluğu getirilirken, konaklama satışlarından alınabilecek komisyon da yüzde 17 ile sınırlandırılacak. Düzenleme, otellerin farklı satış kanalla",
-      "url": "https://www.dunya.com/sektorler/turizm/booking-ile-airbnbye-yuzde-17-siniri-ve-5-milyon-tl-sarti-geliyor-haberi-835795",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-11T13:41:00"
     }
   ]
 }
