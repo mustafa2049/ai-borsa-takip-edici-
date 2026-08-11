@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-11T14:11:57+03:00",
-  "overview": "Piyasa genelinde BIST 100 endeksinin 1.21% değer kaybı ile 13644.89 seviyesine gerilediği görülürken, global piyasalarda S&P 500 ve Nasdaq endeksleri hafif değer kaybetti. USD/TRY ve EUR/TRY kurunda küçük artışlar olurken, ons altın ve brent petrol fiyatları yükseldi. Hisse sinyallerinde THYAO, TUPRS, GARAN ve YKBNK gibi hisseler için 'AL' sinyali verildi.",
+  "updated_at": "2026-08-11T15:06:16+03:00",
+  "overview": "Günün piyasa görünümü, BIST 100 endeksindeki düşüşe rağmen bazı yabancı endekslerin pozitif performansıyla karışık bir şekilde şekilleniyor. Döviz kurlarındaki sakinlik ve ons altın fiyatlarındaki artış dikkat çekiyor. Hisse sinyalleri ise alımların ağırlıkta olduğu bir tablo sunuyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13644.89,
-      "change_pct": -1.21
+      "value": 13662.96,
+      "change_pct": -1.08
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26308.39,
-      "change_pct": -0.06
+      "value": 26351.93,
+      "change_pct": 0.11
     },
     {
       "name": "Nikkei 225",
@@ -35,31 +35,31 @@
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.73,
-      "change_pct": 0.09
+      "value": 47.74,
+      "change_pct": 0.1
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.12,
-      "change_pct": 0.02
+      "value": 55.11,
+      "change_pct": 0.0
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4448.9,
-      "change_pct": 2.0
+      "value": 4446.3,
+      "change_pct": 1.94
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 88.01,
-      "change_pct": 0.33
+      "value": 87.61,
+      "change_pct": -0.13
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6827.75,
+      "value": 6824.07,
       "change_pct": null
     }
   ]
