@@ -1,153 +1,177 @@
 {
-  "updated_at": "2026-08-12T11:09:37+03:00",
+  "updated_at": "2026-08-12T12:37:11+03:00",
   "news": [
     {
-      "title": "Envipco hissesi bugün neden düşüyor?",
+      "title": "Citizens, Amentum hissesi için görüşünü teyit etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/envipco-hissesi-bugun-neden-dusuyor-93CH-4026019",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-amentum-hissesi-icin-gorusunu-teyit-etti-93CH-4026195",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T08:00:08"
+      "published": "2026-08-12T09:25:57",
+      "ai": {
+        "impact": "Citizens'in Amentum hissesi için görüşünü teyit etmesi hisse fiyatını etkileyebilir.",
+        "sentiment": "Nötr"
+      }
     },
     {
-      "title": "Almanya’da enflasyon yeniden yükselişte: Enerji fiyatları dengeleri değiştirdi",
-      "summary": "Almanya’da yıllık enflasyon temmuz ayında yüzde 2,8’e yükselirken, artışta enerji fiyatlarının etkisi öne çıktı. Tüketici fiyatları aylık bazda ise yüzde 0,8 arttı.",
-      "url": "https://www.dunya.com/ekonomi/almanyada-enflasyon-yeniden-yukseliste-enerji-fiyatlari-dengeleri-degistirdi-haberi-835886",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T08:00:00",
+      "title": "Citizens, REFI hissesi için hedef fiyatı düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-refi-hissesi-icin-hedef-fiyat-dusurdu-93CH-4026194",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T09:25:50",
       "ai": {
-        "impact": "Almanya'da enflasyonun yükselmesi, Avrupa ekonomisini ve dolayısıyla dünya piyasalarını olumsuz etkileyebilir. Enerji fiyatlarındaki artış, enflasyonist baskıları artırabilir.",
+        "impact": "REFI hissesi için hedef fiyatının düşürülmesi hisse fiyatında düşüşe neden olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Deutsche Bank, Entegris hissesi için tavsiyesini yükseltti",
+      "title": "Citizens, güçlü talep görünümüyle CoreWeave hisse tavsiyesini yineledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/deutsche-bank-entegris-hissesi-icin-tavsiyesini-yukseltti-93CH-4026018",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-guclu-talep-gorunumuyle-coreweave-hisse-tavsiyesini-yineledi-93CH-4026193",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T07:59:59"
-    },
-    {
-      "title": "Deutsche Bank, Lilly’nin satın alma şartları nedeniyle Atai hissesinin notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/deutsche-bank-lillynin-satn-alma-sartlar-nedeniyle-atai-hissesinin-notunu-dusurdu-93CH-4026017",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T07:59:55"
-    },
-    {
-      "title": "Garanti BBVA, 10 milyon USD tutarında tahvil ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/garanti-bbva-10-milyon-usd-tutarnda-tahvil-ihrac-etti-93CH-4026016",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T07:58:58",
+      "published": "2026-08-12T09:25:47",
       "ai": {
-        "impact": "Garanti BBVA'nın tahvil ihracı, bankanın finansal durumunu güçlendirebilir ve yatırımcı güvenini artırabilir.",
+        "impact": "CoreWeave hisse tavsiyesinin yinelenmesi hisse fiyatında artışa neden olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Migros hissesi bugün neden düşüyor?",
+      "title": "BofA kart verileri çevrimiçi harcama büyümesinin yavaşladığını gösteriyor",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/migros-hissesi-bugun-neden-dusuyor-93CH-4026015",
+      "url": "https://tr.investing.com/news/stock-market-news/bofa-kart-verileri-cevrimici-harcama-buyumesinin-yavasladgn-gosteriyor-93CH-4026192",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T07:56:21"
+      "published": "2026-08-12T09:24:54",
+      "ai": {
+        "impact": "Çevrimiçi harcama büyümesinin yavaşlaması genel ekonomik büyümeyi etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Berenberg obezite hapı rekabeti nedeniyle Novo Nordisk hissesini düşürdü",
+      "title": "ACS hissesi bugün neden yükselişte?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/berenberg-obezite-hap-rekabeti-nedeniyle-novo-nordisk-hissesini-dusurdu-93CH-4026013",
+      "url": "https://tr.investing.com/news/stock-market-news/acs-hissesi-bugun-neden-yukseliste-93CH-4026191",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T07:54:13"
+      "published": "2026-08-12T09:24:12",
+      "ai": {
+        "impact": "ACS hissesinin yükselişi şirketin performansına veya sektörel gelişmelere bağlı olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Douglas hissesi bugün neden düşüyor?",
+      "title": "Clariant hissesi bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/douglas-hissesi-bugun-neden-dusuyor-93CH-4026012",
+      "url": "https://tr.investing.com/news/stock-market-news/clariant-hissesi-bugun-neden-yukseliyor-93CH-4026187",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T07:53:25"
+      "published": "2026-08-12T09:23:10",
+      "ai": {
+        "impact": "Clariant hissesinin yükselişi şirketin performansına veya sektörel gelişmelere bağlı olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Papilon Savunma, 21 milyon dolarlık Afrika projesinde yer teslimi aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/papilon-savunma-21-milyon-dolarlk-afrika-projesinde-yer-teslimi-ald-93CH-4026010",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T07:52:45"
-    },
-    {
-      "title": "Arzum, 30,6 milyon TL’lik borçlanma aracını erken geri aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/arzum-306-milyon-tllik-borclanma-aracn-erken-geri-ald-93CH-4026009",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T07:51:10"
-    },
-    {
-      "title": "Türk Altın İşletmeleri, AzerGold ile iş birliği görüşmelerine başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/turk-altn-isletmeleri-azergold-ile-is-birligi-gorusmelerine-baslad-93CH-4026008",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T07:49:48"
-    },
-    {
-      "title": "İspanya güneş tutulması turizmi patlattı: Milyonlar yollara çıktı",
-      "summary": "Bir asrı aşkın sürenin ardından İspanya’yı baştan başa geçecek tam güneş tutulması, dev bir turizm hareketine dönüştü. Kıyılardan iç bölgelere yönelen ziyaretçi akını küçük kentlerde rezervasyonları katlarken milyonlarca euroluk yeni bir ekonomi oluşturuyor.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/ispanya-gunes-tutulmasi-turizmi-patlatti-milyonlar-yollara-cikti-galeri-835884",
+      "title": "Putin’den Avrupa’ya gemi resti: \"Aynı şekilde karşılık veririz\"",
+      "summary": "Avrupa’nın Rus gemilerine yönelik baskısı yeni bir gerilim alanı açtı. Vladimir Putin, ticari gemilere el konulması halinde Moskova’nın misilleme yapacağını belirtirken, karşılıklı hamlelerin deniz ticareti ve enerji taşımacılığına sıçrama riski büyüyor.",
+      "url": "https://www.dunya.com/gundem/putinden-avrupaya-gemi-resti-ayni-sekilde-karsilik-veririz-haberi-835902",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:43:00"
+      "published": "2026-08-12T09:23:00",
+      "ai": {
+        "impact": "Rusya ve Avrupa arasındaki gerilim deniz ticareti ve enerji taşımacılığına olumsuz etkide bulunabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-      "summary": "Progressive Democrats keep their winning streak rolling in Minnesota.",
-      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "title": "Citizens, Palo Alto Networks için hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4026181",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T09:20:17",
+      "ai": {
+        "impact": "Palo Alto Networks için hisse hedefinin yükseltilmesi hisse fiyatında artışa neden olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Piper Sandler, Jasper Therapeutics hissesini ağırlıklı al önerisiyle başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-jasper-therapeutics-hissesini-agrlkl-al-onerisiyle-baslatt-93CH-4026179",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T09:20:14"
+    },
+    {
+      "title": "Devlet desteği kırmızı mercimeğe yaradı: Üretim ve rekolte arttı",
+      "summary": "Elazığ&#039;da devlet desteğiyle organik kırmızı mercimek üretimi artarken, yüzde 75 hibeli 8,5 milyon liralık destekle üretim alanı 15 bin dekara, rekolte ise 2 bin 700 tona ulaştı.",
+      "url": "https://www.dunya.com/foto-galeri/yasam/devlet-destegi-kirmizi-mercimege-yaradi-uretim-ve-rekolte-artti-galeri-835901",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T09:20:00"
+    },
+    {
+      "title": "Piper Sandler, Unusual Machines hissesine aşırı ağırlık verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-unusual-machines-hissesine-asr-agrlk-verdi-93CH-4026178",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T09:19:59"
+    },
+    {
+      "title": "Piper Sandler, Mercury Systems hissesine aşırı ağırlık önerisiyle başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-mercury-systems-hissesine-asr-agrlk-onerisiyle-baslad-93CH-4026177",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T09:19:58"
+    },
+    {
+      "title": "Son dakika...  İran ve ABD geçici ateşkeste anlaştı",
+      "summary": "Son dakika... Pakistanlı yetkililer, İran ile ABD&#039;nin 60 günlük yeni geçici ateşkes için anlaştığını açıkladı.",
+      "url": "https://www.dunya.com/dunya/son-dakika-iran-ve-abd-gecici-ateskeste-anlasti-haberi-835900",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T09:19:00"
+    },
+    {
+      "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
+      "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
+      "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T07:40:42"
+      "published": "2026-08-12T09:15:43"
     },
     {
-      "title": "Beşiktaş maçı tarihi ve saati: BJK - Hradec Kralove maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "Beşiktaş, UEFA Avrupa Ligi 3. Ön Eleme turu rövanş maçında Çekya ekibi Hradec Kralove&#039;yi konuk ediyor. Deplasmandan 1-0&#039;lık galibiyetle ayrılan siyah-beyazlılar seyircisi önünde de mücadeleyi kazanıp play-off&#039;lara kalmak istiyor. İşte Beşiktaş maçı tarihi ve saati...",
-      "url": "https://www.dunya.com/spor/besiktas-maci-tarihi-ve-saati-bjk-hradec-kralove-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835882",
+      "title": "Fed faiz kararı ne zaman açıklanıyor?",
+      "summary": "ABD&#039;den bugün enflasyon rakamları gelecek. Enflasyonun düşüp düşmediği merak edilirken Fed faiz kararının da tarihi araştırılıyor. İşte &quot;Fed faiz kararı ne zaman açıklanacak&quot; sorusunun yanıtı...",
+      "url": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-aciklaniyor-haberi-835898",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:31:00"
+      "published": "2026-08-12T09:05:00"
     },
     {
-      "title": "Trump'ın Türkiye ziyaretinde gizli operasyon: İkram aracına saklanmış",
-      "summary": "NATO Zirvesi için temmuz ayında Türkiye&#039;ye gelen ABD Başkanı Donald Trump, Ankara&#039;dan ayrılırken İran kaynaklı bir güvenlik tehdidi nedeniyle gizlice başka bir uçağa geçirildiğini doğruladı. Haftalarca kamuoyundan saklanan operasyonda Air Force One&#039;ın havalanarak dikkatleri üzerine çektiği, Trump&#039;ın ise farklı bir yöntemle başka bir uçağa ulaştırıldığı öğrenildi.",
-      "url": "https://www.dunya.com/gundem/trumpin-turkiye-ziyaretinde-gizli-operasyon-ikram-aracina-saklanmis-haberi-835885",
+      "title": "Hedge fonlar yapay zekâ rallisine karşı pozisyon aldı",
+      "summary": "Yapay zekâ hisselerinde temmuzda yaşanan sert satışların ardından büyük para yön değiştirmeye başladı. Hedge fonlar, bazı yapay zekâ altyapısı şirketlerinde kısa pozisyonlarını artırırken Nvidia gibi devlerde de risk azaltmaya giderek rallinin en kırılgan halkalarına karşı daha temkinli bir duruş aldı.",
+      "url": "https://www.dunya.com/finans/haberler/hedge-fonlar-yapay-zeka-rallisine-karsi-pozisyon-aldi-haberi-835897",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:28:00"
+      "published": "2026-08-12T09:03:00"
     },
     {
-      "title": "Borsada 27 yıl sonra aynı alarm: Tarihte yalnızca bir kez görülmüştü",
-      "summary": "ABD borsalarında rekorlara yaklaşan yükseliş sürerken kritik bir değerleme göstergesi yatırımcıların radarına girdi. S&amp;P 500’ün CAPE oranı, dot-com balonu öncesinden bu yana ilk kez uzun süre 40’ın üzerinde kaldı. Geçmişte aynı tabloyu sert piyasa düşüşü izlemişti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/borsada-27-yil-sonra-ayni-alarm-tarihte-yalnizca-bir-kez-gorulmustu-galeri-835883",
+      "title": "Her 10 kişiden 6'sının evinde var: İnternet en çok burada kullanılıyor",
+      "summary": "Türkiye’nin internet kullanım alışkanlıkları verisi paylaşıldı. İnternete bağlı cihazlarda yüzde 62 ile televizyon ilk sıraya yerleşirken, listenin sonunda yüzde 1,1 ile internete bağlı oyuncaklar kaldı.",
+      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/her-10-kisiden-6sinin-evinde-var-internet-en-cok-burada-kullaniliyor-haberi-835896",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:27:00"
+      "published": "2026-08-12T09:02:00"
     },
     {
-      "title": "Güney Kore'den 7 dev teknoloji projesi",
-      "summary": "Çip ve yapay zekâda küresel güç haline gelen Güney Kore, büyümenin yeni motorlarını arıyor. Seul yönetimi Ay’a inişten kuantum bilgisayarına, nükleer enerjiden beyin-bilgisayar arayüzüne uzanan 7 stratejik teknoloji projesini devreye alıyor.",
-      "url": "https://www.dunya.com/gundem/guney-koreden-7-dev-teknoloji-projesi-haberi-835881",
+      "title": "Sıcak havalar böbrekleri vuruyor: Kreatinin neden yükseliyor? Uzmanlardan kritik uyarı",
+      "summary": "Yaz sıcaklıklarının artmasıyla birlikte aşırı terleme ve sıvı kaybı böbrekler üzerinde ciddi bir yük oluşturabiliyor. Türk Böbrek Vakfı, özellikle kronik böbrek ve diyaliz hastalarında kreatinin ile elektrolit değerlerinin hızla değişebileceği uyarısında bulundu. Uzmanlara göre sıcak havalarda koyu renkli idrar da sıvı kaybının önemli işaretlerinden biri olabilir.",
+      "url": "https://www.dunya.com/saglik/sicak-havalar-bobrekleri-vuruyor-kreatinin-neden-yukseliyor-uzmanlardan-kritik-uyari-haberi-835895",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:24:00"
+      "published": "2026-08-12T08:59:00"
     },
     {
-      "title": "Ziraat Bankası 2026’nın ilk yarısında 74,2 milyar TL net kâr açıkladı",
-      "summary": "Ziraat Bankası, 2026 yılının ikinci çeyrek finansal sonuçlarını açıkladı. Bankanın aktif büyüklüğü 9,1 trilyon TL seviyesine ulaşırken, yılın ilk yarısındaki net kârı 74,2 milyar TL oldu. Toplam kredi hacmi ise yaklaşık 7 trilyon TL’ye yükseldi.",
-      "url": "https://www.dunya.com/sirketler/ziraat-bankasi-2026nin-ilk-yarisinda-742-milyar-tl-net-kar-acikladi-haberi-835880",
+      "title": "Kentsel dönüşümde destekler büyüdü: İşte son rakam",
+      "summary": "Evini kentsel dönüşüm kapsamında yenilemek isteyenler için hibe ve kredi desteğinden tapu, ruhsat ve iskan avantajlarına kadar birçok imkan sunulurken destek tutarı 1 milyon 875 bin liraya ulaştı. Farklı projelerde de 3 milyon liraya kadar finansman sağlanıyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/kentsel-donusumde-destekler-buyudu-iste-son-rakam-galeri-835899",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:22:00"
+      "published": "2026-08-12T08:59:00"
     },
     {
-      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-      "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
-      "url": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+      "summary": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
+      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T07:20:31"
-    },
-    {
-      "title": "ABD enflasyon rakamları ne zaman, saat kaçta açıklanacak? ABD'de enflasyon düştü mü?",
-      "summary": "ABD enflasyon verisi bugün açıklanıyor. Dünya Amerika&#039;dan gelecek oranlara kilitlenmiş durumda... Enflasyonun düşüp düşmeyeceği merak edilirken sıkça gelen soru &quot;ABD enflasyon rakamları ne zaman, saat kaçta açıklanacak&quot; oluyor.",
-      "url": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abdde-enflasyon-dustu-mu-haberi-835877",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T07:12:00"
+      "published": "2026-08-12T08:45:20"
     }
   ]
 }

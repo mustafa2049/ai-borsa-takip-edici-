@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-12T11:09:37+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksi hafif artış gösterirken, uluslararası piyasalarda karışık bir görünüm hakim. Hisse sinyalleri ise bankacılık ve bazı sanayi hisselerinde alış sinyalleri verirken, bazı diğer hisselerde satış sinyalleri görülüyor. Toplamda piyasa dinamikleri ve sinyaller bir miktar dalgalanma beklentisi oluşturuyor.",
+  "updated_at": "2026-08-12T12:37:11+03:00",
+  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksinin 1.31'lik artışıyla birlikte bazı yabancı endekslerde de pozitif hareketler gözlemleniyor. Döviz kurlarında küçük dalgalanmalar var, ancak ons altın ve gram altın fiyatlarındaki artış dikkati çekiyor. Hisse sinyallerinde ise THYAO, TUPRS, GARAN ve YKBNK gibi hisselerde 'AL' sinyali görülürken, EKGYO ve FROTO gibi bazı hisselerde 'SAT' sinyali bulunuyor.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13769.79,
-      "change_pct": 0.48
+      "value": 13884.39,
+      "change_pct": 1.31
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26426.06,
-      "change_pct": 0.13
+      "value": 26489.45,
+      "change_pct": 0.37
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.13,
-      "change_pct": 0.01
+      "value": 55.16,
+      "change_pct": 0.07
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4465.3,
-      "change_pct": 1.88
+      "value": 4477.1,
+      "change_pct": 2.15
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 89.68,
-      "change_pct": 0.87
+      "value": 88.44,
+      "change_pct": -0.53
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6855.51,
+      "value": 6873.64,
       "change_pct": null
     }
   ]
