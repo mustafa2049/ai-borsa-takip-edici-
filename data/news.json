@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-12T14:39:51+03:00",
+  "updated_at": "2026-08-12T15:46:24+03:00",
   "news": [
     {
-      "title": "Jefferies, Gap hissesini Tut’a düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/jefferies-gap-hissesini-tuta-dusurdu-4026640",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:33:09",
+      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+      "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T12:37:51",
       "ai": {
-        "impact": "Jefferies'in Gap hissesini 'Tut'a düşürmesi, şirketin gelecekteki performansını olumsuz etkileyebilir. Bu durum, benzer sektördeki diğer şirketlerin hisse değerlerini de etkileyebilir.",
+        "impact": "Tüketici fiyatlarındaki artış beklentilerle uyumlu olduğundan, piyasalarda büyük bir dalgalanmaya neden olmayabilir. Enflasyonun beklentilerin altında kalması faiz oranlarının düşürülmesi yönünde bir baskı oluşturabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "AB’den otomotiv sektöründe yeni dönem: Ömrünü tamamlayan araçlar için kurallar değişiyor",
+      "summary": "Avrupa Birliği&#039;nde (AB), otomotiv sektöründe geri dönüşümü artırmak ve kritik ham maddelerde dışa bağımlılığı azaltmak amacıyla hazırlanan ömrünü tamamlamış araçlara yönelik yeni kurallar yarından itibaren yürürlüğe girecek.",
+      "url": "https://www.dunya.com/sektorler/otomotiv/abden-otomotiv-sektorunde-yeni-donem-omrunu-tamamlayan-araclar-icin-kurallar-degisiyor-haberi-835932",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T12:36:00",
+      "ai": {
+        "impact": "Otomotiv sektöründeki yeni kurallar, geri dönüşümü artırmaya yönelik olduğu için çevre dostu uygulamaları teşvik edebilir. Ancak, bu kuralların şirketlere getireceği maliyetler kısa vadede negatif bir etki yaratabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Mizuho, yapay zeka talebine dayanarak Lumentum hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-yapay-zeka-talebine-dayanarak-lumentum-hisse-hedefini-yukseltti-93CH-4026636",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:24",
+      "title": "Yalova'da eğitim uçağı düştü",
+      "summary": "Yalova&#039;da eğitim uçuşu sırasında arızalanan uçak düştü. Pilotun kazadan sağ kurtulduğu öğrenilirken Milli Savunma Bakanlığı&#039;ndan yapılan açıklamada &quot;Hava Kuvvetlerimize ait bir adet F-16 uçağımız, eğitim uçuşu sırasında Yalova’da kaza kırıma uğramış, pilotumuz atlayarak kurtulmuştur. Kaza kırım nedeni, yapılacak detaylı inceleme sonucu belirlenecektir&quot; denildi.",
+      "url": "https://www.dunya.com/video-galeri/gundem/yalovada-egitim-ucagi-dustu-video-835931",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T12:34:00",
       "ai": {
-        "impact": "Mizuho'nun Lumentum hisse hedefini yükseltmesi, yapay zeka talebinin artmasıyla birlikte şirketin büyüme potansiyelini artırabilir. Bu durum, teknoloji sektöründeki diğer şirketlerin hisse değerlerini de olumlu etkileyebilir.",
+        "impact": "Eğitim uçağının düşmesi, ulusal güvenlik ve savunma sektörüne ilişkin endişeleri artırabilir. Ancak, genel olarak piyasalara geniş bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Piyasaların yakından takip ettiği ABD enflasyon verileri açıklandı",
+      "summary": "ABD&#039;de tüketici fiyatları temmuz ayında aylık bazda yüzde 0,1 yükselirken, yıllık enflasyon yüzde 3,4 seviyesine geriledi. Piyasa beklentileri ise yıllık enflasyonun yüzde 3,8&#039;e çıkacağı, tüketici fiyatlarının aylık bazda yüzde 0,1 düşeceği yönündeydi.",
+      "url": "https://www.dunya.com/ekonomi/piyasalarin-yakindan-takip-ettigi-abd-enflasyon-verileri-aciklandi-haberi-835930",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T12:30:00",
+      "ai": {
+        "impact": "ABD'de enflasyonun beklentilerin altında kalması, faiz oranlarının düşürülmesi yönünde bir baskı oluşturabilir. Bu durum, hisse senedi piyasaları ve tahvil piyasaları üzerinde pozitif bir etki yaratabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Chiron gayrimenkul direktörü Charles Fitzgerald 991.943 dolar değerinde hisse aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/chiron-gayrimenkul-direktoru-charles-fitzgerald-991943-dolar-degerinde-hisse-ald-93CH-4026635",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:20",
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
+      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T12:28:39",
       "ai": {
-        "impact": "Chiron gayrimenkul direktörünün hisse alması, şirketin gelecekteki büyüme potansiyelini olumlu etkileyebilir. Ancak, bu durumun Türkiye ve dünya piyasalarına geniş çaplı bir etkisi olmayabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mizuho, CoreWeave için hisse fiyat hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-coreweave-icin-hisse-fiyat-hedefini-yukseltti-93CH-4026634",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:19",
-      "ai": {
-        "impact": "Mizuho'nun CoreWeave için hisse fiyat hedefini yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, teknoloji sektöründeki diğer şirketlerin hisse değerlerini de olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mizuho, Super Micro Computer için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-super-micro-computer-icin-hedef-fiyat-yukseltti-93CH-4026633",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:15",
-      "ai": {
-        "impact": "Mizuho'nun Super Micro Computer için hedef fiyatını yükseltmesi, şirketin büyüme potansiyelini artırabilir. Bu durum, teknoloji sektöründeki diğer şirketlerin hisse değerlerini de olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mizuho, yapay zeka büyüme potansiyeli nedeniyle Twilio hissesi için tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-yapay-zeka-buyume-potansiyeli-nedeniyle-twilio-hissesi-icin-tavsiyesini-yineledi-93CH-4026632",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:12",
-      "ai": {
-        "impact": "Mizuho'nun Twilio hissesi için tavsiyesini yinelemesi, şirketin yapay zeka büyüme potansiyelini vurgulamaktadır. Bu durum, teknoloji sektöründeki diğer şirketlerin hisse değerlerini de olumlu etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mizuho, zayıf kripto trendleri nedeniyle eToro hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-zayf-kripto-trendleri-nedeniyle-etoro-hedefini-dusurdu-93CH-4026631",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:11",
-      "ai": {
-        "impact": "Mizuho'nun eToro hedefini düşürmesi, kripto trendlerinin zayıflaması nedeniyle şirketin büyüme potansiyelini olumsuz etkileyebilir. Bu durum, kripto para sektöründeki diğer şirketlerin hisse değerlerini de olumsuz etkileyebilir.",
+        "impact": "Körfez'de artan gerilimler, petrol fiyatlarını artırabilir ve küresel ekonomi üzerinde negatif bir etki yaratabilir. Deniz ticaretini etkileyen bu gelişmeler, küresel tedarik zincirlerini de olumsuz etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Chiron Real Estate CEO’su Decker 287.040 dolar değerinde hisse aldı",
+      "title": "VolitionRx sepsis prototipi için hasta testlerine başladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/chiron-real-estate-ceosu-decker-287040-dolar-degerinde-hisse-ald-93CH-4026630",
+      "url": "https://tr.investing.com/news/company-news/volitionrx-sepsis-prototipi-icin-hasta-testlerine-baslad-93CH-4026848",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:08",
+      "published": "2026-08-12T12:25:27",
       "ai": {
-        "impact": "Chiron Real Estate CEO'sunun hisse alması, şirketin gelecekteki büyüme potansiyelini olumlu etkileyebilir. Ancak, bu durumun Türkiye ve dünya piyasalarına geniş çaplı bir etkisi olmayabilir.",
+        "impact": "Yeni bir tıbbi teknoloji veya tedavi yönteminin geliştirilmesi, ilgili şirketin hisseleri üzerinde pozitif bir etki yaratabilir. Ancak, bu haberin genel piyasalara geniş bir etkisi olmayacaktır.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Mizuho, abone yavaşlaması nedeniyle Tencent Music hisse hedefini düşürdü",
+      "title": "Autonomix Medical, FDA başvurusu için klinik öncesi çalışmayı tamamladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-abone-yavaslamas-nedeniyle-tencent-music-hisse-hedefini-dusurdu-93CH-4026629",
+      "url": "https://tr.investing.com/news/company-news/autonomix-medical-fda-basvurusu-icin-klinik-oncesi-calsmay-tamamlad-93CH-4026847",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:07"
+      "published": "2026-08-12T12:25:24",
+      "ai": {
+        "impact": "FDA başvurusu için klinik öncesi çalışmanın tamamlanması, ilgili şirketin hisseleri üzerinde pozitif bir etki yaratabilir. Bu, şirketin ürün veya hizmetlerinin gelecekteki potansiyelini artırabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Mizuho, Quantinuum için hisse tavsiyesini güçlü gelir rehberliğiyle yineledi",
+      "title": "Savills, satın alma sonrası 27,7 milyon hisse kabul etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-quantinuum-icin-hisse-tavsiyesini-guclu-gelir-rehberligiyle-yineledi-93CH-4026628",
+      "url": "https://tr.investing.com/news/company-news/savills-satn-alma-sonras-277-milyon-hisse-kabul-etti-93CH-4026846",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T11:32:05"
+      "published": "2026-08-12T12:25:11",
+      "ai": {
+        "impact": "Şirketin hisse senetlerinin satın alınması, şirketin finansal durumunu güçlendirebilir ve yatırımcı güvenini artırabilir. Bu durum, şirketin hisseleri üzerinde pozitif bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening",
-      "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "title": "NeOnc Technologies hissesi bugün neden yükseldi?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/neonc-technologies-hissesi-bugun-neden-yukseldi-93CH-4026844",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:24:22"
+    },
+    {
+      "title": "'Tougher times ahead': Don't expect blowout returns to continue, CEO of $2.3 trillion fund warns after record first half",
+      "summary": "Norway's sovereign wealth fund, the largest of its kind, is an investor in around 1.5% of the world's listed companies.",
+      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-tangen-nbim.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T11:22:47"
+      "published": "2026-08-12T12:23:06"
     },
     {
-      "title": "Google’ın yapay zeka hamlesine Fransız basından rest: Trafiğimizi çalıyor",
-      "summary": "Google’ın arama sonuçlarında haberleri yapay zekayla özetleyen AI Overviews ve AI Mode özellikleri Fransa’da krize yol açtı. Yaklaşık 300 gazeteyi temsil eden APIG, uygulamaların yayıncı trafiğini düşürdüğü ve içeriklerin kullanımında adil müzakere yapılmadığı gerekçesiyle Fransa Rekabet Kurumu’na başvurdu.",
-      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/googlein-yapay-zeka-hamlesine-fransiz-basindan-rest-trafigimizi-caliyor-haberi-835916",
+      "title": "Performance Food Group hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/performance-food-group-hissesi-bugun-neden-dusuyor-93CH-4026840",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:22:33"
+    },
+    {
+      "title": "Needham, yapay zeka optik büyümesiyle Lumentum hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-yapay-zeka-optik-buyumesiyle-lumentum-hissesi-icin-tavsiyesini-korudu-93CH-4026839",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:22:21"
+    },
+    {
+      "title": "Belite Bio hisse hedef fiyatı FDA incelemesi sonrası 214 dolara yükseltildi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/belite-bio-hisse-hedef-fiyat-fda-incelemesi-sonras-214-dolara-yukseltildi-93CH-4026838",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:22:12"
+    },
+    {
+      "title": "Cantor, eToro hisse hedefini kripto ve hacim zayıflığı nedeniyle düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-etoro-hisse-hedefini-kripto-ve-hacim-zayflg-nedeniyle-dusurdu-93CH-4026837",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:22:06"
+    },
+    {
+      "title": "Son dakika... Yalova'da askeri eğitim uçağı düştü! MSB'den ilk açıklama",
+      "summary": "Son dakika... Yalova&#039;da eğitim uçuşu gerçekleştiren F-16 henüz belirlenemeyen bir nedenle düştü. Olay yerine çok sayıda ekip sevk edilirken Milli Savunma Bakanlığı&#039;ndan yapılan açıklamada &quot;Pilotumuz atlayarak kurtulmuştur. Kaza kırım nedeni, yapılacak detaylı inceleme sonucu belirlenecektir&quot; denildi.",
+      "url": "https://www.dunya.com/gundem/son-dakika-yalovada-askeri-egitim-ucagi-dustu-msbden-ilk-aciklama-haberi-835929",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:22:00"
+      "published": "2026-08-12T12:22:00"
     },
     {
-      "title": "THY tarihinin en uzun aktarmasız uçuşunu yaptı: 13 bin 800 kilometrelik rekor",
-      "summary": "Türk Hava Yolları, şirket tarihinin en uzun aktarmasız uçuşuna imza attı. Juventus kafilesini Avustralya&#039;nın Perth kentinden İtalya&#039;nın Torino kentine taşıyan Boeing 777-300ER, yaklaşık 13 bin 800 kilometrelik mesafeyi 16 saat 27 dakikada aktarmasız uçarak THY&#039;nin yeni rekorunu kırdı.",
-      "url": "https://www.dunya.com/ekonomi/thy-tarihinin-en-uzun-aktarmasiz-ucusunu-yapti-13-bin-800-kilometrelik-rekor-haberi-835915",
+      "title": "H.C. Wainwright, Septerna hissesi için hedef fiyatı 60 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-septerna-hissesi-icin-hedef-fiyat-60-dolara-yukseltti-93CH-4026835",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:21:57"
+    },
+    {
+      "title": "Cantor Fitzgerald, Exodus Movement hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-exodus-movement-hissesi-icin-hedef-fiyat-yukseltti-93CH-4026834",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T12:21:44"
+    },
+    {
+      "title": "UEFA SÜPER KUPA: PSG - Aston Villa maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "UEFA Süper Kupası bu akşam sahibini buluyor. Son Şampiyonlar Ligi şampiyonu PSG ile UEFA Avrupa Ligi şampiyonu Aston Villa karşı karşıya geliyor. Futbol tutkunları bu maçı beklerken &quot;PSG - Aston Villa maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu hızlanmış durumda...",
+      "url": "https://www.dunya.com/spor/uefa-super-kupa-psg-aston-villa-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835928",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:19:00"
+      "published": "2026-08-12T12:19:00"
     },
     {
-      "title": "Çin'in eski Başbakanı Cu Rongci hayatını kaybetti",
-      "summary": "Çin&#039;in ekonomik dönüşümünde önemli rol oynayan ve ülkenin Dünya Ticaret Örgütüne katılım sürecine öncülük eden eski Başbakan Cu Rongci&#039;nin yaşamını yitirdiği bildirildi.",
-      "url": "https://www.dunya.com/dunya/cinin-eski-basbakani-cu-rongci-hayatini-kaybetti-haberi-835914",
+      "title": "Son dakika... Özgür Özel'le birlikte 3 ismin dokunulmazlık dosyaları Meclis’te",
+      "summary": "Son dakika...  Yeni Parti Genel Başkanı Özgür Özel, Yeni Parti Malatya Milletvekili Veli Ağbaba ve Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Sera Kadıgil&#039;e ait dokunulmazlık dosyaları Meclis’e sunuldu.",
+      "url": "https://www.dunya.com/gundem/son-dakika-ozgur-ozelle-birlikte-3-ismin-dokunulmazlik-dosyalari-mecliste-haberi-835926",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:15:00"
-    },
-    {
-      "title": "Bu gece saatte 100 meteor görülebilir: Türkiye’de en iyi izleme rotaları",
-      "summary": "Perseid meteor yağmuru 12 Ağustos’u 13 Ağustos’a bağlayan gece zirveye yaklaşıyor. Yeni ayın sağladığı karanlık gökyüzü gözlem koşullarını güçlendirirken, ideal bölgelerde saatte 100’e kadar meteor görülebilecek.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/bu-gece-saatte-100-meteor-gorulebilir-turkiyede-en-iyi-izleme-rotalari-galeri-835917",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:12:00"
-    },
-    {
-      "title": "Sağlık Bakanlığı personel ve işçi alımı ne zaman? Başvuru tarihleri açıklandı mı?",
-      "summary": "Yüz binlerin gözü kulağı Sağlık Bakanlığından gelecek duyuruda... Her hafta yoğun şekilde araştırma yapılıyor. Adaylar aylardır Sağlık Bakanı Kemal Memişoğlu&#039;ndan açıklama beklerken gündemden düşmeyen soru ise &quot;Sağlık Bakanlığı personel ve işçi alımı ne zaman&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/saglik-bakanligi-personel-ve-isci-alimi-ne-zaman-basvuru-tarihleri-aciklandi-mi-haberi-835913",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:10:00"
-    },
-    {
-      "title": "Tekstili bıraktı, yaban mersinine yöneldi: Hedefi 20 ton",
-      "summary": "Bursa&#039;da yaklaşık 30 yıl tekstil ve konfeksiyon sektöründe faaliyet gösteren 58 yaşındaki Mehmet Demir, emekliliğinin ardından Tarım ve Orman Bakanlığının desteğiyle Bilecik&#039;in Pazaryeri ilçesinde 18 dönüm alanda yaban mersini üretimine başladı.",
-      "url": "https://www.dunya.com/foto-galeri/yasam/tekstili-birakti-yaban-mersinine-yoneldi-hedefi-20-ton-galeri-835912",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:03:00"
-    },
-    {
-      "title": "AI’s costly buildout complicates the Fed’s inflation fight",
-      "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T11:00:01"
+      "published": "2026-08-12T12:17:00"
     },
     {
       "title": "Mortgage rates finally stop rising, causing demand to trickle back",
       "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
       "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T11:00:01"
-    },
-    {
-      "title": "Dünyaca ünlü fitness zinciri iflas etti",
-      "summary": "F45 Training&#039;in ABD&#039;de 6 eyalette 31 stüdyo işleten franchise şirketi Mad Fitness Group, mali sorunların ardından Chapter 11 kapsamında iflas korumasına başvurdu. F45 Training&#039;in kendisinin ise iflas başvurusu bulunmuyor.",
-      "url": "https://www.dunya.com/ekonomi/dunyaca-unlu-fitness-zinciri-iflas-etti-haberi-835911",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T11:00:00"
+      "published": "2026-08-12T12:13:45"
     }
   ]
 }
