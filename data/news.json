@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-12T17:15:31+03:00",
+  "updated_at": "2026-08-12T18:27:32+03:00",
   "news": [
     {
-      "title": "New York borsası ABD'nin enflasyon verilerinin ardından yükselişle açıldı",
-      "summary": "New York borsası, ABD&#039;de temmuz ayında beklentiler doğrultusunda gerçekleşen enflasyon verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi yüzde 0,01 artışla 53.797,47 puana çıktı.",
-      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-abdnin-enflasyon-verilerinin-ardindan-yukselisle-acildi-haberi-835943",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:15:00",
+      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+      "summary": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
+      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T15:27:38",
       "ai": {
-        "impact": "New York borsasının yükselişi, global piyasalarda olumlu bir etki yaratabilir. Türkiye piyasaları da bu olumlu havadan yararlanabilir.",
+        "impact": "Hormuz Boğazı'nda olası bir anlaşmanın ertelenmesi petrol fiyatlarını etkileyebilir ve Türkiye'de enerji maliyetlerini artırabilir. Bu durum ekonomi üzerinde negatif bir etki yaratabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Trump sued over Truth Social advance access sale",
+      "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T15:24:27",
+      "ai": {
+        "impact": "Trump'ın Truth Social'daki paylaşımları finansal piyasaları etkileyebileceği için bu dava ABD'de piyasaları etkileyebilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Morgan Stanley, Çin’de premium otomobilleri daha dirençli görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-cinde-premium-otomobilleri-daha-direncli-goruyor-93CH-4027355",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:14:45",
+      "ai": {
+        "impact": "Çin'de premium otomobillerin daha dirençli olması, global otomotiv piyasalarını etkileyebilir ve Türkiye'de bu sektörle ilgili şirketlerin hisselerini etkileyebilir.",
         "sentiment": "Pozitif"
       }
+    },
+    {
+      "title": "Twilio Canaccord konferansında: altyapı odağı meyvesini verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/twilio-canaccord-konferansnda-altyap-odag-meyvesini-verdi-93CH-4027354",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:14:20",
+      "ai": {
+        "impact": "Twilio'nun altyapı odaklı stratejisinin başarılı olması, teknoloji sektöründe şirketin konumunu güçlendirebilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BMS Çelik Hasır, Aliağa taşınmazı için satış seçeneğini araştıracak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/bms-celik-hasr-aliaga-tasnmaz-icin-sats-secenegini-arastracak-93CH-4027353",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:14:03",
+      "ai": {
+        "impact": "BMS Çelik Hasır'ın Aliağa'daki taşınmazı için satış seçeneğini araştırması, şirketin finansal durumunu etkileyebilir ve Türkiye'de çelik sektörünü etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "AMS hissedarları H.B. Fuller satın alımını onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ams-hissedarlar-hb-fuller-satn-almn-onaylad-93CH-4027352",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:13:41",
+      "ai": {
+        "impact": "AMS hissedarlarının H.B. Fuller satın alımını onaylaması, şirketin büyümesini hızlandırabilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Here's the inflation breakdown for July 2026 — in one chart",
+      "summary": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
+      "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T15:13:18",
+      "ai": {
+        "impact": "Enflasyonun Temmuz 2026'da gösterdiği düşüş eğilimi, global ekonomide faiz oranlarının değişmesine neden olabilir ve Türkiye'de de ekonomi üzerinde olumlu bir etki yaratabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "BTIG konut inşaatçı anketi Temmuz’da satışlarda düşüş gösterdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/btig-konut-insaatc-anketi-temmuzda-satslarda-dusus-gosterdi-93CH-4027351",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:12:44",
+      "ai": {
+        "impact": "Konut inşaatçı anketinde satışların düşüş göstermesi, inşaat sektörünü ve bağlı sektörleri etkileyebilir ve Türkiye'de ekonomik büyümeyi yavaşlatabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Kiniksa Canaccord Genuity konferansında: Arcalyst büyümesi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/kiniksa-canaccord-genuity-konferansnda-arcalyst-buyumesi-93CH-4027350",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:12:32"
+    },
+    {
+      "title": "Dagi Giyim’de büyük ortak, %50,17’lik payını holding şirketine devretti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/dagi-giyimde-buyuk-ortak-5017lik-payn-holding-sirketine-devretti-93CH-4027349",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:11:55"
+    },
+    {
+      "title": "Lamb Weston Bank of America konferansında marj sıfırlamasını açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/lamb-weston-bank-of-america-konferansnda-marj-sfrlamasn-acklad-93CH-4027348",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:10:42"
+    },
+    {
+      "title": "Emlak Konut GYO, Konya Meram 2. Etap ihalesinde 3,605 milyar TL pay aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/emlak-konut-gyo-konya-meram-2-etap-ihalesinde-3605-milyar-tl-pay-ald-93CH-4027347",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:10:32"
+    },
+    {
+      "title": "Evercore: Temmuz reçete hacimleri yıllık %1,9 arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/evercore-temmuz-recete-hacimleri-yllk-19-artt-93CH-4027343",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:10:05"
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T15:08:58"
+    },
+    {
+      "title": "Bahçeli’den “Terörsüz Türkiye” mesajı: Bütüncül bir irade nihayet hayat buldu",
+      "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, &quot;Terörsüz Türkiye&quot; sürecine ilişkin yeni bir açıklamada yaptı. Bahçeli, &quot;Terörsüz Türkiye, terörsüz bölge hedefini buluşturan irade nihayet hayat buldu&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/bahceliden-terorsuz-turkiye-mesaji-butuncul-bir-irade-nihayet-hayat-buldu-haberi-835950",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:59:00"
+    },
+    {
+      "title": "Trump’tan Hürmüz açıklaması: ABD tam kontrole sahip",
+      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı üzerinde ABD’nin “tam kontrole” sahip olduğunu savunarak İran’a yönelik sert açıklamalarda bulundu. Trump, İran’ın askeri kapasitesinin zayıfladığını ve ülkenin artık bölgede eski gücüne sahip olmadığını öne sürdü.",
+      "url": "https://www.dunya.com/dunya/trumptan-hurmuz-aciklamasi-abd-tam-kontrole-sahip-haberi-835949",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:54:00"
+    },
+    {
+      "title": "GÜNEŞ TUTULMASI SAATİ: Tam Güneş tutulması ne zaman, saat kaçta görülecek? Türkiye'den izlenebilecek mi?",
+      "summary": "Tam Güneş tutulmasına çok az bir süre kaldı. Milyarlarca insan bu tarihi olaya şahitlik etmek isterken saat merak ediliyor. Bugünün en çok yöneltilen sorusu &quot;Tam Güneş tutulması ne zaman, saat kaçta görülecek&quot; oluyor.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/gunes-tutulmasi-saati-tam-gunes-tutulmasi-ne-zaman-saat-kacta-gorulecek-turkiyeden-izlenebilecek-mi-galeri-835918",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:37:00"
+    },
+    {
+      "title": "81 ilin valisiyle güvenlik zirvesi: Terörsüz Türkiye sürecinde yeni dönem",
+      "summary": "TBMM Başkanı Numan Kurtulmuş ve İçişleri Bakanı Mustafa Çiftçi, 81 ilin valisi, emniyet müdürü ve jandarma komutanıyla bir araya geldi. Toplantıda Terörsüz Türkiye sürecinin seyri, yeni yasal çerçeve, sahadaki gelişmeler ve provokasyonlara karşı alınacak tedbirler değerlendirildi.",
+      "url": "https://www.dunya.com/gundem/81-ilin-valisiyle-guvenlik-zirvesi-terorsuz-turkiye-surecinde-yeni-donem-haberi-835944",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:30:00"
+    },
+    {
+      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
+      "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
+      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T14:28:39"
     },
     {
       "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
       "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
       "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T14:13:03",
-      "ai": {
-        "impact": "CoreWeave'in hisse fiyatındaki artış, yapay zeka talebinin arttığını gösteriyor. Bu, teknoloji şirketleri için olumlu bir sinyal olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Splash Beverage, Endovia Health Sciences olarak yeniden markalaşıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/splash-beverage-endovia-health-sciences-olarak-yeniden-markalasyor-93CH-4027190",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:09:30",
-      "ai": {
-        "impact": "Splash Beverage'in yeniden markalaşması, şirketin büyüme stratejisinin bir parçası olabilir. Ancak, etkisini tam olarak değerlendirmek için daha fazla bilgiye ihtiyaç vardır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "MMC Sanayi, ortak Ümit Gümüş’ten 15 milyon TL ek sermaye avansı aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/mmc-sanayi-ortak-umit-gumusten-15-milyon-tl-ek-sermaye-avans-ald-93CH-4027189",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:08:46",
-      "ai": {
-        "impact": "MMC Sanayi'nin ek sermaye avansı alması, şirketin finansal durumunu güçlendirebilir. Ancak, bu haberin piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "UBS, Abercrombie & Fitch hissesi için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-abercrombie--fitch-hissesi-icin-hedef-fiyat-yukseltti-93CH-4027187",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:08:14",
-      "ai": {
-        "impact": "UBS'nin Abercrombie & Fitch hissesi için hedef fiyatını yükseltmesi, şirketin performansının iyileştirildiğini gösteriyor. Bu, perakende sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Piper Sandler, yapay zeka talebi nedeniyle CoreWeave hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-yapay-zeka-talebi-nedeniyle-coreweave-hisse-hedefini-yukseltti-93CH-4027186",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:08:10",
-      "ai": {
-        "impact": "Piper Sandler'in CoreWeave hisse hedefini yükseltmesi, yapay zeka talebinin artmaya devam edeceğinin bir göstergesi olabilir. Bu, teknoloji şirketleri için olumlu bir sinyal olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "UBS, Aramark için hisse hedefini 71 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-aramark-icin-hisse-hedefini-71-dolara-yukseltti-93CH-4027185",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:08:05",
-      "ai": {
-        "impact": "UBS'nin Aramark için hisse hedefini yükseltmesi, şirketin büyüme potansiyelini gösteriyor. Ancak, bu haberin genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "UBS, Amentum’un hisse hedefini 24 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-amentumun-hisse-hedefini-24-dolara-yukseltti-93CH-4027184",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:08:04",
-      "ai": {
-        "impact": "UBS'nin Amentum’un hisse hedefini yükseltmesi, şirketin performansının iyileştirildiğini gösteriyor. Ancak, bu haberin genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Baltic Classifieds hisse alım satım para birimini euroya çeviriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/baltic-classifieds-hisse-alm-satm-para-birimini-euroya-ceviriyor-93CH-4027182",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:07:22"
-    },
-    {
-      "title": "BFC hissesi 158,59 dolarla rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bfc-hissesi-15859-dolarla-rekor-krd-93CH-4027183",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:07:22"
-    },
-    {
-      "title": "U.S. Bank, San Francisco 49ers ile ortaklığını uzattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/us-bank-san-francisco-49ers-ile-ortaklgn-uzatt-93CH-4027179",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:05:35"
-    },
-    {
-      "title": "Doğuş Otomotiv, hisse başına 15 TL brüt temettü dağıtıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/dogus-otomotiv-hisse-basna-15-tl-brut-temettu-dagtyor-93CH-4027178",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T14:04:59"
-    },
-    {
-      "title": "Süper Lig ne zaman başlıyor? Lig başlama tarihi...",
-      "summary": "Süper Lig için heyecanlı bekleyiş... Futbolseverler bir an önce ligin başlamasını istiyor. Tam tarihi bilmeyenler &quot;Süper Lig ne zaman başlıyor&quot; sorusuna cevap arıyor.",
-      "url": "https://www.dunya.com/gundem/super-lig-ne-zaman-basliyor-lig-baslama-tarihi-haberi-835942",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:01:00"
-    },
-    {
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T14:00:01"
-    },
-    {
-      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "summary": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
-      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T13:59:17"
-    },
-    {
-      "title": "Altın hız kesmiyor: Kilogramı 6 milyon 770 bin lirayı geçti",
-      "summary": "ABD enflasyon beklentilerle uyumlu gelirken ons altın 4 bin 400 doların üzerine çıktı. Altın fiyatlarındaki yükseliş iç piyasaya da yansırken Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası&#039;nda (KMKTP) standart altının kilosu 6 milyon 770 bin liraya çıktı.",
-      "url": "https://www.dunya.com/ekonomi/altin-hiz-kesmiyor-kilogrami-6-milyon-770-bin-lirayi-gecti-haberi-835941",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T13:42:00"
-    },
-    {
-      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
-      "summary": "Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.",
-      "url": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T13:40:40"
-    },
-    {
-      "title": "Merkez Bankası faiz kararı ne zaman, hangi gün açıklanacak?",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın bu ay toplantı yapıp yapmayacağı merak ediliyor. Faizler yüzde 37 seviyesinde seyrederken toplantı tarihi sıkça araştırılıyor. İşte &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-835940",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T13:34:00"
-    },
-    {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T13:29:29"
-    },
-    {
-      "title": "Jandarma her yerde arıyordu: Babasının evinde saklandığı yer şaşırttı",
-      "summary": "Konya’nın Ilgın ilçesinde FETÖ üyeliği suçundan hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan firari hükümlü, jandarmanın operasyonuyla yakalandı. Babasının evinde arama yapan ekipler, şahsı çatı katında saklanırken buldu.",
-      "url": "https://www.dunya.com/video-galeri/gundem/jandarma-her-yerde-ariyordu-babasinin-evinde-saklandigi-yer-sasirtti-video-835938",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T13:24:00"
+      "published": "2026-08-12T14:16:48"
     }
   ]
 }

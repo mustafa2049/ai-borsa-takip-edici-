@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-12T17:15:31+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksinin %2,75'luk artışıyla birlikte birçok hisse için 'AL' sinyali veriliyor. Döviz kurlarında sınırlı bir hareketlilik gözlemlenirken, ons altın ve gram altın fiyatlarındaki artış dikkat çekiyor. Bu gelişmeler ışığında, piyasada alıcı baskının devam edeceği öngörülüyor.",
+  "updated_at": "2026-08-12T18:27:32+03:00",
+  "overview": null,
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 14081.22,
-      "change_pct": 2.75
+      "value": 14110.14,
+      "change_pct": 2.96
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7745.83,
-      "change_pct": 0.23
+      "value": 7742.18,
+      "change_pct": 0.18
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26602.55,
-      "change_pct": 0.59
+      "value": 26556.79,
+      "change_pct": 0.42
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26431.96,
-      "change_pct": 0.15
+      "value": 26315.1,
+      "change_pct": -0.29
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 67524.06,
-      "change_pct": 0.83
+      "value": 66970.22,
+      "change_pct": 2.08
     },
     {
       "name": "USD/TRY",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.2,
-      "change_pct": 0.15
+      "value": 55.15,
+      "change_pct": 0.06
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4487.2,
-      "change_pct": 2.38
+      "value": 4485.1,
+      "change_pct": 2.33
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 88.45,
-      "change_pct": -0.52
+      "value": 88.97,
+      "change_pct": 0.07
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6889.33,
+      "value": 6886.06,
       "change_pct": null
     }
   ]

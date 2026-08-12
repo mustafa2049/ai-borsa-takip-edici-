@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T17:15:31+03:00",
+  "updated_at": "2026-08-12T18:27:32+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -8,11 +8,7 @@
       "return_1m": 8.72,
       "return_3m": -0.74,
       "return_6m": 23.52,
-      "return_1y": 62.75,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %8,72 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Uzun vadeli yatırımlar için uygun olabilir."
-      }
+      "return_1y": 62.75
     },
     {
       "code": "TMG",
@@ -21,11 +17,7 @@
       "return_1m": 6.34,
       "return_3m": 10.54,
       "return_6m": 22.2,
-      "return_1y": 48.01,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %6,34 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Yabancı hisse senedi piyasalarına yatırım yapanlar için uygun olabilir."
-      }
+      "return_1y": 48.01
     },
     {
       "code": "TTE",
@@ -34,11 +26,7 @@
       "return_1m": 5.9,
       "return_3m": 8.83,
       "return_6m": 54.16,
-      "return_1y": 73.05,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %5,9 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Teknoloji ağırlıklı endeksine yatırım yapanlar için uygun olabilir."
-      }
+      "return_1y": 73.05
     },
     {
       "code": "AFA",
@@ -47,11 +35,7 @@
       "return_1m": 5.47,
       "return_3m": 11.18,
       "return_6m": 25.59,
-      "return_1y": 44.13,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %5,47 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Amerika'ya yönelik yabancı hisse senedi yatırımları için uygun olabilir."
-      }
+      "return_1y": 44.13
     },
     {
       "code": "IPB",
@@ -60,11 +44,7 @@
       "return_1m": 3.91,
       "return_3m": 4.8,
       "return_6m": 18.24,
-      "return_1y": 31.9,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 ayda %3,91 getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Değişken fon olarak çeşitli yatırım araçlarına dağılım göstermektedir."
-      }
+      "return_1y": 31.9
     },
     {
       "code": "YAC",
@@ -73,11 +53,7 @@
       "return_1m": 2.12,
       "return_3m": 1.89,
       "return_6m": 5.69,
-      "return_1y": 30.87,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 ayda %2,12 getiri elde etmiş olup, düşük riskli bir fon olarak değerlendirilebilir. Fon sepetsi fonu olarak çeşitli yatırım araçlarına dağılım göstermektedir."
-      }
+      "return_1y": 30.87
     },
     {
       "code": "IPJ",
@@ -86,11 +62,7 @@
       "return_1m": 2.05,
       "return_3m": -1.74,
       "return_6m": 20.19,
-      "return_1y": 55.68,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %2,05 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Elektrikli araçlara yönelik karma yatırım yapanlar için uygun olabilir."
-      }
+      "return_1y": 55.68
     },
     {
       "code": "DAH",
@@ -99,11 +71,7 @@
       "return_1m": 0.94,
       "return_3m": -6.79,
       "return_6m": -3.97,
-      "return_1y": 20.88,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %0,94 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğun fon olarak yüksek dalgalanma gösterebilir."
-      }
+      "return_1y": 20.88
     },
     {
       "code": "OPH",
@@ -112,11 +80,7 @@
       "return_1m": 0.44,
       "return_3m": -1.69,
       "return_6m": 4.99,
-      "return_1y": 29.21,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %0,44 getiri elde etmiş olup, orta riskli bir fon olarak değerlendirilebilir. Hisse senedi yoğun fon olarak çeşitli sektörlere yatırım yapmaktadır."
-      }
+      "return_1y": 29.21
     },
     {
       "code": "AFT",
@@ -125,11 +89,7 @@
       "return_1m": 0.43,
       "return_3m": -1.93,
       "return_6m": 14.68,
-      "return_1y": 41.36,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %0,43 getiri elde etmiş olup, yüksek riskli bir fon olarak değerlendirilebilir. Yeni teknolojilere yönelik yabancı hisse senedi yatırımları için uygun olabilir."
-      }
+      "return_1y": 41.36
     },
     {
       "code": "TCD",
