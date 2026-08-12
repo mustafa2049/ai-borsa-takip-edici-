@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-12T15:46:24+03:00",
+  "updated_at": "2026-08-12T17:15:31+03:00",
   "news": [
+    {
+      "title": "New York borsası ABD'nin enflasyon verilerinin ardından yükselişle açıldı",
+      "summary": "New York borsası, ABD&#039;de temmuz ayında beklentiler doğrultusunda gerçekleşen enflasyon verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi yüzde 0,01 artışla 53.797,47 puana çıktı.",
+      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-abdnin-enflasyon-verilerinin-ardindan-yukselisle-acildi-haberi-835943",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:15:00",
+      "ai": {
+        "impact": "New York borsasının yükselişi, global piyasalarda olumlu bir etki yaratabilir. Türkiye piyasaları da bu olumlu havadan yararlanabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
+      "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T14:13:03",
+      "ai": {
+        "impact": "CoreWeave'in hisse fiyatındaki artış, yapay zeka talebinin arttığını gösteriyor. Bu, teknoloji şirketleri için olumlu bir sinyal olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Splash Beverage, Endovia Health Sciences olarak yeniden markalaşıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/splash-beverage-endovia-health-sciences-olarak-yeniden-markalasyor-93CH-4027190",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:09:30",
+      "ai": {
+        "impact": "Splash Beverage'in yeniden markalaşması, şirketin büyüme stratejisinin bir parçası olabilir. Ancak, etkisini tam olarak değerlendirmek için daha fazla bilgiye ihtiyaç vardır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "MMC Sanayi, ortak Ümit Gümüş’ten 15 milyon TL ek sermaye avansı aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/mmc-sanayi-ortak-umit-gumusten-15-milyon-tl-ek-sermaye-avans-ald-93CH-4027189",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:08:46",
+      "ai": {
+        "impact": "MMC Sanayi'nin ek sermaye avansı alması, şirketin finansal durumunu güçlendirebilir. Ancak, bu haberin piyasalara etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "UBS, Abercrombie & Fitch hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-abercrombie--fitch-hissesi-icin-hedef-fiyat-yukseltti-93CH-4027187",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:08:14",
+      "ai": {
+        "impact": "UBS'nin Abercrombie & Fitch hissesi için hedef fiyatını yükseltmesi, şirketin performansının iyileştirildiğini gösteriyor. Bu, perakende sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Piper Sandler, yapay zeka talebi nedeniyle CoreWeave hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-yapay-zeka-talebi-nedeniyle-coreweave-hisse-hedefini-yukseltti-93CH-4027186",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:08:10",
+      "ai": {
+        "impact": "Piper Sandler'in CoreWeave hisse hedefini yükseltmesi, yapay zeka talebinin artmaya devam edeceğinin bir göstergesi olabilir. Bu, teknoloji şirketleri için olumlu bir sinyal olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "UBS, Aramark için hisse hedefini 71 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-aramark-icin-hisse-hedefini-71-dolara-yukseltti-93CH-4027185",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:08:05",
+      "ai": {
+        "impact": "UBS'nin Aramark için hisse hedefini yükseltmesi, şirketin büyüme potansiyelini gösteriyor. Ancak, bu haberin genel piyasalara etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "UBS, Amentum’un hisse hedefini 24 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-amentumun-hisse-hedefini-24-dolara-yukseltti-93CH-4027184",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:08:04",
+      "ai": {
+        "impact": "UBS'nin Amentum’un hisse hedefini yükseltmesi, şirketin performansının iyileştirildiğini gösteriyor. Ancak, bu haberin genel piyasalara etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Baltic Classifieds hisse alım satım para birimini euroya çeviriyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/baltic-classifieds-hisse-alm-satm-para-birimini-euroya-ceviriyor-93CH-4027182",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:07:22"
+    },
+    {
+      "title": "BFC hissesi 158,59 dolarla rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/bfc-hissesi-15859-dolarla-rekor-krd-93CH-4027183",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:07:22"
+    },
+    {
+      "title": "U.S. Bank, San Francisco 49ers ile ortaklığını uzattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/us-bank-san-francisco-49ers-ile-ortaklgn-uzatt-93CH-4027179",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:05:35"
+    },
+    {
+      "title": "Doğuş Otomotiv, hisse başına 15 TL brüt temettü dağıtıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/dogus-otomotiv-hisse-basna-15-tl-brut-temettu-dagtyor-93CH-4027178",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T14:04:59"
+    },
+    {
+      "title": "Süper Lig ne zaman başlıyor? Lig başlama tarihi...",
+      "summary": "Süper Lig için heyecanlı bekleyiş... Futbolseverler bir an önce ligin başlamasını istiyor. Tam tarihi bilmeyenler &quot;Süper Lig ne zaman başlıyor&quot; sorusuna cevap arıyor.",
+      "url": "https://www.dunya.com/gundem/super-lig-ne-zaman-basliyor-lig-baslama-tarihi-haberi-835942",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T14:01:00"
+    },
+    {
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T14:00:01"
+    },
+    {
+      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+      "summary": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
+      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T13:59:17"
+    },
+    {
+      "title": "Altın hız kesmiyor: Kilogramı 6 milyon 770 bin lirayı geçti",
+      "summary": "ABD enflasyon beklentilerle uyumlu gelirken ons altın 4 bin 400 doların üzerine çıktı. Altın fiyatlarındaki yükseliş iç piyasaya da yansırken Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası&#039;nda (KMKTP) standart altının kilosu 6 milyon 770 bin liraya çıktı.",
+      "url": "https://www.dunya.com/ekonomi/altin-hiz-kesmiyor-kilogrami-6-milyon-770-bin-lirayi-gecti-haberi-835941",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T13:42:00"
+    },
+    {
+      "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
+      "summary": "Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.",
+      "url": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T13:40:40"
+    },
+    {
+      "title": "Merkez Bankası faiz kararı ne zaman, hangi gün açıklanacak?",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın bu ay toplantı yapıp yapmayacağı merak ediliyor. Faizler yüzde 37 seviyesinde seyrederken toplantı tarihi sıkça araştırılıyor. İşte &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusunun yanıtı...",
+      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-835940",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T13:34:00"
+    },
     {
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
       "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T12:37:51",
-      "ai": {
-        "impact": "Tüketici fiyatlarındaki artış beklentilerle uyumlu olduğundan, piyasalarda büyük bir dalgalanmaya neden olmayabilir. Enflasyonun beklentilerin altında kalması faiz oranlarının düşürülmesi yönünde bir baskı oluşturabilir.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-12T13:29:29"
     },
     {
-      "title": "AB’den otomotiv sektöründe yeni dönem: Ömrünü tamamlayan araçlar için kurallar değişiyor",
-      "summary": "Avrupa Birliği&#039;nde (AB), otomotiv sektöründe geri dönüşümü artırmak ve kritik ham maddelerde dışa bağımlılığı azaltmak amacıyla hazırlanan ömrünü tamamlamış araçlara yönelik yeni kurallar yarından itibaren yürürlüğe girecek.",
-      "url": "https://www.dunya.com/sektorler/otomotiv/abden-otomotiv-sektorunde-yeni-donem-omrunu-tamamlayan-araclar-icin-kurallar-degisiyor-haberi-835932",
+      "title": "Jandarma her yerde arıyordu: Babasının evinde saklandığı yer şaşırttı",
+      "summary": "Konya’nın Ilgın ilçesinde FETÖ üyeliği suçundan hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan firari hükümlü, jandarmanın operasyonuyla yakalandı. Babasının evinde arama yapan ekipler, şahsı çatı katında saklanırken buldu.",
+      "url": "https://www.dunya.com/video-galeri/gundem/jandarma-her-yerde-ariyordu-babasinin-evinde-saklandigi-yer-sasirtti-video-835938",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:36:00",
-      "ai": {
-        "impact": "Otomotiv sektöründeki yeni kurallar, geri dönüşümü artırmaya yönelik olduğu için çevre dostu uygulamaları teşvik edebilir. Ancak, bu kuralların şirketlere getireceği maliyetler kısa vadede negatif bir etki yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Yalova'da eğitim uçağı düştü",
-      "summary": "Yalova&#039;da eğitim uçuşu sırasında arızalanan uçak düştü. Pilotun kazadan sağ kurtulduğu öğrenilirken Milli Savunma Bakanlığı&#039;ndan yapılan açıklamada &quot;Hava Kuvvetlerimize ait bir adet F-16 uçağımız, eğitim uçuşu sırasında Yalova’da kaza kırıma uğramış, pilotumuz atlayarak kurtulmuştur. Kaza kırım nedeni, yapılacak detaylı inceleme sonucu belirlenecektir&quot; denildi.",
-      "url": "https://www.dunya.com/video-galeri/gundem/yalovada-egitim-ucagi-dustu-video-835931",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:34:00",
-      "ai": {
-        "impact": "Eğitim uçağının düşmesi, ulusal güvenlik ve savunma sektörüne ilişkin endişeleri artırabilir. Ancak, genel olarak piyasalara geniş bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Piyasaların yakından takip ettiği ABD enflasyon verileri açıklandı",
-      "summary": "ABD&#039;de tüketici fiyatları temmuz ayında aylık bazda yüzde 0,1 yükselirken, yıllık enflasyon yüzde 3,4 seviyesine geriledi. Piyasa beklentileri ise yıllık enflasyonun yüzde 3,8&#039;e çıkacağı, tüketici fiyatlarının aylık bazda yüzde 0,1 düşeceği yönündeydi.",
-      "url": "https://www.dunya.com/ekonomi/piyasalarin-yakindan-takip-ettigi-abd-enflasyon-verileri-aciklandi-haberi-835930",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:30:00",
-      "ai": {
-        "impact": "ABD'de enflasyonun beklentilerin altında kalması, faiz oranlarının düşürülmesi yönünde bir baskı oluşturabilir. Bu durum, hisse senedi piyasaları ve tahvil piyasaları üzerinde pozitif bir etki yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T12:28:39",
-      "ai": {
-        "impact": "Körfez'de artan gerilimler, petrol fiyatlarını artırabilir ve küresel ekonomi üzerinde negatif bir etki yaratabilir. Deniz ticaretini etkileyen bu gelişmeler, küresel tedarik zincirlerini de olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "VolitionRx sepsis prototipi için hasta testlerine başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/volitionrx-sepsis-prototipi-icin-hasta-testlerine-baslad-93CH-4026848",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:25:27",
-      "ai": {
-        "impact": "Yeni bir tıbbi teknoloji veya tedavi yönteminin geliştirilmesi, ilgili şirketin hisseleri üzerinde pozitif bir etki yaratabilir. Ancak, bu haberin genel piyasalara geniş bir etkisi olmayacaktır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Autonomix Medical, FDA başvurusu için klinik öncesi çalışmayı tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/autonomix-medical-fda-basvurusu-icin-klinik-oncesi-calsmay-tamamlad-93CH-4026847",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:25:24",
-      "ai": {
-        "impact": "FDA başvurusu için klinik öncesi çalışmanın tamamlanması, ilgili şirketin hisseleri üzerinde pozitif bir etki yaratabilir. Bu, şirketin ürün veya hizmetlerinin gelecekteki potansiyelini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Savills, satın alma sonrası 27,7 milyon hisse kabul etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/savills-satn-alma-sonras-277-milyon-hisse-kabul-etti-93CH-4026846",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:25:11",
-      "ai": {
-        "impact": "Şirketin hisse senetlerinin satın alınması, şirketin finansal durumunu güçlendirebilir ve yatırımcı güvenini artırabilir. Bu durum, şirketin hisseleri üzerinde pozitif bir etki yaratabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "NeOnc Technologies hissesi bugün neden yükseldi?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/neonc-technologies-hissesi-bugun-neden-yukseldi-93CH-4026844",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:24:22"
-    },
-    {
-      "title": "'Tougher times ahead': Don't expect blowout returns to continue, CEO of $2.3 trillion fund warns after record first half",
-      "summary": "Norway's sovereign wealth fund, the largest of its kind, is an investor in around 1.5% of the world's listed companies.",
-      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-tangen-nbim.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T12:23:06"
-    },
-    {
-      "title": "Performance Food Group hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/performance-food-group-hissesi-bugun-neden-dusuyor-93CH-4026840",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:22:33"
-    },
-    {
-      "title": "Needham, yapay zeka optik büyümesiyle Lumentum hissesi için tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-yapay-zeka-optik-buyumesiyle-lumentum-hissesi-icin-tavsiyesini-korudu-93CH-4026839",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:22:21"
-    },
-    {
-      "title": "Belite Bio hisse hedef fiyatı FDA incelemesi sonrası 214 dolara yükseltildi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/belite-bio-hisse-hedef-fiyat-fda-incelemesi-sonras-214-dolara-yukseltildi-93CH-4026838",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:22:12"
-    },
-    {
-      "title": "Cantor, eToro hisse hedefini kripto ve hacim zayıflığı nedeniyle düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-etoro-hisse-hedefini-kripto-ve-hacim-zayflg-nedeniyle-dusurdu-93CH-4026837",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:22:06"
-    },
-    {
-      "title": "Son dakika... Yalova'da askeri eğitim uçağı düştü! MSB'den ilk açıklama",
-      "summary": "Son dakika... Yalova&#039;da eğitim uçuşu gerçekleştiren F-16 henüz belirlenemeyen bir nedenle düştü. Olay yerine çok sayıda ekip sevk edilirken Milli Savunma Bakanlığı&#039;ndan yapılan açıklamada &quot;Pilotumuz atlayarak kurtulmuştur. Kaza kırım nedeni, yapılacak detaylı inceleme sonucu belirlenecektir&quot; denildi.",
-      "url": "https://www.dunya.com/gundem/son-dakika-yalovada-askeri-egitim-ucagi-dustu-msbden-ilk-aciklama-haberi-835929",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:22:00"
-    },
-    {
-      "title": "H.C. Wainwright, Septerna hissesi için hedef fiyatı 60 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-septerna-hissesi-icin-hedef-fiyat-60-dolara-yukseltti-93CH-4026835",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:21:57"
-    },
-    {
-      "title": "Cantor Fitzgerald, Exodus Movement hissesi için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-exodus-movement-hissesi-icin-hedef-fiyat-yukseltti-93CH-4026834",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T12:21:44"
-    },
-    {
-      "title": "UEFA SÜPER KUPA: PSG - Aston Villa maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "UEFA Süper Kupası bu akşam sahibini buluyor. Son Şampiyonlar Ligi şampiyonu PSG ile UEFA Avrupa Ligi şampiyonu Aston Villa karşı karşıya geliyor. Futbol tutkunları bu maçı beklerken &quot;PSG - Aston Villa maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusu hızlanmış durumda...",
-      "url": "https://www.dunya.com/spor/uefa-super-kupa-psg-aston-villa-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835928",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:19:00"
-    },
-    {
-      "title": "Son dakika... Özgür Özel'le birlikte 3 ismin dokunulmazlık dosyaları Meclis’te",
-      "summary": "Son dakika...  Yeni Parti Genel Başkanı Özgür Özel, Yeni Parti Malatya Milletvekili Veli Ağbaba ve Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Sera Kadıgil&#039;e ait dokunulmazlık dosyaları Meclis’e sunuldu.",
-      "url": "https://www.dunya.com/gundem/son-dakika-ozgur-ozelle-birlikte-3-ismin-dokunulmazlik-dosyalari-mecliste-haberi-835926",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T12:17:00"
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T12:13:45"
+      "published": "2026-08-12T13:24:00"
     }
   ]
 }
