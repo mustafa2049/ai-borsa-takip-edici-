@@ -1,177 +1,145 @@
 {
-  "updated_at": "2026-08-12T18:27:32+03:00",
+  "updated_at": "2026-08-12T19:24:58+03:00",
   "news": [
-    {
-      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
-      "summary": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T15:27:38",
-      "ai": {
-        "impact": "Hormuz Boğazı'nda olası bir anlaşmanın ertelenmesi petrol fiyatlarını etkileyebilir ve Türkiye'de enerji maliyetlerini artırabilir. Bu durum ekonomi üzerinde negatif bir etki yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
     {
       "title": "Trump sued over Truth Social advance access sale",
       "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
       "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T15:24:27",
-      "ai": {
-        "impact": "Trump'ın Truth Social'daki paylaşımları finansal piyasaları etkileyebileceği için bu dava ABD'de piyasaları etkileyebilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-12T16:20:22"
     },
     {
-      "title": "Morgan Stanley, Çin’de premium otomobilleri daha dirençli görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-cinde-premium-otomobilleri-daha-direncli-goruyor-93CH-4027355",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:14:45",
-      "ai": {
-        "impact": "Çin'de premium otomobillerin daha dirençli olması, global otomotiv piyasalarını etkileyebilir ve Türkiye'de bu sektörle ilgili şirketlerin hisselerini etkileyebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Twilio Canaccord konferansında: altyapı odağı meyvesini verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/twilio-canaccord-konferansnda-altyap-odag-meyvesini-verdi-93CH-4027354",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:14:20",
-      "ai": {
-        "impact": "Twilio'nun altyapı odaklı stratejisinin başarılı olması, teknoloji sektöründe şirketin konumunu güçlendirebilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "BMS Çelik Hasır, Aliağa taşınmazı için satış seçeneğini araştıracak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/bms-celik-hasr-aliaga-tasnmaz-icin-sats-secenegini-arastracak-93CH-4027353",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:14:03",
-      "ai": {
-        "impact": "BMS Çelik Hasır'ın Aliağa'daki taşınmazı için satış seçeneğini araştırması, şirketin finansal durumunu etkileyebilir ve Türkiye'de çelik sektörünü etkileyebilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "AMS hissedarları H.B. Fuller satın alımını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ams-hissedarlar-hb-fuller-satn-almn-onaylad-93CH-4027352",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:13:41",
-      "ai": {
-        "impact": "AMS hissedarlarının H.B. Fuller satın alımını onaylaması, şirketin büyümesini hızlandırabilir ancak Türkiye'de doğrudan bir etkisi olmayacaktır.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Here's the inflation breakdown for July 2026 — in one chart",
-      "summary": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say.",
-      "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
+      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
+      "summary": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
+      "url": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T15:13:18",
-      "ai": {
-        "impact": "Enflasyonun Temmuz 2026'da gösterdiği düşüş eğilimi, global ekonomide faiz oranlarının değişmesine neden olabilir ve Türkiye'de de ekonomi üzerinde olumlu bir etki yaratabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-12T16:17:39"
     },
     {
-      "title": "BTIG konut inşaatçı anketi Temmuz’da satışlarda düşüş gösterdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/btig-konut-insaatc-anketi-temmuzda-satslarda-dusus-gosterdi-93CH-4027351",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:12:44",
-      "ai": {
-        "impact": "Konut inşaatçı anketinde satışların düşüş göstermesi, inşaat sektörünü ve bağlı sektörleri etkileyebilir ve Türkiye'de ekonomik büyümeyi yavaşlatabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Kiniksa Canaccord Genuity konferansında: Arcalyst büyümesi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/kiniksa-canaccord-genuity-konferansnda-arcalyst-buyumesi-93CH-4027350",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:12:32"
-    },
-    {
-      "title": "Dagi Giyim’de büyük ortak, %50,17’lik payını holding şirketine devretti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/dagi-giyimde-buyuk-ortak-5017lik-payn-holding-sirketine-devretti-93CH-4027349",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:11:55"
-    },
-    {
-      "title": "Lamb Weston Bank of America konferansında marj sıfırlamasını açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/lamb-weston-bank-of-america-konferansnda-marj-sfrlamasn-acklad-93CH-4027348",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:10:42"
-    },
-    {
-      "title": "Emlak Konut GYO, Konya Meram 2. Etap ihalesinde 3,605 milyar TL pay aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/emlak-konut-gyo-konya-meram-2-etap-ihalesinde-3605-milyar-tl-pay-ald-93CH-4027347",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:10:32"
-    },
-    {
-      "title": "Evercore: Temmuz reçete hacimleri yıllık %1,9 arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/evercore-temmuz-recete-hacimleri-yllk-19-artt-93CH-4027343",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:10:05"
+      "title": "Bolat'tan Kalkınma Yolu Projesi açıklaması: Hedefimiz ticaret hacmini 30 milyar dolara çıkarmak",
+      "summary": "Ticaret Bakanı Ömer Bolat, Irak’la Kalkınma Yolu Projesi kapsamındaki işbirliğinin güçlendirilmesi ve iki ülke arasındaki ticaret hacminin 30 milyar dolara çıkarılması hedefi doğrultusunda atılacak adımların değerlendirildiğini açıkladı.",
+      "url": "https://www.dunya.com/ekonomi/bolattan-kalkinma-yolu-projesi-aciklamasi-hedefimiz-ticaret-hacmini-30-milyar-dolara-cikarmak-haberi-835964",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T16:14:00"
     },
     {
       "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
       "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
       "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T15:08:58"
+      "published": "2026-08-12T16:02:40"
     },
     {
-      "title": "Bahçeli’den “Terörsüz Türkiye” mesajı: Bütüncül bir irade nihayet hayat buldu",
-      "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, &quot;Terörsüz Türkiye&quot; sürecine ilişkin yeni bir açıklamada yaptı. Bahçeli, &quot;Terörsüz Türkiye, terörsüz bölge hedefini buluşturan irade nihayet hayat buldu&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/bahceliden-terorsuz-turkiye-mesaji-butuncul-bir-irade-nihayet-hayat-buldu-haberi-835950",
+      "title": "Beşiktaş Dusan Vlahovic'i KAP'a bildirdi",
+      "summary": "Beşiktaş Kulübü, Sırp santrfor Dusan Vlahovic&#039;in transferi için görüşmelere başlandığını açıkladı.",
+      "url": "https://www.dunya.com/spor/besiktas-dusan-vlahovici-kapa-bildirdi-haberi-835962",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:59:00"
+      "published": "2026-08-12T15:57:00"
     },
     {
-      "title": "Trump’tan Hürmüz açıklaması: ABD tam kontrole sahip",
-      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı üzerinde ABD’nin “tam kontrole” sahip olduğunu savunarak İran’a yönelik sert açıklamalarda bulundu. Trump, İran’ın askeri kapasitesinin zayıfladığını ve ülkenin artık bölgede eski gücüne sahip olmadığını öne sürdü.",
-      "url": "https://www.dunya.com/dunya/trumptan-hurmuz-aciklamasi-abd-tam-kontrole-sahip-haberi-835949",
+      "title": "Belçikalı santrfor Romelu Lukaku Fenerbahçe'de",
+      "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Belçikalı santrfor Romelu Lukaku&#039;nun transfer edildiğini açıkladı.",
+      "url": "https://www.dunya.com/spor/belcikali-santrfor-romelu-lukaku-fenerbahcede-haberi-835961",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:54:00"
+      "published": "2026-08-12T15:54:00"
     },
     {
-      "title": "GÜNEŞ TUTULMASI SAATİ: Tam Güneş tutulması ne zaman, saat kaçta görülecek? Türkiye'den izlenebilecek mi?",
-      "summary": "Tam Güneş tutulmasına çok az bir süre kaldı. Milyarlarca insan bu tarihi olaya şahitlik etmek isterken saat merak ediliyor. Bugünün en çok yöneltilen sorusu &quot;Tam Güneş tutulması ne zaman, saat kaçta görülecek&quot; oluyor.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/gunes-tutulmasi-saati-tam-gunes-tutulmasi-ne-zaman-saat-kacta-gorulecek-turkiyeden-izlenebilecek-mi-galeri-835918",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:37:00"
-    },
-    {
-      "title": "81 ilin valisiyle güvenlik zirvesi: Terörsüz Türkiye sürecinde yeni dönem",
-      "summary": "TBMM Başkanı Numan Kurtulmuş ve İçişleri Bakanı Mustafa Çiftçi, 81 ilin valisi, emniyet müdürü ve jandarma komutanıyla bir araya geldi. Toplantıda Terörsüz Türkiye sürecinin seyri, yeni yasal çerçeve, sahadaki gelişmeler ve provokasyonlara karşı alınacak tedbirler değerlendirildi.",
-      "url": "https://www.dunya.com/gundem/81-ilin-valisiyle-guvenlik-zirvesi-terorsuz-turkiye-surecinde-yeni-donem-haberi-835944",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T14:30:00"
-    },
-    {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+      "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
+      "summary": "For investors who suspect Amazon could be range-bound for the next seven weeks, consider a “jade lizard.”",
+      "url": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T14:28:39"
+      "published": "2026-08-12T15:53:24"
     },
     {
-      "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
-      "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "title": "Freedom Broker, Willis Lease Finance hissesi için tavsiyesini al’a yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/freedom-broker-willis-lease-finance-hissesi-icin-tavsiyesini-ala-yukseltti-93CH-4027399",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:51:49"
+    },
+    {
+      "title": "Stoke Therapeutics Canaccord konferansında: Deneme ivmesi artıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/stoke-therapeutics-canaccord-konferansnda-deneme-ivmesi-artyor-93CH-4027397",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:49:03"
+    },
+    {
+      "title": "Dauch, J.P. Morgan Otomotiv Konferansı’nda konuştu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/dauch-jp-morgan-otomotiv-konferansnda-konustu-93CH-4027396",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:48:37"
+    },
+    {
+      "title": "Space Exploration Technologies hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/space-exploration-technologies-hissesi-bugun-neden-yukseliyor-93CH-4027394",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:48:05"
+    },
+    {
+      "title": "Mobileye yüksek değerli ürünlere odaklanıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/mobileye-yuksek-degerli-urunlere-odaklanyor-93CH-4027393",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:48:01"
+    },
+    {
+      "title": "People Inc. Oppenheimer konferansında: Markalara geçiş ve değer katalizörleri",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/people-inc-oppenheimer-konferansnda-markalara-gecis-ve-deger-katalizorleri-93CH-4027392",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:47:59"
+    },
+    {
+      "title": "Barclays, Alibaba ve Churchill Downs için yükseliş görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/barclays-alibaba-ve-churchill-downs-icin-yukselis-goruyor-93CH-4027391",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:47:52"
+    },
+    {
+      "title": "ECARX J.P. Morgan Otomotiv Konferansı’nda: Büyüme, marjlar ve küresel açılım",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/ecarx-jp-morgan-otomotiv-konferansnda-buyume-marjlar-ve-kuresel-aclm-93CH-4027390",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:46:51"
+    },
+    {
+      "title": "Immunome hissesi 27,68 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/immunome-hissesi-2768-dolarda-52-haftalk-zirve-yapt-93CH-4027385",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:37:56"
+    },
+    {
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+      "summary": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
+      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T14:16:48"
+      "published": "2026-08-12T15:37:25"
+    },
+    {
+      "title": "Red Cat, Mitch McDonald’ı İHA operasyonları CEO’su yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/red-cat-mitch-mcdonald-iha-operasyonlar-ceosu-yapt-93CH-4027384",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T15:37:21"
+    },
+    {
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,96 değer kazanarak 14.110,14 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-835959",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T15:30:00"
+    },
+    {
+      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+      "summary": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
+      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T15:27:38"
     }
   ]
 }

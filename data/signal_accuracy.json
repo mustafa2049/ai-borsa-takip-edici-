@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T18:27:32+03:00",
+  "updated_at": "2026-08-12T19:24:58+03:00",
   "eval_days": 7,
   "overall": {
     "evaluated": 110,
@@ -29,12 +29,17 @@
     }
   },
   "by_symbol": {
+    "ISCTR": {
+      "evaluated": 4,
+      "correct": 3,
+      "accuracy_pct": 75.0
+    },
     "BIMAS": {
       "evaluated": 8,
       "correct": 4,
       "accuracy_pct": 50.0
     },
-    "TUPRS": {
+    "AKBNK": {
       "evaluated": 8,
       "correct": 8,
       "accuracy_pct": 100.0
@@ -44,47 +49,7 @@
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "ISCTR": {
-      "evaluated": 4,
-      "correct": 3,
-      "accuracy_pct": 75.0
-    },
-    "AKBNK": {
-      "evaluated": 8,
-      "correct": 8,
-      "accuracy_pct": 100.0
-    },
-    "GARAN": {
-      "evaluated": 8,
-      "correct": 7,
-      "accuracy_pct": 87.5
-    },
-    "PGSUS": {
-      "evaluated": 3,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "ASTOR": {
-      "evaluated": 8,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "THYAO": {
-      "evaluated": 8,
-      "correct": 1,
-      "accuracy_pct": 12.5
-    },
-    "ASELS": {
-      "evaluated": 8,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "KCHOL": {
-      "evaluated": 8,
-      "correct": 1,
-      "accuracy_pct": 12.5
-    },
-    "YKBNK": {
+    "TUPRS": {
       "evaluated": 8,
       "correct": 8,
       "accuracy_pct": 100.0
@@ -98,6 +63,41 @@
       "evaluated": 8,
       "correct": 1,
       "accuracy_pct": 12.5
+    },
+    "YKBNK": {
+      "evaluated": 8,
+      "correct": 8,
+      "accuracy_pct": 100.0
+    },
+    "THYAO": {
+      "evaluated": 8,
+      "correct": 1,
+      "accuracy_pct": 12.5
+    },
+    "PGSUS": {
+      "evaluated": 3,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "KCHOL": {
+      "evaluated": 8,
+      "correct": 1,
+      "accuracy_pct": 12.5
+    },
+    "ASELS": {
+      "evaluated": 8,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "ASTOR": {
+      "evaluated": 8,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "GARAN": {
+      "evaluated": 8,
+      "correct": 7,
+      "accuracy_pct": 87.5
     },
     "FROTO": {
       "evaluated": 8,
