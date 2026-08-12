@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-12T12:37:11+03:00",
-  "overview": "Günün piyasa görünümü genel olarak olumlu görünüyor. BIST 100 endeksinin 1.31'lik artışıyla birlikte bazı yabancı endekslerde de pozitif hareketler gözlemleniyor. Döviz kurlarında küçük dalgalanmalar var, ancak ons altın ve gram altın fiyatlarındaki artış dikkati çekiyor. Hisse sinyallerinde ise THYAO, TUPRS, GARAN ve YKBNK gibi hisselerde 'AL' sinyali görülürken, EKGYO ve FROTO gibi bazı hisselerde 'SAT' sinyali bulunuyor.",
+  "updated_at": "2026-08-12T13:52:57+03:00",
+  "overview": "BIST 100 endeksi gün içerisinde yüzde 1.67'lik artışla 13932.94 seviyesine ulaştı. DAX ve Nikkei 225 endeksleri de pozitif performans gösterirken, S&P 500 ve Nasdaq endeksleri değer kaybetti. USD/TRY kuru küçük bir artış gösterirken, ons altın fiyatları yüzde 2.05'lik artışla 4472.8 seviyesine çıktı. Hisse sinyalleri ise THYAO, TUPRS, GARAN ve YKBNK gibi hisselerde alım sinyali verirken, EKGYO ve FROTO gibi hisselerde satış sinyali verdi.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 13884.39,
-      "change_pct": 1.31
+      "value": 13932.94,
+      "change_pct": 1.67
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26489.45,
-      "change_pct": 0.37
+      "value": 26523.08,
+      "change_pct": 0.5
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.16,
-      "change_pct": 0.07
+      "value": 55.11,
+      "change_pct": -0.01
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4477.1,
-      "change_pct": 2.15
+      "value": 4472.8,
+      "change_pct": 2.05
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 88.44,
-      "change_pct": -0.53
+      "value": 88.79,
+      "change_pct": -0.13
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6873.64,
+      "value": 6866.95,
       "change_pct": null
     }
   ]

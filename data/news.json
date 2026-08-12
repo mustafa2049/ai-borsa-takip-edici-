@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-12T12:37:11+03:00",
+  "updated_at": "2026-08-12T13:52:57+03:00",
   "news": [
     {
-      "title": "Citizens, Amentum hissesi için görüşünü teyit etti",
+      "title": "Lazard Temmuz ayı yönetim altındaki varlıklarını 286,9 milyar dolar olarak açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-amentum-hissesi-icin-gorusunu-teyit-etti-93CH-4026195",
+      "url": "https://tr.investing.com/news/company-news/lazard-temmuz-ay-yonetim-altndaki-varlklarn-2869-milyar-dolar-olarak-acklad-93CH-4026425",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T09:25:57",
+      "published": "2026-08-12T10:49:21",
       "ai": {
-        "impact": "Citizens'in Amentum hissesi için görüşünü teyit etmesi hisse fiyatını etkileyebilir.",
+        "impact": "Lazard'ın yönetim altındaki varlıklarının 286,9 milyar dolar olarak açıklanması, şirketin finansal gücünü göstermekte ve yatırımcı güvenini artırmaktadır. Bu durum Türkiye ve dünya piyasalarında pozitif bir etki yaratmaktadır.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Crowley stuns Hong in Wisconsin; Flanagan beats Craig in Minnesota",
+      "summary": "Progressive Democrats keep their winning streak rolling in Minnesota.",
+      "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T10:49:07",
+      "ai": {
+        "impact": "Amerika'daki siyasi gelişmeler, özellikle Minnesota'daki seçim sonuçları, ABD'de siyasi istikrarı etkileyebilir ancak Türkiye ve dünya piyasaları üzerinde doğrudan bir etkisi beklenmemektedir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Citizens, REFI hissesi için hedef fiyatı düşürdü",
+      "title": "Çin merkez bankası gevşek para politikasını sürdüreceğini taahhüt etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-refi-hissesi-icin-hedef-fiyat-dusurdu-93CH-4026194",
+      "url": "https://tr.investing.com/news/economy-news/cin-merkez-bankas-gevsek-para-politikasn-surdurecegini-taahhut-etti-93CH-4026402",
       "source": "Investing Türkiye",
-      "published": "2026-08-12T09:25:50",
+      "published": "2026-08-12T10:47:31",
       "ai": {
-        "impact": "REFI hissesi için hedef fiyatının düşürülmesi hisse fiyatında düşüşe neden olabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Citizens, güçlü talep görünümüyle CoreWeave hisse tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-guclu-talep-gorunumuyle-coreweave-hisse-tavsiyesini-yineledi-93CH-4026193",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:25:47",
-      "ai": {
-        "impact": "CoreWeave hisse tavsiyesinin yinelenmesi hisse fiyatında artışa neden olabilir.",
+        "impact": "Çin merkez bankasının gevşek para politikasını sürdürme taahhüdü, ekonomiyi canlandırmaya yönelik bir adım olarak görülmekte ve bu durum küresel piyasalarda pozitif bir etki yaratabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "BofA kart verileri çevrimiçi harcama büyümesinin yavaşladığını gösteriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bofa-kart-verileri-cevrimici-harcama-buyumesinin-yavasladgn-gosteriyor-93CH-4026192",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:24:54",
-      "ai": {
-        "impact": "Çevrimiçi harcama büyümesinin yavaşlaması genel ekonomik büyümeyi etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "ACS hissesi bugün neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/acs-hissesi-bugun-neden-yukseliste-93CH-4026191",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:24:12",
-      "ai": {
-        "impact": "ACS hissesinin yükselişi şirketin performansına veya sektörel gelişmelere bağlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Clariant hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/clariant-hissesi-bugun-neden-yukseliyor-93CH-4026187",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:23:10",
-      "ai": {
-        "impact": "Clariant hissesinin yükselişi şirketin performansına veya sektörel gelişmelere bağlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Putin’den Avrupa’ya gemi resti: \"Aynı şekilde karşılık veririz\"",
-      "summary": "Avrupa’nın Rus gemilerine yönelik baskısı yeni bir gerilim alanı açtı. Vladimir Putin, ticari gemilere el konulması halinde Moskova’nın misilleme yapacağını belirtirken, karşılıklı hamlelerin deniz ticareti ve enerji taşımacılığına sıçrama riski büyüyor.",
-      "url": "https://www.dunya.com/gundem/putinden-avrupaya-gemi-resti-ayni-sekilde-karsilik-veririz-haberi-835902",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:23:00",
-      "ai": {
-        "impact": "Rusya ve Avrupa arasındaki gerilim deniz ticareti ve enerji taşımacılığına olumsuz etkide bulunabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Citizens, Palo Alto Networks için hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-palo-alto-networks-icin-hisse-hedefini-yukseltti-93CH-4026181",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:20:17",
-      "ai": {
-        "impact": "Palo Alto Networks için hisse hedefinin yükseltilmesi hisse fiyatında artışa neden olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Piper Sandler, Jasper Therapeutics hissesini ağırlıklı al önerisiyle başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-jasper-therapeutics-hissesini-agrlkl-al-onerisiyle-baslatt-93CH-4026179",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:20:14"
-    },
-    {
-      "title": "Devlet desteği kırmızı mercimeğe yaradı: Üretim ve rekolte arttı",
-      "summary": "Elazığ&#039;da devlet desteğiyle organik kırmızı mercimek üretimi artarken, yüzde 75 hibeli 8,5 milyon liralık destekle üretim alanı 15 bin dekara, rekolte ise 2 bin 700 tona ulaştı.",
-      "url": "https://www.dunya.com/foto-galeri/yasam/devlet-destegi-kirmizi-mercimege-yaradi-uretim-ve-rekolte-artti-galeri-835901",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:20:00"
-    },
-    {
-      "title": "Piper Sandler, Unusual Machines hissesine aşırı ağırlık verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-unusual-machines-hissesine-asr-agrlk-verdi-93CH-4026178",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:19:59"
-    },
-    {
-      "title": "Piper Sandler, Mercury Systems hissesine aşırı ağırlık önerisiyle başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-mercury-systems-hissesine-asr-agrlk-onerisiyle-baslad-93CH-4026177",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T09:19:58"
-    },
-    {
-      "title": "Son dakika...  İran ve ABD geçici ateşkeste anlaştı",
-      "summary": "Son dakika... Pakistanlı yetkililer, İran ile ABD&#039;nin 60 günlük yeni geçici ateşkes için anlaştığını açıkladı.",
-      "url": "https://www.dunya.com/dunya/son-dakika-iran-ve-abd-gecici-ateskeste-anlasti-haberi-835900",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:19:00"
-    },
-    {
-      "title": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
-      "summary": "Tencent stock was down 26% so far in 2026 as the company faces intense competition in China in AI and investors grow jittery about its rising spending.",
-      "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+      "title": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
+      "summary": "The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consumption.",
+      "url": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T09:15:43"
+      "published": "2026-08-12T10:47:20",
+      "ai": {
+        "impact": "Hormuz Boğazı'nın kapanması, küresel ekonomiyi olumsuz etkileyen bir faktör olarak görülmekte ve petrol talebinin düşmesine neden olmaktadır. Bu durum Türkiye ve dünya piyasalarında negatif bir etki yaratmaktadır.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Fed faiz kararı ne zaman açıklanıyor?",
-      "summary": "ABD&#039;den bugün enflasyon rakamları gelecek. Enflasyonun düşüp düşmediği merak edilirken Fed faiz kararının da tarihi araştırılıyor. İşte &quot;Fed faiz kararı ne zaman açıklanacak&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-aciklaniyor-haberi-835898",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:05:00"
+      "title": "BNP Paribas, Serco için tavsiyesini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/bnp-paribas-serco-icin-tavsiyesini-yukseltti-4026423",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:46:59",
+      "ai": {
+        "impact": "BNP Paribas'ın Serco için tavsiyesini yükseltmesi, şirketin performansını olumlu olarak etkileyebilir ve yatırımcı güvenini artırabilir. Ancak bu durum Türkiye ve dünya piyasaları üzerinde geniş bir etkiye sahip olmayabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Hedge fonlar yapay zekâ rallisine karşı pozisyon aldı",
-      "summary": "Yapay zekâ hisselerinde temmuzda yaşanan sert satışların ardından büyük para yön değiştirmeye başladı. Hedge fonlar, bazı yapay zekâ altyapısı şirketlerinde kısa pozisyonlarını artırırken Nvidia gibi devlerde de risk azaltmaya giderek rallinin en kırılgan halkalarına karşı daha temkinli bir duruş aldı.",
-      "url": "https://www.dunya.com/finans/haberler/hedge-fonlar-yapay-zeka-rallisine-karsi-pozisyon-aldi-haberi-835897",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:03:00"
+      "title": "Annexon hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/annexon-hissesi-bugun-neden-dusuyor-93CH-4026395",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:43:54",
+      "ai": {
+        "impact": "Annexon hissesinin düşüşü, şirketin performansıyla ilgili endişeleri yansıtabilir ve yatırımcı güvenini olumsuz etkileyebilir. Bu durum Türkiye ve dünya piyasaları üzerinde sınırlı bir etkiye sahip olabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Her 10 kişiden 6'sının evinde var: İnternet en çok burada kullanılıyor",
-      "summary": "Türkiye’nin internet kullanım alışkanlıkları verisi paylaşıldı. İnternete bağlı cihazlarda yüzde 62 ile televizyon ilk sıraya yerleşirken, listenin sonunda yüzde 1,1 ile internete bağlı oyuncaklar kaldı.",
-      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/her-10-kisiden-6sinin-evinde-var-internet-en-cok-burada-kullaniliyor-haberi-835896",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T09:02:00"
+      "title": "Perma-Fix Environmental hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/permafix-environmental-hissesi-bugun-neden-dusuyor-93CH-4026388",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:41:47",
+      "ai": {
+        "impact": "Perma-Fix Environmental hissesinin düşüşü, şirketin performansıyla ilgili sorunları gösterebilir ve yatırımcı güvenini olumsuz etkileyebilir. Bu durum Türkiye ve dünya piyasaları üzerinde sınırlı bir etkiye sahip olabilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Sıcak havalar böbrekleri vuruyor: Kreatinin neden yükseliyor? Uzmanlardan kritik uyarı",
-      "summary": "Yaz sıcaklıklarının artmasıyla birlikte aşırı terleme ve sıvı kaybı böbrekler üzerinde ciddi bir yük oluşturabiliyor. Türk Böbrek Vakfı, özellikle kronik böbrek ve diyaliz hastalarında kreatinin ile elektrolit değerlerinin hızla değişebileceği uyarısında bulundu. Uzmanlara göre sıcak havalarda koyu renkli idrar da sıvı kaybının önemli işaretlerinden biri olabilir.",
-      "url": "https://www.dunya.com/saglik/sicak-havalar-bobrekleri-vuruyor-kreatinin-neden-yukseliyor-uzmanlardan-kritik-uyari-haberi-835895",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T08:59:00"
+      "title": "Liquidia Technologies hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/liquidia-technologies-hissesi-bugun-neden-yukseliyor-93CH-4026386",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:40:13",
+      "ai": {
+        "impact": "Liquidia Technologies hissesinin yükselişi, şirketin performansının iyileştiğini gösterebilir ve yatırımcı güvenini artırabilir. Bu durum Türkiye ve dünya piyasaları üzerinde sınırlı bir etkiye sahip olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Kentsel dönüşümde destekler büyüdü: İşte son rakam",
-      "summary": "Evini kentsel dönüşüm kapsamında yenilemek isteyenler için hibe ve kredi desteğinden tapu, ruhsat ve iskan avantajlarına kadar birçok imkan sunulurken destek tutarı 1 milyon 875 bin liraya ulaştı. Farklı projelerde de 3 milyon liraya kadar finansman sağlanıyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/kentsel-donusumde-destekler-buyudu-iste-son-rakam-galeri-835899",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-12T08:59:00"
+      "title": "Lockheed Martin 5G ağlarıyla drone tespit sistemi tanıttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lockheed-martin-5g-aglaryla-drone-tespit-sistemi-tantt-93CH-4026370",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:37:39"
     },
     {
-      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-      "summary": "The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across 60 countries.",
-      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+      "title": "VIAVI, 6G ve Wi-Fi 7/8 için Vertex 6.0 kanal emülatörünü piyasaya sürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/viavi-6g-ve-wifi-78-icin-vertex-60-kanal-emulatorunu-piyasaya-surdu-93CH-4026369",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:37:34"
+    },
+    {
+      "title": "ITC Infotech, BAT ile çok yıllı teknoloji anlaşması imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/itc-infotech-bat-ile-cok-yll-teknoloji-anlasmas-imzalad-93CH-4026368",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:37:22"
+    },
+    {
+      "title": "Bio-Techne çeyreklik 0,08 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/biotechne-ceyreklik-008-dolar-temettu-acklad-93CH-4026367",
+      "source": "Investing Türkiye",
+      "published": "2026-08-12T10:37:03"
+    },
+    {
+      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening",
+      "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T08:45:20"
+      "published": "2026-08-12T10:29:58"
+    },
+    {
+      "title": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
+      "summary": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
+      "url": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T10:25:53"
+    },
+    {
+      "title": "İki şehri birbirine bağlayacak: Dev projede sona gelindi",
+      "summary": "Erzurum&#039;u Karadeniz&#039;e bağlayan kritik güzergahta Kırık ve Dallıkavak tünellerinde çalışmalar sürüyor. Projelerin tamamlanmasıyla Erzurum-Rize arasındaki 248 kilometrelik yol 196 kilometreye düşecek, İspir&#039;e ulaşım ise yaklaşık 1 saate inecek.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/iki-sehri-birbirine-baglayacak-dev-projede-sona-gelindi-galeri-835909",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T10:25:00"
+    },
+    {
+      "title": "Yapay zekâ için para musluğu açıldı: 250 milyar dolarlık dev hamle",
+      "summary": "Yapay zekâ yarışının faturası çiplerden elektrik şebekelerine kadar büyüyor. Bank of America, veri merkezleri, enerji ve kritik altyapı projelerini kapsayan 250 milyar dolarlık finansman hamlesi başlattı. Wall Street’te benzer programların toplam ölçeği trilyonlarca dolara ulaşıyor.",
+      "url": "https://www.dunya.com/ekonomi/yapay-zeka-icin-para-muslugu-acildi-250-milyar-dolarlik-dev-hamle-haberi-835910",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T10:23:00"
+    },
+    {
+      "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
+      "summary": "In letters to four prediction market platforms, City Council Speaker Julie Menin said the council was also actively considering legislation to address concerns.",
+      "url": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-12T10:00:01"
+    },
+    {
+      "title": "Zayıflama ilacında savaş: Eli Lilly 6 şirkete dava açtı",
+      "summary": "Henüz düzenleyici onay almayan deneysel zayıflama ilacı retatrutide, piyasaya çıkmadan yasa dışı satışların hedefi oldu. Eli Lilly altı şirkete dava açarken, ABD’de ele geçirilen kaçak GLP-1 ürünlerindeki hızlı artış dikkat çekti.",
+      "url": "https://www.dunya.com/is-dunyasi/zayiflama-ilacinda-savas-eli-lilly-6-sirkete-dava-acti-haberi-835907",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T10:00:00"
+    },
+    {
+      "title": "2026 LGS 2. nakil sonuçları ne zaman açıklanacak?",
+      "summary": "LGS 2. nakil başvuruları bugün sona eriyor. On binlerce öğrenci tercih ettiği lisede öğrenip görmek isterken Milli Eğitim Bakanlığının belirlediği sonuç tarihi araştırılıyor. Bu sebeple &quot;2026 LGS 2. nakil sonuçları ne zaman açıklanacak&quot; sorusu hızlanıyor.",
+      "url": "https://www.dunya.com/gundem/2026-lgs-2-nakil-sonuclari-ne-zaman-aciklanacak-haberi-835906",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T09:51:00"
+    },
+    {
+      "title": "Denizin dibinden servet çıkıyor: Bulduğu lüks saati 3 bin dolara sattı",
+      "summary": "Antalya&#039;da 4 yıldır dalış yapan Hüseyin Fırat&#039;ın denizin dibinden çıkardıkları görenleri şaşırtıyor. Cep telefonu, altın, gümüş, lüks saat ve alyansların yanı sıra bisiklet ve hatta oturma bankı bulan Fırat, sahibine ulaşılamayan değerli eşyaları satarak elde ettiği gelirle sokak hayvanlarının mama ve tedavi masraflarını karşılıyor. Fırat&#039;ın bugüne kadar bulduğu en değerli eşya ise ",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/denizin-dibinden-servet-cikiyor-buldugu-luks-saati-3-bin-dolara-satti-galeri-835905",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-12T09:48:00"
     }
   ]
 }
