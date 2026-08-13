@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:40:25+03:00",
+  "updated_at": "2026-08-13T15:49:08+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -24,7 +24,7 @@
       "return_1y": 63.53,
       "ai": {
         "risk": "Orta",
-        "comment": "TGE fonu emtia ve yabancı para birimi yatırımlarına odaklanır, bu nedenle orta düzeyde risk taşır."
+        "comment": "TGE fonu emtia ve yabancı para birimi yatırımlarına odaklanır, bu nedenle orta düzeyde risk içerir."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 21.87,
       "return_1y": 47.99,
       "ai": {
-        "risk": "Orta",
-        "comment": "TMG fonu yabancı hisse senedi yatırımlarına odaklanır, bu nedenle orta düzeyde risk taşır ve getiri potansiyeli vardır."
+        "risk": "Yüksek",
+        "comment": "TMG fonu yabancı hisse senetlerine yatırım yapar, bu nedenle kur dalgalanmaları nedeniyle riski yüksektir."
       }
     },
     {
@@ -49,8 +49,8 @@
       "return_6m": 18.92,
       "return_1y": 34.29,
       "ai": {
-        "risk": "Düşük",
-        "comment": "IPB fonu değişken bir yatırım portföyüne sahiptir, bu nedenle düşük riskli bir seçenek olabilir."
+        "risk": "Orta",
+        "comment": "IPB fonu değişken bir yatırım stratejisi izler, bu nedenle orta düzeyde risk içerir."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 25.37,
       "return_1y": 44.07,
       "ai": {
-        "risk": "Orta",
-        "comment": "AFA fonu Amerika'da faaliyet gösteren şirketlere odaklanır, bu nedenle orta düzeyde risk taşır ve getiri potansiyeli vardır."
+        "risk": "Yüksek",
+        "comment": "AFA fonu Amerika'da faaliyet gösteren şirketlere yatırım yapar, bu nedenle küresel ekonomi koşullarına bağlı olarak riski yüksektir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.31,
       "ai": {
         "risk": "Düşük",
-        "comment": "YAC fonu düşük riskli bir seçenek olabilir, ancak getiri potansiyeli diğer fonlara göre daha düşük olabilir."
+        "comment": "YAC fonu daha düşük riskli bir yatırım stratejisi izler, ancak getiri oranları da daha düşük olabilir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 45.16,
       "ai": {
         "risk": "Yüksek",
-        "comment": "AFT fonu yeni teknolojilere odaklanır, bu nedenle yüksek riskli bir seçenek olabilir, ancak yüksek getiri potansiyeli de vardır."
+        "comment": "AFT fonu yeni teknolojilere odaklanır, bu nedenle yüksek risk içerir ancak yüksek getiri potansiyeli de sunar."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 23.93,
       "ai": {
         "risk": "Yüksek",
-        "comment": "DAH fonu hisse senedi yatırımlarına odaklanır, bu nedenle yüksek riskli bir seçenek olabilir, ancak getiri potansiyeli vardır."
+        "comment": "DAH fonu hisse senedi yatırımlarına odaklanır, bu nedenle piyasa dalgalanmaları nedeniyle riski yüksektir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 57.36,
       "ai": {
         "risk": "Yüksek",
-        "comment": "IPJ fonu elektrikli araçlara odaklanır, bu nedenle yüksek riskli bir seçenek olabilir, ancak yüksek getiri potansiyeli de vardır."
+        "comment": "IPJ fonu elektrikli araçlara odaklanır, bu nedenle sektörel riskler nedeniyle yüksek risk içerir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 38.09,
       "ai": {
         "risk": "Orta",
-        "comment": "TCD fonu değişken bir yatırım portföyüne sahiptir, bu nedenle orta düzeyde risk taşır ve getiri potansiyeli vardır."
+        "comment": "TCD fonu değişken bir yatırım stratejisi izler, bu nedenle orta düzeyde risk içerir ve dengeli bir portföy oluşturur."
       }
     },
     {

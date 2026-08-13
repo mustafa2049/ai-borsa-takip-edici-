@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-13T14:40:25+03:00",
+  "updated_at": "2026-08-13T15:49:08+03:00",
   "news": [
     {
-      "title": "Tapestry hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tapestry-hissesi-bugun-neden-dusuyor-93CH-4028719",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:24:03",
+      "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+      "summary": "Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
+      "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T12:43:17",
       "ai": {
-        "impact": "Tapestry hissesinin düşmesi, şirketin mali performansına ilişkin endişeleri artırabilir ve benzer sektördeki diğer hisseleri olumsuz etkileyebilir.",
+        "impact": "Trump bağlantılı petrol girişiminin Grönland'da planlanan petrol arama faaliyetlerini ertelemesi, küresel enerji piyasalarında dalgalanmalara neden olabilir. Bu durum, enerji fiyatlarını etkileyerek Türkiye'de de ekonomi üzerinde olumsuz bir etkiye sahip olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Compass Point, güçlü 2Ç sonuçları sonrası WhiteFiber hisse notunu korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/compass-point-guclu-2c-sonuclar-sonras-whitefiber-hisse-notunu-korudu-93CH-4028717",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:14",
-      "ai": {
-        "impact": "Compass Point'ın WhiteFiber hisse notunu koruması, şirketin güçlü mali performansını teyit edebilir ve yatırımcı güvenini artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Rosenblatt, güçlü yapay zeka talebi üzerine Cisco hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-guclu-yapay-zeka-talebi-uzerine-cisco-hisse-hedefini-yukseltti-93CH-4028715",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:07",
-      "ai": {
-        "impact": "Rosenblatt'ın Cisco hisse hedefini yükseltmesi, şirketin yapay zeka alanındaki güçlü talebini yansıtabilir ve teknoloji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Needham, veri merkezi büyümesiyle Coherent hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-veri-merkezi-buyumesiyle-coherent-hisse-hedefini-yukseltti-93CH-4028716",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:07",
-      "ai": {
-        "impact": "Needham'ın Coherent hisse hedefini yükseltmesi, şirketin veri merkezi büyümesiyle ilgili güçlü beklentilerini yansıtabilir ve teknoloji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Ladenburg, One Gas hissesi için tavsiyeyi al’a yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ladenburg-one-gas-hissesi-icin-tavsiyeyi-ala-yukseltti-93CH-4028713",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:06",
-      "ai": {
-        "impact": "Ladenburg'un One Gas hissesi için tavsiyesini yükseltmesi, şirketin mali performansına ilişkin olumlu beklentileri artırabilir ve enerji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Needham, güçlü veri merkezi büyümesi ile Coherent hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-guclu-veri-merkezi-buyumesi-ile-coherent-hisse-hedefini-yukseltti-93CH-4028714",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:06",
-      "ai": {
-        "impact": "Needham'ın Coherent hisse hedefini yükseltmesi, şirketin veri merkezi büyümesiyle ilgili güçlü beklentilerini yansıtabilir ve teknoloji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Needham, Cerebras hissesi için Al tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-cerebras-hissesi-icin-al-tavsiyesini-yineledi-93CH-4028712",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:22:03",
-      "ai": {
-        "impact": "Needham'ın Cerebras hissesi için Al tavsiyesini yinelemesi, şirketin güçlü mali performansına ilişkin olumlu beklentileri artırabilir ve teknoloji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Ladenburg, Portland General Electric hissesi için tavsiyesini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ladenburg-portland-general-electric-hissesi-icin-tavsiyesini-yukseltti-93CH-4028711",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:21:44",
-      "ai": {
-        "impact": "Ladenburg'un Portland General Electric hissesi için tavsiyesini yükseltmesi, şirketin mali performansına ilişkin olumlu beklentileri artırabilir ve enerji sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Mobix Labs kritik mineraller platformu SPD’yi satın alacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/mobix-labs-kritik-mineraller-platformu-spdyi-satn-alacak-93CH-4028710",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:21:40"
-    },
-    {
-      "title": "Caliber, pickleball tesisi için tokenize gayrimenkul arzı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/caliber-pickleball-tesisi-icin-tokenize-gayrimenkul-arz-baslatt-93CH-4028709",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T11:21:38"
-    },
-    {
-      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
-      "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T11:10:52"
+      "published": "2026-08-13T12:42:10",
+      "ai": {
+        "impact": "İran savaşının G7'nin en hızlı büyüyen ekonomisi olan İngiltere'yi olumsuz etkilemesi bekleniyor. Bu durum, küresel ekonomide durgunluğa neden olabilir ve Türkiye'de de ekonomik büyümeyi olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Rus tankerleri Boğaz’dan böyle geçiyor: Denizde ‘Mad Max’ dönemi",
-      "summary": "Ukrayna’nın Karadeniz’deki yoğun drone saldırıları, Rusya bağlantılı petrol tankerlerinde alışılmadık savunma yöntemlerini ortaya çıkardı. İstanbul Boğazı’ndan geçen Caruzo’nun ağ, metal kafes ve su tanklarıyla kaplanması dikkat çekti.",
-      "url": "https://www.dunya.com/gundem/rus-tankerleri-bogazdan-boyle-geciyor-denizde-mad-max-donemi-haberi-836065",
+      "title": "Sırbistan Merkez Bankası faiz oranını yüzde 5,75’te tuttu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/srbistan-merkez-bankas-faiz-orann-yuzde-575te-tuttu-93CH-4029034",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:40:06",
+      "ai": {
+        "impact": "Sırbistan Merkez Bankası'nın faiz oranını sabit tutması, Sırbistan ekonomisi üzerinde olumlu bir etkiye sahip olabilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Drone Nerds, otonom yerleştirme için DBOX ile ortaklık kurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/drone-nerds-otonom-yerlestirme-icin-dbox-ile-ortaklk-kurdu-93CH-4029032",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:25",
+      "ai": {
+        "impact": "Drone Nerds ve DBOX arasındaki ortaklığın, teknoloji sektöründe inovasyona ve büyümeye katkıda bulunabileceği öngörülüyor. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Cingulate 2Ç’de zarar açıkladı, DEHB ilacı için FDA’ya yeniden başvuru planlıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cingulate-2cde-zarar-acklad-dehb-ilac-icin-fdaya-yeniden-basvuru-planlyor-93CH-4029031",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:14",
+      "ai": {
+        "impact": "Cingulate'in zarar açıklaması, şirketin mali performansını olumsuz etkileyebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Sonida Senior Living, Ally Bank ile 380 milyon dolarlık kredi anlaşması imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/sonida-senior-living-ally-bank-ile-380-milyon-dolarlk-kredi-anlasmas-imzalad-93CH-4029029",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:06",
+      "ai": {
+        "impact": "Sonida Senior Living'in Ally Bank ile kredi anlaşması, şirketin finansal durumunu güçlendirebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Duos Edge AI, Teksas ve Georgia için bağlayıcı olmayan anlaşma imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/duos-edge-ai-teksas-ve-georgia-icin-baglayc-olmayan-anlasma-imzalad-93CH-4029030",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:06",
+      "ai": {
+        "impact": "Duos Edge AI'nin Teksas ve Georgia için bağlayıcı olmayan anlaşma imzalaması, şirketin büyümesine katkıda bulunabilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Brenmiller Energy, BrenX olarak yeniden markalaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/brenmiller-energy-brenx-olarak-yeniden-markalast-93CH-4029027",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:01",
+      "ai": {
+        "impact": "Brenmiller Energy'nin marka değişikliği, şirketin imajını güçlendirebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Satellogic, uzay sistemleri başkan yardımcısı olarak Jamil Kawar’ı işe aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/satellogic-uzay-sistemleri-baskan-yardmcs-olarak-jamil-kawar-ise-ald-93CH-4029028",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:38:01"
+    },
+    {
+      "title": "Bed Bath & Beyond, Jill Windrum’u baş muhasebe müdürü atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/bed-bath--beyond-jill-windrumu-bas-muhasebe-muduru-atad-93CH-4029026",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:37:58"
+    },
+    {
+      "title": "CitroTech, Global Fireproof Solutions ile ortaklık kurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/citrotech-global-fireproof-solutions-ile-ortaklk-kurdu-93CH-4029025",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:37:49"
+    },
+    {
+      "title": "Lamar Advertising, UPREIT anlaşmasıyla AdSource’u satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lamar-advertising-upreit-anlasmasyla-adsourceu-satn-ald-93CH-4029023",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T12:37:47"
+    },
+    {
+      "title": "RTÜK'ten 4 dijital platforma müstehcenlik ve LGBT cezası",
+      "summary": "Radyo ve Televizyon Üst Kurulu (RTÜK), dijital yayın platformlarına yönelik incelemelerinin ardından HBO Max, Prime Video, Netflix ve Disney+ hakkında yaptırım kararı aldı. Dört platformdaki belirli yapımlar için katalogdan çıkarma kararı verilirken, platformlara yüzde 3 ile yüzde 5 arasında idari para cezaları uygulandı.",
+      "url": "https://www.dunya.com/gundem/rtukten-4-dijital-platforma-mustehcenlik-ve-lgbt-cezasi-haberi-836079",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T11:09:00"
+      "published": "2026-08-13T12:35:00"
     },
     {
-      "title": "NBA tarihine geçecek satış: Lakers için anlaşma sağlandı",
-      "summary": "NBA’in en değerli kulüplerinden Los Angeles Lakers’ta tarihi bir satış için anlaşmaya varıldı. Josh Kushner ve eski Disney CEO’su Bob Iger’ın 12,5 milyar dolarlık satın alma işlemi tamamlanırsa ABD profesyonel spor tarihinin en pahalı kulüp satışı gerçekleşecek.",
-      "url": "https://www.dunya.com/spor/nba-tarihine-gececek-satis-lakers-icin-anlasma-saglandi-haberi-836064",
+      "title": "ABD'de üretici enflasyonu yıllık bazda yüzde 4,7 arttı",
+      "summary": "ABD&#039;de Üretici Fiyat Endeksi (ÜFE), temmuzda aylık bazda değişim göstermezken, yıllık bazda yüzde 4,7 artarak beklentilerin altında gerçekleşti",
+      "url": "https://www.dunya.com/ekonomi/abdde-uretici-enflasyonu-yillik-bazda-yuzde-47-artti-haberi-836078",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T11:03:00"
+      "published": "2026-08-13T12:33:00"
     },
     {
-      "title": "LİSE NAKİL: 2026 LGS 2. nakil sonuçları ne zaman açıklanacak?",
-      "summary": "Lise nakil sonuçları için heyecanlı bekleyiş... LGS 2. nakil başvuruları sona ererken gözler sonuçlarda... Lise adayları MEB&#039;in geçtiği tarihi ve saati öğrenmek istiyor. İşte &quot;LGS 2. nakil sonuçları ne zaman açıklanacak&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/gundem/lise-nakil-2026-lgs-2-nakil-sonuclari-ne-zaman-aciklanacak-haberi-836063",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T11:02:00"
-    },
-    {
-      "title": "New CNBC Generation Lab poll shows almost half of 18 to 34 year-olds favor Democratic Socialism",
-      "summary": "New CNBC Generation Lab poll shows almost half of 18 to 34 year-olds favor Democratic Socialism and see the U.S. economy very negatively",
-      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-shows-half-of-18-to-34-year-olds-view-socialism-positively.html",
+      "title": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T11:00:01"
+      "published": "2026-08-13T12:31:22"
     },
     {
-      "title": "İspanya Süper Kupası İstanbul'da düzenlenecek",
-      "summary": "İstanbul, 2027 yılının ilk büyük futbol organizasyonlarından birine ev sahipliği yapmaya hazırlanıyor. İspanya Süper Kupası’nın 2-7 Şubat 2027 tarihleri arasında Atatürk Olimpiyat Stadı’nda düzenleneceği belirtildi. Barcelona ve Real Madrid’in yanı sıra Atletico Madrid ile Real Sociedad da kupa için İstanbul’da sahaya çıkacak.",
-      "url": "https://www.dunya.com/spor/ispanya-super-kupasi-istanbulda-duzenlenecek-haberi-836062",
+      "title": "Emekli profesörün dairesinden gelen koku isyan ettirdi",
+      "summary": "Kütahya’da bir apartmandan yayılan kötü koku üzerine yapılan ihbar, iki dairede yıllardır biriktirilen çöp ve eşyaları ortaya çıkardı. Yalnız yaşayan 72 yaşındaki emekli kadın profesöre ait dairelerde ekiplerin içeri girmekte dahi zorlandığı belirtilirken, temizlik çalışmalarının günlerce sürmesi bekleniyor.",
+      "url": "https://www.dunya.com/foto-galeri/aktuel/emekli-profesorun-dairesinden-gelen-koku-isyan-ettirdi-galeri-836077",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T10:58:00"
+      "published": "2026-08-13T12:31:00"
     },
     {
-      "title": "Bakan Bolat: Cari açığın milli gelire oranı tarihsel ortalamanın altında",
-      "summary": "Ticaret Bakanı Ömer Bolat, mal ve hizmet ihracatındaki dayanıklı görünümün desteğiyle, cari işlemler açığının milli gelire oranının tarihsel ortalamanın altında kalmayı sürdüreceğinin değerlendirildiğini bildirdi.",
-      "url": "https://www.dunya.com/ekonomi/bakan-bolat-cari-acigin-milli-gelire-orani-tarihsel-ortalamanin-altinda-haberi-836060",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T10:49:00"
+      "title": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
+      "summary": "It's the second time in just over a week that polls and prediction markets' odds were off, following a miss in the Democratic U.S. senate primary in Michigan.",
+      "url": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T12:30:01"
     },
     {
-      "title": "İran’da hayat takside bağlandı: Gıda enflasyonu yüzde 130’a dayandı",
-      "summary": "İran’da yıllık enflasyon yüzde 80’in üzerinde seyrederken gıda fiyatlarındaki artış temmuzda yüzde 130’a yaklaştı. Alım gücü eriyen ülkede buzdolabından market alışverişine kadar temel ihtiyaçlarda taksitli ödeme hızla yayılıyor.",
-      "url": "https://www.dunya.com/gundem/iranda-hayat-takside-baglandi-gida-enflasyonu-yuzde-130a-dayandi-haberi-836061",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T10:47:00"
+      "title": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
+      "summary": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
+      "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T12:27:31"
     },
     {
-      "title": "Fethiye'de can pazarı: Gezi teknesi alev aldı, 115 kişi denize atladı",
-      "summary": "Muğla&#039;nın Fethiye ilçesi açıklarında 115 kişinin bulunduğu gezi teknesinde yangın çıktı. Alevlerin tekneyi sarması üzerine aralarında çocukların da bulunduğu yolcular can yelekleriyle denize atlarken, Sahil Güvenlik ve çevredeki tekneler tahliye çalışmalarına katıldı. Olayda can kaybı yaşanmadı.",
-      "url": "https://www.dunya.com/video-galeri/gundem/fethiyede-can-pazari-gezi-teknesi-alev-aldi-115-kisi-denize-atladi-video-836058",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T10:27:00"
+      "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
+      "summary": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
+      "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T12:15:02"
     },
     {
-      "title": "Dev şirketlerin vergi karnesi açıklandı: İşte vergi rekortmeni kurumlar",
-      "summary": "Türkiye&#039;nin 2025 yılı kurumlar vergisi rekortmenleri belli oldu. 1,6 trilyon lirayı aşan toplam vergi tahakkukunda bankalar listeye damga vururken, zirvedeki kurum tek başına 70,4 milyar liralık vergiyle açık ara öne çıktı. İlk 20&#039;deki bazı kurumlar ise isimlerinin açıklamasını istemedi.",
-      "url": "https://www.dunya.com/ekonomi/dev-sirketlerin-vergi-karnesi-aciklandi-iste-vergi-rekortmeni-kurumlar-haberi-836059",
+      "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
+      "summary": "Bankacılık sektöründe toplam mevduat 7 Ağustos haftasında 415,8 milyar liralık artışla 32,8 trilyon liraya yükseldi. Haftalık verilerde TL mevduat gerilerken yabancı para mevduatındaki yüzde 3,59&#039;luk artış dikkat çekti. Yurt içi yerleşiklerin döviz mevduatı parite etkisinden arındırıldığında 1,77 milyar dolar arttı.",
+      "url": "https://www.dunya.com/ekonomi/bankacilik-sektorunun-mevduati-gecen-hafta-artti-haberi-836076",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T10:27:00"
+      "published": "2026-08-13T12:13:00"
     }
   ]
 }
