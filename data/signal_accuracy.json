@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T18:29:05+03:00",
+  "updated_at": "2026-08-13T19:24:59+03:00",
   "eval_days": 7,
   "overall": {
     "evaluated": 125,
@@ -29,62 +29,17 @@
     }
   },
   "by_symbol": {
-    "KCHOL": {
+    "EKGYO": {
       "evaluated": 9,
-      "correct": 1,
-      "accuracy_pct": 11.1
-    },
-    "THYAO": {
-      "evaluated": 9,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "SISE": {
-      "evaluated": 8,
-      "correct": 1,
-      "accuracy_pct": 12.5
+      "correct": 2,
+      "accuracy_pct": 22.2
     },
     "ISCTR": {
       "evaluated": 4,
       "correct": 3,
       "accuracy_pct": 75.0
     },
-    "PGSUS": {
-      "evaluated": 4,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "GARAN": {
-      "evaluated": 9,
-      "correct": 6,
-      "accuracy_pct": 66.7
-    },
-    "TUPRS": {
-      "evaluated": 9,
-      "correct": 9,
-      "accuracy_pct": 100.0
-    },
-    "PETKM": {
-      "evaluated": 1,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "AKBNK": {
-      "evaluated": 9,
-      "correct": 9,
-      "accuracy_pct": 100.0
-    },
-    "EKGYO": {
-      "evaluated": 9,
-      "correct": 2,
-      "accuracy_pct": 22.2
-    },
-    "FROTO": {
-      "evaluated": 9,
-      "correct": 3,
-      "accuracy_pct": 33.3
-    },
-    "ASELS": {
+    "THYAO": {
       "evaluated": 9,
       "correct": 0,
       "accuracy_pct": 0.0
@@ -94,20 +49,65 @@
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "ASTOR": {
+    "GARAN": {
       "evaluated": 9,
-      "correct": 0,
-      "accuracy_pct": 0.0
+      "correct": 6,
+      "accuracy_pct": 66.7
     },
     "TOASO": {
       "evaluated": 9,
       "correct": 5,
       "accuracy_pct": 55.6
     },
+    "PGSUS": {
+      "evaluated": 4,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "KCHOL": {
+      "evaluated": 9,
+      "correct": 1,
+      "accuracy_pct": 11.1
+    },
+    "AKBNK": {
+      "evaluated": 9,
+      "correct": 9,
+      "accuracy_pct": 100.0
+    },
     "YKBNK": {
       "evaluated": 9,
       "correct": 9,
       "accuracy_pct": 100.0
+    },
+    "ASELS": {
+      "evaluated": 9,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "TUPRS": {
+      "evaluated": 9,
+      "correct": 9,
+      "accuracy_pct": 100.0
+    },
+    "ASTOR": {
+      "evaluated": 9,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "PETKM": {
+      "evaluated": 1,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "FROTO": {
+      "evaluated": 9,
+      "correct": 3,
+      "accuracy_pct": 33.3
+    },
+    "SISE": {
+      "evaluated": 8,
+      "correct": 1,
+      "accuracy_pct": 12.5
     }
   },
   "recent": [

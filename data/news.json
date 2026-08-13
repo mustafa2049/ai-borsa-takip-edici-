@@ -1,82 +1,117 @@
 {
-  "updated_at": "2026-08-13T18:29:05+03:00",
+  "updated_at": "2026-08-13T19:24:59+03:00",
   "news": [
+    {
+      "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T16:24:20"
+    },
+    {
+      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+      "summary": "Databricks is benefitting off of the agentic AI wave.",
+      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T16:20:22"
+    },
+    {
+      "title": "Smart Güneş (SMRTG) zarardan kâra geçti",
+      "summary": "Smart Güneş bilanço sonuçlarında dikkat çeken değişim net kârda yaşandı. Şirketin 2026 ilk yarısında ana ortaklık net kârı 108,9 milyon TL olurken geçen yıl aynı dönemde 627,7 milyon TL zarar vardı. Satışlar ise yüzde 21,9 arttı.",
+      "url": "https://www.dunya.com/finans/haberler/smart-gunes-smrtg-zarardan-kara-gecti-haberi-836122",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T16:14:00"
+    },
     {
       "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
       "summary": "Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
       "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T15:29:22"
+      "published": "2026-08-13T16:06:38"
     },
     {
-      "title": "Cabaletta Bio hissesi deneme ilerlemesi sonrası TD Cowen’da Al",
+      "title": "FingerMotion, Lyken AI Computing’de yüzde 9,9 hisse alacak",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cabaletta-bio-hissesi-deneme-ilerlemesi-sonras-td-cowenda-al-93CH-4029478",
+      "url": "https://tr.investing.com/news/company-news/fingermotion-lyken-ai-computingde-yuzde-99-hisse-alacak-93CH-4029514",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T15:24:22"
+      "published": "2026-08-13T16:01:35"
     },
     {
-      "title": "Stifel, Coherent hissesi için tavsiyesini güçlü kazançla korudu",
+      "title": "Needham, Lucid Diagnostics hissesi için Al tavsiyesini yineledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-coherent-hissesi-icin-tavsiyesini-guclu-kazancla-korudu-93CH-4029477",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-lucid-diagnostics-hissesi-icin-al-tavsiyesini-yineledi-93CH-4029511",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T15:24:16"
+      "published": "2026-08-13T15:59:58"
     },
     {
-      "title": "Stifel, Spire Global için hedef fiyatı korudu",
+      "title": "Euronext buğdayı ateşkes haberiyle iki haftalık zirveden geri çekildi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-spire-global-icin-hedef-fiyat-korudu-93CH-4029476",
+      "url": "https://tr.investing.com/news/commodities-news/euronext-bugday-ateskes-haberiyle-iki-haftalk-zirveden-geri-cekildi-93CH-4029510",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T15:23:58"
+      "published": "2026-08-13T15:57:52"
     },
     {
-      "title": "SanDisk 2026 yatırımcı gününde uzun vadeli büyüme stratejisini açıkladı; hisseler %12 yükseldi",
+      "title": "Ondas hisseleri düşerken 2. çeyrek geliri beklentiyi aştı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sandisk-2026-yatrmc-gununde-uzun-vadeli-buyume-stratejisini-acklad-hisseler-12-yukseldi-4029475",
+      "url": "https://tr.investing.com/news/transcripts/ondas-hisseleri-duserken-2-ceyrek-geliri-beklentiyi-ast-93CH-4029509",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T15:20:43"
+      "published": "2026-08-13T15:57:14"
     },
     {
-      "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-      "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
-      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "title": "Robinhood perakende yatırımcılar için ikinci girişim fonunu başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/robinhood-perakende-yatrmclar-icin-ikinci-girisim-fonunu-baslatt-93CH-4029508",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:57:01"
+    },
+    {
+      "title": "Euro bölgesi tahvil faizleri ABD enflasyon verileriyle geriledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/euro-bolgesi-tahvil-faizleri-abd-enflasyon-verileriyle-geriledi-93CH-4029507",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:54:57"
+    },
+    {
+      "title": "Peru merkez bankası faiz artırımına gerek görmüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/peru-merkez-bankas-faiz-artrmna-gerek-gormuyor-93CH-4029506",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:54:43"
+    },
+    {
+      "title": "Westwater Resources 2Ç’de beklentiden düşük zarar açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/westwater-resources-2cde-beklentiden-dusuk-zarar-acklad-93CH-4029505",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:54:40"
+    },
+    {
+      "title": "Ondas hisseleri düşerken 2Ç 2026’da gelir beklentiyi aştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/ondas-hisseleri-duserken-2c-2026da-gelir-beklentiyi-ast-93CH-4029504",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:54:26"
+    },
+    {
+      "title": "Roku hissesi 153,56 dolarla 52 haftalık zirveye ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/roku-hissesi-15356-dolarla-52-haftalk-zirveye-ulast-93CH-4029503",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:52:27"
+    },
+    {
+      "title": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+      "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T15:19:31"
+      "published": "2026-08-13T15:31:20"
     },
     {
-      "title": "Stifel, Viking Holdings’in hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-viking-holdingsin-hisse-hedefini-yukseltti-93CH-4029473",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:18:07"
-    },
-    {
-      "title": "Embecta yöneticisi Robert Hombach 223,8 bin dolarlık hisse aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/embecta-yoneticisi-robert-hombach-2238-bin-dolarlk-hisse-ald-93CH-4029472",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:17:28"
-    },
-    {
-      "title": "Old Second Bancorp CEO’su 494.700 dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/old-second-bancorp-ceosu-494700-dolarlk-hisse-satt-93CH-4029471",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:17:10"
-    },
-    {
-      "title": "Associated Banc-Corp İcra Kurulu Başkan Yardımcısı 1,4 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/associated-banccorp-icra-kurulu-baskan-yardmcs-14-milyon-dolarlk-hisse-satt-93CH-4029470",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:17:09"
-    },
-    {
-      "title": "Embecta yöneticisi Jeffrey Mann 99.800 dolarlık hisse satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/embecta-yoneticisi-jeffrey-mann-99800-dolarlk-hisse-satn-ald-93CH-4029469",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:16:58"
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,16 değer kazanarak 14.132,23 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-836114",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T15:29:00"
     },
     {
       "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
@@ -86,32 +121,11 @@
       "published": "2026-08-13T15:16:00"
     },
     {
-      "title": "[Son Dakika] Emlak Varlık, TMO için 10 milyar TL sukuk ihracı kararı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/son-dakika-emlak-varlk-tmo-icin-10-milyar-tl-sukuk-ihrac-karar-93CH-4029468",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T15:15:57"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan, DEM Parti heyetini kabul etti",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, DEM Parti heyetini Cumhurbaşkanlığı Külliyesi&#039;nde kabul etti. Görüşmede Türkiye&#039;nin gündemindeki siyasi gelişmeler ve Terörsüz Türkiye sürecine ilişkin değerlendirmelerde bulunuldu.",
       "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-dem-parti-heyetini-kabul-etti-haberi-836109",
       "source": "Dünya Gazetesi",
       "published": "2026-08-13T15:06:00"
-    },
-    {
-      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-      "summary": "Databricks is benefitting off of the agentic AI wave.",
-      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T15:02:23"
-    },
-    {
-      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
-      "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
-      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T14:54:30"
     },
     {
       "title": "Gürlek'ten Alihan Kuriş operasyonu açıklaması: Yakalanamayanlar var",
@@ -126,20 +140,6 @@
       "url": "https://www.dunya.com/yasam/s-sport-ucretli-mi-s-sport-plus-sifresiz-mi-s-sport-uyduda-var-mi-kacinci-kanalda-haberi-836104",
       "source": "Dünya Gazetesi",
       "published": "2026-08-13T14:30:00"
-    },
-    {
-      "title": "New York borsası yükselişle açıldı",
-      "summary": "New York borsası, ABD&#039;de üretici enflasyonunun temmuzda beklentilerin altında gerçekleşmesinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi yüzde 0,11 artarak 53.828,55 puana çıktı.",
-      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-yukselisle-acildi-haberi-836103",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T14:25:00"
-    },
-    {
-      "title": "Bakan Ersoy: Trabzon’un turizm potansiyelini daha etkin değerlendireceğiz",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Turizm İşletmecileri ve Seyahat Acenteleri Derneği (TİSAD) Yönetim Kurulu Başkanı Murat Çavga ve beraberindeki heyetle Bakanlıkta bir araya geldi. Görüşmede Trabzon’un tanıtımı, turizm altyapısının geliştirilmesi, destinasyon çeşitliliğinin artırılması ve turizm hareketliliğinin yılın tamamına yayılması ele alındı.",
-      "url": "https://www.dunya.com/sektorler/turizm/bakan-ersoy-trabzonun-turizm-potansiyelini-daha-etkin-degerlendirecegiz-haberi-836102",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T14:21:00"
     }
   ]
 }
