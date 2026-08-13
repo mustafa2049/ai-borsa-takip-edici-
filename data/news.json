@@ -1,177 +1,145 @@
 {
-  "updated_at": "2026-08-13T17:16:55+03:00",
+  "updated_at": "2026-08-13T18:29:05+03:00",
   "news": [
+    {
+      "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+      "summary": "Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
+      "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T15:29:22"
+    },
+    {
+      "title": "Cabaletta Bio hissesi deneme ilerlemesi sonrası TD Cowen’da Al",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cabaletta-bio-hissesi-deneme-ilerlemesi-sonras-td-cowenda-al-93CH-4029478",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:24:22"
+    },
+    {
+      "title": "Stifel, Coherent hissesi için tavsiyesini güçlü kazançla korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-coherent-hissesi-icin-tavsiyesini-guclu-kazancla-korudu-93CH-4029477",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:24:16"
+    },
+    {
+      "title": "Stifel, Spire Global için hedef fiyatı korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-spire-global-icin-hedef-fiyat-korudu-93CH-4029476",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:23:58"
+    },
+    {
+      "title": "SanDisk 2026 yatırımcı gününde uzun vadeli büyüme stratejisini açıkladı; hisseler %12 yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sandisk-2026-yatrmc-gununde-uzun-vadeli-buyume-stratejisini-acklad-hisseler-12-yukseldi-4029475",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:20:43"
+    },
+    {
+      "title": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+      "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
+      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T15:19:31"
+    },
+    {
+      "title": "Stifel, Viking Holdings’in hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-viking-holdingsin-hisse-hedefini-yukseltti-93CH-4029473",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:18:07"
+    },
+    {
+      "title": "Embecta yöneticisi Robert Hombach 223,8 bin dolarlık hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/embecta-yoneticisi-robert-hombach-2238-bin-dolarlk-hisse-ald-93CH-4029472",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:17:28"
+    },
+    {
+      "title": "Old Second Bancorp CEO’su 494.700 dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/old-second-bancorp-ceosu-494700-dolarlk-hisse-satt-93CH-4029471",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:17:10"
+    },
+    {
+      "title": "Associated Banc-Corp İcra Kurulu Başkan Yardımcısı 1,4 milyon dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/associated-banccorp-icra-kurulu-baskan-yardmcs-14-milyon-dolarlk-hisse-satt-93CH-4029470",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:17:09"
+    },
+    {
+      "title": "Embecta yöneticisi Jeffrey Mann 99.800 dolarlık hisse satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/embecta-yoneticisi-jeffrey-mann-99800-dolarlk-hisse-satn-ald-93CH-4029469",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:16:58"
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T15:16:00"
+    },
+    {
+      "title": "[Son Dakika] Emlak Varlık, TMO için 10 milyar TL sukuk ihracı kararı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/son-dakika-emlak-varlk-tmo-icin-10-milyar-tl-sukuk-ihrac-karar-93CH-4029468",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T15:15:57"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, DEM Parti heyetini kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, DEM Parti heyetini Cumhurbaşkanlığı Külliyesi&#039;nde kabul etti. Görüşmede Türkiye&#039;nin gündemindeki siyasi gelişmeler ve Terörsüz Türkiye sürecine ilişkin değerlendirmelerde bulunuldu.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-dem-parti-heyetini-kabul-etti-haberi-836109",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T15:06:00"
+    },
     {
       "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
       "summary": "Databricks is benefitting off of the agentic AI wave.",
       "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T14:15:04",
-      "ai": {
-        "impact": "Databricks'in 190 milyar dolarlık değerleme ile 5 milyar dolarlık fon toplaması teknoloji sektörüne ve yapay zeka yatırımlarına olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-13T15:02:23"
     },
     {
-      "title": "Ross Stores hisseleri 20 Ağustos’taki raporda %6,5 oynayabilir",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ross-stores-hisseleri-20-agustostaki-raporda-65-oynayabilir-93CH-4029332",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:09:19",
-      "ai": {
-        "impact": "Ross Stores hisselerinin %6,5 oynama ihtimali hisse senedi piyasalarında dalgalanmalara neden olabilir.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-      "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
-      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
+      "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+      "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T14:08:19",
-      "ai": {
-        "impact": "Monterey Car Week'teki rekor düzeydeki araba satışları lüks tüketim malları sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-13T14:54:30"
     },
     {
-      "title": "Robinhood kapalı uçlu fonları daha hızlı piyasaya sürecek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/robinhood-kapal-uclu-fonlar-daha-hzl-piyasaya-surecek-93CH-4029328",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:07:32",
-      "ai": {
-        "impact": "Robinhood'un kapalı uçlu fonlarını daha hızlı piyasaya sürmesi finansal hizmetler sektöründe rekabeti artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Customers Bancorp hissesi 84,05 dolarda rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/customers-bancorp-hissesi-8405-dolarda-rekor-krd-93CH-4029327",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:07:05",
-      "ai": {
-        "impact": "Customers Bancorp hissesinin rekor seviyeye ulaşması bankacılık sektörüne güveni artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "DGS tercihleri başladı mı, ne zaman başlıyor? Bu tarihe dikkat",
-      "summary": "2026 DGS sonuçları ilan edildi. ÖSYM saat 16.00&#039;da sonuçları erişime açtı. Şimdi gündemdeki konu tercihlerin başlangıç tarihi... Sıkça gelen soru &quot;DGS tercihleri başladı mı, ne zaman başlıyor&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/dgs-tercihleri-basladi-mi-ne-zaman-basliyor-bu-tarihe-dikkat-haberi-836097",
+      "title": "Gürlek'ten Alihan Kuriş operasyonu açıklaması: Yakalanamayanlar var",
+      "summary": "Adalet Bakanı Akın Gürlek, Alihan Kuriş ve 48 kişi hakkında gözaltı kararı verildiğini belirterek operasyonun dini bir görüş, cemaat veya sivil toplum kuruluşuna değil, mali yapılanmaya yönelik olduğunu söyledi. Gürlek, operasyon kapsamında henüz yakalanamayan kişilerin bulunduğunu açıkladı.",
+      "url": "https://www.dunya.com/gundem/gurlekten-alihan-kuris-operasyonu-aciklamasi-yakalanamayanlar-var-haberi-836107",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T14:07:00",
-      "ai": {
-        "impact": "DGS tercihlerinin başlaması eğitim sektöründe hareketliliğe neden olabilir ancak genel piyasalara etkisi sınırlı olacaktır.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-13T14:51:00"
     },
     {
-      "title": "Stifel, Wolverine World Wide hissesi için 25 dolarlık Al tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-wolverine-world-wide-hissesi-icin-25-dolarlk-al-tavsiyesini-korudu-93CH-4029326",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:06:24",
-      "ai": {
-        "impact": "Stifel'in Wolverine World Wide hissesi için 25 dolarlık \"Al\" tavsiyesi hisse senedi piyasalarında belirli bir hisseye yönelik ilgiyi artırabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Otosor, 14 milyar TL’ye kadar VDMK ihracına karar verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/otosor-14-milyar-tlye-kadar-vdmk-ihracna-karar-verdi-93CH-4029324",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:05:58",
-      "ai": {
-        "impact": "Otosor'un 14 milyar TL'ye kadar VDMK ihracına karar vermesi şirketin büyümesine ve otomotiv sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Chubb, hisse başına 1,02 dolar temettü dağıtacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/chubb-hisse-basna-102-dolar-temettu-dagtacak-93CH-4029323",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:05:25"
-    },
-    {
-      "title": "Adams Diversified Equity hissesi 26,49 dolarda zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/adams-diversified-equity-hissesi-2649-dolarda-zirve-yapt-93CH-4029322",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:05:09"
-    },
-    {
-      "title": "Tarkim, %100 iştiraki Cropsafe’i 2026 3. çeyrekte konsolidasyona alacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/tarkim-100-istiraki-cropsafei-2026-3-ceyrekte-konsolidasyona-alacak-93CH-4029317",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:03:32"
-    },
-    {
-      "title": "Arjantin Vaca Muerta kaya petrolü tahminini iki katına çıkardı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/arjantin-vaca-muerta-kaya-petrolu-tahminini-iki-katna-ckard-93CH-4029316",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:03:21"
-    },
-    {
-      "title": "Portillo’s hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/portillos-hissesi-bugun-neden-yukseliyor-93CH-4029314",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T14:03:02"
-    },
-    {
-      "title": "Kademeli emeklilik çıkıyor mu, bu sene gelecek mi? Yasa ne zaman çıkacak?",
-      "summary": "Kademeli emeklilik bekleyenler hükümetin bir çalışma yapıp yapmadığını öğrenmeye çalışıyor. Hak kaybına uğradığını savunanlar bir adım atılmasını isterken her gün konu hakkında bilgi alınmaya çalışılıyor. Sıkça gelen soru &quot;Kademeli emeklilik çıkıyor mu, bu sene gelecek mi&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/kademeli-emeklilik-cikiyor-mu-bu-sene-gelecek-mi-yasa-ne-zaman-cikacak-haberi-836089",
+      "title": "S Sport ücretli mi, S Sport Plus şifresiz mi? S Sport uyduda var mı, kaçıncı kanalda?",
+      "summary": "Beşiktaş bu akşam yine bir kritik sınava çıkıyor. Kara Kartal&#039;ın Hradec Kralove ile oynayacağı mücadeleyi S Sport yayınlayacak. Şimdi özellikle Beşiktaş taraftarı &quot;S Sport ücretli mi, S Sport Plus şifresiz mi&quot; sorusuna cevap arıyor.",
+      "url": "https://www.dunya.com/yasam/s-sport-ucretli-mi-s-sport-plus-sifresiz-mi-s-sport-uyduda-var-mi-kacinci-kanalda-haberi-836104",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T13:40:00"
+      "published": "2026-08-13T14:30:00"
     },
     {
-      "title": "Robot süpürgelere ulusal güvenlik engeli: Yeni modellerin satışına yasak",
-      "summary": "ABD’den robot süpürgelerle ilgili dikkat çeken bir karar geldi. Federal İletişim Komisyonu (FCC), siber güvenlik ve veri toplama risklerini gerekçe göstererek yurt dışında üretilen bazı yeni robot süpürgeler ile gelişmiş robotik cihazların ülkeye ithalatının ve satışının önünü kapattı. Ancak yasak mevcut tüm robot süpürgeleri kapsamıyor; daha önce FCC onayı alan modeller satılmaya ve kullanılmaya ",
-      "url": "https://www.dunya.com/ekonomi/robot-supurgelere-ulusal-guvenlik-engeli-yeni-modellerin-satisina-yasak-haberi-836090",
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "New York borsası, ABD&#039;de üretici enflasyonunun temmuzda beklentilerin altında gerçekleşmesinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi yüzde 0,11 artarak 53.828,55 puana çıktı.",
+      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-yukselisle-acildi-haberi-836103",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T13:40:00"
+      "published": "2026-08-13T14:25:00"
     },
     {
-      "title": "Kazdağları'nda orman yangını: 9 uçak 6 helikopterle müdahale ediliyor",
-      "summary": "Balıkesir&#039;in Edremit ilçesine bağlı Kadıköy&#039;de Kazdağları&#039;nın eteklerinde çıkan yangın, yerleşim birimlerine kadar yaklaştı. Alevlere 9 uçak ve 6 helikopter ile müdahale ediliyor.",
-      "url": "https://www.dunya.com/video-galeri/gundem/kazdaglarinda-orman-yangini-9-ucak-6-helikopterle-mudahale-ediliyor-video-836085",
+      "title": "Bakan Ersoy: Trabzon’un turizm potansiyelini daha etkin değerlendireceğiz",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Turizm İşletmecileri ve Seyahat Acenteleri Derneği (TİSAD) Yönetim Kurulu Başkanı Murat Çavga ve beraberindeki heyetle Bakanlıkta bir araya geldi. Görüşmede Trabzon’un tanıtımı, turizm altyapısının geliştirilmesi, destinasyon çeşitliliğinin artırılması ve turizm hareketliliğinin yılın tamamına yayılması ele alındı.",
+      "url": "https://www.dunya.com/sektorler/turizm/bakan-ersoy-trabzonun-turizm-potansiyelini-daha-etkin-degerlendirecegiz-haberi-836102",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T13:25:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Süper Lig'in yeni ekiplerini kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Trendyol Süper Lig&#039;e yükselen Erzurumspor FK, Amed SK ve Çorum FK&#039;nin yöneticileri, teknik heyetleri ve futbolcularını kabul etti.",
-      "url": "https://www.dunya.com/video-galeri/gundem/cumhurbaskani-erdogan-super-ligin-yeni-ekiplerini-kabul-etti-video-836084",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T13:24:00"
-    },
-    {
-      "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
-      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
-      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T13:19:00"
-    },
-    {
-      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-      "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T13:18:36"
-    },
-    {
-      "title": "Alman bankasından dikkat çeken TL yorumu",
-      "summary": "Almanya merkezli Commerzbank, Türk Lirası için dikkat çeken bir değerlendirme yayımladı. Banka, kur yönetiminin giderek zorlaşacağını ve TL’nin yıl sonuna kadar daha fazla değer kaybedebileceğini öngördü. Commerzbank Stratejisti Tatha Ghose, politika yapıcıların değer kaybının hızını yavaşlatabileceğini ancak temel yönü değiştiremeyeceğini savundu.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/alman-bankasindan-dikkat-ceken-tl-yorumu-galeri-836083",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-13T13:12:00"
+      "published": "2026-08-13T14:21:00"
     }
   ]
 }

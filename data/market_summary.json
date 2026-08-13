@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-13T17:16:55+03:00",
-  "overview": "Günün piyasa görünümü genel olarak karışık bir tablo sunuyor. BIST 100 endeksi hafif bir düşüş gösterirken, uluslararası piyasalarda S&P 500 ve Nasdaq gibi endeksler artış gösterdi. Döviz kurlarında küçük dalgalanmalar yaşandı, ons altın ve gram altın değerinde artış gözlemlendi. Hisse sinyalleri ise alımların ağırlıkta olduğu bir görünüm sunuyor, özellikle THYAO, TUPRS, GARAN ve YKBNK gibi hisseler güçlü al sinyalleri veriyor.",
+  "updated_at": "2026-08-13T18:29:05+03:00",
+  "overview": null,
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 14109.21,
-      "change_pct": -0.01
+      "value": 14132.23,
+      "change_pct": 0.16
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7806.08,
-      "change_pct": 0.74
+      "value": 7782.97,
+      "change_pct": 0.44
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26842.22,
-      "change_pct": 0.95
+      "value": 26755.57,
+      "change_pct": 0.63
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26373.63,
-      "change_pct": 0.16
+      "value": 26329.36,
+      "change_pct": -0.01
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": 68308.59,
-      "change_pct": 1.16
+      "value": 67524.06,
+      "change_pct": 0.83
     },
     {
       "name": "USD/TRY",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.26,
-      "change_pct": 0.21
+      "value": 55.22,
+      "change_pct": 0.15
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4434.1,
-      "change_pct": 0.57
+      "value": 4421.2,
+      "change_pct": 0.28
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 85.91,
-      "change_pct": -3.45
+      "value": 88.15,
+      "change_pct": -0.93
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6810.09,
+      "value": 6790.24,
       "change_pct": null
     }
   ]
