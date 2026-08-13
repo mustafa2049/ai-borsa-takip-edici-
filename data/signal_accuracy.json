@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T15:49:08+03:00",
+  "updated_at": "2026-08-13T17:16:55+03:00",
   "eval_days": 7,
   "overall": {
     "evaluated": 125,
-    "correct": 47,
-    "accuracy_pct": 37.6
+    "correct": 48,
+    "accuracy_pct": 38.4
   },
   "by_signal": {
     "GÜÇLÜ AL": {
@@ -14,8 +14,8 @@
     },
     "AL": {
       "evaluated": 62,
-      "correct": 26,
-      "accuracy_pct": 41.9
+      "correct": 27,
+      "accuracy_pct": 43.5
     },
     "SAT": {
       "evaluated": 36,
@@ -29,70 +29,25 @@
     }
   },
   "by_symbol": {
-    "YKBNK": {
-      "evaluated": 9,
-      "correct": 9,
-      "accuracy_pct": 100.0
-    },
-    "TUPRS": {
-      "evaluated": 9,
-      "correct": 9,
-      "accuracy_pct": 100.0
-    },
-    "ASTOR": {
-      "evaluated": 9,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "FROTO": {
-      "evaluated": 9,
-      "correct": 4,
-      "accuracy_pct": 44.4
-    },
     "AKBNK": {
       "evaluated": 9,
       "correct": 9,
       "accuracy_pct": 100.0
-    },
-    "ISCTR": {
-      "evaluated": 4,
-      "correct": 2,
-      "accuracy_pct": 50.0
-    },
-    "SISE": {
-      "evaluated": 8,
-      "correct": 0,
-      "accuracy_pct": 0.0
     },
     "BIMAS": {
       "evaluated": 9,
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "GARAN": {
-      "evaluated": 9,
-      "correct": 6,
-      "accuracy_pct": 66.7
-    },
-    "PGSUS": {
+    "ISCTR": {
       "evaluated": 4,
-      "correct": 0,
-      "accuracy_pct": 0.0
+      "correct": 3,
+      "accuracy_pct": 75.0
     },
-    "KCHOL": {
+    "FROTO": {
       "evaluated": 9,
-      "correct": 1,
-      "accuracy_pct": 11.1
-    },
-    "ASELS": {
-      "evaluated": 9,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "PETKM": {
-      "evaluated": 1,
-      "correct": 0,
-      "accuracy_pct": 0.0
+      "correct": 4,
+      "accuracy_pct": 44.4
     },
     "TOASO": {
       "evaluated": 9,
@@ -104,10 +59,55 @@
       "correct": 0,
       "accuracy_pct": 0.0
     },
+    "YKBNK": {
+      "evaluated": 9,
+      "correct": 9,
+      "accuracy_pct": 100.0
+    },
+    "SISE": {
+      "evaluated": 8,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "PGSUS": {
+      "evaluated": 4,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
     "EKGYO": {
       "evaluated": 9,
       "correct": 2,
       "accuracy_pct": 22.2
+    },
+    "PETKM": {
+      "evaluated": 1,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "GARAN": {
+      "evaluated": 9,
+      "correct": 6,
+      "accuracy_pct": 66.7
+    },
+    "KCHOL": {
+      "evaluated": 9,
+      "correct": 1,
+      "accuracy_pct": 11.1
+    },
+    "TUPRS": {
+      "evaluated": 9,
+      "correct": 9,
+      "accuracy_pct": 100.0
+    },
+    "ASELS": {
+      "evaluated": 9,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "ASTOR": {
+      "evaluated": 9,
+      "correct": 0,
+      "accuracy_pct": 0.0
     }
   },
   "recent": [
@@ -117,8 +117,8 @@
       "signal": "AL",
       "confidence": 70,
       "price": 67.6,
-      "price_now": 68.5,
-      "change_pct": 1.33,
+      "price_now": 68.75,
+      "change_pct": 1.7,
       "correct": true
     },
     {
@@ -127,8 +127,8 @@
       "signal": "SAT",
       "confidence": 70,
       "price": 347.0,
-      "price_now": 389.0,
-      "change_pct": 12.1,
+      "price_now": 392.0,
+      "change_pct": 12.97,
       "correct": false
     },
     {
@@ -137,8 +137,8 @@
       "signal": "SAT",
       "confidence": 70,
       "price": 317.75,
-      "price_now": 343.0,
-      "change_pct": 7.95,
+      "price_now": 349.5,
+      "change_pct": 9.99,
       "correct": false
     },
     {
@@ -147,8 +147,8 @@
       "signal": "AL",
       "confidence": 70,
       "price": 382.25,
-      "price_now": 373.5,
-      "change_pct": -2.29,
+      "price_now": 375.5,
+      "change_pct": -1.77,
       "correct": false
     },
     {
@@ -157,8 +157,8 @@
       "signal": "GÜÇLÜ SAT",
       "confidence": 80,
       "price": 18.35,
-      "price_now": 18.35,
-      "change_pct": 0.0,
+      "price_now": 18.4,
+      "change_pct": 0.27,
       "correct": false
     },
     {
@@ -167,8 +167,8 @@
       "signal": "SAT",
       "confidence": 50,
       "price": 79.55,
-      "price_now": 79.3,
-      "change_pct": -0.31,
+      "price_now": 79.2,
+      "change_pct": -0.44,
       "correct": true
     },
     {
@@ -177,8 +177,8 @@
       "signal": "AL",
       "confidence": 65,
       "price": 129.6,
-      "price_now": 129.0,
-      "change_pct": -0.46,
+      "price_now": 129.6,
+      "change_pct": 0.0,
       "correct": false
     },
     {
@@ -187,8 +187,8 @@
       "signal": "SAT",
       "confidence": 60,
       "price": 202.0,
-      "price_now": 202.6,
-      "change_pct": 0.3,
+      "price_now": 202.4,
+      "change_pct": 0.2,
       "correct": false
     },
     {
@@ -197,8 +197,8 @@
       "signal": "AL",
       "confidence": 60,
       "price": 19.48,
-      "price_now": 18.59,
-      "change_pct": -4.57,
+      "price_now": 18.77,
+      "change_pct": -3.64,
       "correct": false
     },
     {
@@ -207,8 +207,8 @@
       "signal": "AL",
       "confidence": 65,
       "price": 156.9,
-      "price_now": 151.2,
-      "change_pct": -3.63,
+      "price_now": 152.0,
+      "change_pct": -3.12,
       "correct": false
     },
     {
@@ -217,8 +217,8 @@
       "signal": "AL",
       "confidence": 60,
       "price": 42.6,
-      "price_now": 41.1,
-      "change_pct": -3.52,
+      "price_now": 41.2,
+      "change_pct": -3.29,
       "correct": false
     },
     {
@@ -227,8 +227,8 @@
       "signal": "AL",
       "confidence": 60,
       "price": 317.25,
-      "price_now": 307.25,
-      "change_pct": -3.15,
+      "price_now": 308.25,
+      "change_pct": -2.84,
       "correct": false
     },
     {
@@ -237,8 +237,8 @@
       "signal": "GÜÇLÜ SAT",
       "confidence": 80,
       "price": 261.25,
-      "price_now": 270.25,
-      "change_pct": 3.44,
+      "price_now": 270.5,
+      "change_pct": 3.54,
       "correct": false
     },
     {
@@ -247,8 +247,8 @@
       "signal": "GÜÇLÜ AL",
       "confidence": 80,
       "price": 313.0,
-      "price_now": 343.75,
-      "change_pct": 9.82,
+      "price_now": 346.75,
+      "change_pct": 10.78,
       "correct": true
     },
     {
@@ -257,8 +257,8 @@
       "signal": "AL",
       "confidence": 75,
       "price": 34.3,
-      "price_now": 34.9,
-      "change_pct": 1.75,
+      "price_now": 35.16,
+      "change_pct": 2.51,
       "correct": true
     },
     {
@@ -267,8 +267,8 @@
       "signal": "AL",
       "confidence": 70,
       "price": 67.55,
-      "price_now": 68.5,
-      "change_pct": 1.41,
+      "price_now": 68.75,
+      "change_pct": 1.78,
       "correct": true
     },
     {
@@ -277,8 +277,8 @@
       "signal": "SAT",
       "confidence": 70,
       "price": 346.75,
-      "price_now": 389.0,
-      "change_pct": 12.18,
+      "price_now": 392.0,
+      "change_pct": 13.05,
       "correct": false
     },
     {
@@ -287,8 +287,8 @@
       "signal": "SAT",
       "confidence": 70,
       "price": 311.0,
-      "price_now": 343.0,
-      "change_pct": 10.29,
+      "price_now": 349.5,
+      "change_pct": 12.38,
       "correct": false
     },
     {
@@ -297,8 +297,8 @@
       "signal": "AL",
       "confidence": 70,
       "price": 382.25,
-      "price_now": 373.5,
-      "change_pct": -2.29,
+      "price_now": 375.5,
+      "change_pct": -1.77,
       "correct": false
     },
     {
@@ -307,8 +307,8 @@
       "signal": "GÜÇLÜ SAT",
       "confidence": 80,
       "price": 18.28,
-      "price_now": 18.35,
-      "change_pct": 0.38,
+      "price_now": 18.4,
+      "change_pct": 0.66,
       "correct": false
     }
   ]

@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-13T15:49:08+03:00",
+  "updated_at": "2026-08-13T17:16:55+03:00",
   "news": [
     {
-      "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-      "summary": "Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
-      "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+      "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+      "summary": "Databricks is benefitting off of the agentic AI wave.",
+      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-13T12:43:17",
+      "published": "2026-08-13T14:15:04",
       "ai": {
-        "impact": "Trump bağlantılı petrol girişiminin Grönland'da planlanan petrol arama faaliyetlerini ertelemesi, küresel enerji piyasalarında dalgalanmalara neden olabilir. Bu durum, enerji fiyatlarını etkileyerek Türkiye'de de ekonomi üzerinde olumsuz bir etkiye sahip olabilir.",
-        "sentiment": "Negatif"
+        "impact": "Databricks'in 190 milyar dolarlık değerleme ile 5 milyar dolarlık fon toplaması teknoloji sektörüne ve yapay zeka yatırımlarına olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
       }
     },
     {
-      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T12:42:10",
-      "ai": {
-        "impact": "İran savaşının G7'nin en hızlı büyüyen ekonomisi olan İngiltere'yi olumsuz etkilemesi bekleniyor. Bu durum, küresel ekonomide durgunluğa neden olabilir ve Türkiye'de de ekonomik büyümeyi olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Sırbistan Merkez Bankası faiz oranını yüzde 5,75’te tuttu",
+      "title": "Ross Stores hisseleri 20 Ağustos’taki raporda %6,5 oynayabilir",
       "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/srbistan-merkez-bankas-faiz-orann-yuzde-575te-tuttu-93CH-4029034",
+      "url": "https://tr.investing.com/news/stock-market-news/ross-stores-hisseleri-20-agustostaki-raporda-65-oynayabilir-93CH-4029332",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:40:06",
+      "published": "2026-08-13T14:09:19",
       "ai": {
-        "impact": "Sırbistan Merkez Bankası'nın faiz oranını sabit tutması, Sırbistan ekonomisi üzerinde olumlu bir etkiye sahip olabilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "impact": "Ross Stores hisselerinin %6,5 oynama ihtimali hisse senedi piyasalarında dalgalanmalara neden olabilir.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Drone Nerds, otonom yerleştirme için DBOX ile ortaklık kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/drone-nerds-otonom-yerlestirme-icin-dbox-ile-ortaklk-kurdu-93CH-4029032",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:25",
+      "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+      "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
+      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T14:08:19",
       "ai": {
-        "impact": "Drone Nerds ve DBOX arasındaki ortaklığın, teknoloji sektöründe inovasyona ve büyümeye katkıda bulunabileceği öngörülüyor. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "impact": "Monterey Car Week'teki rekor düzeydeki araba satışları lüks tüketim malları sektörüne olumlu yansıyabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Cingulate 2Ç’de zarar açıkladı, DEHB ilacı için FDA’ya yeniden başvuru planlıyor",
+      "title": "Robinhood kapalı uçlu fonları daha hızlı piyasaya sürecek",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cingulate-2cde-zarar-acklad-dehb-ilac-icin-fdaya-yeniden-basvuru-planlyor-93CH-4029031",
+      "url": "https://tr.investing.com/news/stock-market-news/robinhood-kapal-uclu-fonlar-daha-hzl-piyasaya-surecek-93CH-4029328",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:14",
+      "published": "2026-08-13T14:07:32",
       "ai": {
-        "impact": "Cingulate'in zarar açıklaması, şirketin mali performansını olumsuz etkileyebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Sonida Senior Living, Ally Bank ile 380 milyon dolarlık kredi anlaşması imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/sonida-senior-living-ally-bank-ile-380-milyon-dolarlk-kredi-anlasmas-imzalad-93CH-4029029",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:06",
-      "ai": {
-        "impact": "Sonida Senior Living'in Ally Bank ile kredi anlaşması, şirketin finansal durumunu güçlendirebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "impact": "Robinhood'un kapalı uçlu fonlarını daha hızlı piyasaya sürmesi finansal hizmetler sektöründe rekabeti artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Duos Edge AI, Teksas ve Georgia için bağlayıcı olmayan anlaşma imzaladı",
+      "title": "Customers Bancorp hissesi 84,05 dolarda rekor kırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/duos-edge-ai-teksas-ve-georgia-icin-baglayc-olmayan-anlasma-imzalad-93CH-4029030",
+      "url": "https://tr.investing.com/news/company-news/customers-bancorp-hissesi-8405-dolarda-rekor-krd-93CH-4029327",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:06",
+      "published": "2026-08-13T14:07:05",
       "ai": {
-        "impact": "Duos Edge AI'nin Teksas ve Georgia için bağlayıcı olmayan anlaşma imzalaması, şirketin büyümesine katkıda bulunabilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "impact": "Customers Bancorp hissesinin rekor seviyeye ulaşması bankacılık sektörüne güveni artırabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Brenmiller Energy, BrenX olarak yeniden markalaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/brenmiller-energy-brenx-olarak-yeniden-markalast-93CH-4029027",
-      "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:01",
+      "title": "DGS tercihleri başladı mı, ne zaman başlıyor? Bu tarihe dikkat",
+      "summary": "2026 DGS sonuçları ilan edildi. ÖSYM saat 16.00&#039;da sonuçları erişime açtı. Şimdi gündemdeki konu tercihlerin başlangıç tarihi... Sıkça gelen soru &quot;DGS tercihleri başladı mı, ne zaman başlıyor&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/dgs-tercihleri-basladi-mi-ne-zaman-basliyor-bu-tarihe-dikkat-haberi-836097",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T14:07:00",
       "ai": {
-        "impact": "Brenmiller Energy'nin marka değişikliği, şirketin imajını güçlendirebilir. Ancak, bu durum Türkiye ekonomisi üzerinde doğrudan bir etkiye sahip olmayabilir.",
+        "impact": "DGS tercihlerinin başlaması eğitim sektöründe hareketliliğe neden olabilir ancak genel piyasalara etkisi sınırlı olacaktır.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Satellogic, uzay sistemleri başkan yardımcısı olarak Jamil Kawar’ı işe aldı",
+      "title": "Stifel, Wolverine World Wide hissesi için 25 dolarlık Al tavsiyesini korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/satellogic-uzay-sistemleri-baskan-yardmcs-olarak-jamil-kawar-ise-ald-93CH-4029028",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-wolverine-world-wide-hissesi-icin-25-dolarlk-al-tavsiyesini-korudu-93CH-4029326",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:38:01"
+      "published": "2026-08-13T14:06:24",
+      "ai": {
+        "impact": "Stifel'in Wolverine World Wide hissesi için 25 dolarlık \"Al\" tavsiyesi hisse senedi piyasalarında belirli bir hisseye yönelik ilgiyi artırabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Bed Bath & Beyond, Jill Windrum’u baş muhasebe müdürü atadı",
+      "title": "Otosor, 14 milyar TL’ye kadar VDMK ihracına karar verdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bed-bath--beyond-jill-windrumu-bas-muhasebe-muduru-atad-93CH-4029026",
+      "url": "https://tr.investing.com/news/global-filings/otosor-14-milyar-tlye-kadar-vdmk-ihracna-karar-verdi-93CH-4029324",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:37:58"
+      "published": "2026-08-13T14:05:58",
+      "ai": {
+        "impact": "Otosor'un 14 milyar TL'ye kadar VDMK ihracına karar vermesi şirketin büyümesine ve otomotiv sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "CitroTech, Global Fireproof Solutions ile ortaklık kurdu",
+      "title": "Chubb, hisse başına 1,02 dolar temettü dağıtacak",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/citrotech-global-fireproof-solutions-ile-ortaklk-kurdu-93CH-4029025",
+      "url": "https://tr.investing.com/news/company-news/chubb-hisse-basna-102-dolar-temettu-dagtacak-93CH-4029323",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:37:49"
+      "published": "2026-08-13T14:05:25"
     },
     {
-      "title": "Lamar Advertising, UPREIT anlaşmasıyla AdSource’u satın aldı",
+      "title": "Adams Diversified Equity hissesi 26,49 dolarda zirve yaptı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lamar-advertising-upreit-anlasmasyla-adsourceu-satn-ald-93CH-4029023",
+      "url": "https://tr.investing.com/news/company-news/adams-diversified-equity-hissesi-2649-dolarda-zirve-yapt-93CH-4029322",
       "source": "Investing Türkiye",
-      "published": "2026-08-13T12:37:47"
+      "published": "2026-08-13T14:05:09"
     },
     {
-      "title": "RTÜK'ten 4 dijital platforma müstehcenlik ve LGBT cezası",
-      "summary": "Radyo ve Televizyon Üst Kurulu (RTÜK), dijital yayın platformlarına yönelik incelemelerinin ardından HBO Max, Prime Video, Netflix ve Disney+ hakkında yaptırım kararı aldı. Dört platformdaki belirli yapımlar için katalogdan çıkarma kararı verilirken, platformlara yüzde 3 ile yüzde 5 arasında idari para cezaları uygulandı.",
-      "url": "https://www.dunya.com/gundem/rtukten-4-dijital-platforma-mustehcenlik-ve-lgbt-cezasi-haberi-836079",
+      "title": "Tarkim, %100 iştiraki Cropsafe’i 2026 3. çeyrekte konsolidasyona alacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/tarkim-100-istiraki-cropsafei-2026-3-ceyrekte-konsolidasyona-alacak-93CH-4029317",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T14:03:32"
+    },
+    {
+      "title": "Arjantin Vaca Muerta kaya petrolü tahminini iki katına çıkardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/arjantin-vaca-muerta-kaya-petrolu-tahminini-iki-katna-ckard-93CH-4029316",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T14:03:21"
+    },
+    {
+      "title": "Portillo’s hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/portillos-hissesi-bugun-neden-yukseliyor-93CH-4029314",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T14:03:02"
+    },
+    {
+      "title": "Kademeli emeklilik çıkıyor mu, bu sene gelecek mi? Yasa ne zaman çıkacak?",
+      "summary": "Kademeli emeklilik bekleyenler hükümetin bir çalışma yapıp yapmadığını öğrenmeye çalışıyor. Hak kaybına uğradığını savunanlar bir adım atılmasını isterken her gün konu hakkında bilgi alınmaya çalışılıyor. Sıkça gelen soru &quot;Kademeli emeklilik çıkıyor mu, bu sene gelecek mi&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/kademeli-emeklilik-cikiyor-mu-bu-sene-gelecek-mi-yasa-ne-zaman-cikacak-haberi-836089",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T12:35:00"
+      "published": "2026-08-13T13:40:00"
     },
     {
-      "title": "ABD'de üretici enflasyonu yıllık bazda yüzde 4,7 arttı",
-      "summary": "ABD&#039;de Üretici Fiyat Endeksi (ÜFE), temmuzda aylık bazda değişim göstermezken, yıllık bazda yüzde 4,7 artarak beklentilerin altında gerçekleşti",
-      "url": "https://www.dunya.com/ekonomi/abdde-uretici-enflasyonu-yillik-bazda-yuzde-47-artti-haberi-836078",
+      "title": "Robot süpürgelere ulusal güvenlik engeli: Yeni modellerin satışına yasak",
+      "summary": "ABD’den robot süpürgelerle ilgili dikkat çeken bir karar geldi. Federal İletişim Komisyonu (FCC), siber güvenlik ve veri toplama risklerini gerekçe göstererek yurt dışında üretilen bazı yeni robot süpürgeler ile gelişmiş robotik cihazların ülkeye ithalatının ve satışının önünü kapattı. Ancak yasak mevcut tüm robot süpürgeleri kapsamıyor; daha önce FCC onayı alan modeller satılmaya ve kullanılmaya ",
+      "url": "https://www.dunya.com/ekonomi/robot-supurgelere-ulusal-guvenlik-engeli-yeni-modellerin-satisina-yasak-haberi-836090",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T12:33:00"
+      "published": "2026-08-13T13:40:00"
     },
     {
-      "title": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T12:31:22"
-    },
-    {
-      "title": "Emekli profesörün dairesinden gelen koku isyan ettirdi",
-      "summary": "Kütahya’da bir apartmandan yayılan kötü koku üzerine yapılan ihbar, iki dairede yıllardır biriktirilen çöp ve eşyaları ortaya çıkardı. Yalnız yaşayan 72 yaşındaki emekli kadın profesöre ait dairelerde ekiplerin içeri girmekte dahi zorlandığı belirtilirken, temizlik çalışmalarının günlerce sürmesi bekleniyor.",
-      "url": "https://www.dunya.com/foto-galeri/aktuel/emekli-profesorun-dairesinden-gelen-koku-isyan-ettirdi-galeri-836077",
+      "title": "Kazdağları'nda orman yangını: 9 uçak 6 helikopterle müdahale ediliyor",
+      "summary": "Balıkesir&#039;in Edremit ilçesine bağlı Kadıköy&#039;de Kazdağları&#039;nın eteklerinde çıkan yangın, yerleşim birimlerine kadar yaklaştı. Alevlere 9 uçak ve 6 helikopter ile müdahale ediliyor.",
+      "url": "https://www.dunya.com/video-galeri/gundem/kazdaglarinda-orman-yangini-9-ucak-6-helikopterle-mudahale-ediliyor-video-836085",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T12:31:00"
+      "published": "2026-08-13T13:25:00"
     },
     {
-      "title": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
-      "summary": "It's the second time in just over a week that polls and prediction markets' odds were off, following a miss in the Democratic U.S. senate primary in Michigan.",
-      "url": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T12:30:01"
-    },
-    {
-      "title": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
-      "summary": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
-      "url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T12:27:31"
-    },
-    {
-      "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
-      "summary": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
-      "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-13T12:15:02"
-    },
-    {
-      "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
-      "summary": "Bankacılık sektöründe toplam mevduat 7 Ağustos haftasında 415,8 milyar liralık artışla 32,8 trilyon liraya yükseldi. Haftalık verilerde TL mevduat gerilerken yabancı para mevduatındaki yüzde 3,59&#039;luk artış dikkat çekti. Yurt içi yerleşiklerin döviz mevduatı parite etkisinden arındırıldığında 1,77 milyar dolar arttı.",
-      "url": "https://www.dunya.com/ekonomi/bankacilik-sektorunun-mevduati-gecen-hafta-artti-haberi-836076",
+      "title": "Cumhurbaşkanı Erdoğan, Süper Lig'in yeni ekiplerini kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Trendyol Süper Lig&#039;e yükselen Erzurumspor FK, Amed SK ve Çorum FK&#039;nin yöneticileri, teknik heyetleri ve futbolcularını kabul etti.",
+      "url": "https://www.dunya.com/video-galeri/gundem/cumhurbaskani-erdogan-super-ligin-yeni-ekiplerini-kabul-etti-video-836084",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-13T12:13:00"
+      "published": "2026-08-13T13:24:00"
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
+      "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T13:19:00"
+    },
+    {
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-13T13:18:36"
+    },
+    {
+      "title": "Alman bankasından dikkat çeken TL yorumu",
+      "summary": "Almanya merkezli Commerzbank, Türk Lirası için dikkat çeken bir değerlendirme yayımladı. Banka, kur yönetiminin giderek zorlaşacağını ve TL’nin yıl sonuna kadar daha fazla değer kaybedebileceğini öngördü. Commerzbank Stratejisti Tatha Ghose, politika yapıcıların değer kaybının hızını yavaşlatabileceğini ancak temel yönü değiştiremeyeceğini savundu.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/alman-bankasindan-dikkat-ceken-tl-yorumu-galeri-836083",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T13:12:00"
     }
   ]
 }

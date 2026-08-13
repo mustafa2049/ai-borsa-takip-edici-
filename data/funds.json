@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:49:08+03:00",
+  "updated_at": "2026-08-13T17:16:55+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -11,7 +11,7 @@
       "return_1y": 80.6,
       "ai": {
         "risk": "Yüksek",
-        "comment": "TTE fonu son 1 yılda %80,6 getiri sağladı, ancak teknoloji sektörüne odaklanması nedeniyle riski yüksektir."
+        "comment": "Bu fon yüksek getiri elde etmiş ancak yüksek risk içeriyor. Son 1 yıllık dönemde %80,6 getiri elde etti."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 63.53,
       "ai": {
         "risk": "Orta",
-        "comment": "TGE fonu emtia ve yabancı para birimi yatırımlarına odaklanır, bu nedenle orta düzeyde risk içerir."
+        "comment": "Bu fon orta düzeyde risk içeriyor ve son 1 yıllık dönemde %63,53 getiri elde etti."
       }
     },
     {
@@ -36,8 +36,8 @@
       "return_6m": 21.87,
       "return_1y": 47.99,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "TMG fonu yabancı hisse senetlerine yatırım yapar, bu nedenle kur dalgalanmaları nedeniyle riski yüksektir."
+        "risk": "Orta",
+        "comment": "Bu fon orta düzeyde risk içeriyor ve son 1 yıllık dönemde %47,99 getiri elde etti."
       }
     },
     {
@@ -49,8 +49,8 @@
       "return_6m": 18.92,
       "return_1y": 34.29,
       "ai": {
-        "risk": "Orta",
-        "comment": "IPB fonu değişken bir yatırım stratejisi izler, bu nedenle orta düzeyde risk içerir."
+        "risk": "Düşük",
+        "comment": "Bu fon düşük risk içeriyor ve son 1 yıllık dönemde %34,29 getiri elde etti."
       }
     },
     {
@@ -62,8 +62,8 @@
       "return_6m": 25.37,
       "return_1y": 44.07,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "AFA fonu Amerika'da faaliyet gösteren şirketlere yatırım yapar, bu nedenle küresel ekonomi koşullarına bağlı olarak riski yüksektir."
+        "risk": "Orta",
+        "comment": "Bu fon orta düzeyde risk içeriyor ve son 1 yıllık dönemde %44,07 getiri elde etti."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.31,
       "ai": {
         "risk": "Düşük",
-        "comment": "YAC fonu daha düşük riskli bir yatırım stratejisi izler, ancak getiri oranları da daha düşük olabilir."
+        "comment": "Bu fon düşük risk içeriyor ve son 1 yıllık dönemde %32,31 getiri elde etti."
       }
     },
     {
@@ -88,8 +88,8 @@
       "return_6m": 17.07,
       "return_1y": 45.16,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "AFT fonu yeni teknolojilere odaklanır, bu nedenle yüksek risk içerir ancak yüksek getiri potansiyeli de sunar."
+        "risk": "Orta",
+        "comment": "Bu fon orta düzeyde risk içeriyor ve son 1 yıllık dönemde %45,16 getiri elde etti."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 23.93,
       "ai": {
         "risk": "Yüksek",
-        "comment": "DAH fonu hisse senedi yatırımlarına odaklanır, bu nedenle piyasa dalgalanmaları nedeniyle riski yüksektir."
+        "comment": "Bu fon yüksek risk içeriyor ve son 1 yıllık dönemde %23,93 getiri elde etti."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 57.36,
       "ai": {
         "risk": "Yüksek",
-        "comment": "IPJ fonu elektrikli araçlara odaklanır, bu nedenle sektörel riskler nedeniyle yüksek risk içerir."
+        "comment": "Bu fon yüksek risk içeriyor ve son 1 yıllık dönemde %57,36 getiri elde etti."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 38.09,
       "ai": {
         "risk": "Orta",
-        "comment": "TCD fonu değişken bir yatırım stratejisi izler, bu nedenle orta düzeyde risk içerir ve dengeli bir portföy oluşturur."
+        "comment": "Bu fon orta düzeyde risk içeriyor ve son 1 yıllık dönemde %38,09 getiri elde etti."
       }
     },
     {
