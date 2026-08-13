@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:38:16+03:00",
+  "updated_at": "2026-08-13T13:54:30+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -11,7 +11,7 @@
       "return_1y": 80.6,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içinde %80,6 getiri elde etmiş olup, yüksek riskli bir fondur. Teknoloji ağırlıklı olması nedeniyle dalgalanmalara açık olabilir."
+        "comment": "TTE fonu, yüksek getiri oranlarına sahip ancak aynı zamanda yüksek risk taşıyor. Son 1 yıllık dönemde %80,6'lık getiriyle dikkat çekiyor."
       }
     },
     {
@@ -23,8 +23,8 @@
       "return_6m": 22.55,
       "return_1y": 63.53,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Emtia ve yabancı yatırım içerdiği için yüksek riskli bir fondur. Son 1 yıl içinde %63,53 getiri elde etmiştir."
+        "risk": "Orta",
+        "comment": "TGE fonu, emtia yatırımlarına odaklanan bir fondur ve orta düzeyde risk içermektedir. Son 1 yıllık dönemde %63,53'lük getiri elde etti."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 47.99,
       "ai": {
         "risk": "Orta",
-        "comment": "Yabancı hisse senedi içerdiği için orta riskli bir fondur. Son 1 yıl içinde %47,99 getiri elde etmiştir."
+        "comment": "TMG fonu, yabancı hisse senetlerine yatırım yapan bir fondur ve orta düzeyde risk taşımaktadır. Son 1 yıllık dönemde %47,99'luk getiri elde etti."
       }
     },
     {
@@ -49,8 +49,8 @@
       "return_6m": 18.92,
       "return_1y": 34.29,
       "ai": {
-        "risk": "Orta",
-        "comment": "Değişken yatırım içerdiği için orta riskli bir fondur. Son 1 yıl içinde %34,29 getiri elde etmiştir."
+        "risk": "Düşük",
+        "comment": "IPB fonu, değişken bir fon olarak düşük risk seviyesine sahiptir. Son 1 yıllık dönemde %34,29'luk getiri elde etti."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 44.07,
       "ai": {
         "risk": "Orta",
-        "comment": "Amerika yabancı hisse senedi içerdiği için orta riskli bir fondur. Son 1 yıl içinde %44,07 getiri elde etmiştir."
+        "comment": "AFA fonu, Amerika'da faaliyet gösteren şirketlere yatırım yapan bir fondur ve orta düzeyde risk içermektedir. Son 1 yıllık dönemde %44,07'luk getiri elde etti."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 32.31,
       "ai": {
         "risk": "Düşük",
-        "comment": "Fon sepěti içerdiği için düşük riskli bir fondur. Son 1 yıl içinde %32,31 getiri elde etmiştir."
+        "comment": "YAC fonu, düşük risk seviyesine sahip bir fondur ve son 1 yıllık dönemde %32,31'luk getiri elde etti."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 45.16,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Yeni teknolojiler yabancı hisse senedi içerdiği için yüksek riskli bir fondur. Son 1 yıl içinde %45,16 getiri elde etmiştir."
+        "comment": "AFT fonu, yeni teknolojilere odaklanan bir fondur ve yüksek risk seviyesine sahiptir. Son 1 yıllık dönemde %45,16'luk getiri elde etti."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 23.93,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Hisse senedi yoğun fon olduğu için yüksek riskli bir fondur. Son 1 yıl içinde %23,93 getiri elde etmiştir."
+        "comment": "DAH fonu, hisse senedi yoğun bir fondur ve yüksek risk seviyesine sahiptir. Son 1 yıllık dönemde %23,93'luk getiri elde etti."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 57.36,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Elektrikli araçlar karma fonu olduğu için yüksek riskli bir fondur. Son 1 yıl içinde %57,36 getiri elde etmiştir."
+        "comment": "IPJ fonu, elektrikli araçlara odaklanan bir fondur ve yüksek risk seviyesine sahiptir. Son 1 yıllık dönemde %57,36'luk getiri elde etti."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 38.09,
       "ai": {
         "risk": "Orta",
-        "comment": "Değişken fon olduğu için orta riskli bir fondur. Son 1 yıl içinde %38,09 getiri elde etmiştir."
+        "comment": "TCD fonu, değişken bir fondur ve orta düzeyde risk içermektedir. Son 1 yıllık dönemde %38,09'luk getiri elde etti."
       }
     },
     {

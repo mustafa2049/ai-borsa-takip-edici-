@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-13T12:38:16+03:00",
-  "overview": "Piyasa genelinde olumlu bir görünüm hakim olmakla birlikte, bazı endeks ve hisse senetlerinde dalgalanmalar gözlemleniyor. BIST 100 endeksi hafif bir artış gösterirken, uluslararası piyasalarda da genel olarak yükseliş trendi devam ediyor. Hisse senedi sinyalleri ise çeşitli sektörlerde al ve sat sinyallerini içeriyor.",
+  "updated_at": "2026-08-13T13:54:30+03:00",
+  "overview": "Piyasa genelinde pozitif bir seyir izlenmekte, özellikle Nikkei 225 endeksinin %1.16'lik artışı dikkati çekmektedir. USD/TRY ve EUR/TRY kurunda küçük dalgalanmalar yaşanırken, ons altın %0.89'luk artışıyla dikkat çekmektedir. Hisse senedi sinyallerine bakıldığında, THYAO, TUPRS ve GARAN gibi hisseler için 'AL' sinyali verilirken, EKGYO için 'GÜÇLÜ SAT' sinyali dikkat çekmektedir.",
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 14119.61,
-      "change_pct": 0.07
+      "value": 14121.2,
+      "change_pct": 0.08
     },
     {
       "name": "S&P 500",
@@ -23,8 +23,8 @@
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26469.58,
-      "change_pct": 0.53
+      "value": 26474.31,
+      "change_pct": 0.54
     },
     {
       "name": "Nikkei 225",
@@ -41,25 +41,25 @@
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.21,
-      "change_pct": 0.12
+      "value": 55.22,
+      "change_pct": 0.15
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4437.4,
-      "change_pct": 0.65
+      "value": 4448.1,
+      "change_pct": 0.89
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 87.41,
-      "change_pct": -1.76
+      "value": 87.3,
+      "change_pct": -1.89
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6815.32,
+      "value": 6831.6,
       "change_pct": null
     }
   ]
