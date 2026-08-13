@@ -1,145 +1,177 @@
 {
-  "updated_at": "2026-08-12T19:24:58+03:00",
+  "updated_at": "2026-08-13T11:12:34+03:00",
   "news": [
     {
-      "title": "Trump sued over Truth Social advance access sale",
-      "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-      "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T16:20:22"
-    },
-    {
-      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
-      "summary": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
-      "url": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T16:17:39"
-    },
-    {
-      "title": "Bolat'tan Kalkınma Yolu Projesi açıklaması: Hedefimiz ticaret hacmini 30 milyar dolara çıkarmak",
-      "summary": "Ticaret Bakanı Ömer Bolat, Irak’la Kalkınma Yolu Projesi kapsamındaki işbirliğinin güçlendirilmesi ve iki ülke arasındaki ticaret hacminin 30 milyar dolara çıkarılması hedefi doğrultusunda atılacak adımların değerlendirildiğini açıkladı.",
-      "url": "https://www.dunya.com/ekonomi/bolattan-kalkinma-yolu-projesi-aciklamasi-hedefimiz-ticaret-hacmini-30-milyar-dolara-cikarmak-haberi-835964",
+      "title": "3 bin dekarlık alana Superior ektiler! Rusya ve Avrupa'ya gidecek",
+      "summary": "Denizli’nin Buldan ilçesinde erkenci Superior üzümünde 2026 sezonunun ilk hasadı başladı. Yaklaşık 3 bin dekar alanda yetiştirilen üzümler, başta Rusya ve Avrupa ülkeleri olmak üzere yurt dışına gönderilirken Türkiye’nin dört bir yanındaki market, pazar ve hallere de sevk ediliyor. Üreticiler bu yıl ürünün hem bol hem de kaliteli olduğunu belirtiyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/3-bin-dekarlik-alana-superior-ektiler-rusya-ve-avrupaya-gidecek-galeri-836034",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T16:14:00"
+      "published": "2026-08-13T08:08:00",
+      "ai": {
+        "impact": "Türkiye'nin Superior üzüm ihracatı artabilir, Rusya ve Avrupa'ya gönderilen ürünlerin talebi tăngır. Bu durum yerel üreticiler için olumlu olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-      "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-      "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T16:02:40"
-    },
-    {
-      "title": "Beşiktaş Dusan Vlahovic'i KAP'a bildirdi",
-      "summary": "Beşiktaş Kulübü, Sırp santrfor Dusan Vlahovic&#039;in transferi için görüşmelere başlandığını açıkladı.",
-      "url": "https://www.dunya.com/spor/besiktas-dusan-vlahovici-kapa-bildirdi-haberi-835962",
+      "title": "YKS tercih sonuçları açıklandı mı, ne zaman açıklanacak? Bu tarihe dikkat",
+      "summary": "Üniversite tercih sonuçları için heyecanlı bekleyiş... Son başvuru üzerinden 3 gün geçerken her geçen saat araştırma hızlanıyor. ÖSYM&#039;nin tarih belirtmemesi nedeniyle &quot;YKS tercih sonuçları açıklandı mı, ne zaman açıklanacak&quot; sorusu sıkça geliyor.",
+      "url": "https://www.dunya.com/gundem/yks-tercih-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-bu-tarihe-dikkat-haberi-836033",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T15:57:00"
+      "published": "2026-08-13T08:06:00",
+      "ai": {
+        "impact": "Üniversite tercih sonuçlarının açıklanmasıyla ilgili haberin finans piyasalarına doğrudan etkisi yoktur.",
+        "sentiment": "Nötr"
+      }
     },
     {
-      "title": "Belçikalı santrfor Romelu Lukaku Fenerbahçe'de",
-      "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Belçikalı santrfor Romelu Lukaku&#039;nun transfer edildiğini açıkladı.",
-      "url": "https://www.dunya.com/spor/belcikali-santrfor-romelu-lukaku-fenerbahcede-haberi-835961",
+      "title": "İlk hasat başladı! Kilosu 1900 TL",
+      "summary": "Ardahan’da Kafkas arısıyla üretilen coğrafi işaretli çiçek balında 2026 sezonunun ilk hasadı başladı. Yüksek prolin değeri ve doğal yapısıyla öne çıkan Ardahan balının kilogram fiyatı bu yıl 1500 ile 1900 TL arasında değişiyor. Üreticiler, sezonun verimli geçmesini ve kaliteli bal üretiminin artmasını bekliyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/ilk-hasat-basladi-kilosu-1900-tl-galeri-836032",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T15:54:00"
+      "published": "2026-08-13T08:02:00",
+      "ai": {
+        "impact": "Ardahan çiçek balının kilogram fiyatının 1500-1900 TL arasında değişmesi, yerel üreticiler için olumlu olabilir ve talebi artırabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Amazon shares appear stuck in a rut. Trader Mike Khouw is betting things will stay that way",
-      "summary": "For investors who suspect Amazon could be range-bound for the next seven weeks, consider a “jade lizard.”",
-      "url": "https://www.cnbc.com/2026/08/12/amazon-shares-appear-stuck-in-a-rut-trader-mike-khouw-is-betting-things-will-stay-that-way.html",
+      "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+      "summary": "Danish shipping giant Maersk on Thursday posted stronger-than-expected quarterly profit and raised its full-year earnings guidance.",
+      "url": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T15:53:24"
+      "published": "2026-08-13T07:56:00",
+      "ai": {
+        "impact": "Maersk'in güçlü kar rakamları ve artan outlook'u, şirketin hisse senetlerini olumlu etkileyebilir ve genel olarak deniz taşımacılığı sektörüne güveni artırabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Freedom Broker, Willis Lease Finance hissesi için tavsiyesini al’a yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/freedom-broker-willis-lease-finance-hissesi-icin-tavsiyesini-ala-yukseltti-93CH-4027399",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:51:49"
-    },
-    {
-      "title": "Stoke Therapeutics Canaccord konferansında: Deneme ivmesi artıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/stoke-therapeutics-canaccord-konferansnda-deneme-ivmesi-artyor-93CH-4027397",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:49:03"
-    },
-    {
-      "title": "Dauch, J.P. Morgan Otomotiv Konferansı’nda konuştu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/dauch-jp-morgan-otomotiv-konferansnda-konustu-93CH-4027396",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:48:37"
-    },
-    {
-      "title": "Space Exploration Technologies hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/space-exploration-technologies-hissesi-bugun-neden-yukseliyor-93CH-4027394",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:48:05"
-    },
-    {
-      "title": "Mobileye yüksek değerli ürünlere odaklanıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/mobileye-yuksek-degerli-urunlere-odaklanyor-93CH-4027393",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:48:01"
-    },
-    {
-      "title": "People Inc. Oppenheimer konferansında: Markalara geçiş ve değer katalizörleri",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/people-inc-oppenheimer-konferansnda-markalara-gecis-ve-deger-katalizorleri-93CH-4027392",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:47:59"
-    },
-    {
-      "title": "Barclays, Alibaba ve Churchill Downs için yükseliş görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/barclays-alibaba-ve-churchill-downs-icin-yukselis-goruyor-93CH-4027391",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:47:52"
-    },
-    {
-      "title": "ECARX J.P. Morgan Otomotiv Konferansı’nda: Büyüme, marjlar ve küresel açılım",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/ecarx-jp-morgan-otomotiv-konferansnda-buyume-marjlar-ve-kuresel-aclm-93CH-4027390",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:46:51"
-    },
-    {
-      "title": "Immunome hissesi 27,68 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/immunome-hissesi-2768-dolarda-52-haftalk-zirve-yapt-93CH-4027385",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:37:56"
-    },
-    {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-      "summary": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
-      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+      "title": "In pictures: Europe sees best solar eclipse since 1999",
+      "summary": "A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.",
+      "url": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-12T15:37:25"
+      "published": "2026-08-13T07:51:26",
+      "ai": {
+        "impact": "Güneş tutulması gibi olayların ekonomiye etkisi genellikle kısa vadeli ve sınırlıdır, ancak turizm ve ilgili sektörleri olumlu etkileyebilir.",
+        "sentiment": "Nötr"
+      }
     },
     {
-      "title": "Red Cat, Mitch McDonald’ı İHA operasyonları CEO’su yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/red-cat-mitch-mcdonald-iha-operasyonlar-ceosu-yapt-93CH-4027384",
-      "source": "Investing Türkiye",
-      "published": "2026-08-12T15:37:21"
-    },
-    {
-      "title": "Borsa günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,96 değer kazanarak 14.110,14 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-835959",
+      "title": "İngiltere ekonomisi ikinci çeyrekte yüzde 0,4 büyüdü",
+      "summary": "İngiltere ekonomisi yılın ikinci çeyreğinde bir önceki çeyreğe göre yüzde 0,4, yıllık bazda ise yüzde 1,2 büyüdü. Büyümenin temel itici gücü hizmet sektörü olurken, ekonomi nisandaki daralma ve mayıstaki yatay seyrin ardından haziranda yüzde 0,3 büyüme kaydetti.",
+      "url": "https://www.dunya.com/dunya/ingiltere-ekonomisi-ikinci-ceyrekte-yuzde-04-buyudu-haberi-836031",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-12T15:30:00"
+      "published": "2026-08-13T07:49:00",
+      "ai": {
+        "impact": "İngiltere ekonomisinin büyümesi, ülke ekonomisi ve küresel piyasalar için olumlu bir sinyal olabilir, özellikle hizmet sektörünün büyümesi ekonomi için önemli bir itici güç olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
-      "summary": "After the incidents in Bab el-Mandeb and the Gulf of Oman, President Donald Trump on Truth Social wrote of the Strait of Hormuz, \"I THINK WE WILL KEEP IT!\"",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-12T15:27:38"
+      "title": "Zayıflama iğneleri dondurma sektörünü değiştiriyor",
+      "summary": "GLP-1 zayıflama ilaçlarının hızla yayılması dondurma sektörünü dönüştürüyor. Tüketiciler daha küçük porsiyon, yüksek protein ve düşük kalori isterken Magnum’dan Ferrero’ya üreticiler ürün reçetelerini ve pazarlama stratejilerini değiştiriyor.",
+      "url": "https://www.dunya.com/is-dunyasi/zayiflama-igneleri-dondurma-sektorunu-degistiriyor-haberi-836030",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T07:48:00",
+      "ai": {
+        "impact": "Zayıflama iğnelerinin dondurma sektörünü dönüştürmesi, tüketicilerin tercihlerinde değişikliklere yol açabilir ve sektörde yeni trendlerin oluşmasına neden olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Richard T. Thigpen, Public Service Enterprise hisselerinden 596 bin dolar sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/richard-t-thigpen-public-service-enterprise-hisselerinden-596-bin-dolar-satt-93CH-4028208",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:47:04",
+      "ai": {
+        "impact": "Hisselerin satılmasıyla ilgili haberin, şirketin genel performansı ve piyasa üzerindeki etkisi hakkında yeterli bilgi vermemektedir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "American Picture House yöneticisi Timothy Battles 50.000 dolarlık hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/american-picture-house-yoneticisi-timothy-battles-50000-dolarlk-hisse-ald-93CH-4028207",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:46:34"
+    },
+    {
+      "title": "Avrupa tahvilleri karışık veri ve ABD enflasyonu sonrası yatay",
+      "summary": "",
+      "url": "https://tr.investing.com/news/forex-news/avrupa-tahvilleri-karsk-veri-ve-abd-enflasyonu-sonras-yatay-4028206",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:45:15"
+    },
+    {
+      "title": "Bilanço açıklandı, hisseler uçuşa geçti: Bir gecede yüzde 42 sıçradı",
+      "summary": "CuriosityStream, ikinci çeyrekte kâr ve gelir beklentilerini aşmasının ardından yatırımcıların radarına girdi. Hisse başına kârı beklentinin 5 katına ulaşan şirketin hisseleri, seans sonrası işlemlerde yüzde 42&#039;yi aşan yükseliş kaydetti.",
+      "url": "https://www.dunya.com/ekonomi/bilanco-aciklandi-hisseler-ucusa-gecti-bir-gecede-yuzde-42-sicradi-haberi-836028",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T07:44:00"
+    },
+    {
+      "title": "Hüyük mucizesi! 1700 futbol sahası büyüklüğündeki alana diktiler!",
+      "summary": "Konya Büyükşehir Belediyesi’nin çiftçilere sağladığı 48 milyon çilek fidesi ve altyapı destekleri üretimde dikkat çekici bir dönüşüm sağladı. 2018’de yaklaşık 40 bin ton çilek üreten Konya’da rekolte 85 bin tona ulaşırken, kentin Türkiye üretimindeki payı yüzde 15’e çıktı. Hüyük’ün Başlamış Mahallesi’nde ise çilek üretiminin yaygınlaşmasıyla 30’lara kadar gerileyen nüfusun 700’e yükseldiği belirti",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/huyuk-mucizesi-1700-futbol-sahasi-buyuklugundeki-alana-diktiler-galeri-836029",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T07:44:00"
+    },
+    {
+      "title": "[Son Dakika] İş Yatırım, Futurance’ı 3,65 milyon dolara satın alıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/son-dakika-is-yatrm-futurance-365-milyon-dolara-satn-alyor-93CH-4028204",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:43:23"
+    },
+    {
+      "title": "[Son Dakika] CW Enerji’ye pay sahibinden 1,03 milyar TL sermaye avansı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/son-dakika-cw-enerjiye-pay-sahibinden-103-milyar-tl-sermaye-avans-93CH-4028202",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:41:10"
+    },
+    {
+      "title": "Lanxess hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/lanxess-hissesi-bugun-neden-dusuyor-93CH-4028201",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:39:49"
+    },
+    {
+      "title": "AP Moeller - Maersk hissesi neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ap-moeller--maersk-hissesi-neden-yukseliste-93CH-4028200",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:39:11"
+    },
+    {
+      "title": "Goodyear Lastikleri, kayıtlı sermaye tavanını 7,6 milyar TL’ye çıkarıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/goodyear-lastikleri-kaytl-sermaye-tavann-76-milyar-tlye-ckaryor-93CH-4028199",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:39:08"
+    },
+    {
+      "title": "Jefferies, Five Below hissesi için yapısal iyileşmeler nedeniyle notunu yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-five-below-hissesi-icin-yapsal-iyilesmeler-nedeniyle-notunu-yukseltti-93CH-4028196",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:38:18"
+    },
+    {
+      "title": "Citizens, Annexon hissesi için not artırımı yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-annexon-hissesi-icin-not-artrm-yapt-93CH-4028195",
+      "source": "Investing Türkiye",
+      "published": "2026-08-13T07:38:08"
+    },
+    {
+      "title": "Trump'a seçmen desteği geriledi: Onay oranı yüzde 33'te kaldı",
+      "summary": "ABD&#039;de The Economist ve YouGov tarafından yapılan ankete göre, Başkan Donald Trump&#039;ın görev performansını onaylayanların oranı yüzde 33&#039;te kaldı. Katılımcıların yüzde 62&#039;si Trump&#039;ın performansını onaylamazken, Cumhuriyetçi seçmenler arasındaki destek yüzde 79 olarak ölçüldü.",
+      "url": "https://www.dunya.com/dunya/trumpa-secmen-destegi-geriledi-onay-orani-yuzde-33te-kaldi-haberi-836026",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-13T07:37:00"
     }
   ]
 }
