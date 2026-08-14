@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T13:50:27+03:00",
+  "updated_at": "2026-08-14T14:37:44+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -23,8 +23,8 @@
       "return_6m": 21.21,
       "return_1y": 61.47,
       "ai": {
-        "risk": "Yüksek",
-        "comment": "Emtia ve yabancı para cinsinden yatırım yaptığı için kur ve emtia fiyatlarındaki değişimden etkilenir. Yüksek riskli bir yatırım aracıdır."
+        "risk": "Orta",
+        "comment": "Emtia yabancı byf fon sepetsi fonu olarak orta riskli bir yatırım aracıdır. Son 1 yıl içinde %61,47 getiri elde etmiştir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 45.69,
       "ai": {
         "risk": "Orta",
-        "comment": "Yabancı hisse senedi fonu olarak dalgalanmalara karşı orta düzeyde risk içerir. Uzun vadeli yatırım için uygun olabilir."
+        "comment": "Yabancı hisse senedi fonu olarak orta riskli bir yatırım aracıdır. Son 1 yıl içinde %45,69 getiri elde etmiştir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 43.81,
       "ai": {
         "risk": "Orta",
-        "comment": "Amerika menşeli yabancı hisse senedi fonu olarak orta düzeyde risk içerir. Ekonomik ve siyasi gelişmelerden etkilenir."
+        "comment": "Amerika yabancı hisse senedi fonu olarak orta riskli bir yatırım aracıdır. Son 1 yıl içinde %43,81 getiri elde etmiştir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 44.58,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Yeni teknolojiler üzerine odaklandığı için yüksek riskli bir yatırım aracıdır. Teknoloji sektöründeki gelişmelere bağlı olarak dalgalanmalar gösterebilir."
+        "comment": "Yeni teknolojiler yabancı hisse senedi fonu olarak yüksek riskli bir yatırım aracıdır. Son 1 yıl içinde %44,58 getiri elde etmiştir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 34.22,
       "ai": {
         "risk": "Düşük",
-        "comment": "Değişken fon olarak düşük riskli bir yatırım aracıdır. Çeşitli yatırım araçlarına dağıldığı için riski dağıtmış olur."
+        "comment": "Değişken fon olarak düşük riskli bir yatırım aracıdır. Son 1 yıl içinde %34,22 getiri elde etmiştir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 32.27,
       "ai": {
         "risk": "Düşük",
-        "comment": "Fon sepetsi fonu olarak düşük riskli bir yatırım aracıdır. Çeşitli yatırım araçlarına dağıldığı için riski dağıtmış olur."
+        "comment": "İkinci fon sepetsi fonu olarak düşük riskli bir yatırım aracıdır. Son 1 yıl içinde %32,27 getiri elde etmiştir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 56.21,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Elektrikli araçlar üzerine odaklandığı için yüksek riskli bir yatırım aracıdır. Sektörel gelişmelere bağlı olarak dalgalanmalar gösterebilir."
+        "comment": "Elektrikli araçlar karma fonu olarak yüksek riskli bir yatırım aracıdır. Son 1 yıl içinde %56,21 getiri elde etmiştir."
       }
     },
     {
@@ -114,8 +114,8 @@
       "return_6m": -6.45,
       "return_1y": 23.36,
       "ai": {
-        "risk": "Orta",
-        "comment": "Hisse senedi fonu olarak orta düzeyde risk içerir. Ekonomik ve sektörel gelişmelerden etkilenir."
+        "risk": "Yüksek",
+        "comment": "Hisse senedi fonu olarak yüksek riskli bir yatırım aracıdır. Son 1 yıl içinde %23,36 getiri elde etmiştir."
       }
     },
     {
@@ -127,8 +127,8 @@
       "return_6m": 10.94,
       "return_1y": 38.79,
       "ai": {
-        "risk": "Orta",
-        "comment": "Değişken fon olarak orta düzeyde risk içerir. Çeşitli yatırım araçlarına dağıldığı için riski dağıtmış olur."
+        "risk": "Düşük",
+        "comment": "Değişken fon olarak düşük riskli bir yatırım aracıdır. Son 1 yıl içinde %38,79 getiri elde etmiştir."
       }
     },
     {
