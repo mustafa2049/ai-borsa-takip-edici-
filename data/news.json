@@ -1,93 +1,138 @@
 {
-  "updated_at": "2026-08-14T18:13:27+03:00",
+  "updated_at": "2026-08-14T19:12:31+03:00",
   "news": [
     {
-      "title": "Disney CEO Josh D'Amaro to speak with CNBC live from D23 expo",
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "summary": "Mangione's lawyers are expected to argue his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
+      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T16:10:48"
+    },
+    {
+      "title": "TBMM’de partilerin sandalye sayıları değişti",
+      "summary": "Mustafa Bilici, Mehmet Mustafa Gürban ve Ömer Karakaş’ın istifaları ile Ali Fazıl Kasap’ın Yeni Yol Partisi’ne katılması sonrası TBMM’de partilerin sandalye dağılımı değişti. Meclis’te toplam milletvekili sayısı 592 olarak kayıtlara geçti.",
+      "url": "https://www.dunya.com/gundem/tbmmde-partilerin-sandalye-sayilari-degisti-haberi-836263",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T16:07:00"
+    },
+    {
+      "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
+      "summary": "The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.",
+      "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T16:03:13"
+    },
+    {
+      "title": "Bu hafta en çok kazandıran ve kaybettiren yatırım araçları",
+      "summary": "Borsa İstanbul’da BIST 100 endeksi haftayı yüzde 2,85 yükselişle tamamlarken, gram altın yüzde 1,40, avro yüzde 0,57 ve dolar yüzde 0,37 değer kazandı.",
+      "url": "https://www.dunya.com/ekonomi/bu-hafta-en-cok-kazandiran-ve-kaybettiren-yatirim-araclari-haberi-836262",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T15:54:00"
+    },
+    {
+      "title": "Goldman Sachs, Çin’de perakende satışların zayıf kalacağını öngörüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/goldman-sachs-cinde-perakende-satslarn-zayf-kalacagn-ongoruyor-93CH-4031375",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T15:53:42"
+    },
+    {
+      "title": "bioAffinity Technologies 4 milyon dolarlık özel yerleşim tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/bioaffinity-technologies-4-milyon-dolarlk-ozel-yerlesim-tamamlad-93CH-4031372",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T15:49:19"
+    },
+    {
+      "title": "YXT.Com Group hisseleri seyreltici arz sonrası %35 düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/yxtcom-group-hisseleri-seyreltici-arz-sonras-35-dustu-93CH-4031371",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T15:46:54"
+    },
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T15:45:15"
+    },
+    {
+      "title": "Dowgate Group, RentGuarantor’daki payını %13,1’e çıkardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/dowgate-group-rentguarantordaki-payn-131e-ckard-93CH-4031370",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T15:41:17"
+    },
+    {
+      "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
       "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
       "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T15:13:56",
-      "ai": {
-        "impact": "Disney'in yeni CEO'su Josh D'Amaro'nun hikaye anlatımı, entelektüel mülkiyet ve teknoloji odaklı stratejisi şirketin büyümesine olumlu yönde katkıda bulunabilir. Bu durum Türkiye ve dünya piyasalarında Disney hisselerine ilgiyi artırabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T15:38:46"
     },
     {
-      "title": "Yapı Kredi Yatırım, 2,232 milyar TL finansman bonosu ihracını tamamladı",
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,28 değer kazanarak 14.172,26 puandan tamamladı. BIST 100 endeksi, önceki kapanışa göre 40,03 puan artarken toplam işlem hacmi 186,4 milyar lira oldu.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-836261",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T15:29:00"
+    },
+    {
+      "title": "CQS New City High Yield Fund 50,4 peni’den 500.000 hisse ihraç etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/yap-kredi-yatrm-2232-milyar-tl-finansman-bonosu-ihracn-tamamlad-93CH-4031346",
+      "url": "https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-504-peniden-500000-hisse-ihrac-etti-93CH-4031365",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:05:03",
-      "ai": {
-        "impact": "Yapı Kredi Yatırım'ın 2,232 milyar TL finansman bonosu ihracının tamamlanması, şirketin finansal durumunu güçlendirebilir ve Türkiye'de ekonomik istikrara katkıda bulunabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T15:27:13"
     },
     {
-      "title": "Carclo Eylül ayı genel kurul toplantısı formatını değiştirdi",
+      "title": "Cantor Fitzgerald, Applied Materials hissesi için hedefini korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/carclo-eylul-ay-genel-kurul-toplants-formatn-degistirdi-93CH-4031345",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-applied-materials-hissesi-icin-hedefini-korudu-93CH-4031364",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:03:27",
-      "ai": {
-        "impact": "Carclo'nun Eylül ayı genel kurul toplantısı formatını değiştirmesinin şirketin iç işleyişine etkisi olabilir, ancak geniş kapsamlı bir piyasa etkisi beklenmez.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-14T15:24:02"
     },
     {
-      "title": "Housing investors say this is their worst market in at least 3 years",
-      "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-      "url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
+      "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively.",
+      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T15:02:26",
-      "ai": {
-        "impact": "Konut yatırımcılarının son 3 yılın en kötü piyasası olarak değerlendirdiği durum, mortgage faiz oranlarının artmasıyla bağlantılı olabilir ve emlak piyasasını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-14T15:22:00"
     },
     {
-      "title": "Cantor Fitzgerald, SoundThinking için hisse hedefini düşürdü",
+      "title": "Cantor, Intuitive Machines hisse hedefini düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-soundthinking-icin-hisse-hedefini-dusurdu-93CH-4031343",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-intuitive-machines-hisse-hedefini-dusurdu-93CH-4031363",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T14:58:10",
-      "ai": {
-        "impact": "Cantor Fitzgerald'ın SoundThinking için hisse hedefini düşürmesi, şirketin gelecekteki performansını olumsuz etkileyebilir ve yatırımcıların güvenini sarsabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-14T15:17:54"
     },
     {
-      "title": "Cantor Fitzgerald, Merlin Labs hissesi için hedef fiyatı düşürdü",
+      "title": "Carlyle ve CVC, Bauwatch için ortak teklif hazırlıyor",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-merlin-labs-hissesi-icin-hedef-fiyat-dusurdu-93CH-4031342",
+      "url": "https://tr.investing.com/news/stock-market-news/carlyle-ve-cvc-bauwatch-icin-ortak-teklif-hazrlyor-93CH-4031362",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T14:57:59",
-      "ai": {
-        "impact": "Cantor Fitzgerald'ın Merlin Labs hissesi için hedef fiyatını düşürmesi, şirketin piyasa değerini düşürerek yatırımcıların ilgisini azaltabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-14T15:17:44"
     },
     {
-      "title": "Datavault AI, CyberCatch’i 94,5 milyon dolara satın alacak",
+      "title": "CarrefourSA, 500 milyon TL tahvil ödemesini tamamladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/datavault-ai-cybercatchi-945-milyon-dolara-satn-alacak-93CH-4031341",
+      "url": "https://tr.investing.com/news/global-filings/carrefoursa-500-milyon-tl-tahvil-odemesini-tamamlad-93CH-4031361",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T14:57:33",
-      "ai": {
-        "impact": "Datavault AI'nin CyberCatch'i satın alması, şirketin büyümesine ve teknoloji alanındaki varlığını güçlendirmesine katkıda bulunabilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T15:17:41"
     },
     {
-      "title": "Strategy hissesi bugün neden düşüyor?",
+      "title": "Panelsan, Elazığ GES projesinde imalatları tamamladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/strategy-hissesi-bugun-neden-dusuyor-93CH-4031340",
+      "url": "https://tr.investing.com/news/global-filings/panelsan-elazg-ges-projesinde-imalatlar-tamamlad-93CH-4031360",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T14:57:11",
-      "ai": {
-        "impact": "Strategy hissesinin düşmesi, çeşitli piyasa ve şirket içi faktörlerin sonucudur ve yatırımcıların dikkatli olması gerekir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-14T15:15:49"
+    },
+    {
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+      "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T15:11:41"
     },
     {
       "title": "New York borsası yatay seyirle açıldı",
@@ -95,83 +140,6 @@
       "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-yatay-seyirle-acildi-haberi-836257",
       "source": "Dünya Gazetesi",
       "published": "2026-08-14T14:55:00"
-    },
-    {
-      "title": "UBS, KinderCare’in hisse hedefini rehberlik düşüşü nedeniyle kesti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-kindercarein-hisse-hedefini-rehberlik-dususu-nedeniyle-kesti-93CH-4031337",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T14:52:03"
-    },
-    {
-      "title": "Cantor Fitzgerald, kapasite görünümü nedeniyle Powell Industries hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-kapasite-gorunumu-nedeniyle-powell-industries-hisse-hedefini-dusurdu-93CH-4031335",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T14:51:52"
-    },
-    {
-      "title": "UBS, McGraw Hill hissesi için hedef fiyatı 15 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-mcgraw-hill-hissesi-icin-hedef-fiyat-15-dolara-yukseltti-93CH-4031336",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T14:51:52"
-    },
-    {
-      "title": "ABD'de tüketici güveni beklentilerin altında",
-      "summary": "ABD&#039;de Michigan Üniversitesi tarafından ölçülen tüketici güven endeksi ağustosta 51&#039;e gerileyerek beklentilerin altında kalırken, kısa vadeli enflasyon beklentisi yüzde 4,3&#039;e yükseldi.",
-      "url": "https://www.dunya.com/dunya/abdde-tuketici-guveni-beklentilerin-altinda-haberi-836256",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:50:00"
-    },
-    {
-      "title": "Filenin Sultanları maçı ne zaman? Türkiye A Milli Kadın Voleybol Takımı - Letonya maçı ne zaman?",
-      "summary": "A Milli Kadın Voleybol Takımı, 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası&#039;nda mücadele etmeye hazırlanıyor. Filenin Sultanları&#039;nın ilk mücadelesi Letonya ile olacak. Peki, Filenin Sultanları maçı ne zaman?",
-      "url": "https://www.dunya.com/spor/filenin-sultanlari-maci-ne-zaman-turkiye-a-milli-kadin-voleybol-takimi-letonya-maci-ne-zaman-haberi-836255",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:47:00"
-    },
-    {
-      "title": "UBS Nvidia hissesi için Al tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-nvidia-hissesi-icin-al-tavsiyesini-yineledi-93CH-4031333",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T14:46:19"
-    },
-    {
-      "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-      "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-      "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T14:43:30"
-    },
-    {
-      "title": "Ankara’da toplu taşıma ücretlerine zam",
-      "summary": "Ankara’da toplu taşıma ücretlerine yüzde 14,30 oranında zam yapıldı. Yeni tarife 23 Ağustos 2026 itibarıyla uygulanacak.",
-      "url": "https://www.dunya.com/gundem/ankarada-toplu-tasima-ucretlerine-zam-haberi-836251",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:30:00"
-    },
-    {
-      "title": "Bu ay Fed toplantısı olacak mı? Fed faiz kararı ne zaman açıklanıyor?",
-      "summary": "ABD enflasyon rakamları açıklandı artık gözler fed faiz kararında... Bu ay toplantı yapılıp yapılmayacağı sorgulanırken sık sık &quot;Fed faiz kararı ne zaman açıklanıyor&quot; sorusu geliyor.",
-      "url": "https://www.dunya.com/ekonomi/bu-ay-fed-toplantisi-olacak-mi-fed-faiz-karari-ne-zaman-aciklaniyor-haberi-836249",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:19:00"
-    },
-    {
-      "title": "Kırgızistan ekonomisi yılın ilk 7 ayında yüzde 11,1 büyüdü",
-      "summary": "Kırgızistan ekonomisi, 2026 yılının ocak-temmuz döneminde yüzde 11,1&#039;lik büyüme kaydetti.",
-      "url": "https://www.dunya.com/dunya/kirgizistan-ekonomisi-yilin-ilk-7-ayinda-yuzde-111-buyudu-haberi-836248",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:18:00"
-    },
-    {
-      "title": "Manisa’da yangınlara karşı kritik yatırım: Üç farklı ihtiyaç için kullanılacak",
-      "summary": "Manisa Büyükşehir Belediyesi, Salihli’nin Kemer Mahallesi’nde hayvancılık, tarımsal sulama ve olası yangınlara müdahalede kullanılmak üzere çok amaçlı gölet inşa ediyor. Yaklaşık 25 bin metreküp su tutması planlanan göletin, yangınlarda helikopterlere de su kaynağı sağlaması hedefleniyor.",
-      "url": "https://www.dunya.com/video-galeri/gundem/manisada-yanginlara-karsi-kritik-yatirim-uc-farkli-ihtiyac-icin-kullanilacak-video-836245",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T13:42:00"
     }
   ]
 }
