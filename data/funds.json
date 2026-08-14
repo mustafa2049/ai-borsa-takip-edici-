@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:43:27+03:00",
+  "updated_at": "2026-08-14T17:09:34+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -11,7 +11,7 @@
       "return_1y": 82.21,
       "ai": {
         "risk": "Yüksek",
-        "comment": "TTE fonu son 1 yıl içinde %82,21 getiri sağladı. Yüksek riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "TTE fonu son 1 yılda %82,21 getiri sağladı, ancak yüksek teknoloji ağırlığı nedeniyle riski yüksektir."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 61.47,
       "ai": {
         "risk": "Orta",
-        "comment": "TGE fonu son 1 yıl içinde %61,47 getiri sağladı. Orta riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "TGE fonu emtia ve yabancı para birimi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 45.69,
       "ai": {
         "risk": "Orta",
-        "comment": "TMG fonu son 1 yıl içinde %45,69 getiri sağladı. Orta riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "TMG fonu yabancı hisse senedi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 43.81,
       "ai": {
         "risk": "Orta",
-        "comment": "AFA fonu son 1 yıl içinde %43,81 getiri sağladı. Orta riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "AFA fonu Amerika'da faaliyet gösteren şirketlere yatırım yaptığı için orta düzeyde risk içermektedir."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 44.58,
       "ai": {
         "risk": "Yüksek",
-        "comment": "AFT fonu son 1 yıl içinde %44,58 getiri sağladı. Yüksek riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "AFT fonu yeni teknolojilere yatırım yaptığı için yüksek risk içermektedir."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 34.22,
       "ai": {
         "risk": "Düşük",
-        "comment": "IPB fonu son 1 yıl içinde %34,22 getiri sağladı. Düşük riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "IPB fonu değişken yatırım stratejisi izlediği için düşük risk içermektedir."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 32.27,
       "ai": {
         "risk": "Düşük",
-        "comment": "YAC fonu son 1 yıl içinde %32,27 getiri sağladı. Düşük riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "YAC fonu çeşitli sektörlere yatırım yaptığı için düşük risk içermektedir."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 56.21,
       "ai": {
         "risk": "Yüksek",
-        "comment": "IPJ fonu son 1 yıl içinde %56,21 getiri sağladı. Yüksek riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "IPJ fonu elektrikli araçlara yatırım yaptığı için yüksek risk içermektedir."
       }
     },
     {
@@ -115,7 +115,7 @@
       "return_1y": 23.36,
       "ai": {
         "risk": "Orta",
-        "comment": "DAH fonu son 1 yıl içinde %23,36 getiri sağladı. Orta riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "DAH fonu hisse senedi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
       }
     },
     {
@@ -128,7 +128,7 @@
       "return_1y": 38.79,
       "ai": {
         "risk": "Düşük",
-        "comment": "TCD fonu son 1 yıl içinde %38,79 getiri sağladı. Düşük riskli bir yatırım aracı olarak kabul edilebilir."
+        "comment": "TCD fonu değişken yatırım stratejisi izlediği için düşük risk içermektedir."
       }
     },
     {

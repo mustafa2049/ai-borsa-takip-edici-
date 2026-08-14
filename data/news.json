@@ -1,93 +1,170 @@
 {
-  "updated_at": "2026-08-14T15:43:27+03:00",
+  "updated_at": "2026-08-14T17:09:34+03:00",
   "news": [
+    {
+      "title": "ABD perakende satışları dokuz ayın ardından ilk kez düştü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/abd-perakende-satslar-dokuz-ayn-ardndan-ilk-kez-dustu-93CH-4031216",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:05:03",
+      "ai": {
+        "impact": "ABD perakende satışlarının düşmesi, ekonomide bir yavaşlama işaretidir. Bu durum Türkiye ve dünya piyasalarında negatif bir etki yaratabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Radiant World likidite için STG Group’a alüminyum satıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/radiant-world-likidite-icin-stg-groupa-aluminyum-satyor-93CH-4031215",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:04:50",
+      "ai": {
+        "impact": "Radiant World'un likidite için alüminyum satması şirketin finansal durumunu etkileyebilir ancak genel piyasalara etkisi sınırlıdır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "JPMorgan, Deere’nin hisse hedefini sipariş endişesiyle düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-deerenin-hisse-hedefini-siparis-endisesiyle-dusurdu-93CH-4031214",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:03:59",
+      "ai": {
+        "impact": "JPMorgan'ın Deere'nin hisse hedefini düşürmesi, şirketin gelecekteki performansına ilişkin endişeleri artırabilir ve hisse senedi fiyatını negatif etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "MMG’nin Anglo American nikel anlaşması soruşturması yeniden başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/mmgnin-anglo-american-nikel-anlasmas-sorusturmas-yeniden-baslad-93CH-4031210",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:03:36",
+      "ai": {
+        "impact": "MMG'nin Anglo American nikel anlaşması soruşturmasının yeniden başlaması, şirketin operasyonel ve finansal durumunu etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Almanya düzenleyicisi gaz sektörü sermaye getirisini %5,76 olarak belirledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/almanya-duzenleyicisi-gaz-sektoru-sermaye-getirisini-576-olarak-belirledi-93CH-4031208",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:02:52",
+      "ai": {
+        "impact": "Almanya düzenleyicisinin gaz sektörü sermaye getirisini belirlemesi, gaz sektöründeki şirketlerin finansal performansını etkileyebilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Expion360 Nasdaq uyumunu yeniden sağladı, CFO ayrılık planları yapıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/expion360-nasdaq-uyumunu-yeniden-saglad-cfo-ayrlk-planlar-yapyor-93CH-4031207",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:02:25",
+      "ai": {
+        "impact": "Expion360'ın Nasdaq uyumunu yeniden sağlaması, şirketin gelecekteki operasyonel ve finansal durumunu pozitif etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Clean Harbors Eş-CEO’su Eric Gerstenberg 293.000 dolar hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/clean-harbors-esceosu-eric-gerstenberg-293000-dolar-hisse-satt-93CH-4031206",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:02:04",
+      "ai": {
+        "impact": "Clean Harbors Eş-CEO'sunun hisse satması, şirketin içsel bilgilerine ilişkin spekülasyonlara neden olabilir ve hisse senedi fiyatını negatif etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Borsa İstanbul, KLSYN ve PLTUR için temettü tarihi açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/borsa-istanbul-klsyn-ve-pltur-icin-temettu-tarihi-acklad-93CH-4031205",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:02:02",
+      "ai": {
+        "impact": "Borsa İstanbul'un KLSYN ve PLTUR için temettü tarihini açıklaması, bu şirketlerin hisse senedi fiyatlarını kısa vadeli olarak pozitif etkileyebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Barclays’in QRT hedge fonu ile işlemleri 100 milyar doları aştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/barclaysin-qrt-hedge-fonu-ile-islemleri-100-milyar-dolar-ast-93CH-4031204",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T14:01:55"
+    },
+    {
+      "title": "Wells Fargo, güçlü ikinci çeyreğin ardından Roku’yu düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/wells-fargo-guclu-ikinci-ceyregin-ardndan-rokuyu-dusurdu-4031198",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T13:59:49"
+    },
+    {
+      "title": "Manisa’da yangınlara karşı kritik yatırım: Üç farklı ihtiyaç için kullanılacak",
+      "summary": "Manisa Büyükşehir Belediyesi, Salihli’nin Kemer Mahallesi’nde hayvancılık, tarımsal sulama ve olası yangınlara müdahalede kullanılmak üzere çok amaçlı gölet inşa ediyor. Yaklaşık 25 bin metreküp su tutması planlanan göletin, yangınlarda helikopterlere de su kaynağı sağlaması hedefleniyor.",
+      "url": "https://www.dunya.com/video-galeri/gundem/manisada-yanginlara-karsi-kritik-yatirim-uc-farkli-ihtiyac-icin-kullanilacak-video-836245",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T13:42:00"
+    },
+    {
+      "title": "DGS tercih tarihi belli oldu mu? 2026 DGS tercihleri ne zaman başlayacak?",
+      "summary": "DGS sınav sonuçları 13 Ağustos&#039;ta ilan edildi. Sınavdan başarılı puan alan adaylar tercihte bulunacak. Fakat tarihlerin duyurulmaması nedeniyle lisans adayları &quot;DGS tercih tarihi belli oldu mu&quot; diye soruyor.",
+      "url": "https://www.dunya.com/gundem/dgs-tercih-tarihi-belli-oldu-mu-2026-dgs-tercihleri-ne-zaman-baslayacak-haberi-836244",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T13:35:00"
+    },
+    {
+      "title": "Ticaret Bakanlığı duyurdu: Ünlü markanın kırtasiye ürünü piyasadan toplatılıyor",
+      "summary": "Ticaret Bakanlığı, Güvensiz Ürün Bilgi Sistemi üzerinden yeni bir ürün için uyarıda bulundu. Yapılan denetimlerde güvensiz olduğu belirlenen Mikro marka kalemliğin piyasaya arzı yasaklanırken, ürün için toplatma kararı alındı.",
+      "url": "https://www.dunya.com/gundem/ticaret-bakanligi-duyurdu-unlu-markanin-kirtasiye-urunu-piyasadan-toplatiliyor-haberi-836243",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T13:28:00"
+    },
+    {
+      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+      "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+      "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T13:24:54"
+    },
+    {
+      "title": "Taşacak Bu Deniz ne zaman başlayacak? Yeni sezon tarihi belli oldu mu?",
+      "summary": "Taşacak Bu Deniz geçen yılın çok konuşulan dizileri arasındaydı. TRT 1&#039;de yayınlanan proje haziran ayında sezon finali yaptı. Dizi sezonu yaklaşırken &quot;Taşacak Bu Deniz ne zaman başlayacak&quot; sorusu hızlanıyor.",
+      "url": "https://www.dunya.com/yasam/tasacak-bu-deniz-ne-zaman-baslayacak-yeni-sezon-tarihi-belli-oldu-mu-haberi-836242",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T12:55:00"
+    },
+    {
+      "title": "Süper Lig’de yeni dönem: Yabancı VAR, çipli top ve gol çizgisi teknolojisi geliyor",
+      "summary": "Süper Lig’de 2026-2027 sezonu başlarken TFF Başkanı İbrahim Hacıosmanoğlu, hakemlik sisteminde yeni dönemin ayrıntılarını açıkladı. Yeni sezonda yabancı VAR hakemleri görev yapacak, çipli top ve gol çizgisi teknolojisi devreye alınacak.",
+      "url": "https://www.dunya.com/spor/super-ligde-yeni-donem-yabanci-var-cipli-top-ve-gol-cizgisi-teknolojisi-geliyor-haberi-836241",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T12:44:00"
+    },
     {
       "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
       "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
       "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T12:28:54",
-      "ai": {
-        "impact": "Japonya ve Rusya arasındaki gerginlik artabilir, bu durum Asya piyasalarını olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Benchmark, FGI Industries hissesi için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-fgi-industries-hissesi-icin-hedef-fiyat-yukseltti-93CH-4030878",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:25:53",
-      "ai": {
-        "impact": "Benchmark'ın hedef fiyatını yükseltmesi FGI Industries hisselerine olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Delcath Systems tüzüğünü güncelledi, Delaware mahkemeleri münhasır forum olarak belirlendi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/delcath-systems-tuzugunu-guncelledi-delaware-mahkemeleri-munhasr-forum-olarak-belirlendi-93CH-4030876",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:23:51",
-      "ai": {
-        "impact": "Delcath Systems'in tüzüğünü güncellemesi şirketin iç işleyişini etkileyebilir ancak piyasalara genel etkisi sınırlı olabilir.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-14T12:28:54"
     },
     {
       "title": "ABD ile AB arasında yeni gerilim: Trump yönetiminden düzenleme resti",
       "summary": "ABD, Amerikan şirketlerini olumsuz etkilediğini savunduğu Avrupa Birliği&#039;nin çevre ve insan haklarına ilişkin düzenlemelerinin geri çekilmesi için baskısını artırıyor.",
       "url": "https://www.dunya.com/dunya/abd-ile-ab-arasinda-yeni-gerilim-trump-yonetiminden-duzenleme-resti-haberi-836240",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T12:23:00",
-      "ai": {
-        "impact": "ABD ve AB arasındaki gerilim ticaret savaşlarını tetikleyebilir, bu durum küresel ekonomiyi olumsuz etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Pentagon, Boeing ve RTX füze üretimini artırmak için anlaşma imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/pentagon-boeing-ve-rtx-fuze-uretimini-artrmak-icin-anlasma-imzalad-93CH-4030875",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:22:48",
-      "ai": {
-        "impact": "Pentagon'un Boeing ve RTX ile anlaşması savunma sanayisine yatırım yapılmasını teşvik edebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T12:23:00"
     },
     {
       "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
       "summary": "NATO fighters shot down a foreign drone over Latvia as Finland briefly restricted airspace and sea areas amid heightened Baltic security concerns.",
       "url": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T12:21:44",
-      "ai": {
-        "impact": "NATO'nun drone düşürmesi Rusya ile ilişkileri germeyebilir, bu durum Avrupa güvenliğini etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Columbia Banking System 0,37 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/columbia-banking-system-037-dolar-temettu-acklad-93CH-4030868",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:21:03",
-      "ai": {
-        "impact": "Columbia Banking System'in temettü açıklaması hissedarlara olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Sri Lanka hisseleri teknoloji kazançlarıyla ikinci haftasını yükselişle tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sri-lanka-hisseleri-teknoloji-kazanclaryla-ikinci-haftasn-yukselisle-tamamlad-93CH-4030867",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:21:01",
-      "ai": {
-        "impact": "Sri Lanka hisselerinin yükselişi ülkenin ekonomisinin toparlanmasına işaret edebilir.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T12:21:44"
     },
     {
       "title": "Letonya hava sahasında alarm: Türk F-16'ları İHA için havalandı",
@@ -95,83 +172,6 @@
       "url": "https://www.dunya.com/gundem/letonya-hava-sahasinda-alarm-turk-f-16lari-iha-icin-havalandi-haberi-836239",
       "source": "Dünya Gazetesi",
       "published": "2026-08-14T12:21:00"
-    },
-    {
-      "title": "PDS Biotechnology hissedarları tüzük değişikliğini onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/pds-biotechnology-hissedarlar-tuzuk-degisikligini-onaylad-93CH-4030865",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:20:01"
-    },
-    {
-      "title": "Yeni enflasyon verileri sonrası Fed’in Eylül’de faizleri sabit tutması bekleniyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/yeni-enflasyon-verileri-sonras-fedin-eylulde-faizleri-sabit-tutmas-bekleniyor-4030869",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:19:55"
-    },
-    {
-      "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-      "summary": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T12:17:42"
-    },
-    {
-      "title": "Fort Technology 2026 ilk yarı geliri %49 artışla 7,36 milyon dolar",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/fort-technology-2026-ilk-yar-geliri-49-artsla-736-milyon-dolar-93CH-4030862",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:17:38"
-    },
-    {
-      "title": "Maris-Tech savunma çalışmaları için AS9100D sertifikası aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/maristech-savunma-calsmalar-icin-as9100d-sertifikas-ald-93CH-4030861",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:17:21"
-    },
-    {
-      "title": "Embecta CEO’su Devdatt Kurdikar 140.937 dolarlık hisse satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/embecta-ceosu-devdatt-kurdikar-140937-dolarlk-hisse-satn-ald-93CH-4030860",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T12:16:53"
-    },
-    {
-      "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
-      "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
-      "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T12:15:01"
-    },
-    {
-      "title": "KPSS sınav yerleri ne zaman, hangi tarihte belli olacak? KPSS Lisans sınav giriş belgesi ne zaman açıklanacak?",
-      "summary": "KPSS Lisans sınavları için zaman daralıyor. Yüz binler sınav hazırlıklarını sürdürürken akıllardaki konu sınav giriş belgesi... Binlerce kişi her gün &quot;KPSS sınav yerleri ne zaman, hangi tarihte belli olacak&quot; diye soruyor.",
-      "url": "https://www.dunya.com/gundem/kpss-sinav-yerleri-ne-zaman-hangi-tarihte-belli-olacak-kpss-lisans-sinav-giris-belgesi-ne-zaman-aciklanacak-haberi-836238",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T12:14:00"
-    },
-    {
-      "title": "Elon Musk bir işçinin yıllık kazancını 4,23 saniyede kazanıyor",
-      "summary": "Tesla CEO’su Elon Musk’ın 2025 yılı için aldığı devasa ücret paketi, ABD’de yönetici ve çalışanlar arasındaki gelir farkını yeniden gündeme taşıdı. AFL-CIO’nun raporuna göre Musk’ın Tesla’dan aldığı toplam ücret, ortalama bir Tesla çalışanının kazancının 2,5 milyon katını aştı. Hesaplamaya göre Musk, ortanca bir Tesla çalışanının bir yılda kazandığı paraya yalnızca 4,23 saniyede ulaştı.",
-      "url": "https://www.dunya.com/ekonomi/elon-musk-bir-iscinin-yillik-kazancini-423-saniyede-kazaniyor-haberi-836237",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T12:04:00"
-    },
-    {
-      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-      "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
-      "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T12:03:32"
-    },
-    {
-      "title": "DeepSeek’ten yapay zekâya 4 kat zam",
-      "summary": "Çinli yapay zekâ şirketi DeepSeek, V4 modellerinde fiyat tarifesini sert biçimde yukarı çekiyor. 16 Ağustos akşamı devreye girecek yeni sistemle yoğun saat ücretleri bazı kalemlerde 4,5 kata yaklaşırken, şirketin ucuz model avantajı da daralıyor.",
-      "url": "https://www.dunya.com/ekonomi/deepseekten-yapay-zekaya-4-kat-zam-haberi-836234",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:55:00"
     }
   ]
 }
