@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-14T14:37:44+03:00",
+  "updated_at": "2026-08-14T15:43:27+03:00",
   "news": [
-    {
-      "title": "UYDU GÜNCELLEME FREKANSI: Kanal ve frekans ayarı nasıl yapılır?",
-      "summary": "Televizyonlarda yeni dönem başlıyor. Türksat 3A&#039;daki yayınlar yeni uydulara aktarılacak. Şimdi vatandaşlar konu hakkında bilgi almak isterken sık sık &quot;Uydu güncelleme frekansı nedir&quot; diye soruluyor.",
-      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/uydu-guncelleme-frekansi-kanal-ve-frekans-ayari-nasil-yapilir-haberi-836230",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:29:00",
-      "ai": {
-        "impact": "Haber Türkiye'de uydu güncelleme frekansına ilişkin bilgi ihtiyacını karşılayabilir, ancak finansal piyasalara etkisi yok.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Mansur Yavaş'tan İYİ Parti iddialarına yanıt: Bizim önceliğimiz Ankara",
-      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, İYİ Parti&#039;ye geçeceği yönündeki iddialara yanıt verdi. Yavaş, &quot;Benimle ilgili bir gelişme olduğunda bunu başkalarından değil, doğrudan benden duyarsınız. Biz bütün bu tartışmaların dışında, işimizin başındayız&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/mansur-yavastan-iyi-parti-iddialarina-yanit-bizim-onceligimiz-ankara-haberi-836229",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:28:00",
-      "ai": {
-        "impact": "Siyasi gelişmelerin ekonomi üzerinde etkisi olabilir, ancak bu haberin doğrudan finansal piyasalara etkisi yok.",
-        "sentiment": "Nötr"
-      }
-    },
-    {
-      "title": "Giresun'da bir facia daha! 2 kişi kayıp...",
-      "summary": "Giresun&#039;un Keşap ilçesinde şiddetli yağışların yol açtığı sel ve heyelanlar hayatı olumsuz etkiledi. Köylerine gitmek için yola çıkan bilgisayar öğretmeni Mehmet Akkaya ile yeğeni Muhammed Abdullah Hakkıoğlu&#039;nun bulunduğu araç sel sularına kapıldı. Araçtaki bir kişi kendi imkânlarıyla kurtulurken, kayıp iki kişiyi arama çalışmaları sürüyor.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/giresunda-bir-facia-daha-2-kisi-kayip-galeri-836228",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:25:00",
-      "ai": {
-        "impact": "Doğal afetler ekonomi üzerinde negatif etki yaratabilir, özellikle yerel düzeyde.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "ABD borcuna 25 yılın en ağır faturası",
-      "summary": "ABD’nin büyüyen borç yükü tahvil piyasasında faturayı ağırlaştırdı. Hazine, 30 yıllık borçlanmada yüzde 5,216 faiz ödemek zorunda kalırken maliyet 2001’den bu yana en yüksek seviyeye çıktı. Toplam federal borç ise 40 trilyon dolara yaklaştı.",
-      "url": "https://www.dunya.com/ekonomi/abd-borcuna-25-yilin-en-agir-faturasi-haberi-836231",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:23:00",
-      "ai": {
-        "impact": "ABD'nin artan borç yükü küresel ekonomi ve finansal piyasalar üzerinde negatif bir etki yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Data centers in space could be a new frontier for insurers — if they can price the risk",
-      "summary": "The push to build data centers has moved to lower Earth orbit, and insurers could be facing a new market with plenty of complexity.",
-      "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T11:19:51",
-      "ai": {
-        "impact": "Uzaydaki veri merkezleri yeni bir sigorta piyasası oluşturabilir, ancak bu haberin doğrudan finansal piyasalara etkisi sınırlı.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Giresun'da boğulan anne ve iki kızı son yolculuğuna uğurlandı",
-      "summary": "Giresun’un Görele ilçesinde şiddetli yağışların ardından yükselen sel suları Kırca ailesini ayırdı. Sel sularına kapılan baba Mehmet Kırca kendi imkânlarıyla kurtulurken, onu kurtarmaya çalışan eşi Zekiye Kırca ile kızları Burcu ve Burçin Kırca hayatını kaybetti. Anne ve iki kızı gözyaşları arasında son yolculuklarına uğurlandı.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/giresunda-bogulan-anne-ve-iki-kizi-son-yolculuguna-ugurlandi-galeri-836227",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:19:00",
-      "ai": {
-        "impact": "Doğal afetler yerel ekonomi üzerinde negatif etki yaratabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Porsche elektrikli otomobilde frene basıyor",
-      "summary": "Elektrikli araç talebindeki zayıflama Porsche&#039;nin planlarını değiştirmeye devam ediyor. Satışları son yıllarda sert şekilde gerileyen Taycan&#039;ın üretiminin 2030&#039;a kadar aşamalı olarak sonlandırılabileceği öne sürüldü.",
-      "url": "https://www.dunya.com/sektorler/otomotiv/porsche-elektrikli-otomobilde-frene-basiyor-haberi-836226",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:15:00",
-      "ai": {
-        "impact": "Porsche'nin elektrikli otomobil üretim planlarını değiştirmesi şirketin finansal performansını etkileyebilir.",
-        "sentiment": "Negatif"
-      }
-    },
     {
       "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
       "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
       "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T11:13:00",
+      "published": "2026-08-14T12:28:54",
       "ai": {
-        "impact": "Uluslararası gerilimler küresel ekonomi ve finansal piyasalar üzerinde negatif bir etki yaratabilir.",
+        "impact": "Japonya ve Rusya arasındaki gerginlik artabilir, bu durum Asya piyasalarını olumsuz etkileyebilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "AGS sonuçları ne zaman, hangi gün açıklanacak? İşte ÖSYM'nin takvimi...",
-      "summary": "AGS sonuçları için heyecanlı bekleyiş devam ediyor. Öğretmen adayları 26 Temmuz&#039;da sınava girdiler ve bugün üzerinden 19 gün geçti. ÖSYM daha önce takvimi duyurmuştu fakat bundan haberdar olmayanlar &quot;AGS sonuçları ne zaman, hangi gün açıklanacak&quot; sorusunu yöneltiyor.",
-      "url": "https://www.dunya.com/gundem/ags-sonuclari-ne-zaman-hangi-gun-aciklanacak-iste-osymnin-takvimi-haberi-836223",
+      "title": "Benchmark, FGI Industries hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-fgi-industries-hissesi-icin-hedef-fiyat-yukseltti-93CH-4030878",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:25:53",
+      "ai": {
+        "impact": "Benchmark'ın hedef fiyatını yükseltmesi FGI Industries hisselerine olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Delcath Systems tüzüğünü güncelledi, Delaware mahkemeleri münhasır forum olarak belirlendi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/delcath-systems-tuzugunu-guncelledi-delaware-mahkemeleri-munhasr-forum-olarak-belirlendi-93CH-4030876",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:23:51",
+      "ai": {
+        "impact": "Delcath Systems'in tüzüğünü güncellemesi şirketin iç işleyişini etkileyebilir ancak piyasalara genel etkisi sınırlı olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "ABD ile AB arasında yeni gerilim: Trump yönetiminden düzenleme resti",
+      "summary": "ABD, Amerikan şirketlerini olumsuz etkilediğini savunduğu Avrupa Birliği&#039;nin çevre ve insan haklarına ilişkin düzenlemelerinin geri çekilmesi için baskısını artırıyor.",
+      "url": "https://www.dunya.com/dunya/abd-ile-ab-arasinda-yeni-gerilim-trump-yonetiminden-duzenleme-resti-haberi-836240",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:10:00"
+      "published": "2026-08-14T12:23:00",
+      "ai": {
+        "impact": "ABD ve AB arasındaki gerilim ticaret savaşlarını tetikleyebilir, bu durum küresel ekonomiyi olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Kedinin ısırdığı 4 yaşındaki çocukta kuduz tespit edildi: Entübe edildi",
-      "summary": "Diyarbakır&#039;da yaklaşık 4 ay önce sokak kedisinin dudağından ısırdığı 4 yaşındaki çocuk, rahatsızlanmasının ardından hastanede entübe edildi. Alınan numunelerde kuduz testinin pozitif çıkması üzerine mahallede çalışma başlatıldı.",
-      "url": "https://www.dunya.com/gundem/kedinin-isirdigi-4-yasindaki-cocukta-kuduz-tespit-edildi-entube-edildi-haberi-836224",
+      "title": "Pentagon, Boeing ve RTX füze üretimini artırmak için anlaşma imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/pentagon-boeing-ve-rtx-fuze-uretimini-artrmak-icin-anlasma-imzalad-93CH-4030875",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:22:48",
+      "ai": {
+        "impact": "Pentagon'un Boeing ve RTX ile anlaşması savunma sanayisine yatırım yapılmasını teşvik edebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
+      "summary": "NATO fighters shot down a foreign drone over Latvia as Finland briefly restricted airspace and sea areas amid heightened Baltic security concerns.",
+      "url": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T12:21:44",
+      "ai": {
+        "impact": "NATO'nun drone düşürmesi Rusya ile ilişkileri germeyebilir, bu durum Avrupa güvenliğini etkileyebilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "Columbia Banking System 0,37 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/columbia-banking-system-037-dolar-temettu-acklad-93CH-4030868",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:21:03",
+      "ai": {
+        "impact": "Columbia Banking System'in temettü açıklaması hissedarlara olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Sri Lanka hisseleri teknoloji kazançlarıyla ikinci haftasını yükselişle tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sri-lanka-hisseleri-teknoloji-kazanclaryla-ikinci-haftasn-yukselisle-tamamlad-93CH-4030867",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:21:01",
+      "ai": {
+        "impact": "Sri Lanka hisselerinin yükselişi ülkenin ekonomisinin toparlanmasına işaret edebilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Letonya hava sahasında alarm: Türk F-16'ları İHA için havalandı",
+      "summary": "NATO Sözcüsü Allison Hart, Letonya hava sahasına giren İHA nedeniyle Estonya&#039;dan Türk F-16&#039;ları ile Litvanya&#039;dan İtalyan Eurofighter&#039;larının havalandığını bildirdi. Hart, NATO&#039;nun olası tehditlere karşı 7 gün 24 saat hazır olduğunu vurguladı.",
+      "url": "https://www.dunya.com/gundem/letonya-hava-sahasinda-alarm-turk-f-16lari-iha-icin-havalandi-haberi-836239",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:09:00"
+      "published": "2026-08-14T12:21:00"
     },
     {
-      "title": "Venezuela 31 ton altınını geri istiyor: Hükümet ve muhalefet anlaştı",
-      "summary": "Venezuela’da hükümet ve muhalefet, yıllardır İngiltere Merkez Bankası kasalarında tutulan yaklaşık 4 milyar dolarlık 31 ton altının geri verilmesi için aynı talepte buluştu. Rezervin deprem sonrası yeniden yapılanmada kullanılması planlanıyor.",
-      "url": "https://www.dunya.com/ekonomi/venezuela-31-ton-altinini-geri-istiyor-hukumet-ve-muhalefet-anlasti-haberi-836225",
+      "title": "PDS Biotechnology hissedarları tüzük değişikliğini onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/pds-biotechnology-hissedarlar-tuzuk-degisikligini-onaylad-93CH-4030865",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:20:01"
+    },
+    {
+      "title": "Yeni enflasyon verileri sonrası Fed’in Eylül’de faizleri sabit tutması bekleniyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/yeni-enflasyon-verileri-sonras-fedin-eylulde-faizleri-sabit-tutmas-bekleniyor-4030869",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:19:55"
+    },
+    {
+      "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
+      "summary": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T12:17:42"
+    },
+    {
+      "title": "Fort Technology 2026 ilk yarı geliri %49 artışla 7,36 milyon dolar",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fort-technology-2026-ilk-yar-geliri-49-artsla-736-milyon-dolar-93CH-4030862",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:17:38"
+    },
+    {
+      "title": "Maris-Tech savunma çalışmaları için AS9100D sertifikası aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/maristech-savunma-calsmalar-icin-as9100d-sertifikas-ald-93CH-4030861",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:17:21"
+    },
+    {
+      "title": "Embecta CEO’su Devdatt Kurdikar 140.937 dolarlık hisse satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/embecta-ceosu-devdatt-kurdikar-140937-dolarlk-hisse-satn-ald-93CH-4030860",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T12:16:53"
+    },
+    {
+      "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
+      "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.",
+      "url": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T12:15:01"
+    },
+    {
+      "title": "KPSS sınav yerleri ne zaman, hangi tarihte belli olacak? KPSS Lisans sınav giriş belgesi ne zaman açıklanacak?",
+      "summary": "KPSS Lisans sınavları için zaman daralıyor. Yüz binler sınav hazırlıklarını sürdürürken akıllardaki konu sınav giriş belgesi... Binlerce kişi her gün &quot;KPSS sınav yerleri ne zaman, hangi tarihte belli olacak&quot; diye soruyor.",
+      "url": "https://www.dunya.com/gundem/kpss-sinav-yerleri-ne-zaman-hangi-tarihte-belli-olacak-kpss-lisans-sinav-giris-belgesi-ne-zaman-aciklanacak-haberi-836238",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T11:06:00"
+      "published": "2026-08-14T12:14:00"
     },
     {
-      "title": "InvestingPro’nun Gerçeğe Uygun Değeri UTI’ın %46’lık Düşüşünü Önceden Tespit Etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-utin-46lk-dususunu-onceden-tespit-etti-93CH-4030640",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T11:03:30"
-    },
-    {
-      "title": "Tarfin Tarım, 50 milyon TL’lik 68 günlük finansman bonosu ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/tarfin-tarm-50-milyon-tllik-68-gunluk-finansman-bonosu-ihrac-etti-93CH-4030637",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T11:02:21"
-    },
-    {
-      "title": "Heritage Financial EVP’si 111.129 dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/heritage-financial-evpsi-111129-dolarlk-hisse-satt-93CH-4030635",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T11:01:57"
-    },
-    {
-      "title": "Altındaki bu mini ralliye katılmalı mısınız? Citi değerlendirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/altndaki-bu-mini-ralliye-katlmal-msnz-citi-degerlendirdi-4030626",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T10:59:14"
-    },
-    {
-      "title": "BTIG, Braze için hisse hedefini 35 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/btig-braze-icin-hisse-hedefini-35-dolara-yukseltti-93CH-4030624",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T10:58:25"
-    },
-    {
-      "title": "Raymond James, SpyGlass Pharma hissesine alım önerisi verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-spyglass-pharma-hissesine-alm-onerisi-verdi-93CH-4030623",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T10:58:16"
-    },
-    {
-      "title": "Raymond James, Aveanna Healthcare hissesi için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-aveanna-healthcare-hissesi-icin-hedef-fiyat-yukseltti-93CH-4030619",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T10:57:53"
-    },
-    {
-      "title": "ACCO Brands, bilgisayar çevre birimleri için Trust’ı satın alıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/acco-brands-bilgisayar-cevre-birimleri-icin-trust-satn-alyor-93CH-4030617",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T10:57:35"
-    },
-    {
-      "title": "Güney Kore’de 5 bin 600 işletme için son yaz",
-      "summary": "Güney Kore’de yüzlerce yıllık bir tüketim alışkanlığı sona yaklaşıyor. Köpek eti üretimi ve satışını yasaklayan düzenleme Şubat 2027’de tamamen yürürlüğe girecek. 5 bin 600’den fazla işletmenin etkilendiği sektörde çiftliklerin yüzde 82’si şimdiden kapandı.",
-      "url": "https://www.dunya.com/gundem/guney-korede-5-bin-600-isletme-icin-son-yaz-haberi-836222",
+      "title": "Elon Musk bir işçinin yıllık kazancını 4,23 saniyede kazanıyor",
+      "summary": "Tesla CEO’su Elon Musk’ın 2025 yılı için aldığı devasa ücret paketi, ABD’de yönetici ve çalışanlar arasındaki gelir farkını yeniden gündeme taşıdı. AFL-CIO’nun raporuna göre Musk’ın Tesla’dan aldığı toplam ücret, ortalama bir Tesla çalışanının kazancının 2,5 milyon katını aştı. Hesaplamaya göre Musk, ortanca bir Tesla çalışanının bir yılda kazandığı paraya yalnızca 4,23 saniyede ulaştı.",
+      "url": "https://www.dunya.com/ekonomi/elon-musk-bir-iscinin-yillik-kazancini-423-saniyede-kazaniyor-haberi-836237",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T10:54:00"
+      "published": "2026-08-14T12:04:00"
+    },
+    {
+      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+      "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
+      "url": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-14T12:03:32"
+    },
+    {
+      "title": "DeepSeek’ten yapay zekâya 4 kat zam",
+      "summary": "Çinli yapay zekâ şirketi DeepSeek, V4 modellerinde fiyat tarifesini sert biçimde yukarı çekiyor. 16 Ağustos akşamı devreye girecek yeni sistemle yoğun saat ücretleri bazı kalemlerde 4,5 kata yaklaşırken, şirketin ucuz model avantajı da daralıyor.",
+      "url": "https://www.dunya.com/ekonomi/deepseekten-yapay-zekaya-4-kat-zam-haberi-836234",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T11:55:00"
     }
   ]
 }
