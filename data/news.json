@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-14T12:33:21+03:00",
+  "updated_at": "2026-08-14T13:50:27+03:00",
   "news": [
     {
-      "title": "Dang virüsü nedir, öldürür mü?",
-      "summary": "Gazeteci Serdar Akinan Dang virüsüne yakalandığını açıkladı. Gözyaşları ile durumunu açıklayan Akinan vasiyetini de duyurdu. Bu gelişme sonrası &quot;Dang virüsü nedir, öldürür mü&quot; soruları peş peşe gelmeye başladı.",
-      "url": "https://www.dunya.com/gundem/dang-virusu-nedir-oldurur-mu-haberi-836206",
+      "title": "İYİ Parti Milletvekili Ömer Karakaş istifa etti",
+      "summary": "İYİ Parti Aydın Milletvekili Ömer Karakaş, partisinden istifa ettiğini açıkladı. Karakaş&#039;ın bugün AK Parti&#039;nin 25&#039;inci kuruluş yıl dönümü programına katılarak partiye geçmesi bekleniyor.",
+      "url": "https://www.dunya.com/gundem/iyi-parti-milletvekili-omer-karakas-istifa-etti-haberi-836219",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:23:00",
+      "published": "2026-08-14T10:41:00",
       "ai": {
-        "impact": "Dang virüsünün yayılması halk sağlığı açısından endişe yaratmaktadır, ancak bu durumun Türkiye ve dünya piyasalarına etkisi sınırlı olacaktır.",
+        "impact": "İYİ Parti Milletvekili Ömer Karakaş'ın istifası ve muhtemel AK Parti'ye geçmesi, Türkiye'de siyasi dengeleri etkileyebilir. Ancak bu durum, genel olarak finans piyasalarına doğrudan bir etkisi olmayacaktır.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan AK Parti'nin 25. yılına özel mesaj: Yeni dönemin yol haritasını açıkladı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti&#039;nin 25. kuruluş yılı dolayısıyla Al Arabiya için kaleme aldığı makalede çeyrek asırlık dönemi değerlendirdi. Erdoğan, enflasyonla mücadeleden yapay zeka ve savunma sanayisine kadar yeni dönemin önceliklerini sıralayarak reform mesajı verdi.",
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogandan-ak-partinin-25-yilina-ozel-mesaj-yeni-donemin-yol-haritasini-acikladi-haberi-836207",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:23:00",
+      "title": "LyondellBasell 0,69 dolar çeyreklik temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lyondellbasell-069-dolar-ceyreklik-temettu-acklad-93CH-4030554",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T10:37:02",
       "ai": {
-        "impact": "Cumhurbaşkanı Erdoğan'ın açıklamaları reform mesajı olarak algılanabilir ve piyasalara olumlu yansıyabilir. Ancak, siyasi gelişmelerin ekonomik etkileri genellikle karmaşıktır.",
+        "impact": "LyondellBasell'in çeyreklik temettü açıklaması, şirketin finansal performansını gösterir. Bu, yatırımcılar için önemli bir veri olabilir.",
         "sentiment": "Pozitif"
       }
     },
     {
-      "title": "Gıda fiyatlarında yeni risk Asya’dan geliyor: 478 şirket El Niño için alarma geçti",
-      "summary": "Küresel şirketlerin gündeminde El Niño endişesi 2019’dan bu yana en yüksek seviyeye çıktı. Risk özellikle Hindistan ve Güneydoğu Asya’da yoğunlaşırken tarımsal üretimde olası kayıpların gıda fiyatlarını yeniden yukarı itmesinden korkuluyor.",
-      "url": "https://www.dunya.com/ekonomi/gida-fiyatlarinda-yeni-risk-asyadan-geliyor-478-sirket-el-nino-icin-alarma-gecti-haberi-836205",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:17:00",
-      "ai": {
-        "impact": "El Niño endişesi gıda fiyatlarında artışa neden olabilir ve küresel ekonomiyi etkileyebilir. Türkiye'de de gıda fiyatlarına yansıyabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Southern First CEO’su 1,3 milyon dolarlık hisse sattı",
+      "title": "Amcor denetçi olarak PwC ABD’yi atadı",
       "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/southern-first-ceosu-13-milyon-dolarlk-hisse-satt-93CH-4030429",
+      "url": "https://tr.investing.com/news/sec-filings/amcor-denetci-olarak-pwc-abdyi-atad-93CH-4030553",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:16:40",
+      "published": "2026-08-14T10:36:30",
       "ai": {
-        "impact": "Southern First CEO'sunun hisse satışı şirketin performansını veya genel piyasaları doğrudan etkilemeyebilir.",
+        "impact": "Amcor'un denetçi olarak PwC ABD'yi ataması, şirketin iç denetim süreçlerini etkileyebilir. Ancak bu, genel olarak finans piyasalarına büyük bir etkisi olmayacaktır.",
         "sentiment": "Nötr"
       }
     },
     {
-      "title": "HelloFresh hisseleri neden düşüyor?",
+      "title": "BTIG, Kontoor Brands için hisse hedefini 105 dolara yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/hellofresh-hisseleri-neden-dusuyor-93CH-4030426",
+      "url": "https://tr.investing.com/news/analyst-ratings/btig-kontoor-brands-icin-hisse-hedefini-105-dolara-yukseltti-93CH-4030552",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:15:44",
+      "published": "2026-08-14T10:36:04",
       "ai": {
-        "impact": "HelloFresh hisselerinin düşmesi şirketin performansına veya sektörel eğilimlere bağlı olabilir, ancak genel piyasalara etkisi sınırlıdır.",
+        "impact": "BTIG'in Kontoor Brands için hisse hedefini yükseltmesi, şirketin gelecekteki performansına dair olumlu bir görüşü yansıtabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "WinVest Acquisition birleşme süresini uzatmak için son 30.000 doları çekti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/winvest-acquisition-birlesme-suresini-uzatmak-icin-son-30000-dolar-cekti-93CH-4030548",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T10:32:51",
+      "ai": {
+        "impact": "WinVest Acquisition'ın birleşme süresini uzatmak için fon çekmesi, şirketin stratejik adımlarını etkileyebilir. Ancak bu, genel olarak finans piyasalarına büyük bir etkisi olmayacaktır.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Vonovia hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/vonovia-hissesi-bugun-neden-dusuyor-93CH-4030546",
+      "source": "Investing Türkiye",
+      "published": "2026-08-14T10:31:52",
+      "ai": {
+        "impact": "Vonovia hissesinin düşmesi, şirketin performansına veya genel piyasa koşullarına bağlı olabilir. Bu, yatırımcılar için önemli bir veri olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "Citizens, OptimizeRx hisse hedefini makro istikrar ile yükseltti",
+      "title": "KOSPI ve SOX balonda mı? Citi yanıtladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-optimizerx-hisse-hedefini-makro-istikrar-ile-yukseltti-93CH-4030413",
+      "url": "https://tr.investing.com/news/stock-market-news/kospi-ve-sox-balonda-m-citi-yantlad-4030550",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:12:02",
+      "published": "2026-08-14T10:31:16",
       "ai": {
-        "impact": "OptimizeRx hisse hedefinin yükseltilmesi şirketin performansına olumlu yansıyabilir, ancak genel piyasalara etkisi sınırlıdır.",
-        "sentiment": "Pozitif"
+        "impact": "KOSPI ve SOX'un balon olup olmadığına dair Citi'nin görüşü, yatırımcılar için önemli bir analiz olabilir.",
+        "sentiment": "Nötr"
       }
     },
     {
-      "title": "Citizens, Sagimet’in hisse hedefini akne ilacı nedeniyle 29 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-sagimetin-hisse-hedefini-akne-ilac-nedeniyle-29-dolara-yukseltti-93CH-4030414",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T09:12:02",
+      "title": "Çin ve Orta Doğu lüks otomobili vurdu: Jaguar Land Rover’da kâr yüzde 80 eridi",
+      "summary": "Jaguar Land Rover’ın vergi sonrası kârı üç ayda 248 milyon sterlinden 66 milyon sterline geriledi. Çin’de satışların sert düşmesi, Orta Doğu’daki çatışmalar ve Range Rover üretimini aksatan tedarik sorunu lüks otomobil üreticisinin bilançosunu baskıladı.",
+      "url": "https://www.dunya.com/is-dunyasi/cin-ve-orta-dogu-luks-otomobili-vurdu-jaguar-land-roverda-kar-yuzde-80-eridi-haberi-836218",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T10:30:00",
       "ai": {
-        "impact": "Sagimet'in hisse hedefinin yükseltilmesi şirketin performansına olumlu yansıyabilir, ancak genel piyasalara etkisi sınırlıdır.",
-        "sentiment": "Pozitif"
+        "impact": "Jaguar Land Rover'ın kârında yaşanan düşüş, şirketin satışlarını ve genel performansını etkileyen faktörleri yansıtabilir. Bu, otomotiv sektöründe dikkatle izlenmesi gereken bir gelişmedir.",
+        "sentiment": "Negatif"
       }
     },
     {
-      "title": "SanDisk hisseleri neden yükseliyor?",
+      "title": "Lincoln International kayıt dışı işlemle 1,4 milyon hisse çıkardı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sandisk-hisseleri-neden-yukseliyor-93CH-4030410",
+      "url": "https://tr.investing.com/news/sec-filings/lincoln-international-kayt-ds-islemle-14-milyon-hisse-ckard-93CH-4030543",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:09:21",
-      "ai": {
-        "impact": "SanDisk hisselerinin yükselmesi şirketin performansına veya sektörel eğilimlere bağlı olabilir, ancak genel piyasalara etkisi sınırlıdır.",
-        "sentiment": "Pozitif"
-      }
+      "published": "2026-08-14T10:29:16"
     },
     {
-      "title": "Ünlülerin gözdesiydi: 19 yıllık lüks şirket iflasın eşiğinde",
-      "summary": "Lüks seyahat ve özel etkinlik sektörünün 19 yıllık şirketlerinden Private Drama Events mali darboğaza girdi. Katy Perry gibi dünyaca ünlü isimlerin organizasyonlarını üstlenen İngiltere merkezli şirket, yeniden yapılandırmadan tasfiyeye kadar uzanabilecek &quot;administration&quot; sürecine girdi.",
-      "url": "https://www.dunya.com/ekonomi/unlulerin-gozdesiydi-19-yillik-luks-sirket-iflasin-esiginde-haberi-836204",
+      "title": "Denize gidecekler dikkat! İstanbul dahil 7 ilde yasak kararı",
+      "summary": "Kuvvetli rüzgar, şiddetli yağış ve yüksek dalga beklentisi nedeniyle İstanbul, Bartın, Tekirdağ, Trabzon, Giresun, Kocaeli ve Kırklareli&#039;nin bazı ilçe ve sahillerinde denize girme yasağı getirildi. Yasakların süresi bölgelere göre değişirken, vatandaşlardan can güvenliği için uyarılara uymaları istendi.",
+      "url": "https://www.dunya.com/gundem/denize-gidecekler-dikkat-istanbul-dahil-7-ilde-yasak-karari-haberi-836217",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:09:00"
+      "published": "2026-08-14T10:27:00"
     },
     {
-      "title": "Hayat Varlık Kiralama, 1 milyar TL kira sertifikası ödemesini tamamladı",
+      "title": "AP Moeller - Maersk hissesi neden yükselişte?",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/hayat-varlk-kiralama-1-milyar-tl-kira-sertifikas-odemesini-tamamlad-93CH-4030402",
+      "url": "https://tr.investing.com/news/stock-market-news/ap-moeller--maersk-hissesi-neden-yukseliste-93CH-4030541",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:08:59"
+      "published": "2026-08-14T10:26:12"
     },
     {
-      "title": "PSK Holdings hissesi bugün neden yükseldi?",
+      "title": "Diginex, Resulticks satın alma şartlarını revize etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/psk-holdings-hissesi-bugun-neden-yukseldi-93CH-4030401",
+      "url": "https://tr.investing.com/news/company-news/diginex-resulticks-satn-alma-sartlarn-revize-etti-93CH-4030540",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:07:52"
+      "published": "2026-08-14T10:25:54"
     },
     {
-      "title": "Bera Holding’in MPG Makine’si 1,96 milyon dolarlık sözleşme imzaladı",
+      "title": "Rusya, ABD’yi Ukrayna saldırılarına derin müdahaleyle suçladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/bera-holdingin-mpg-makinesi-196-milyon-dolarlk-sozlesme-imzalad-93CH-4030400",
+      "url": "https://tr.investing.com/news/economy-news/rusya-abdyi-ukrayna-saldrlarna-derin-mudahaleyle-suclad-93CH-4030538",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T09:06:58"
+      "published": "2026-08-14T10:24:45"
     },
     {
-      "title": "Citizens, güçlü hacim artışı sonrası Jefferson Capital hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-guclu-hacim-arts-sonras-jefferson-capital-hisse-hedefini-yukseltti-93CH-4030399",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T09:06:02"
-    },
-    {
-      "title": "Citizens, Omada Health için hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-omada-health-icin-hisse-hedefini-yukseltti-93CH-4030398",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T09:06:01"
-    },
-    {
-      "title": "Matriks’in net kârı yüzde 31,4 arttı: İlk yarıda 118,3 milyon TL’ye ulaştı",
-      "summary": "Matriks Finansal Teknolojiler, 2026 yılının ilk yarısında net kârını reel olarak yüzde 31,4 artırarak 118,3 milyon TL’ye çıkardı. Şirketin hasılatı yüzde 13,1 artışla 801,3 milyon TL’ye ulaşırken, özkaynakları 1,24 milyar TL seviyesine yükseldi. Matriks, finansal sonuçlarının yanı sıra yapay zekâ ve yüksek hızlı işlem teknolojilerindeki yeni yatırımlarını da açıkladı.",
-      "url": "https://www.dunya.com/sirketler/matriksin-net-kari-yuzde-314-artti-ilk-yarida-1183-milyon-tlye-ulasti-haberi-836203",
+      "title": "Gümüş 100 liraya dayandı: Dev bankanın hesabında iki uç senaryo var",
+      "summary": "Gümüş yeniden hareketlendi. Gram fiyat 100 TL sınırına yaklaşırken ons gümüş 64-65 dolar bandında tutunuyor. Ancak ocaktaki sert yükseliş ve ardından gelen çöküş unutulmuş değil. Bankaların yeni tahminleri ise yatırımcıya birbirinden oldukça farklı iki yol gösteriyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/gumus-100-liraya-dayandi-dev-bankanin-hesabinda-iki-uc-senaryo-var-galeri-836215",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:06:00"
+      "published": "2026-08-14T10:10:00"
     },
     {
-      "title": "Nintendo shares pop 7% after 'Pokémon Pokopia' sales top 5 million",
-      "summary": "Nintendo has been grappling with rising memory prices which forced the company to raise prices of its Switch 2 console which went on sale just over a year ago.",
-      "url": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T09:03:34"
-    },
-    {
-      "title": "Evren Çakarer: Merkez Bankası'nın enflasyon revizyonu faiz indiriminin önünü açabilir",
-      "summary": "TCMB&#039;nin yıl sonu enflasyon tahminini yüzde 28&#039;e yükseltmesinin ardından gözler faiz politikasına çevrildi. Bulls Yatırım Yurtiçi Satış Direktörü Evren Çakarer, eylül enflasyonunda ciddi bir bozulma yaşanmaması hâlinde ekimden itibaren faiz indiriminin konuşulabileceğini söyledi.",
-      "url": "https://www.dunya.com/ekonomi/evren-cakarer-merkez-bankasinin-enflasyon-revizyonu-faiz-indiriminin-onunu-acabilir-haberi-836202",
+      "title": "Euro Bölgesi durgunluktan çıktı: Büyüme yeniden başladı",
+      "summary": "Euro Bölgesi ekonomisi, yılın ilk çeyreğindeki durgunluğun ardından yeniden büyümeye geçti. GSYH ikinci çeyrekte önceki üç aylık döneme göre yüzde 0,4, yıllık bazda yüzde 1 arttı. AB ekonomisi ise çeyreklik yüzde 0,5 büyürken istihdam artışı her iki bölgede de yüzde 0,1’de kaldı.",
+      "url": "https://www.dunya.com/ekonomi/euro-bolgesi-durgunluktan-cikti-buyume-yeniden-basladi-haberi-836216",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T09:01:00"
+      "published": "2026-08-14T10:09:00"
     },
     {
-      "title": "Bill Gates nükleerde vites artırdı: Yapay zekânın elektriği için yeni ortaklık",
-      "summary": "Bill Gates’in kurduğu TerraPower, Güney Koreli SK Innovation ile küresel nükleer projeler için yeni anlaşma imzaladı. Yapay zekâ ve veri merkezlerinin artan elektrik ihtiyacı, küçük reaktör yarışını hızlandırıyor; hedef ABD dışına da açılmak.",
-      "url": "https://www.dunya.com/gundem/bill-gates-nukleerde-vites-artirdi-yapay-zekanin-elektrigi-icin-yeni-ortaklik-haberi-836201",
+      "title": "Televizyonlarda yeni dönem: Uydu yayınları taşınıyor",
+      "summary": "TÜRKSAT Uydu Haberleşme Kablo TV ve İşletme AŞ, televizyon ve radyolara hizmet veren Türksat 3A uydusundaki yayınların, 15 Ağustos&#039;u 16 Ağustos 2026&#039;ya bağlayan gece yüksek kapasiteli diğer uydulara aktarılacağını bildirdi.",
+      "url": "https://www.dunya.com/gundem/televizyonlarda-yeni-donem-uydu-yayinlari-tasiniyor-haberi-836214",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T08:59:00"
+      "published": "2026-08-14T10:02:00"
     },
     {
-      "title": "Avrupa'da sıcaklık alarmı: Bu yaz tarihin en sıcağı olabilir",
-      "summary": "İklim değişikliğinin etkisiyle aşırı sıcakların etkili olduğu Batı Avrupa&#039;da, bu yaz mevsiminin ölçümlerin başladığı tarihten bu yana kaydedilen &quot;en sıcak yaz&quot; olabileceği öngörülüyor.",
-      "url": "https://www.dunya.com/gundem/avrupada-sicaklik-alarmi-bu-yaz-tarihin-en-sicagi-olabilir-haberi-836199",
+      "title": "FB maçı tarihi ve saati... Gençlerbirliği - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Süper Lig heyecanı başlıyor. Bu akşam Galatasaray - Çorum ile kozlarını paylaşacak. Fenerbahçe taraftarı da takımının ne zaman sahaya çıkacağını merak ediyor. Sık sık gelen soru &quot;Gençlerbirliği - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda&quot; oluyor.",
+      "url": "https://www.dunya.com/spor/fb-maci-tarihi-ve-saati-genclerbirligi-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836212",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T08:48:00"
+      "published": "2026-08-14T09:58:00"
     },
     {
-      "title": "Hürmüz'de gerilim tırmanıyor: Petrol tankeri İHA ile vuruldu",
-      "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı&#039;nda bir petrol tankerinin insansız hava aracı (İHA) ile vurulduğunu duyurdu.",
-      "url": "https://www.dunya.com/enerji/hurmuzde-gerilim-tirmaniyor-petrol-tankeri-iha-ile-vuruldu-haberi-836198",
+      "title": "Ryanair uçağındaki dehşetin nedeni ortaya çıktı: Motor parçası camı parçaladı",
+      "summary": "Selanik’ten Almanya’ya giden Ryanair uçağında yolcunun kısmen dışarı çekilmesine yol açan olayın ilk teknik bulguları açıklandı. NTSB, sağ motordaki fan kanadının kırıldığını; parçaların gövdeyi delip 11. sıradaki pencereyi parçaladığını belirledi.",
+      "url": "https://www.dunya.com/gundem/ryanair-ucagindaki-dehsetin-nedeni-ortaya-cikti-motor-parcasi-cami-parcaladi-haberi-836213",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T08:45:00"
+      "published": "2026-08-14T09:55:00"
+    },
+    {
+      "title": "Yurt dışından getirilen araçlarda yeni dönem",
+      "summary": "Ticaret Bakanlığı, yurt dışında yaşayan kişiler tarafından geçici olarak Türkiye&#039;ye getirilen araçlara ilişkin esasları yeniden düzenledi. Emeklilik belgesinin kapsamı yeniden belirlenirken, hak sahibi dışında aracı kullanabilecek kişilere ilişkin şartlar da değiştirildi.",
+      "url": "https://www.dunya.com/sektorler/otomotiv/yurt-disindan-getirilen-araclarda-yeni-donem-haberi-836211",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T09:43:00"
+    },
+    {
+      "title": "İstanbul-Manila hattında kapasite ikiye katlandı",
+      "summary": "Türkiye ile Filipinler hava ulaşımında yeni anlaşmaya vardı. İstanbul-Manila hattındaki haftalık tarifeli uçuş hakkı 7’den 14’e çıkarılırken iki başkent dışındaki güzergâhlara sınırsız frekans hakkı verilmesi yeni hatların önünü açtı.",
+      "url": "https://www.dunya.com/ekonomi/istanbul-manila-hattinda-kapasite-ikiye-katlandi-haberi-836209",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-14T09:37:00"
     }
   ]
 }
