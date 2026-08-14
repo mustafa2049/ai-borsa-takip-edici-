@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:09:34+03:00",
+  "updated_at": "2026-08-14T18:13:27+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -8,11 +8,7 @@
       "return_1m": 9.98,
       "return_3m": 11.26,
       "return_6m": 57.25,
-      "return_1y": 82.21,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "TTE fonu son 1 yılda %82,21 getiri sağladı, ancak yüksek teknoloji ağırlığı nedeniyle riski yüksektir."
-      }
+      "return_1y": 82.21
     },
     {
       "code": "TGE",
@@ -21,11 +17,7 @@
       "return_1m": 7.43,
       "return_3m": -1.4,
       "return_6m": 21.21,
-      "return_1y": 61.47,
-      "ai": {
-        "risk": "Orta",
-        "comment": "TGE fonu emtia ve yabancı para birimi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
-      }
+      "return_1y": 61.47
     },
     {
       "code": "TMG",
@@ -34,11 +26,7 @@
       "return_1m": 6.13,
       "return_3m": 8.74,
       "return_6m": 22.89,
-      "return_1y": 45.69,
-      "ai": {
-        "risk": "Orta",
-        "comment": "TMG fonu yabancı hisse senedi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
-      }
+      "return_1y": 45.69
     },
     {
       "code": "AFA",
@@ -47,11 +35,7 @@
       "return_1m": 5.56,
       "return_3m": 10.16,
       "return_6m": 26.56,
-      "return_1y": 43.81,
-      "ai": {
-        "risk": "Orta",
-        "comment": "AFA fonu Amerika'da faaliyet gösteren şirketlere yatırım yaptığı için orta düzeyde risk içermektedir."
-      }
+      "return_1y": 43.81
     },
     {
       "code": "AFT",
@@ -60,11 +44,7 @@
       "return_1m": 5.21,
       "return_3m": 0.61,
       "return_6m": 18.88,
-      "return_1y": 44.58,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "AFT fonu yeni teknolojilere yatırım yaptığı için yüksek risk içermektedir."
-      }
+      "return_1y": 44.58
     },
     {
       "code": "IPB",
@@ -73,11 +53,7 @@
       "return_1m": 4.36,
       "return_3m": 5.07,
       "return_6m": 17.18,
-      "return_1y": 34.22,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "IPB fonu değişken yatırım stratejisi izlediği için düşük risk içermektedir."
-      }
+      "return_1y": 34.22
     },
     {
       "code": "YAC",
@@ -86,11 +62,7 @@
       "return_1m": 4.24,
       "return_3m": 3.12,
       "return_6m": 5.72,
-      "return_1y": 32.27,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "YAC fonu çeşitli sektörlere yatırım yaptığı için düşük risk içermektedir."
-      }
+      "return_1y": 32.27
     },
     {
       "code": "IPJ",
@@ -99,11 +71,7 @@
       "return_1m": 3.74,
       "return_3m": -1.79,
       "return_6m": 19.37,
-      "return_1y": 56.21,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "IPJ fonu elektrikli araçlara yatırım yaptığı için yüksek risk içermektedir."
-      }
+      "return_1y": 56.21
     },
     {
       "code": "DAH",
@@ -112,11 +80,7 @@
       "return_1m": 3.69,
       "return_3m": -4.81,
       "return_6m": -6.45,
-      "return_1y": 23.36,
-      "ai": {
-        "risk": "Orta",
-        "comment": "DAH fonu hisse senedi yatırımlarına odaklandığından orta düzeyde risk içermektedir."
-      }
+      "return_1y": 23.36
     },
     {
       "code": "TCD",
@@ -125,11 +89,7 @@
       "return_1m": 3.5,
       "return_3m": 3.36,
       "return_6m": 10.94,
-      "return_1y": 38.79,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "TCD fonu değişken yatırım stratejisi izlediği için düşük risk içermektedir."
-      }
+      "return_1y": 38.79
     },
     {
       "code": "YAY",
