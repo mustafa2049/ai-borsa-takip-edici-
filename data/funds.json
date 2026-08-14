@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:07:35+03:00",
+  "updated_at": "2026-08-14T12:33:21+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -11,7 +11,7 @@
       "return_1y": 82.21,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içinde %82,21 getiri elde etmiş olup, yüksek riskli bir yatırım fonudur. Teknoloji ağırlıklı olması nedeniyle piyasa dalgalanmalarına karşı duyarlıdır."
+        "comment": "TTE fonu yüksek getiri elde etmiş ancak yüksek risk içeriyor. Son 1 yıllık dönemde %82,21 getiri elde etmiş."
       }
     },
     {
@@ -24,7 +24,7 @@
       "return_1y": 61.47,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içinde %61,47 getiri elde etmiş olup, orta riskli bir yatırım fonudur. Emtia ve yabancı para birimi yatırımları nedeniyle kur ve fiyat dalgalanmalarına karşı duyarlıdır."
+        "comment": "TGE fonu orta düzeyde risk içeriyor ve son 1 yıllık dönemde %61,47 getiri elde etmiş."
       }
     },
     {
@@ -37,7 +37,7 @@
       "return_1y": 45.69,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içinde %45,69 getiri elde etmiş olup, orta riskli bir yatırım fonudur. Yabancı hisse senedi yatırımları nedeniyle küresel piyasa dalgalanmalarına karşı duyarlıdır."
+        "comment": "TMG fonu orta düzeyde risk içeriyor ve son 1 yıllık dönemde %45,69 getiri elde etmiş."
       }
     },
     {
@@ -50,7 +50,7 @@
       "return_1y": 43.81,
       "ai": {
         "risk": "Orta",
-        "comment": "Son 1 yıl içinde %43,81 getiri elde etmiş olup, orta riskli bir yatırım fonudur. Amerika odaklı yabancı hisse senedi yatırımları nedeniyle küresel piyasa dalgalanmalarına karşı duyarlıdır."
+        "comment": "AFA fonu orta düzeyde risk içeriyor ve son 1 yıllık dönemde %43,81 getiri elde etmiş."
       }
     },
     {
@@ -63,7 +63,7 @@
       "return_1y": 44.58,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içinde %44,58 getiri elde etmiş olup, yüksek riskli bir yatırım fonudur. Yeni teknolojiler odaklı yabancı hisse senedi yatırımları nedeniyle piyasa dalgalanmalarına karşı duyarlıdır."
+        "comment": "AFT fonu yüksek risk içeriyor ve son 1 yıllık dönemde %44,58 getiri elde etmiş."
       }
     },
     {
@@ -76,7 +76,7 @@
       "return_1y": 34.22,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %34,22 getiri elde etmiş olup, düşük riskli bir yatırım fonudur. Değişken yatırım stratejisi nedeniyle daha稳il bir getiri elde edebilir."
+        "comment": "IPB fonu düşük risk içeriyor ve son 1 yıllık dönemde %34,22 getiri elde etmiş."
       }
     },
     {
@@ -89,7 +89,7 @@
       "return_1y": 32.27,
       "ai": {
         "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %32,27 getiri elde etmiş olup, düşük riskli bir yatırım fonudur. Fon sepetsi yatırımları nedeniyle daha düşük riskli bir yatırım seçeneğidir."
+        "comment": "YAC fonu düşük risk içeriyor ve son 1 yıllık dönemde %32,27 getiri elde etmiş."
       }
     },
     {
@@ -102,7 +102,7 @@
       "return_1y": 56.21,
       "ai": {
         "risk": "Yüksek",
-        "comment": "Son 1 yıl içinde %56,21 getiri elde etmiş olup, yüksek riskli bir yatırım fonudur. Elektrikli araçlar odaklı karma yatırımları nedeniyle piyasa dalgalanmalarına karşı duyarlıdır."
+        "comment": "IPJ fonu yüksek risk içeriyor ve son 1 yıllık dönemde %56,21 getiri elde etmiş."
       }
     },
     {
@@ -114,8 +114,8 @@
       "return_6m": -6.45,
       "return_1y": 23.36,
       "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 yıl içinde %23,36 getiri elde etmiş olup, orta riskli bir yatırım fonudur. Hisse senedi yatırımları nedeniyle piyasa dalgalanmalarına karşı duyarlıdır."
+        "risk": "Yüksek",
+        "comment": "DAH fonu yüksek risk içeriyor ve son 1 yıllık dönemde %23,36 getiri elde etmiş."
       }
     },
     {
@@ -127,8 +127,8 @@
       "return_6m": 10.94,
       "return_1y": 38.79,
       "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 yıl içinde %38,79 getiri elde etmiş olup, düşük riskli bir yatırım fonudur. Değişken yatırım stratejisi nedeniyle daha稳il bir getiri elde edebilir."
+        "risk": "Orta",
+        "comment": "TCD fonu orta düzeyde risk içeriyor ve son 1 yıllık dönemde %38,79 getiri elde etmiş."
       }
     },
     {
