@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:33:12+03:00",
+  "updated_at": "2026-08-17T12:32:06+03:00",
   "funds": [
     {
       "code": "TTE",
@@ -8,11 +8,88 @@
       "return_1m": 9.65,
       "return_3m": 13.12,
       "return_6m": 55.65,
-      "return_1y": 83.93,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %9.65, son 6 ayda %55.65 getiri elde etti. Yüksek riskli bir yatırım fonudur."
-      }
+      "return_1y": 83.93
+    },
+    {
+      "code": "YAY",
+      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
+      "price": 1908.059186,
+      "return_1m": 7.39,
+      "return_3m": 12.0,
+      "return_6m": 47.57,
+      "return_1y": 81.42
+    },
+    {
+      "code": "AFT",
+      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
+      "price": 1.01378,
+      "return_1m": 6.86,
+      "return_3m": 2.46,
+      "return_6m": 23.67,
+      "return_1y": 46.58
+    },
+    {
+      "code": "AFA",
+      "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
+      "price": 1.291376,
+      "return_1m": 5.62,
+      "return_3m": 10.69,
+      "return_6m": 29.44,
+      "return_1y": 43.72
+    },
+    {
+      "code": "TMG",
+      "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
+      "price": 1.45682,
+      "return_1m": 5.33,
+      "return_3m": 9.46,
+      "return_6m": 25.72,
+      "return_1y": 46.15
+    },
+    {
+      "code": "TGE",
+      "name": "İŞ PORTFÖY EMTİA YABANCI BYF FON SEPETİ FONU",
+      "price": 0.289229,
+      "return_1m": 4.65,
+      "return_3m": -0.66,
+      "return_6m": 24.93,
+      "return_1y": 61.6
+    },
+    {
+      "code": "YAC",
+      "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
+      "price": 14.610334,
+      "return_1m": 4.5,
+      "return_3m": 4.37,
+      "return_6m": 6.78,
+      "return_1y": 33.09
+    },
+    {
+      "code": "IPJ",
+      "name": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
+      "price": 20.181845,
+      "return_1m": 4.2,
+      "return_3m": 0.62,
+      "return_6m": 21.34,
+      "return_1y": 56.96
+    },
+    {
+      "code": "TCD",
+      "name": "TACİRLER PORTFÖY DEĞIŞKEN FON",
+      "price": 49.410342,
+      "return_1m": 3.21,
+      "return_3m": 5.53,
+      "return_6m": 11.28,
+      "return_1y": 40.6
+    },
+    {
+      "code": "IPB",
+      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "price": 0.889423,
+      "return_1m": 1.86,
+      "return_3m": 5.64,
+      "return_6m": 16.15,
+      "return_1y": 33.32
     },
     {
       "code": "DAH",
@@ -21,11 +98,7 @@
       "return_1m": 1.2,
       "return_3m": -2.35,
       "return_6m": -6.65,
-      "return_1y": 26.08,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %1.2, son 6 ayda %-6.65 getiri elde etti. Orta riskli bir yatırım fonudur."
-      }
+      "return_1y": 26.08
     },
     {
       "code": "OPH",
@@ -34,11 +107,7 @@
       "return_1m": -0.15,
       "return_3m": 0.22,
       "return_6m": 3.28,
-      "return_1y": 34.25,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 ayda %-0.15, son 6 ayda %3.28 getiri elde etti. Düşük riskli bir yatırım fonudur."
-      }
+      "return_1y": 34.25
     },
     {
       "code": "TYH",
@@ -47,11 +116,7 @@
       "return_1m": -0.48,
       "return_3m": -2.59,
       "return_6m": -7.99,
-      "return_1y": 19.23,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %-0.48, son 6 ayda %-7.99 getiri elde etti. Orta riskli bir yatırım fonudur."
-      }
+      "return_1y": 19.23
     },
     {
       "code": "TI2",
@@ -60,11 +125,7 @@
       "return_1m": -1.42,
       "return_3m": -4.44,
       "return_6m": -7.86,
-      "return_1y": 16.87,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %-1.42, son 6 ayda %-7.86 getiri elde etti. Yüksek riskli bir yatırım fonudur."
-      }
+      "return_1y": 16.87
     },
     {
       "code": "IDH",
@@ -73,11 +134,7 @@
       "return_1m": -1.5,
       "return_3m": -2.92,
       "return_6m": 4.35,
-      "return_1y": 26.11,
-      "ai": {
-        "risk": "Orta",
-        "comment": "Son 1 ayda %-1.5, son 6 ayda %4.35 getiri elde etti. Orta riskli bir yatırım fonudur."
-      }
+      "return_1y": 26.11
     },
     {
       "code": "GMR",
@@ -86,11 +143,7 @@
       "return_1m": -1.76,
       "return_3m": -5.58,
       "return_6m": -3.84,
-      "return_1y": 23.38,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %-1.76, son 6 ayda %-3.84 getiri elde etti. Yüksek riskli bir yatırım fonudur."
-      }
+      "return_1y": 23.38
     },
     {
       "code": "NNF",
@@ -99,11 +152,7 @@
       "return_1m": -2.43,
       "return_3m": -0.63,
       "return_6m": -7.37,
-      "return_1y": 8.62,
-      "ai": {
-        "risk": "Düşük",
-        "comment": "Son 1 ayda %-2.43, son 6 ayda %-7.37 getiri elde etti. Düşük riskli bir yatırım fonudur."
-      }
+      "return_1y": 8.62
     },
     {
       "code": "GAF",
@@ -112,11 +161,7 @@
       "return_1m": -2.69,
       "return_3m": -5.5,
       "return_6m": -9.03,
-      "return_1y": 30.17,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %-2.69, son 6 ayda %-9.03 getiri elde etti. Yüksek riskli bir yatırım fonudur."
-      }
+      "return_1y": 30.17
     },
     {
       "code": "MAC",
@@ -125,11 +170,7 @@
       "return_1m": -3.95,
       "return_3m": -7.36,
       "return_6m": -6.8,
-      "return_1y": 16.38,
-      "ai": {
-        "risk": "Yüksek",
-        "comment": "Son 1 ayda %-3.95, son 6 ayda %-6.8 getiri elde etti. Yüksek riskli bir yatırım fonudur."
-      }
+      "return_1y": 16.38
     },
     {
       "code": "HKH",

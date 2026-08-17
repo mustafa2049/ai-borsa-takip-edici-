@@ -1,177 +1,145 @@
 {
-  "updated_at": "2026-08-17T11:33:12+03:00",
+  "updated_at": "2026-08-17T12:32:06+03:00",
   "news": [
     {
-      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-      "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
-      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T08:26:04",
-      "ai": {
-        "impact": "Çin ekonomisinin yavaşlaması küresel piyasalarda endişe yaratırken, Türkiye'nin ihracatına olumsuz yansıyabilir.",
-        "sentiment": "Negatif"
-      }
-    },
-    {
-      "title": "Son dakika... İran İHA'ları Erbil'de Barzani'nin ofisini hedef aldı",
-      "summary": "Son dakika... Irak basını, İran&#039;a ait 2 kamikaze İHA&#039;nın IKBY Başbakanı Masrur Barzani&#039;nin Erbil&#039;deki özel ofisi ve istihbarat şefinin konutunu hedef aldığını duyurdu. Saldırıda can kaybı yaşanmadığı belirtildi.",
-      "url": "https://www.dunya.com/dunya/son-dakika-iran-ihalari-erbilde-barzaninin-ofisini-hedef-aldi-haberi-836504",
+      "title": "Belçika tarihinin en büyük orman yangını: Alevler Almanya'ya ilerliyor",
+      "summary": "Belçika&#039;nın doğusunda günlerdir süren orman yangını ülke tarihinin en büyük yangınına dönüştü. 3 bin hektarlık alanın küle döndüğü yangın Almanya sınırına doğru ilerlerken, sınırın diğer tarafında tahliye çağrıları yapılmaya başlandı.",
+      "url": "https://www.dunya.com/video-galeri/diger/belcika-tarihinin-en-buyuk-orman-yangini-alevler-almanyaya-ilerliyor-video-836516",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T08:20:00",
-      "ai": {
-        "impact": "İran'ın Irak'ta gerçekleştirdiği saldırı, bölgesel gerilimi artırarak petrol fiyatlarına olumlu yansıyabilir, ancak Türkiye'nin bölgesel istikrarına olumsuz etkileri olabilir.",
-        "sentiment": "Negatif"
-      }
+      "published": "2026-08-17T09:25:00"
     },
     {
-      "title": "İhlas Holding iştiraki, sermayesini 585 milyon KGS’ye artırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/ihlas-holding-istiraki-sermayesini-585-milyon-kgsye-artrd-93CH-4032216",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:14:44",
-      "ai": {
-        "impact": "İhlas Holding'in sermaye artırımı, şirketin büyüme potansiyelini artırabilir ve Türkiye'de yatırımları teşvik edebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Vista Oil & Gas hissesi neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/vista-oil--gas-hissesi-neden-yukseliyor-93CH-4032213",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:14:12",
-      "ai": {
-        "impact": "Vista Oil & Gas hissesinin yükselmesi, enerji sektöründe yatırımları artırabilir ve küresel enerji talebine olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "İş Bankası, yurt dışında 100 milyon USD’lik tahvil ihracı tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/is-bankas-yurt-dsnda-100-milyon-usdlik-tahvil-ihrac-tamamlad-93CH-4032210",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:12:23",
-      "ai": {
-        "impact": "İş Bankası'nın yurt dışı tahvil ihracı, bankanın uluslararası finansman imkanlarını artırabilir ve Türkiye'nin kredi notuna olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Uydu frekansları değişti mi? TV kanal uydu güncelleme frekansı nedir, nasıl yapılır?",
-      "summary": "Televizyon kanalarının uydu frekansı değişti. Milyonlarca kişi yeni frekansı öğrenmek istiyor. İşte yeni uydu güncelleme frekansı...",
-      "url": "https://www.dunya.com/gundem/uydu-frekanslari-degisti-mi-tv-kanal-uydu-guncelleme-frekansi-nedir-nasil-yapilir-haberi-836503",
+      "title": "485 bin tarihi eser dijital ortama taşındı: Dünyanın her yerinden erişilebiliyor",
+      "summary": "Türkiye Yazma Eserler Kurumu Başkanlığı, geçmişi 1500 yıla kadar uzanan yüz binlerce yazma ve nadir matbu eseri dijital ortama aktardı. Dünyanın en büyük yazma eser portalı olarak belirtilen sistemde 485 bin eser erişime açılırken, ziyaretçi sayısı 1 milyon 366 bini geçti. Yapay zekânın da dahil olduğu yeni teknolojilerle dijital arşivin geliştirilmesi planlanıyor.",
+      "url": "https://www.dunya.com/dunya-kitap/485-bin-tarihi-eser-dijital-ortama-tasindi-dunyanin-her-yerinden-erisilebiliyor-haberi-836517",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T08:12:00",
-      "ai": {
-        "impact": "TV kanal uydu frekanslarının değişmesi, medya sektöründe kısa vadeli dalgalanmalara neden olabilir, ancak uzun vadeli etkileri sınırlı olabilir.",
-        "sentiment": "Nötr"
-      }
+      "published": "2026-08-17T09:25:00"
     },
     {
-      "title": "Sandoz hisseleri Henlius ile 322 milyon dolarlık anlaşma sonrası yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sandoz-hisseleri-henlius-ile-322-milyon-dolarlk-anlasma-sonras-yukseldi-4032211",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:11:34",
-      "ai": {
-        "impact": "Sandoz hisselerinin yükselmesi, ilaç sektöründe yatırımları artırabilir ve küresel sağlık piyasasına olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Skyalp, Borsa Istanbul ile 1,75 milyon USD’lik sözleşme imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/skyalp-borsa-istanbul-ile-175-milyon-usdlik-sozlesme-imzalad-93CH-4032208",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:11:28",
-      "ai": {
-        "impact": "Skyalp'in Borsa İstanbul ile imzaladığı sözleşme, şirketin büyüme potansiyelini artırabilir ve Türkiye'de teknoloji yatırımlarını teşvik edebilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Beşiktaş ve TERA Holding, bugün basketbol sponsorluğu imzalıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/besiktas-ve-tera-holding-bugun-basketbol-sponsorlugu-imzalyor-93CH-4032207",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:10:41"
-    },
-    {
-      "title": "Morgan Stanley, Target Hospitality hissesini ağırlıklı al önerisiyle başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-target-hospitality-hissesini-agrlkl-al-onerisiyle-baslatt-93CH-4032206",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:10:18"
-    },
-    {
-      "title": "Tera Yatırım, Beşiktaş ile kapsamlı finansal iş birliği başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/tera-yatrm-besiktas-ile-kapsaml-finansal-is-birligi-baslatt-93CH-4032205",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:08:30"
-    },
-    {
-      "title": "Gulf Marine Services hissesi neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hissesi-neden-yukseliste-93CH-4032203",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:07:14"
-    },
-    {
-      "title": "[Son Dakika] Hidropar’da iki pay sahibi hisse satışı görüşmelerine başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/son-dakika-hidroparda-iki-pay-sahibi-hisse-sats-gorusmelerine-baslad-93CH-4032202",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T08:07:01"
-    },
-    {
-      "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
-      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T08:06:38"
-    },
-    {
-      "title": "FB maçı tarihi ve saati... Fenerbahçe - Lyon maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "Fenerbahçe, Şampiyonlar Ligi Play-off turu ilk maçında Lyon ile karşı karşıya geliyor. Bu maça büyük öne atfeden Sarı Kanarya seyircisi önünde güzel bir skor elde ederek deplasmana avantajlı gitmek istiyor. Peki, Fenerbahçe - Lyon maçı ne zaman, saat kaçta, hangi kanalda?",
-      "url": "https://www.dunya.com/spor/fb-maci-tarihi-ve-saati-fenerbahce-lyon-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836498",
+      "title": "UYUM HAFTASI TARİHİ: Okullar ne zaman açılacak?",
+      "summary": "Milyonlarca öğrenci yeni eğitim öğretim yılı için sabırsızlık içinde... Eylül ayı yaklaştıkça okul açılış tarihi de sıkça araştırılıyor. Günler ilerliyor ve &quot;Okullar ne zaman açılacak&quot; sorusu hızlanıyor.",
+      "url": "https://www.dunya.com/gundem/uyum-haftasi-tarihi-okullar-ne-zaman-acilacak-haberi-836515",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:51:00"
+      "published": "2026-08-17T09:22:00"
     },
     {
-      "title": "İstanbul Havalimanı'nda yeni zirve: Uçuş ve yolcuda rekor",
-      "summary": "İstanbul Havalimanı, 16 Ağustos&#039;ta 1739 uçuş ve 290 bin 287 yolcuyla Türkiye ve Avrupa&#039;da tüm zamanların en yüksek günlük uçuş ve yolcu sayısına ulaştı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yeni rekorun havalimanının küresel aktarma merkezi konumunu daha da güçlendirdiğini belirtti.",
-      "url": "https://www.dunya.com/gundem/istanbul-havalimaninda-yeni-zirve-ucus-ve-yolcuda-rekor-haberi-836500",
+      "title": "1700 hektar alanın kül olmuştu: Fransa'daki yangın kontrol altına alındı",
+      "summary": "Fransa&#039;nın batısındaki Landes vilayetinde 13 Ağustos&#039;ta başlayan orman yangını, ekiplerin dört gün süren müdahalesinin ardından kontrol altına alındı.",
+      "url": "https://www.dunya.com/dunya/1700-hektar-alanin-kul-olmustu-fransadaki-yangin-kontrol-altina-alindi-haberi-836514",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:49:00"
+      "published": "2026-08-17T09:13:00"
     },
     {
-      "title": "Yapay zekâ zenginleri lüks kavramını değiştiriyor",
-      "summary": "Yapay zekâ şirketlerinin kurucuları, erken dönem çalışanları ve yatırımcıları son iki yılda sadece teknoloji dünyasında değil, lüks tüketim pazarında da yeni bir denge kurmaya başladı. Bu yeni müşteri kitlesi, önceki kuşak zenginlerden farklı olarak gösterişten çok hız, esneklik, kişiselleştirme ve dijital uyumluluk arıyor.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/yapay-zeka-zenginleri-luks-kavramini-degistiriyor-galeri-836499",
+      "title": "Rusya Ukrayna’nın Tuna kapısını vurdu: Tahıl ticaretinde risk büyüyor",
+      "summary": "Rusya’nın gece saldırıları Ukrayna’nın İzmail ve Odesa limanlarını yeniden hedef aldı. Karadeniz üzerinden tahıl sevkiyatının sert biçimde gerilediği dönemde Tuna rotasının da baskı altına girmesi, Kiev’in ihracat ve lojistik seçeneklerini daraltıyor.",
+      "url": "https://www.dunya.com/ekonomi/rusya-ukraynanin-tuna-kapisini-vurdu-tahil-ticaretinde-risk-buyuyor-haberi-836512",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:41:00"
+      "published": "2026-08-17T09:11:00"
     },
     {
-      "title": "Bitcoin'de bütün hesaplar değişebilir: Gözler Trump'ın kritik toplantısında",
-      "summary": "Bitcoin, geçen haftaki yüzde 3&#039;lük kaybının ardından haftanın ilk işlem gününde sınırlı yükselse de Hürmüz Boğazı&#039;ndaki ABD-İran gerilimi ve Washington&#039;daki düzenleme belirsizliği nedeniyle dar bir aralıkta kaldı. Spot Bitcoin ETF&#039;lerinden temmuz başından bu yana görülen en yüksek haftalık sermaye çıkışının yaşanması da fiyat üzerindeki baskıyı artırdı. Piyasaların odağında şim",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-butun-hesaplar-degisebilir-gozler-trumpin-kritik-toplantisinda-galeri-836501",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:39:00"
+      "title": "Citizens, LeonaBio’nun hisse hedefini 17 dolara düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-leonabionun-hisse-hedefini-17-dolara-dusurdu-93CH-4032335",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:10:19"
     },
     {
-      "title": "Kuzey Boru’dan 155,9 milyon TL’lik yeni sözleşme",
-      "summary": "Kuzey Boru (KBORU), belediyeler ile su ve kanalizasyon idareleriyle yürüttüğü ihale ve teklif süreçleri sonucunda toplam 155,9 milyon TL tutarında yeni sözleşmeler imzaladı. Teslimatların yılın son çeyreğinde tamamlanması planlanıyor.",
-      "url": "https://www.dunya.com/finans/haberler/kuzey-borudan-1559-milyon-tllik-yeni-sozlesme-haberi-836496",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:36:00"
+      "title": "Citizens, Domo hissesi için düşük performans notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-domo-hissesi-icin-dusuk-performans-notunu-korudu-93CH-4032334",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:09:50"
     },
     {
-      "title": "Apple yıllardır bunun için bekliyordu: Fiyatıyla sarsacak yeni iPhone geliyor",
-      "summary": "Katlanabilir telefon yarışında yıllardır rakiplerini izleyen Apple artık oyuna girmeye hazırlanıyor. Daha dayanıklı ekranlar, gelişen menteşeler ve olgunlaşan yazılımlar şirketin önündeki teknik riskleri azaltırken, yeni katlanabilir iPhone Apple&#039;ın bugüne kadar çıkardığı en pahalı telefonlardan biri olabilir.",
-      "url": "https://www.dunya.com/sirketler/apple-yillardir-bunun-icin-bekliyordu-fiyatiyla-sarsacak-yeni-iphone-geliyor-haberi-836502",
+      "title": "Gulf Marine Services hisseleri neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hisseleri-neden-yukseliyor-93CH-4032329",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:06:47"
+    },
+    {
+      "title": "Maersk hisseleri navlun oranlarıyla %5 yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/maersk-hisseleri-navlun-oranlaryla-5-yukseldi-4032333",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:06:36"
+    },
+    {
+      "title": "Nationwide Building Society sermaye hisselerini yeniden satacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nationwide-building-society-sermaye-hisselerini-yeniden-satacak-93CH-4032328",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:06:34"
+    },
+    {
+      "title": "A1 Capital, 383 milyon TL’lik AGROT toptan satışına aracılık ediyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/a1-capital-383-milyon-tllik-agrot-toptan-satsna-araclk-ediyor-93CH-4032326",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:05:18"
+    },
+    {
+      "title": "Citizens, ilaç lansmanı öncesi Celcuity hissesi notunu yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-ilac-lansman-oncesi-celcuity-hissesi-notunu-yineledi-93CH-4032325",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:03:59"
+    },
+    {
+      "title": "Citizens, Allogene hissesi için tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-allogene-hissesi-icin-tavsiyesini-yineledi-93CH-4032324",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:03:58"
+    },
+    {
+      "title": "Tera Yatırım, 585 milyon TL’lik bonosunun kupon oranını belirledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/tera-yatrm-585-milyon-tllik-bonosunun-kupon-orann-belirledi-93CH-4032323",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:03:41"
+    },
+    {
+      "title": "Garanti Bankası 125 milyon dolarlık sürdürülebilir tahvil ihracını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/garanti-bankas-125-milyon-dolarlk-surdurulebilir-tahvil-ihracn-tamamlad-93CH-4032322",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T09:03:08"
+    },
+    {
+      "title": "AK Parti'nin acı günü: Azize Sibel Gönül yaşamını yitirdi",
+      "summary": "Eski AK Parti Kocaeli Milletvekili ve AK Parti Genel Merkez Kadın Kolları Başkanlığı görevinde bulunan Azize Sibel Gönül, bir süredir kanser tedavisi gördüğü İstanbul&#039;daki hastanede 60 yaşında hayatını kaybetti. Cumhurbaşkanı Erdoğan, Gönül için yayımladığı mesajda ailesine, yakınlarına ve AK Parti teşkilatına başsağlığı diledi.",
+      "url": "https://www.dunya.com/gundem/ak-partinin-aci-gunu-azize-sibel-gonul-yasamini-yitirdi-haberi-836511",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:36:00"
+      "published": "2026-08-17T09:00:00"
+    },
+    {
+      "title": "Kayısının başkentinde üretici rotayı değiştirdi: Taleplere yetişemiyor",
+      "summary": "İklim değişikliği ve geç donlar nedeniyle kayısıda istediği verimi alamayan Malatyalı üretici Yusuf Kırteke, alternatif ürünlere yöneldi. Deneme bahçesinde yetiştirdiği ürünlerden yüksek verim alan Kırteke, yoğun talebin ardından üretim alanını büyütme kararı aldı.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/kayisinin-baskentinde-uretici-rotayi-degistirdi-taleplere-yetisemiyor-galeri-836510",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:58:00"
+    },
+    {
+      "title": "Avrupa'nın hidrojen hayali duvara çarptı: Kapasite var, talep yok",
+      "summary": "Avrupa&#039;nın enerji dönüşümünde büyük rol biçtiği hidrojen sektöründe planlarla gerçek yatırımlar arasındaki fark açılıyor. Kıtada üretim kapasitesi hazır olmasına rağmen talebin beklenen hızda gelişmemesi fabrikaları atıl bırakırken, 2030 için planlanan elektrolizör kapasitesinin sadece küçük bir bölümü yatırım aşamasına geçebildi.",
+      "url": "https://www.dunya.com/ekonomi/avrupanin-hidrojen-hayali-duvara-carpti-kapasite-var-talep-yok-haberi-836513",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:49:00"
+    },
+    {
+      "title": "Şampiyonlar Ligi kura çekimi ne zaman, hangi tarihte yapılacak?",
+      "summary": "Şampiyonlar Ligi&#039;nde play-off turu başlayacak ve ardından lig aşamasına geçilecek. Ligden önce kura çekimi yapılacak. Binlerce kişi her gün &quot;Şampiyonlar Ligi kura çekimi ne zaman&quot; sorusuna cevap arıyor.",
+      "url": "https://www.dunya.com/spor/sampiyonlar-ligi-kura-cekimi-ne-zaman-hangi-tarihte-yapilacak-haberi-836509",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:43:00"
+    },
+    {
+      "title": "Bakan Gürlek'ten suç örgütleriyle mücadele mesajı: Kim olduğuna bakılmayacak",
+      "summary": "Adalet Bakanı Akın Gürlek, vatandaşların inanç ve dini duygularını istismar ederek suç işleyen yapılara karşı mücadelenin kararlılıkla sürdüğünü belirtti. Alihan Kuriş Suç Örgütü&#039;nü örnek gösteren Gürlek, &quot;İnanç ve dini değerler, hiçbir şekilde suç faaliyetlerinin aracı veya kalkanı haline getirilemez&quot; dedi.",
+      "url": "https://www.dunya.com/gundem/bakan-gurlekten-suc-orgutleriyle-mucadele-mesaji-kim-olduguna-bakilmayacak-haberi-836505",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:27:00"
     }
   ]
 }
