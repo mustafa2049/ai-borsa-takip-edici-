@@ -1,177 +1,177 @@
 {
-  "updated_at": "2026-08-17T10:44:12+03:00",
+  "updated_at": "2026-08-17T11:33:12+03:00",
   "news": [
-    {
-      "title": "Kuzey Boru’dan 155,9 milyon TL’lik yeni sözleşme",
-      "summary": "Kuzey Boru (KBORU), belediyeler ile su ve kanalizasyon idareleriyle yürüttüğü ihale ve teklif süreçleri sonucunda toplam 155,9 milyon TL tutarında yeni sözleşmeler imzaladı. Teslimatların yılın son çeyreğinde tamamlanması planlanıyor.",
-      "url": "https://www.dunya.com/finans/haberler/kuzey-borudan-1559-milyon-tllik-yeni-sozlesme-haberi-836496",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:36:00",
-      "ai": {
-        "impact": "Kuzey Boru'nun yeni sözleşmeleri, şirketin gelirlerine pozitif katkıda bulunabilir. Türkiye'de altyapı yatırımlarının artmasıyla birlikte inşaat sektörüne olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "50 günlük zorlu mesai başladı: Saatte 6 bin TL kazanıyorlar",
-      "summary": "Ordu&#039;da hasat edilen fındıkları ayıklamak için zorlu mesaisine başlayan patozcular, yaklaşık 50 gün boyunca çalışacakları sezonda saatlik ücret olarak 6 bin TL kazanıyor.",
-      "url": "https://www.dunya.com/foto-galeri/yasam/50-gunluk-zorlu-mesai-basladi-saatte-6-bin-tl-kazaniyorlar-galeri-836497",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:34:00",
-      "ai": {
-        "impact": "Fındık hasadının zorlu mesaisi, Ordu bölgesinde yerel ekonomiye kısa vadeli bir canlanma getirebilir. Ancak, genel ekonomiye etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
     {
       "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
       "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
       "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-17T07:33:57",
+      "published": "2026-08-17T08:26:04",
       "ai": {
-        "impact": "Çin ekonomisinin yavaşlaması, küresel ekonomi için negatif bir sinyal olabilir. Türkiye'de ihracata yönelik şirketlerin satışlarını olumsuz etkileyebilir.",
+        "impact": "Çin ekonomisinin yavaşlaması küresel piyasalarda endişe yaratırken, Türkiye'nin ihracatına olumsuz yansıyabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "InvestAcc Group hisseleri yükselen görünümle %9 arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/investacc-group-hisseleri-yukselen-gorunumle-9-artt-93CH-4032143",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T07:29:28",
+      "title": "Son dakika... İran İHA'ları Erbil'de Barzani'nin ofisini hedef aldı",
+      "summary": "Son dakika... Irak basını, İran&#039;a ait 2 kamikaze İHA&#039;nın IKBY Başbakanı Masrur Barzani&#039;nin Erbil&#039;deki özel ofisi ve istihbarat şefinin konutunu hedef aldığını duyurdu. Saldırıda can kaybı yaşanmadığı belirtildi.",
+      "url": "https://www.dunya.com/dunya/son-dakika-iran-ihalari-erbilde-barzaninin-ofisini-hedef-aldi-haberi-836504",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:20:00",
       "ai": {
-        "impact": "InvestAcc Group hisselerinin yükselmesi, şirketin finansal performansının iyileştirilmesine işaret edebilir. Ancak, genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Gulf Marine Services hisseleri sözleşme uzatımıyla yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hisseleri-sozlesme-uzatmyla-yukseldi-93CH-4032137",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T07:27:45",
-      "ai": {
-        "impact": "Gulf Marine Services hisselerinin yükselmesi, şirketin sözleşmesindeki uzatmanın olumlu etkisini gösterebilir. Ancak, genel piyasalara etkisi sınırlı olabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "AstraZeneca hisseleri neden bugün yükseldi?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/astrazeneca-hisseleri-neden-bugun-yukseldi-93CH-4032136",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T07:27:33",
-      "ai": {
-        "impact": "AstraZeneca hisselerinin yükselmesi, şirketin finansal veya operasyonel performansındaki bir gelişmeye bağlı olabilir. Ancak, detaylar olmadan genel piyasalara etkisi belirsizdir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "OceanaGold, Ausgold’u 776 milyon A$ karşılığında satın alıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/oceanagold-ausgoldu-776-milyon-a-karslgnda-satn-alyor-93CH-4032133",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T07:25:55",
-      "ai": {
-        "impact": "OceanaGold'un Ausgold'u satın alması, şirketin büyüme stratejisinin bir parçası olabilir. Madencilik sektörüne ve ilgili şirketlere olumlu yansıyabilir.",
-        "sentiment": "Pozitif"
-      }
-    },
-    {
-      "title": "Hürmüz çıkmazı ve talep kaygısı Brent’i 90 dolarda tutuyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/hurmuz-ckmaz-ve-talep-kaygs-brenti-90-dolarda-tutuyor-4032132",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T07:25:12",
-      "ai": {
-        "impact": "Hürmüz çıkmazı ve talep kaygısı, petrol fiyatlarını etkileyebilir. Türkiye'de enerji maliyetleri ve enflasyon üzerinde baskı oluşturabilir.",
+        "impact": "İran'ın Irak'ta gerçekleştirdiği saldırı, bölgesel gerilimi artırarak petrol fiyatlarına olumlu yansıyabilir, ancak Türkiye'nin bölgesel istikrarına olumsuz etkileri olabilir.",
         "sentiment": "Negatif"
       }
     },
     {
-      "title": "OTE 5,2 milyon euroya 262.106 hisse geri satın aldı",
+      "title": "İhlas Holding iştiraki, sermayesini 585 milyon KGS’ye artırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ote-52-milyon-euroya-262106-hisse-geri-satn-ald-93CH-4032129",
+      "url": "https://tr.investing.com/news/global-filings/ihlas-holding-istiraki-sermayesini-585-milyon-kgsye-artrd-93CH-4032216",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T07:23:18"
+      "published": "2026-08-17T08:14:44",
+      "ai": {
+        "impact": "İhlas Holding'in sermaye artırımı, şirketin büyüme potansiyelini artırabilir ve Türkiye'de yatırımları teşvik edebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Dünya mirasının kalbi 2027’de İstanbul’da atacak",
-      "summary": "Türkiye’nin dönem başkanlığında, 2027 yılında İstanbul’da gerçekleştirilecek UNESCO Dünya Miras Komitesi’nin 49’uncu Dönem Toplantısı’na yönelik hazırlık çalışmaları başladı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, UNESCO Türkiye Millî Komisyonu Başkanı Prof. Dr. M. Öcal Oğuz ile bir araya gelerek hazırlıkların yalnızca toplantının organizasyonuyla sınırlı tutulmamasını; Türkiye’nin kültürel mi",
-      "url": "https://www.dunya.com/sektorler/turizm/dunya-mirasinin-kalbi-2027de-istanbulda-atacak-haberi-836495",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:23:00"
-    },
-    {
-      "title": "JPMorgan, York Space Systems hissesini düşürdü",
+      "title": "Vista Oil & Gas hissesi neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-york-space-systems-hissesini-dusurdu-93CH-4032128",
+      "url": "https://tr.investing.com/news/stock-market-news/vista-oil--gas-hissesi-neden-yukseliyor-93CH-4032213",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T07:22:01"
+      "published": "2026-08-17T08:14:12",
+      "ai": {
+        "impact": "Vista Oil & Gas hissesinin yükselmesi, enerji sektöründe yatırımları artırabilir ve küresel enerji talebine olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Argenx hisseleri otoimmün miyozit denemesinde olumlu sonuçlarla yükseldi",
+      "title": "İş Bankası, yurt dışında 100 milyon USD’lik tahvil ihracı tamamladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/argenx-hisseleri-otoimmun-miyozit-denemesinde-olumlu-sonuclarla-yukseldi-4032130",
+      "url": "https://tr.investing.com/news/global-filings/is-bankas-yurt-dsnda-100-milyon-usdlik-tahvil-ihrac-tamamlad-93CH-4032210",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T07:21:38"
+      "published": "2026-08-17T08:12:23",
+      "ai": {
+        "impact": "İş Bankası'nın yurt dışı tahvil ihracı, bankanın uluslararası finansman imkanlarını artırabilir ve Türkiye'nin kredi notuna olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "FTSE 100 bugün: ABD perakende verisi Fed beklentilerini düşürdü, hisseler yükseldi",
+      "title": "Uydu frekansları değişti mi? TV kanal uydu güncelleme frekansı nedir, nasıl yapılır?",
+      "summary": "Televizyon kanalarının uydu frekansı değişti. Milyonlarca kişi yeni frekansı öğrenmek istiyor. İşte yeni uydu güncelleme frekansı...",
+      "url": "https://www.dunya.com/gundem/uydu-frekanslari-degisti-mi-tv-kanal-uydu-guncelleme-frekansi-nedir-nasil-yapilir-haberi-836503",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T08:12:00",
+      "ai": {
+        "impact": "TV kanal uydu frekanslarının değişmesi, medya sektöründe kısa vadeli dalgalanmalara neden olabilir, ancak uzun vadeli etkileri sınırlı olabilir.",
+        "sentiment": "Nötr"
+      }
+    },
+    {
+      "title": "Sandoz hisseleri Henlius ile 322 milyon dolarlık anlaşma sonrası yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ftse-100-abd-perakende-verileri-fed-faiz-beklentilerini-azaltt-4032135",
+      "url": "https://tr.investing.com/news/stock-market-news/sandoz-hisseleri-henlius-ile-322-milyon-dolarlk-anlasma-sonras-yukseldi-4032211",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T07:21:34"
+      "published": "2026-08-17T08:11:34",
+      "ai": {
+        "impact": "Sandoz hisselerinin yükselmesi, ilaç sektöründe yatırımları artırabilir ve küresel sağlık piyasasına olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Alibaba oyun birimini satıyor: 2 milyar doları aşan devir",
-      "summary": "Alibaba, oyun geliştiricisi Lingxi Games’teki payının tamamını Trustar Capital’e devretmek için anlaşmaya vardı. Satıştan 2 milyar doların üzerinde gelir beklenirken, şirket sermayeyi yapay zekâ ve bulut bilişime yöneltiyor.",
-      "url": "https://www.dunya.com/is-dunyasi/alibaba-oyun-birimini-satiyor-2-milyar-dolari-asan-devir-haberi-836493",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:18:00"
-    },
-    {
-      "title": "Jefferies, Freenome hissesi için kanser tarama potansiyeline dayanarak al önerisi verdi",
+      "title": "Skyalp, Borsa Istanbul ile 1,75 milyon USD’lik sözleşme imzaladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-freenome-hissesi-icin-kanser-tarama-potansiyeline-dayanarak-al-onerisi-verdi-93CH-4032124",
+      "url": "https://tr.investing.com/news/global-filings/skyalp-borsa-istanbul-ile-175-milyon-usdlik-sozlesme-imzalad-93CH-4032208",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T07:17:44"
+      "published": "2026-08-17T08:11:28",
+      "ai": {
+        "impact": "Skyalp'in Borsa İstanbul ile imzaladığı sözleşme, şirketin büyüme potansiyelini artırabilir ve Türkiye'de teknoloji yatırımlarını teşvik edebilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Gurbetçilerin yeni gözdesi belli oldu: İşte yaşamak için en iyi 10 ülke",
-      "summary": "Yurt dışında yeni bir hayat kurmak isteyenlerin en memnun olduğu ülkeler belli oldu. Yaşam kalitesi, çalışma koşulları, kişisel finans, konut ve yerleşme kolaylığının değerlendirildiği 2026 araştırmasında zirvenin sahibi ne Asya&#039;dan ne de Avrupa&#039;dan. İşte ezberleri bozan 2026&#039;da gurbetçiler için dünyanın en iyi ülkeleri...",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/gurbetcilerin-yeni-gozdesi-belli-oldu-iste-yasamak-icin-en-iyi-10-ulke-galeri-836494",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:17:00"
+      "title": "Beşiktaş ve TERA Holding, bugün basketbol sponsorluğu imzalıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/besiktas-ve-tera-holding-bugun-basketbol-sponsorlugu-imzalyor-93CH-4032207",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T08:10:41"
     },
     {
-      "title": "Borsa İstanbul haftaya yükselişle başladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,15 yükselişle 14.192,88 puandan başladı. Sektör endeksleri arasında en fazla kazandıran yüzde 1,09 ile tekstil deri, en çok gerileyen ise yüzde 1,01 ile menkul kıymet yatırım ortaklığı oldu.",
-      "url": "https://www.dunya.com/finans/borsa/borsa-istanbul-haftaya-yukselisle-basladi-haberi-836492",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:12:00"
+      "title": "Morgan Stanley, Target Hospitality hissesini ağırlıklı al önerisiyle başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-target-hospitality-hissesini-agrlkl-al-onerisiyle-baslatt-93CH-4032206",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T08:10:18"
     },
     {
-      "title": "Yüksek Hızlı Tren (YHT) zam mı geldi? YHT biletleri ne kadar oldu?",
-      "summary": "Yüksek Hızlı Tren bilet fiyatları zamlandı. YHT fiyat güncellemesinin ardından bilet fiyatları merak ediliyor. İşte &quot;YHT biletleri ne kadar oldu&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/gundem/yuksek-hizli-tren-yht-zam-mi-geldi-yht-biletleri-ne-kadar-oldu-haberi-836490",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:08:00"
+      "title": "Tera Yatırım, Beşiktaş ile kapsamlı finansal iş birliği başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/tera-yatrm-besiktas-ile-kapsaml-finansal-is-birligi-baslatt-93CH-4032205",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T08:08:30"
     },
     {
-      "title": "Ticari gayrimenkulde reel düşüş: Fiyatlar enflasyonun gerisinde kaldı",
-      "summary": "Merkez Bankası verilerine göre ticari gayrimenkul fiyatları 2026’nın ikinci çeyreğinde yıllık bazda yüzde 29,4 arttı. Fiyatlar enflasyondan arındırıldığında ise yüzde 2,2 geriledi. Üç büyük il arasında yıllık artışta Ankara ilk sırada yer aldı.",
-      "url": "https://www.dunya.com/ekonomik-veriler/ticari-gayrimenkulde-reel-dusus-fiyatlar-enflasyonun-gerisinde-kaldi-haberi-836491",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:06:00"
+      "title": "Gulf Marine Services hissesi neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hissesi-neden-yukseliste-93CH-4032203",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T08:07:14"
     },
     {
-      "title": "Bulls Yatırım'dan ARD Grup Bilişim için hedef fiyat",
-      "summary": "Bulls Yatırım, ARD Grup Bilişim’i “Endeks Üstü Getiri” tavsiyesiyle araştırma kapsamına aldı. Kurum, İntron birleşmesi, yurt dışı büyüme ve yapay zekâ yatırımlarını öne çıkararak hisse için 156 TL hedef fiyat seviyesi belirledi.",
-      "url": "https://www.dunya.com/finans/haberler/bulls-yatirimdan-ard-grup-bilisim-icin-hedef-fiyat-haberi-836488",
+      "title": "[Son Dakika] Hidropar’da iki pay sahibi hisse satışı görüşmelerine başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/son-dakika-hidroparda-iki-pay-sahibi-hisse-sats-gorusmelerine-baslad-93CH-4032202",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T08:07:01"
+    },
+    {
+      "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-17T08:06:38"
+    },
+    {
+      "title": "FB maçı tarihi ve saati... Fenerbahçe - Lyon maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi Play-off turu ilk maçında Lyon ile karşı karşıya geliyor. Bu maça büyük öne atfeden Sarı Kanarya seyircisi önünde güzel bir skor elde ederek deplasmana avantajlı gitmek istiyor. Peki, Fenerbahçe - Lyon maçı ne zaman, saat kaçta, hangi kanalda?",
+      "url": "https://www.dunya.com/spor/fb-maci-tarihi-ve-saati-fenerbahce-lyon-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836498",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T07:00:00"
+      "published": "2026-08-17T07:51:00"
+    },
+    {
+      "title": "İstanbul Havalimanı'nda yeni zirve: Uçuş ve yolcuda rekor",
+      "summary": "İstanbul Havalimanı, 16 Ağustos&#039;ta 1739 uçuş ve 290 bin 287 yolcuyla Türkiye ve Avrupa&#039;da tüm zamanların en yüksek günlük uçuş ve yolcu sayısına ulaştı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yeni rekorun havalimanının küresel aktarma merkezi konumunu daha da güçlendirdiğini belirtti.",
+      "url": "https://www.dunya.com/gundem/istanbul-havalimaninda-yeni-zirve-ucus-ve-yolcuda-rekor-haberi-836500",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:49:00"
+    },
+    {
+      "title": "Yapay zekâ zenginleri lüks kavramını değiştiriyor",
+      "summary": "Yapay zekâ şirketlerinin kurucuları, erken dönem çalışanları ve yatırımcıları son iki yılda sadece teknoloji dünyasında değil, lüks tüketim pazarında da yeni bir denge kurmaya başladı. Bu yeni müşteri kitlesi, önceki kuşak zenginlerden farklı olarak gösterişten çok hız, esneklik, kişiselleştirme ve dijital uyumluluk arıyor.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/yapay-zeka-zenginleri-luks-kavramini-degistiriyor-galeri-836499",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:41:00"
+    },
+    {
+      "title": "Bitcoin'de bütün hesaplar değişebilir: Gözler Trump'ın kritik toplantısında",
+      "summary": "Bitcoin, geçen haftaki yüzde 3&#039;lük kaybının ardından haftanın ilk işlem gününde sınırlı yükselse de Hürmüz Boğazı&#039;ndaki ABD-İran gerilimi ve Washington&#039;daki düzenleme belirsizliği nedeniyle dar bir aralıkta kaldı. Spot Bitcoin ETF&#039;lerinden temmuz başından bu yana görülen en yüksek haftalık sermaye çıkışının yaşanması da fiyat üzerindeki baskıyı artırdı. Piyasaların odağında şim",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-butun-hesaplar-degisebilir-gozler-trumpin-kritik-toplantisinda-galeri-836501",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:39:00"
+    },
+    {
+      "title": "Kuzey Boru’dan 155,9 milyon TL’lik yeni sözleşme",
+      "summary": "Kuzey Boru (KBORU), belediyeler ile su ve kanalizasyon idareleriyle yürüttüğü ihale ve teklif süreçleri sonucunda toplam 155,9 milyon TL tutarında yeni sözleşmeler imzaladı. Teslimatların yılın son çeyreğinde tamamlanması planlanıyor.",
+      "url": "https://www.dunya.com/finans/haberler/kuzey-borudan-1559-milyon-tllik-yeni-sozlesme-haberi-836496",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:36:00"
+    },
+    {
+      "title": "Apple yıllardır bunun için bekliyordu: Fiyatıyla sarsacak yeni iPhone geliyor",
+      "summary": "Katlanabilir telefon yarışında yıllardır rakiplerini izleyen Apple artık oyuna girmeye hazırlanıyor. Daha dayanıklı ekranlar, gelişen menteşeler ve olgunlaşan yazılımlar şirketin önündeki teknik riskleri azaltırken, yeni katlanabilir iPhone Apple&#039;ın bugüne kadar çıkardığı en pahalı telefonlardan biri olabilir.",
+      "url": "https://www.dunya.com/sirketler/apple-yillardir-bunun-icin-bekliyordu-fiyatiyla-sarsacak-yeni-iphone-geliyor-haberi-836502",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:36:00"
     }
   ]
 }
