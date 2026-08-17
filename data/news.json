@@ -1,89 +1,131 @@
 {
-  "updated_at": "2026-08-17T18:17:26+03:00",
+  "updated_at": "2026-08-17T18:47:15+03:00",
   "news": [
+    {
+      "title": "Çin'de konut fiyatlarındaki düşüş sürüyor",
+      "summary": "Çin&#039;de gayrimenkul yatırımları ve satışlardaki azalmaya bağlı olarak konut fiyatlarındaki düşüş temmuzda da devam etti.",
+      "url": "https://www.dunya.com/ekonomi/cinde-konut-fiyatlarindaki-dusus-suruyor-haberi-836579",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T15:42:00"
+    },
+    {
+      "title": "Borsa İstanbul günü düşüşle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,28 değer kaybederek 14.132,06 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-836578",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T15:40:00"
+    },
+    {
+      "title": "818 şüphelinin banka hesapları ve kripto varlıklarına el konuldu",
+      "summary": "Adalet Bakanı Akın Gürlek, organize suç örgütleriyle mücadelede yalnızca suç örgütlerinin sahadaki unsurlarının değil, finansal kaynaklarının da hedef alındığını bildirdi. Gürlek, İstanbul Cumhuriyet Başsavcılığınca 4 ayrı yeni nesil suç örgütüne yönelik yürütülen mali soruşturmalar kapsamında 818 şüphelinin banka hesapları ile kripto varlıklarına el konulduğunu açıkladı.",
+      "url": "https://www.dunya.com/gundem/818-suphelinin-banka-hesaplari-ve-kripto-varliklarina-el-konuldu-haberi-836577",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T15:36:00"
+    },
+    {
+      "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+      "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-17T15:34:49"
+    },
+    {
+      "title": "Macaristan, Orban döneminden kalma 4iG devlet sözleşmelerini gözden geçirecek",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/macaristan-orban-doneminden-kalma-4ig-devlet-sozlesmelerini-gozden-gecirecek-93CH-4033368",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T15:29:05"
+    },
+    {
+      "title": "Irak Başbakanı Zeydi: Hürmüz’ün kapanması bizi ağır etkiledi",
+      "summary": "Irak Başbakanı Ali Falih ez-Zeydi, Hürmüz Boğazı’nın kapatılmasından en fazla etkilenen ülkelerden birinin Irak olduğunu ifade etti.",
+      "url": "https://www.dunya.com/dunya/irak-basbakani-zeydi-hurmuzun-kapanmasi-bizi-agir-etkiledi-haberi-836576",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T15:29:00"
+    },
     {
       "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
       "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
       "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-17T15:15:51"
+      "published": "2026-08-17T15:28:45"
+    },
+    {
+      "title": "Çin e-ticareti Temmuz’da %3 büyüdü, toparlanma bekleniyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/cin-eticareti-temmuzda-3-buyudu-toparlanma-bekleniyor-93CH-4033367",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T15:28:36"
+    },
+    {
+      "title": "Kanada doları enflasyonun beklentileri aşmasıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/forex-news/kanada-dolar-enflasyonun-beklentileri-asmasyla-yukseldi-93CH-4033346",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T15:27:47"
     },
     {
       "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
       "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-17T15:12:47"
+      "published": "2026-08-17T15:26:52"
     },
     {
-      "title": "Btig seçim yılında hisse senedi yatırımcılarını mevsimsel zayıflığa karşı uyardı",
+      "title": "Morgan Stanley, Çin emlak tahminlerini düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/btig-secim-ylnda-hisse-senedi-yatrmclarn-mevsimsel-zayflga-kars-uyard-93CH-4033330",
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-cin-emlak-tahminlerini-dusurdu-93CH-4033343",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:11:43"
+      "published": "2026-08-17T15:26:16"
     },
     {
-      "title": "Koray GYO, ABD’de veri merkezi yatırımı için arazi araştırması yapıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/koray-gyo-abdde-veri-merkezi-yatrm-icin-arazi-arastrmas-yapyor-93CH-4033329",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T15:11:21"
+      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-17T15:25:43"
     },
     {
-      "title": "CuriosityStream hissesi bugün neden %12 düşüyor?",
+      "title": "United Launch Alliance yeni CEO’sunu açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/curiositystream-hissesi-bugun-neden-12-dusuyor-93CH-4033325",
+      "url": "https://tr.investing.com/news/stock-market-news/united-launch-alliance-yeni-ceosunu-acklad-93CH-4033342",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:10:12"
+      "published": "2026-08-17T15:24:55"
     },
     {
-      "title": "İş Yatırım, 880 milyon TL’lik finansman bonosu ihracını tamamladı",
+      "title": "DraftKings hissesi neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/is-yatrm-880-milyon-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4033324",
+      "url": "https://tr.investing.com/news/stock-market-news/draftkings-hissesi-neden-dusuyor-93CH-4033341",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:09:56"
+      "published": "2026-08-17T15:21:42"
     },
     {
-      "title": "Shein Hong Kong halka arzında 26-27 milyar dolar değerleme hedefliyor",
+      "title": "Cocrystal Pharma yönetim kuruluna Carol Brosgart’ı atadı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/shein-hong-kong-halka-arznda-2627-milyar-dolar-degerleme-hedefliyor-4033328",
+      "url": "https://tr.investing.com/news/company-news/cocrystal-pharma-yonetim-kuruluna-carol-brosgart-atad-93CH-4033340",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:09:11"
+      "published": "2026-08-17T15:21:29"
     },
     {
-      "title": "NexGen Energy hisseleri neden yükselişte?",
+      "title": "Flutter Entertainment hisseleri neden düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/nexgen-energy-hisseleri-neden-yukseliste-93CH-4033323",
+      "url": "https://tr.investing.com/news/stock-market-news/flutter-entertainment-hisseleri-neden-dusuyor-93CH-4033339",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:08:23"
+      "published": "2026-08-17T15:21:09"
     },
     {
-      "title": "Reysaş GYO, İzmir Menderes’te 23.680 m² arsa 278,24 milyon TL’ye aldı",
+      "title": "Rollins Inc hissesi 35,96 dolarla 52 haftalık dibe vurdu",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/reysas-gyo-izmir-mendereste-23680-m-arsa-27824-milyon-tlye-ald-93CH-4033322",
+      "url": "https://tr.investing.com/news/company-news/rollins-inc-hissesi-3596-dolarla-52-haftalk-dibe-vurdu-93CH-4033338",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:08:06"
+      "published": "2026-08-17T15:20:53"
     },
     {
-      "title": "Axis Bank 2029 vadeli 300 milyon dolarlık tahvil ihraç etti",
+      "title": "Sr Bancorp yöneticisi Robert Mustard 5.052 dolar değerinde hisse aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/axis-bank-2029-vadeli-300-milyon-dolarlk-tahvil-ihrac-etti-93CH-4033320",
+      "url": "https://tr.investing.com/news/insider-trading-news/sr-bancorp-yoneticisi-robert-mustard-5052-dolar-degerinde-hisse-ald-93CH-4033337",
       "source": "Investing Türkiye",
-      "published": "2026-08-17T15:07:39"
-    },
-    {
-      "title": "JetBlue Airways hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/jetblue-airways-hisseleri-neden-dusuyor-93CH-4033319",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T15:07:07"
-    },
-    {
-      "title": "Macquarie Avustralya bankalarının gelir tahminlerini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/macquarie-avustralya-bankalarnn-gelir-tahminlerini-dusurdu-93CH-4033310",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T15:07:04"
+      "published": "2026-08-17T15:16:48"
     },
     {
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
@@ -93,53 +135,11 @@
       "published": "2026-08-17T15:04:24"
     },
     {
-      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-      "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T14:56:42"
-    },
-    {
       "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
       "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
       "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
       "source": "CNBC World Markets",
       "published": "2026-08-17T14:51:24"
-    },
-    {
-      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T14:49:26"
-    },
-    {
-      "title": "Fed faiz kararı ne zaman, hangi tarihte açıklanacak? Fed faiz artıracak mı?",
-      "summary": "Küresel piyasalar yine Amerikan Merkez Bankası&#039;nın alacağı faiz kararına odaklanmış durumda... Savaşın gölgesinde Fed&#039;in nasıl bir adım atacağı merak konusu... Toplantı tarihinin bilgisine ulaşmak isteyenler &quot;Fed faiz kararı ne zaman, hangi tarihte açıklanacak&quot; sorusuna cevap arıyor.",
-      "url": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-artiracak-mi-haberi-836569",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T14:44:00"
-    },
-    {
-      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-      "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
-      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T14:09:49"
-    },
-    {
-      "title": "New York borsası karışık seyirle açıldı",
-      "summary": "New York borsası, Orta Doğu&#039;daki jeopolitik gelişmelere odaklanırken haftanın ilk işlem gününe karışık seyirle başladı.",
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-karisik-seyirle-acildi-haberi-836564",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T13:58:00"
-    },
-    {
-      "title": "Uzak Şehir yeni sezon ne zaman başlayacak?",
-      "summary": "Eylül ayı yaklaşıyor dizilerin yeni sezon başlangıç tarihleri yavaş yavaş araştırılıyor. Bugün pazartesi günü olması nedeniyle &quot;Uzak Şehir yeni sezon ne zaman başlayacak&quot; sorusu sıkça geliyor.",
-      "url": "https://www.dunya.com/yasam/uzak-sehir-yeni-sezon-ne-zaman-baslayacak-haberi-836565",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T13:58:00"
     }
   ]
 }
