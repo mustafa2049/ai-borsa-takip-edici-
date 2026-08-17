@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-08-17T14:47:52+03:00",
+  "updated_at": "2026-08-17T15:24:55+03:00",
   "news": [
+    {
+      "title": "Mark Walter soruşturmasında dört şirket inceleniyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/mark-walter-sorusturmasnda-dort-sirket-inceleniyor-93CH-4032893",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:21:53"
+    },
+    {
+      "title": "Serve Robotics, otonom teslimat için Grubhub ile ortaklık kurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/serve-robotics-otonom-teslimat-icin-grubhub-ile-ortaklk-kurdu-93CH-4032892",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:21:39"
+    },
+    {
+      "title": "Raytheon 22,9 milyar dolarlık Tomahawk füze sözleşmesi aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/raytheon-229-milyar-dolarlk-tomahawk-fuze-sozlesmesi-ald-93CH-4032891",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:21:25"
+    },
+    {
+      "title": "BASF, Ren Nehri’ndeki düşük su seviyesi nedeniyle bazı ürünleri tam olarak tedarik edemiyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/basf-ren-nehrindeki-dusuk-su-seviyesi-nedeniyle-baz-urunleri-tam-olarak-tedarik-edemiyor-93CH-4032890",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:20:41"
+    },
+    {
+      "title": "Martin Brown 1 Ekim’de İsviçre Merkez Bankası baş ekonomisti olacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/martin-brown-1-ekimde-isvicre-merkez-bankas-bas-ekonomisti-olacak-93CH-4032888",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:17:22"
+    },
+    {
+      "title": "Diligent Robotics hastane robotları Moxi 2.0’ı kullanıma sundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/diligent-robotics-hastane-robotlar-moxi-20-kullanma-sundu-93CH-4032875",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:14:02"
+    },
+    {
+      "title": "UroGen, mesane kanseri ilacı için FDA’ya başvurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/urogen-mesane-kanseri-ilac-icin-fdaya-basvurdu-93CH-4032876",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:14:02"
+    },
+    {
+      "title": "Viasat, Uzay Kuvvetleri uydu programı için Rocket Lab’i seçti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/viasat-uzay-kuvvetleri-uydu-program-icin-rocket-labi-secti-93CH-4032874",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:13:58"
+    },
+    {
+      "title": "Mobix Labs 4Ç gelir tahminini çeyreklik bazda %100 artırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/mobix-labs-4c-gelir-tahminini-ceyreklik-bazda-100-artrd-93CH-4032873",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:13:49"
+    },
+    {
+      "title": "Onemeta 20’den fazla müşteri kazandı, 2,4 milyon dolar nakit akışı elde etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/onemeta-20den-fazla-musteri-kazand-24-milyon-dolar-nakit-aks-elde-etti-93CH-4032871",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T12:13:48"
+    },
+    {
+      "title": "Borsada sonbahar alarmı: Yatırımcılara kritik portföy uyarısı",
+      "summary": "Tarihsel olarak piyasaların en oynak dönemlerinden olan eylül ve ekim ayları yaklaşırken yatırımcılara portföylerini gözden geçirme çağrısı geldi. Özellikle yapay zeka ve büyük teknoloji hisselerinde yoğunlaşanlara çeşitlendirme uyarısı yapıldı.",
+      "url": "https://www.dunya.com/ekonomi/borsada-sonbahar-alarmi-yatirimcilara-kritik-portfoy-uyarisi-haberi-836550",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T12:06:00"
+    },
+    {
+      "title": "MOSFED'den faiz indirimi süreci için çağrı: Mevduat stopajı da kademeli düşürülmeli",
+      "summary": "Mobilya Dernekleri Federasyonu (MOSFED) Başkanı Ahmet Güleç, faiz indirimi sürecinin yalnızca para politikası üzerinden değerlendirilmemesi gerektiğini belirterek, “Faiz indirimi ile mevduat stopajının eş zamanlı ve uyumlu biçimde değerlendirilmesi hem TL tasarrufların cazibesini koruyabilir hem de reel sektörün finansman yükünü azaltarak dezenflasyon sürecine önemli bir katkı sağlayabilir” dedi.",
+      "url": "https://www.dunya.com/ekonomi/mosfedden-faiz-indirimi-sureci-icin-cagri-mevduat-stopaji-da-kademeli-dusurulmeli-haberi-836551",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T12:06:00"
+    },
+    {
+      "title": "Aşırı sıcaklar çikolatacıyı bile kapattı: Ürünler erimesin diye mağazaya kilit vuruldu",
+      "summary": "İngiltere’yi etkisi altına alan sıcak hava dalgası perakende sektörünü de vurdu. Lüks çikolata zinciri Hotel Chocolat, Londra’daki mağazalarından birini ürünlerin erimesini önlemek amacıyla geçici olarak kapattı. Başkentte sıcaklığın 38 dereceyi aştığı gün mağaza 3 saat boyunca müşterilere kapalı kaldı.",
+      "url": "https://www.dunya.com/ekonomi/asiri-sicaklar-cikolataciyi-bile-kapatti-urunler-erimesin-diye-magazaya-kilit-vuruldu-haberi-836549",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T12:01:00"
+    },
+    {
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-17T12:00:01"
+    },
+    {
+      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+      "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-17T11:55:48"
+    },
+    {
+      "title": "Televizyoncular kanal ayarına 1000 TL istiyor: Çözümü ise çok basit",
+      "summary": "Türksat’taki frekans değişikliğinin ardından bazı televizyonlarda kanallar kaybolurken siyah ekran ve ses sorunları ortaya çıktı. Kanal ayarı için bazı tamirci ve servislerin 1000 TL’ye varan ücret istediği belirtilirken, TUYAD kullanıcıların servis çağırmadan önce uygulayabileceği ücretsiz yöntemi açıkladı.",
+      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/televizyoncular-kanal-ayarina-1000-tl-istiyor-cozumu-ise-cok-basit-haberi-836547",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T11:52:00"
+    },
+    {
+      "title": "Çin ürettiği temiz enerjiyi kullanamıyor: Meksika’yı besleyecek elektrik boşa gitti",
+      "summary": "Çin’de rüzgâr ve güneş yatırımları şebeke kapasitesinin önüne geçti. Yılın ilk yarısında 360 teravatsaat temiz elektriğin sisteme alınamadığı hesaplanırken, bu kayıp yaklaşık bir yıl boyunca Meksika’nın elektrik tüketimine denk geliyor.",
+      "url": "https://www.dunya.com/ekonomi/cin-urettigi-temiz-enerjiyi-kullanamiyor-meksikayi-besleyecek-elektrik-bosa-gitti-haberi-836545",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T11:50:00"
+    },
+    {
+      "title": "Trump'tan tek cümlelik İran çıkışı: Hedefini açıkladı",
+      "summary": "ABD Başkanı Donald Trump, kendisine ait sosyal medya platformu Truth Social üzerinden İran&#039;ın nükleer programına ilişkin dikkat çeken bir açıklama yaptı. Tahran yönetimine net bir mesaj veren Trump, İran&#039;ın hiçbir şekilde ve hiçbir koşulda nükleer silaha sahip olamayacağını belirtti.",
+      "url": "https://www.dunya.com/dunya/trumptan-tek-cumlelik-iran-cikisi-hedefini-acikladi-haberi-836548",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T11:47:00"
+    },
     {
       "title": "KPSS Ortaöğretim oturumu başvuruları ne zaman başlıyor? KPSS sınavı ne zaman?",
       "summary": "Yüz binler 2026 KPSS Ortaöğretim sınavı için hazırlanıyor. Başvuru tarihleri yaklaşırken adaylar bir aksilik yaşamamak adına &quot;KPSS Ortaöğretim oturumu başvuruları ne zaman başlıyor&quot; diye soruyor. İşte detaylar...",
@@ -9,137 +135,11 @@
       "published": "2026-08-17T11:42:00"
     },
     {
-      "title": "298 mağazayı kapattı : Perakende devi iflas korumasında",
-      "summary": "Brezilya’nın en büyük perakende zincirlerinden Casas Bahia, ikinci çeyrekte zararının hızla büyümesinin ardından mahkeme denetiminde yeniden yapılandırma sürecine girdi. Şirket, yüksek faiz ve zayıflayan tüketici talebiyle mücadele ediyor.",
-      "url": "https://www.dunya.com/is-dunyasi/298-magazayi-kapatti-perakende-devi-iflas-korumasinda-haberi-836542",
+      "title": "Merkez Bankası rezervlerinde güçlü toparlanma",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası’nın toplam rezervlerinin 14 Ağustos haftasında yaklaşık 5,1 milyar dolar artarak 183,5 milyar dolara yükseldiği hesaplandı. Böylece rezervler yaklaşık 5 ayın en yüksek seviyesine çıkarken, ocak ayında görülen tarihi zirvenin ise 34,7 milyar dolar altında kaldı.",
+      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-rezervlerinde-guclu-toparlanma-haberi-836544",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:38:00"
-    },
-    {
-      "title": "Global Net Lease hisseleri neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/global-net-lease-hisseleri-neden-yukseliyor-93CH-4032688",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:33:11"
-    },
-    {
-      "title": "FNB toptan bankacılık direktörü 78.038 dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/fnb-toptan-bankaclk-direktoru-78038-dolarlk-hisse-satt-93CH-4032685",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:32:32"
-    },
-    {
-      "title": "Çin yeni beş yıllık planda petrol ve gaz hedeflerini açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/cin-yeni-bes-yllk-planda-petrol-ve-gaz-hedeflerini-acklad-93CH-4032683",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:32:20"
-    },
-    {
-      "title": "V F Corp yöneticisi Richard Carucci 294.600 dolar hisse aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/v-f-corp-yoneticisi-richard-carucci-294600-dolar-hisse-ald-93CH-4032682",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:32:04"
-    },
-    {
-      "title": "H.C. Wainwright, Alumis hissesi için nötr görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-alumis-hissesi-icin-notr-gorusunu-korudu-93CH-4032681",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:32"
-    },
-    {
-      "title": "H.C. Wainwright, Celcuity hissesi için hedef fiyatı korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-celcuity-hissesi-icin-hedef-fiyat-korudu-93CH-4032679",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:17"
-    },
-    {
-      "title": "Mizuho, Gemini Space Station için hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-gemini-space-station-icin-hisse-hedefini-dusurdu-93CH-4032680",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:17"
-    },
-    {
-      "title": "Wainwright, Dyne Therapeutics için hisse önerisini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wainwright-dyne-therapeutics-icin-hisse-onerisini-korudu-93CH-4032678",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:12"
-    },
-    {
-      "title": "Mizuho, Intuit’in hisse hedefini 2027 görünümü nedeniyle düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-intuitin-hisse-hedefini-2027-gorunumu-nedeniyle-dusurdu-93CH-4032677",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:05"
-    },
-    {
-      "title": "Mizuho, Amylyx hisse hedefini fiyatlamaya dayanarak 30 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-amylyx-hisse-hedefini-fiyatlamaya-dayanarak-30-dolara-yukseltti-93CH-4032676",
-      "source": "Investing Türkiye",
-      "published": "2026-08-17T11:30:01"
-    },
-    {
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
-      "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
-      "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T11:24:23"
-    },
-    {
-      "title": "Shein’e halka arz öncesi sert darbe: Değerleme dörtte bire indi",
-      "summary": "Hızlı moda devi Shein, Hong Kong’daki halka arzında 25-28 milyar dolarlık değerleme hedefliyor. Dört yıl önce 98,2 milyar dolar değer biçilen şirket, yavaşlayan büyüme, artan ticaret maliyetleri ve düzenleyici baskıyla karşı karşıya.",
-      "url": "https://www.dunya.com/finans/haberler/sheine-halka-arz-oncesi-sert-darbe-degerleme-dortte-bire-indi-haberi-836540",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:24:00"
-    },
-    {
-      "title": "Beşiktaş - Kauno Zalgiris maçı ne zaman, saat kaçta, hangi kanalda? BJK maçı ne zaman?",
-      "summary": "Kara Kartal&#039;ın, UEFA Avrupa Ligi&#039;nde lig aşamasına geçmek için bir engeli kaldı. Bu seferki rakip Kauno Zalgiris… Hafta içi oynanacak mücadelenin tarihi ve saati merak ediliyor. İşte &quot;Beşiktaş - Kauno Zalgiris maçı ne zaman, saat kaçta, hangi kanalda&quot; sorusunun yanıtı...",
-      "url": "https://www.dunya.com/spor/besiktas-kauno-zalgiris-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-maci-ne-zaman-haberi-836539",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:18:00"
-    },
-    {
-      "title": "Avrupa'da doğal gaz alarmı: Kış öncesi stoklar endişe yarattı",
-      "summary": "Avrupa&#039;da doğal gaz fiyatları, Körfez&#039;den LNG sevkiyatındaki kesintiler ve Hürmüz Boğazı&#039;nda azalan gemi trafiğinin arz endişelerini artırmasıyla haftaya yükselişle başladı. Sıcak hava nedeniyle elektrik üretiminde doğal gaz kullanımının artması da fiyatları yukarı taşırken eylül vadeli kontratlar yüzde 1,4 değer kazandı.",
-      "url": "https://www.dunya.com/enerji/avrupada-dogal-gaz-alarmi-kis-oncesi-stoklar-endise-yaratti-haberi-836541",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:18:00"
-    },
-    {
-      "title": "İzmir Menderes'teki başkanvekili seçimi sonuçlandı",
-      "summary": "İzmir&#039;in Menderes ilçesinde Belediye Başkanı İlkay Çiçek&#039;in tutuklanmasının ardından yapılan başkanvekilliği seçimi gerginlikle son buldu. İlk üç turda sonuç çıkmazken, dördüncü turda 13 oy alan Cumhur İttifakı adayı Asuman Şen başkanvekili seçildi.",
-      "url": "https://www.dunya.com/gundem/izmir-menderesteki-baskanvekili-secimi-sonuclandi-haberi-836538",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:12:00"
-    },
-    {
-      "title": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
-      "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
-      "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-17T11:05:58"
-    },
-    {
-      "title": "Apple geri adım attı: iPhone ve iPad’lerde veri izni ekranı değişiyor",
-      "summary": "Almanya’daki rekabet soruşturmasının ardından Apple, iPhone ve iPad’lerde uygulama verilerinin reklam için izlenmesine ilişkin izin ekranlarını değiştirmeyi kabul etti. Yeni kurallar Polonya hariç AB’nin büyük bölümünde geçerli olacak.",
-      "url": "https://www.dunya.com/is-dunyasi/apple-geri-adim-atti-iphone-ve-ipadlerde-veri-izni-ekrani-degisiyor-haberi-836537",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:04:00"
-    },
-    {
-      "title": "Bakan Şimşek: Mali disiplini koruyoruz, hedefler doğrultusundayız",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, jeopolitik gelişmelerin olumsuz etkilerine rağmen bütçe hedefleri doğrultusunda ilerlediklerini belirtti. Ocak-temmuz döneminde faiz dışı bütçe fazlasının geçen yıla göre 228 milyar lira artarak 470 milyar liraya ulaştığını bildiren Şimşek, mali disiplinle dezenflasyon sürecini desteklemeye devam edeceklerini kaydetti.",
-      "url": "https://www.dunya.com/ekonomi/bakan-simsek-mali-disiplini-koruyoruz-hedefler-dogrultusundayiz-haberi-836536",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-17T11:01:00"
+      "published": "2026-08-17T11:42:00"
     }
   ]
 }
