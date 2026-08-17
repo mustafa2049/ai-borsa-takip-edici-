@@ -1,145 +1,177 @@
 {
-  "updated_at": "2026-08-14T19:12:31+03:00",
+  "updated_at": "2026-08-17T10:44:12+03:00",
   "news": [
     {
-      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "summary": "Mangione's lawyers are expected to argue his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
-      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T16:10:48"
-    },
-    {
-      "title": "TBMM’de partilerin sandalye sayıları değişti",
-      "summary": "Mustafa Bilici, Mehmet Mustafa Gürban ve Ömer Karakaş’ın istifaları ile Ali Fazıl Kasap’ın Yeni Yol Partisi’ne katılması sonrası TBMM’de partilerin sandalye dağılımı değişti. Meclis’te toplam milletvekili sayısı 592 olarak kayıtlara geçti.",
-      "url": "https://www.dunya.com/gundem/tbmmde-partilerin-sandalye-sayilari-degisti-haberi-836263",
+      "title": "Kuzey Boru’dan 155,9 milyon TL’lik yeni sözleşme",
+      "summary": "Kuzey Boru (KBORU), belediyeler ile su ve kanalizasyon idareleriyle yürüttüğü ihale ve teklif süreçleri sonucunda toplam 155,9 milyon TL tutarında yeni sözleşmeler imzaladı. Teslimatların yılın son çeyreğinde tamamlanması planlanıyor.",
+      "url": "https://www.dunya.com/finans/haberler/kuzey-borudan-1559-milyon-tllik-yeni-sozlesme-haberi-836496",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T16:07:00"
+      "published": "2026-08-17T07:36:00",
+      "ai": {
+        "impact": "Kuzey Boru'nun yeni sözleşmeleri, şirketin gelirlerine pozitif katkıda bulunabilir. Türkiye'de altyapı yatırımlarının artmasıyla birlikte inşaat sektörüne olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner",
-      "summary": "The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.",
-      "url": "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T16:03:13"
-    },
-    {
-      "title": "Bu hafta en çok kazandıran ve kaybettiren yatırım araçları",
-      "summary": "Borsa İstanbul’da BIST 100 endeksi haftayı yüzde 2,85 yükselişle tamamlarken, gram altın yüzde 1,40, avro yüzde 0,57 ve dolar yüzde 0,37 değer kazandı.",
-      "url": "https://www.dunya.com/ekonomi/bu-hafta-en-cok-kazandiran-ve-kaybettiren-yatirim-araclari-haberi-836262",
+      "title": "50 günlük zorlu mesai başladı: Saatte 6 bin TL kazanıyorlar",
+      "summary": "Ordu&#039;da hasat edilen fındıkları ayıklamak için zorlu mesaisine başlayan patozcular, yaklaşık 50 gün boyunca çalışacakları sezonda saatlik ücret olarak 6 bin TL kazanıyor.",
+      "url": "https://www.dunya.com/foto-galeri/yasam/50-gunluk-zorlu-mesai-basladi-saatte-6-bin-tl-kazaniyorlar-galeri-836497",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T15:54:00"
+      "published": "2026-08-17T07:34:00",
+      "ai": {
+        "impact": "Fındık hasadının zorlu mesaisi, Ordu bölgesinde yerel ekonomiye kısa vadeli bir canlanma getirebilir. Ancak, genel ekonomiye etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Goldman Sachs, Çin’de perakende satışların zayıf kalacağını öngörüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/goldman-sachs-cinde-perakende-satslarn-zayf-kalacagn-ongoruyor-93CH-4031375",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:53:42"
-    },
-    {
-      "title": "bioAffinity Technologies 4 milyon dolarlık özel yerleşim tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bioaffinity-technologies-4-milyon-dolarlk-ozel-yerlesim-tamamlad-93CH-4031372",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:49:19"
-    },
-    {
-      "title": "YXT.Com Group hisseleri seyreltici arz sonrası %35 düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/yxtcom-group-hisseleri-seyreltici-arz-sonras-35-dustu-93CH-4031371",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:46:54"
-    },
-    {
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "summary": "The data is reinforcing concerns about the health of the world's second-largest economy, which has grappled with a deepening supply-demand imbalance.",
+      "url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-14T15:45:15"
+      "published": "2026-08-17T07:33:57",
+      "ai": {
+        "impact": "Çin ekonomisinin yavaşlaması, küresel ekonomi için negatif bir sinyal olabilir. Türkiye'de ihracata yönelik şirketlerin satışlarını olumsuz etkileyebilir.",
+        "sentiment": "Negatif"
+      }
     },
     {
-      "title": "Dowgate Group, RentGuarantor’daki payını %13,1’e çıkardı",
+      "title": "InvestAcc Group hisseleri yükselen görünümle %9 arttı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dowgate-group-rentguarantordaki-payn-131e-ckard-93CH-4031370",
+      "url": "https://tr.investing.com/news/stock-market-news/investacc-group-hisseleri-yukselen-gorunumle-9-artt-93CH-4032143",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:41:17"
+      "published": "2026-08-17T07:29:28",
+      "ai": {
+        "impact": "InvestAcc Group hisselerinin yükselmesi, şirketin finansal performansının iyileştirilmesine işaret edebilir. Ancak, genel piyasalara etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-      "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
-      "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T15:38:46"
+      "title": "Gulf Marine Services hisseleri sözleşme uzatımıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/gulf-marine-services-hisseleri-sozlesme-uzatmyla-yukseldi-93CH-4032137",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:27:45",
+      "ai": {
+        "impact": "Gulf Marine Services hisselerinin yükselmesi, şirketin sözleşmesindeki uzatmanın olumlu etkisini gösterebilir. Ancak, genel piyasalara etkisi sınırlı olabilir.",
+        "sentiment": "Pozitif"
+      }
     },
     {
-      "title": "Borsa günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,28 değer kazanarak 14.172,26 puandan tamamladı. BIST 100 endeksi, önceki kapanışa göre 40,03 puan artarken toplam işlem hacmi 186,4 milyar lira oldu.",
-      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-836261",
+      "title": "AstraZeneca hisseleri neden bugün yükseldi?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/astrazeneca-hisseleri-neden-bugun-yukseldi-93CH-4032136",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:27:33",
+      "ai": {
+        "impact": "AstraZeneca hisselerinin yükselmesi, şirketin finansal veya operasyonel performansındaki bir gelişmeye bağlı olabilir. Ancak, detaylar olmadan genel piyasalara etkisi belirsizdir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "OceanaGold, Ausgold’u 776 milyon A$ karşılığında satın alıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/oceanagold-ausgoldu-776-milyon-a-karslgnda-satn-alyor-93CH-4032133",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:25:55",
+      "ai": {
+        "impact": "OceanaGold'un Ausgold'u satın alması, şirketin büyüme stratejisinin bir parçası olabilir. Madencilik sektörüne ve ilgili şirketlere olumlu yansıyabilir.",
+        "sentiment": "Pozitif"
+      }
+    },
+    {
+      "title": "Hürmüz çıkmazı ve talep kaygısı Brent’i 90 dolarda tutuyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/hurmuz-ckmaz-ve-talep-kaygs-brenti-90-dolarda-tutuyor-4032132",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:25:12",
+      "ai": {
+        "impact": "Hürmüz çıkmazı ve talep kaygısı, petrol fiyatlarını etkileyebilir. Türkiye'de enerji maliyetleri ve enflasyon üzerinde baskı oluşturabilir.",
+        "sentiment": "Negatif"
+      }
+    },
+    {
+      "title": "OTE 5,2 milyon euroya 262.106 hisse geri satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ote-52-milyon-euroya-262106-hisse-geri-satn-ald-93CH-4032129",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:23:18"
+    },
+    {
+      "title": "Dünya mirasının kalbi 2027’de İstanbul’da atacak",
+      "summary": "Türkiye’nin dönem başkanlığında, 2027 yılında İstanbul’da gerçekleştirilecek UNESCO Dünya Miras Komitesi’nin 49’uncu Dönem Toplantısı’na yönelik hazırlık çalışmaları başladı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, UNESCO Türkiye Millî Komisyonu Başkanı Prof. Dr. M. Öcal Oğuz ile bir araya gelerek hazırlıkların yalnızca toplantının organizasyonuyla sınırlı tutulmamasını; Türkiye’nin kültürel mi",
+      "url": "https://www.dunya.com/sektorler/turizm/dunya-mirasinin-kalbi-2027de-istanbulda-atacak-haberi-836495",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T15:29:00"
+      "published": "2026-08-17T07:23:00"
     },
     {
-      "title": "CQS New City High Yield Fund 50,4 peni’den 500.000 hisse ihraç etti",
+      "title": "JPMorgan, York Space Systems hissesini düşürdü",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cqs-new-city-high-yield-fund-504-peniden-500000-hisse-ihrac-etti-93CH-4031365",
+      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-york-space-systems-hissesini-dusurdu-93CH-4032128",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:27:13"
+      "published": "2026-08-17T07:22:01"
     },
     {
-      "title": "Cantor Fitzgerald, Applied Materials hissesi için hedefini korudu",
+      "title": "Argenx hisseleri otoimmün miyozit denemesinde olumlu sonuçlarla yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-applied-materials-hissesi-icin-hedefini-korudu-93CH-4031364",
+      "url": "https://tr.investing.com/news/stock-market-news/argenx-hisseleri-otoimmun-miyozit-denemesinde-olumlu-sonuclarla-yukseldi-4032130",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:24:02"
+      "published": "2026-08-17T07:21:38"
     },
     {
-      "title": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively",
-      "summary": "New CNBC Generation Lab poll shows almost half of 18- to 34-year-olds see democratic socialism positively and nearly 80% see the U.S. economy negatively.",
-      "url": "https://www.cnbc.com/2026/08/13/cnbc-poll-half-of-those-18-to-34-view-democratic-socialism-positively.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T15:22:00"
-    },
-    {
-      "title": "Cantor, Intuitive Machines hisse hedefini düşürdü",
+      "title": "FTSE 100 bugün: ABD perakende verisi Fed beklentilerini düşürdü, hisseler yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/cantor-intuitive-machines-hisse-hedefini-dusurdu-93CH-4031363",
+      "url": "https://tr.investing.com/news/stock-market-news/ftse-100-abd-perakende-verileri-fed-faiz-beklentilerini-azaltt-4032135",
       "source": "Investing Türkiye",
-      "published": "2026-08-14T15:17:54"
+      "published": "2026-08-17T07:21:34"
     },
     {
-      "title": "Carlyle ve CVC, Bauwatch için ortak teklif hazırlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/carlyle-ve-cvc-bauwatch-icin-ortak-teklif-hazrlyor-93CH-4031362",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:17:44"
-    },
-    {
-      "title": "CarrefourSA, 500 milyon TL tahvil ödemesini tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/carrefoursa-500-milyon-tl-tahvil-odemesini-tamamlad-93CH-4031361",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:17:41"
-    },
-    {
-      "title": "Panelsan, Elazığ GES projesinde imalatları tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/panelsan-elazg-ges-projesinde-imalatlar-tamamlad-93CH-4031360",
-      "source": "Investing Türkiye",
-      "published": "2026-08-14T15:15:49"
-    },
-    {
-      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
-      "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-14T15:11:41"
-    },
-    {
-      "title": "New York borsası yatay seyirle açıldı",
-      "summary": "New York borsası, Orta Doğu&#039;daki jeopolitik gelişmeler ve ABD&#039;de açıklanan makroekonomik verilerin yatırımcıların odağında olduğu haftanın son işlem gününe yatay seyirle başladı.",
-      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-yatay-seyirle-acildi-haberi-836257",
+      "title": "Alibaba oyun birimini satıyor: 2 milyar doları aşan devir",
+      "summary": "Alibaba, oyun geliştiricisi Lingxi Games’teki payının tamamını Trustar Capital’e devretmek için anlaşmaya vardı. Satıştan 2 milyar doların üzerinde gelir beklenirken, şirket sermayeyi yapay zekâ ve bulut bilişime yöneltiyor.",
+      "url": "https://www.dunya.com/is-dunyasi/alibaba-oyun-birimini-satiyor-2-milyar-dolari-asan-devir-haberi-836493",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-14T14:55:00"
+      "published": "2026-08-17T07:18:00"
+    },
+    {
+      "title": "Jefferies, Freenome hissesi için kanser tarama potansiyeline dayanarak al önerisi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jefferies-freenome-hissesi-icin-kanser-tarama-potansiyeline-dayanarak-al-onerisi-verdi-93CH-4032124",
+      "source": "Investing Türkiye",
+      "published": "2026-08-17T07:17:44"
+    },
+    {
+      "title": "Gurbetçilerin yeni gözdesi belli oldu: İşte yaşamak için en iyi 10 ülke",
+      "summary": "Yurt dışında yeni bir hayat kurmak isteyenlerin en memnun olduğu ülkeler belli oldu. Yaşam kalitesi, çalışma koşulları, kişisel finans, konut ve yerleşme kolaylığının değerlendirildiği 2026 araştırmasında zirvenin sahibi ne Asya&#039;dan ne de Avrupa&#039;dan. İşte ezberleri bozan 2026&#039;da gurbetçiler için dünyanın en iyi ülkeleri...",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/gurbetcilerin-yeni-gozdesi-belli-oldu-iste-yasamak-icin-en-iyi-10-ulke-galeri-836494",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:17:00"
+    },
+    {
+      "title": "Borsa İstanbul haftaya yükselişle başladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,15 yükselişle 14.192,88 puandan başladı. Sektör endeksleri arasında en fazla kazandıran yüzde 1,09 ile tekstil deri, en çok gerileyen ise yüzde 1,01 ile menkul kıymet yatırım ortaklığı oldu.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-istanbul-haftaya-yukselisle-basladi-haberi-836492",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:12:00"
+    },
+    {
+      "title": "Yüksek Hızlı Tren (YHT) zam mı geldi? YHT biletleri ne kadar oldu?",
+      "summary": "Yüksek Hızlı Tren bilet fiyatları zamlandı. YHT fiyat güncellemesinin ardından bilet fiyatları merak ediliyor. İşte &quot;YHT biletleri ne kadar oldu&quot; sorusunun yanıtı...",
+      "url": "https://www.dunya.com/gundem/yuksek-hizli-tren-yht-zam-mi-geldi-yht-biletleri-ne-kadar-oldu-haberi-836490",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:08:00"
+    },
+    {
+      "title": "Ticari gayrimenkulde reel düşüş: Fiyatlar enflasyonun gerisinde kaldı",
+      "summary": "Merkez Bankası verilerine göre ticari gayrimenkul fiyatları 2026’nın ikinci çeyreğinde yıllık bazda yüzde 29,4 arttı. Fiyatlar enflasyondan arındırıldığında ise yüzde 2,2 geriledi. Üç büyük il arasında yıllık artışta Ankara ilk sırada yer aldı.",
+      "url": "https://www.dunya.com/ekonomik-veriler/ticari-gayrimenkulde-reel-dusus-fiyatlar-enflasyonun-gerisinde-kaldi-haberi-836491",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:06:00"
+    },
+    {
+      "title": "Bulls Yatırım'dan ARD Grup Bilişim için hedef fiyat",
+      "summary": "Bulls Yatırım, ARD Grup Bilişim’i “Endeks Üstü Getiri” tavsiyesiyle araştırma kapsamına aldı. Kurum, İntron birleşmesi, yurt dışı büyüme ve yapay zekâ yatırımlarını öne çıkararak hisse için 156 TL hedef fiyat seviyesi belirledi.",
+      "url": "https://www.dunya.com/finans/haberler/bulls-yatirimdan-ard-grup-bilisim-icin-hedef-fiyat-haberi-836488",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-17T07:00:00"
     }
   ]
 }
