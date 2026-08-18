@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-18T17:03:55+03:00",
+  "updated_at": "2026-08-18T17:59:52+03:00",
   "overview": null,
   "ticker": [
     {
       "name": "BIST 100",
       "symbol": "XU100.IS",
-      "value": 14087.5,
-      "change_pct": -0.6
+      "value": 14116.09,
+      "change_pct": -0.4
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": 7709.5,
-      "change_pct": -0.98
+      "value": 7698.31,
+      "change_pct": -1.12
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": 26361.81,
-      "change_pct": -1.37
+      "value": 26277.54,
+      "change_pct": -1.69
     },
     {
       "name": "DAX",
       "symbol": "^GDAXI",
-      "value": 26212.87,
-      "change_pct": -0.86
+      "value": 26166.06,
+      "change_pct": -1.04
     },
     {
       "name": "Nikkei 225",
@@ -35,31 +35,31 @@
     {
       "name": "USD/TRY",
       "symbol": "USDTRY=X",
-      "value": 47.91,
+      "value": 47.92,
       "change_pct": 0.12
     },
     {
       "name": "EUR/TRY",
       "symbol": "EURTRY=X",
-      "value": 55.53,
-      "change_pct": 0.33
+      "value": 55.49,
+      "change_pct": 0.26
     },
     {
       "name": "Ons Altin",
       "symbol": "GC=F",
-      "value": 4447.2,
-      "change_pct": 0.67
+      "value": 4443.6,
+      "change_pct": 0.58
     },
     {
       "name": "Brent Petrol",
       "symbol": "BZ=F",
-      "value": 91.16,
-      "change_pct": 0.32
+      "value": 90.87,
+      "change_pct": 0.0
     },
     {
       "name": "Gram Altın",
       "symbol": "GRAM-ALTIN",
-      "value": 6850.89,
+      "value": 6845.43,
       "change_pct": null
     }
   ]
