@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-08-18T14:16:58+03:00",
+  "updated_at": "2026-08-18T14:47:58+03:00",
   "news": [
+    {
+      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+      "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
+      "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-18T11:48:01"
+    },
+    {
+      "title": "Bakan Uraloğlu Trabzon'daki iki proje için tarih verdi",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon Şehir İçi Raylı Ulaşım Sistemi Projesi&#039;nin temelinin eylül başında atılacağını açıkladı. Uraloğlu, yeni havalimanında ise şantiye kurulum çalışmalarının başladığını ve yıl sonundan önce temel atılmasının planlandığını bildirdi.",
+      "url": "https://www.dunya.com/gundem/bakan-uraloglu-trabzondaki-iki-proje-icin-tarih-verdi-haberi-836707",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T11:39:00"
+    },
+    {
+      "title": "H.C. Wainwright, Tango Therapeutics için hedef fiyatı 68 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-tango-therapeutics-icin-hedef-fiyat-68-dolara-yukseltti-93CH-4034425",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:25"
+    },
+    {
+      "title": "H.C. Wainwright, Assembly Biosciences için al tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-assembly-biosciences-icin-al-tavsiyesini-yineledi-93CH-4034424",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:24"
+    },
+    {
+      "title": "H.C. Wainwright, Invivyd hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-invivyd-hissesi-icin-tavsiyesini-korudu-93CH-4034423",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:23"
+    },
+    {
+      "title": "H.C. Wainwright, Pioneer Power hissesi için 12 dolar hedefle Al tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-pioneer-power-hissesi-icin-12-dolar-hedefle-al-tavsiyesini-korudu-93CH-4034421",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:22"
+    },
+    {
+      "title": "H.C. Wainwright, Alto Neuroscience için hedef fiyatı 55 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-alto-neuroscience-icin-hedef-fiyat-55-dolara-yukseltti-93CH-4034422",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:22"
+    },
+    {
+      "title": "Hive Digital hisseleri 350 milyon dolarlık AI anlaşmasıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hive-digital-hisseleri-350-milyon-dolarlk-ai-anlasmasyla-yukseldi-93CH-4034420",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:20"
+    },
+    {
+      "title": "H.C. Wainwright, Rein Therapeutics hissesi için Al tavsiyesini tekrarladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-rein-therapeutics-hissesi-icin-al-tavsiyesini-tekrarlad-93CH-4034419",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:10"
+    },
+    {
+      "title": "Elicio Therapeutics için 23 dolarlık hedef fiyat korundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/elicio-therapeutics-icin-23-dolarlk-hedef-fiyat-korundu-93CH-4034418",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:08"
+    },
+    {
+      "title": "Actuate Therapeutics hissesi, elraglusib denemesi için FDA onayı aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/actuate-therapeutics-hissesi-elraglusib-denemesi-icin-fda-onay-ald-93CH-4034417",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:06"
+    },
+    {
+      "title": "H.C. Wainwright, Alpha Cognition hisse hedefini 20 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-alpha-cognition-hisse-hedefini-20-dolara-yukseltti-93CH-4034416",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T11:32:04"
+    },
+    {
+      "title": "Yapay zekânın nükleer rüyası söndü: 30 milyar dolar buharlaştı",
+      "summary": "Yapay zekâ veri merkezlerinin enerji ihtiyacıyla yükselen küçük modüler reaktör hisseleri yön değiştirdi. Üç şirketin piyasa değerindeki sert kayıp, fiyatların düşmesine yatırım yapan fonlara milyarlarca dolar kazandırdı.",
+      "url": "https://www.dunya.com/finans/haberler/yapay-zekanin-nukleer-ruyasi-sondu-30-milyar-dolar-buharlasti-haberi-836706",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T11:31:00"
+    },
+    {
+      "title": "2027 BAYRAM TARİHLERİ... Ramazan Bayramı, Kurban Bayramı ne zaman?",
+      "summary": "2027 dini bayramların tarihi merak ediliyor. Şimdiden plan yapmak isteyenler veya bayramların gelmesini iple çekenler &quot;Ramazan Bayramı, Kurban Bayramı ne zaman&quot; diye soruyor.",
+      "url": "https://www.dunya.com/gundem/2027-bayram-tarihleri-ramazan-bayrami-kurban-bayrami-ne-zaman-haberi-836705",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T11:28:00"
+    },
+    {
+      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "summary": "Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level since 2002.",
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-18T11:20:40"
+    },
+    {
+      "title": "Bitcoin'de kritik gösterge 19 ayın zirvesinde: Yükseliş mi, sert düşüş mü?",
+      "summary": "Bitcoin&#039;de yükseliş beklentisiyle açılan kaldıraçlı işlemler yoğunlaşırken fonlama oranı yaklaşık 19 ayın zirvesine çıktı. Açık işlemlerin 22,79 milyar dolarla iki ayın en yüksek seviyesine ulaşması iyimserliği güçlendirse de olası bir düşüşte toplu satış riskini büyütüyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-kritik-gosterge-19-ayin-zirvesinde-yukselis-mi-sert-dusus-mu-galeri-836708",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T11:20:00"
+    },
     {
       "title": "Rusya'dan Google, Telegram ve Microsoft'a para cezası",
       "summary": "Rusya&#039;da Google, Telegram ve Microsoft&#039;a yasaklı içerikleri kaldırmadıkları gerekçesiyle toplam 11,1 milyon ruble (yaklaşık 130 bin dolar) para cezası verildi.",
@@ -16,130 +128,18 @@
       "published": "2026-08-18T11:02:00"
     },
     {
+      "title": "Ünlü jean markası iflas etti",
+      "summary": "Döngüsel üretim modeli ve çevreci yaklaşımıyla öne çıkan MUD Jeans, artan mali yükün ardından iflas etti. Şirket yeni siparişleri durdururken, mevcut siparişlerin ve bazı hizmetlerin geleceği belirsizliğini koruyor.",
+      "url": "https://www.dunya.com/ekonomi/unlu-jean-markasi-iflas-etti-haberi-836704",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T11:02:00"
+    },
+    {
       "title": "DGS tercihleri başladı mı, ne zaman başlıyor? DGS tercih tarihi belli oldu mu?",
       "summary": "DGS tercih tarihi aramaları hız kesmiyor. YKS tercih sonuçlarının açıklanmasının ardından lisans adayları ÖSYM&#039;nin duyuru yapıp yapmadığını sık sık kontrol ediyor. Gündemden düşmeyen soru ise &quot;DGS tercihleri başladı mı, ne zaman başlıyor&quot; oluyor.",
       "url": "https://www.dunya.com/gundem/dgs-tercihleri-basladi-mi-ne-zaman-basliyor-dgs-tercih-tarihi-belli-oldu-mu-haberi-836700",
       "source": "Dünya Gazetesi",
       "published": "2026-08-18T11:01:00"
-    },
-    {
-      "title": "Nvidia's AI moat is shifting from chips to capital",
-      "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
-      "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T11:00:01"
-    },
-    {
-      "title": "The startup using AI to help rare disease families develop custom treatments",
-      "summary": "Nome uses AI and drug-development expertise to help rare disease families turn genetic diagnoses into potential paths toward treatment.",
-      "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T11:00:01"
-    },
-    {
-      "title": "Dynatrace hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/dynatrace-hissesi-bugun-neden-yukseliyor-93CH-4034319",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:54:08"
-    },
-    {
-      "title": "William Blair, Enliven Therapeutics hissesine alım önerisiyle başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/william-blair-enliven-therapeutics-hissesine-alm-onerisiyle-baslad-93CH-4034318",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:54:00"
-    },
-    {
-      "title": "EDP Energias de Portugal hisseleri neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/edp-energias-de-portugal-hisseleri-neden-yukseliyor-93CH-4034317",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:53:58"
-    },
-    {
-      "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
-      "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
-      "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T10:53:25"
-    },
-    {
-      "title": "Diageo yeniden yapılanma sürecinde iş gücünü %6’dan fazla azalttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/diageo-yeniden-yaplanma-surecinde-is-gucunu-6dan-fazla-azaltt-93CH-4034316",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:53:19"
-    },
-    {
-      "title": "Descartes gümrük komisyoncuları için yapay zeka destekli belge yönetimini başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/descartes-gumruk-komisyoncular-icin-yapay-zeka-destekli-belge-yonetimini-baslatt-93CH-4034299",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:49:28"
-    },
-    {
-      "title": "Eaton havacılık bölümü başkanlığına Shawn Black’i atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/eaton-havaclk-bolumu-baskanlgna-shawn-blacki-atad-93CH-4034298",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:49:21"
-    },
-    {
-      "title": "Home Depot hisseleri neden bugün yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/home-depot-hisseleri-neden-bugun-yukseliyor-93CH-4034297",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:48:51"
-    },
-    {
-      "title": "Citi: Pozisyon riski kısa pozisyon kapamadan kar realizasyonuna kayıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/citi-pozisyon-riski-ksa-pozisyon-kapamadan-kar-realizasyonuna-kayyor-4034304",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:48:44"
-    },
-    {
-      "title": "Bath & Body Works hisseleri neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bath--body-works-hisseleri-neden-yukseliyor-93CH-4034296",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:48:40"
-    },
-    {
-      "title": "Barclays, Enliven Therapeutics hissesini Ağırlıklı Al ile başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/barclays-enliven-therapeutics-hissesini-agrlkl-al-ile-baslatt-93CH-4034295",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T10:48:16"
-    },
-    {
-      "title": "Fransa Tarım Bakanı Genevard: Korkunç bir yaz geçiriyoruz",
-      "summary": "Fransa Tarım Bakanı Annie Genevard, kuraklık, aşırı sıcaklar ve orman yangınlarının ülke tarımını derin bir krize sürüklediğini belirterek, &quot;Korkunç bir yaz geçiriyoruz&quot; dedi. Genevard, üretimdeki kaybın henüz netleşmediğini, çiftçilere yönelik yardımların 27 Ağustos&#039;ta değerlendirileceğini açıkladı.",
-      "url": "https://www.dunya.com/dunya/fransa-tarim-bakani-genevard-korkunc-bir-yaz-geciriyoruz-haberi-836697",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-18T10:41:00"
-    },
-    {
-      "title": "Filenin Sultanları maçı ne zaman? Türkiye - Letonya voleybol maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "2026 CEV Kadınlar Avrupa Voleybol Şampiyonası yakın zamanda başlayacak. Türkiye A Milli Kadın Voleybol Takımı&#039;mız ilk mücadelesini Letonya karşısında verecek. Voleybolseverler son dünya şampiyonunu izlemek için can atarken &quot;Filenin Sultanları maçı ne zaman&quot; sorusu hızlanmış durumda...",
-      "url": "https://www.dunya.com/spor/filenin-sultanlari-maci-ne-zaman-turkiye-letonya-voleybol-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836699",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-18T10:40:00"
-    },
-    {
-      "title": "BHP’de cinsel taciz bilançosu: 109 kişi işten çıkarıldı",
-      "summary": "Dünyanın en büyük madencilik şirketlerinden BHP, 2026 mali yılında 113 cinsel taciz vakasının soruşturmayla doğrulandığını açıkladı. Vakalarla bağlantılı 109 kişi işten çıkarıldı, sahadan uzaklaştırıldı veya görevinden ayrıldı.",
-      "url": "https://www.dunya.com/is-dunyasi/bhpde-cinsel-taciz-bilancosu-109-kisi-isten-cikarildi-haberi-836698",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-18T10:37:00"
-    },
-    {
-      "title": "Sivas’ta yolcu minibüsü şarampole devrildi: 4 ölü, 10 yaralı",
-      "summary": "Sivas’ın Suşehri ilçesinde yolcu minibüsünün şarampole devrilmesi sonucu 4 kişi hayatını kaybetti, 4’ü ağır 10 kişi yaralandı. Yaralılar ekiplerin müdahalesinin ardından hastanelere kaldırıldı.",
-      "url": "https://www.dunya.com/gundem/sivasta-yolcu-minibusu-sarampole-devrildi-4-olu-10-yarali-haberi-836696",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-18T10:35:00"
     }
   ]
 }
