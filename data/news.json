@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-08-18T15:26:32+03:00",
+  "updated_at": "2026-08-18T16:22:57+03:00",
   "news": [
+    {
+      "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
+      "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
+      "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-18T13:21:17"
+    },
+    {
+      "title": "Susuz tarımla yetiştiriliyor: Verimi geçen yılı aştı",
+      "summary": "Balıkesir&#039;in Bandırma ilçesinde ata tohumuyla ve susuz tarım yöntemiyle yetiştirilen beyaz kavunda hasat başladı. Üreticilerin yüzünü güldüren sezonda verimin geçen yıla göre arttığı belirtildi.",
+      "url": "https://www.dunya.com/video-galeri/ekonomi/susuz-tarimla-yetistiriliyor-verimi-gecen-yili-asti-video-836720",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-18T13:14:00"
+    },
+    {
+      "title": "Bossa, JCR Eurasia Rating’den A- (tr) kredi notu aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/bossa-jcr-eurasia-ratingden-a-tr-kredi-notu-ald-93CH-4034825",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:13:54"
+    },
+    {
+      "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
+      "summary": "The biggest single options trade in the entire market Monday was a $129 million bet against the VanEck Semiconductor ETF.",
+      "url": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-18T13:13:13"
+    },
     {
       "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
       "summary": "Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level since 2002.",
       "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-18T12:25:20"
+      "published": "2026-08-18T13:13:10"
     },
     {
-      "title": "Trump'tan Hürmüz Boğazı paylaşımı: Yeni ABD toprağı",
-      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı&#039;nı &quot;ABD toprağı&quot; olarak gösteren bir harita paylaştı. Daha önce Boğaz&#039;ı &quot;ABD toprağı ilan edeceğini&quot; söyleyen Trump&#039;ın paylaşımındaki haritada &quot;Yeni ABD Toprağı&quot; ifadesi yer aldı.",
-      "url": "https://www.dunya.com/dunya/trumptan-hurmuz-bogazi-paylasimi-yeni-abd-topragi-haberi-836713",
+      "title": "Tera Varlık Kiralama, 12 milyar TL kira sertifikası ihracına karar verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/tera-varlk-kiralama-12-milyar-tl-kira-sertifikas-ihracna-karar-verdi-93CH-4034823",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:12:36"
+    },
+    {
+      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+      "summary": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
+      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-18T13:11:30"
+    },
+    {
+      "title": "Nutanix ve ChronoScale yapay zeka altyapısı ortaklığı duyurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nutanix-ve-chronoscale-yapay-zeka-altyaps-ortaklg-duyurdu-93CH-4034820",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:15"
+    },
+    {
+      "title": "Rexford Industrial, 1,2 milyar dolarlık portföyü satıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/rexford-industrial-12-milyar-dolarlk-portfoyu-satyor-93CH-4034819",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:14"
+    },
+    {
+      "title": "Square, OpenTable ortaklığını rezervasyon entegrasyonuyla genişletti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/square-opentable-ortaklgn-rezervasyon-entegrasyonuyla-genisletti-93CH-4034818",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:13"
+    },
+    {
+      "title": "Snowflake maliyetleri düşürmek için dinamik yönlendirme ekliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/snowflake-maliyetleri-dusurmek-icin-dinamik-yonlendirme-ekliyor-93CH-4034817",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:11"
+    },
+    {
+      "title": "Pegasystems yapay zeka yönetişim araçlarını piyasaya sürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/pegasystems-yapay-zeka-yonetisim-araclarn-piyasaya-surdu-93CH-4034815",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:03"
+    },
+    {
+      "title": "Genasys, Asya-Pasifik ve Avrupa’dan 1,4 milyon dolarlık sipariş aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/genasys-asyapasifik-ve-avrupadan-14-milyon-dolarlk-siparis-ald-93CH-4034816",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:03"
+    },
+    {
+      "title": "Palogic, Granite Point Mortgage’a maliyet kesintisi çağrısı yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/palogic-granite-point-mortgagea-maliyet-kesintisi-cagrs-yapt-93CH-4034814",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:02"
+    },
+    {
+      "title": "Francisco Partners, Weave’i 650 milyon dolara satın alacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/francisco-partners-weavei-650-milyon-dolara-satn-alacak-93CH-4034813",
+      "source": "Investing Türkiye",
+      "published": "2026-08-18T13:10:00"
+    },
+    {
+      "title": "Hazine bugün düzenlediği iki ihaleyle 79,1 milyar lira borçlandı",
+      "summary": "Hazine ve Maliye Bakanlığı, düzenlediği iki tahvil ihalesiyle toplam 79 milyar 81,6 milyon lira borçlandı. İlk ihalede 4 yıl vadeli, TÜFE&#039;ye endeksli tahvil yeniden ihraç edilirken ikinci ihalede 9 yıl vadeli, sabit kuponlu tahvil piyasaya sunuldu.",
+      "url": "https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-791-milyar-lira-borclandi-haberi-836719",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-18T12:15:00"
+      "published": "2026-08-18T13:01:00"
     },
     {
-      "title": "'Worrisome': AI is driving a looming market correction, central bank economists warn",
-      "summary": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
-      "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+      "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+      "summary": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
+      "url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-18T12:07:05"
+      "published": "2026-08-18T13:00:01"
     },
     {
-      "title": "Nano Dimension yönetim kuruluna bağımsız direktör atandı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/nano-dimension-yonetim-kuruluna-bagmsz-direktor-atand-93CH-4034527",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:04:29"
-    },
-    {
-      "title": "BIM Birleşik Mağazalar hissesi bugün neden yükseldi?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/bim-birlesik-magazalar-hissesi-bugun-neden-yukseldi-93CH-4034524",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:03:52"
-    },
-    {
-      "title": "Pasha Yatırım Bankası, 250 milyon TL’lik VDMK itfasını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/pasha-yatrm-bankas-250-milyon-tllik-vdmk-itfasn-tamamlad-93CH-4034522",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:03:26"
-    },
-    {
-      "title": "Resideo Technologies SVP 225.999 dolarlık hisse satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/resideo-technologies-svp-225999-dolarlk-hisse-satn-ald-93CH-4034515",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:01:55"
-    },
-    {
-      "title": "Saratoga Investment teminatsız tahvil ihracı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/saratoga-investment-teminatsz-tahvil-ihrac-baslatt-93CH-4034514",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:01:47"
-    },
-    {
-      "title": "NowVertical mali işler müdürlüğüne Philip Jones’u atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nowvertical-mali-isler-mudurlugune-philip-jonesu-atad-93CH-4034512",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:01:30"
-    },
-    {
-      "title": "Needham, Hicuity satın alımı sonrası DocGo hissesi için görüşünü korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-hicuity-satn-alm-sonras-docgo-hissesi-icin-gorusunu-korudu-93CH-4034510",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:00:12"
-    },
-    {
-      "title": "Needham, Streamex’in hisse hedefini düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-streamexin-hisse-hedefini-dusurdu-93CH-4034509",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:00:05"
-    },
-    {
-      "title": "ShengShu Technology, Hong Kong’da 500 milyon doların üzerinde halka arz planlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/shengshu-technology-hong-kongda-500-milyon-dolarn-uzerinde-halka-arz-planlyor-4034513",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T12:00:03"
-    },
-    {
-      "title": "Prediction markets entrant Novig posts more than $125 million in trading volume during its first week",
-      "summary": "The newly launched Novig has reported over $125 million in notional trading volume.",
-      "url": "https://www.cnbc.com/2026/08/18/novig-posts-more-than-125-million-in-trading-volume-in-its-first-week.html",
+      "title": "Crypto exchange Kraken launches cash back debit card in bid for consumer wallets",
+      "summary": "Kraken is vying for a place in consumer wallets as crypto evolves from an asset class into infrastructure for mainstream financial products.",
+      "url": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-18T12:00:01"
+      "published": "2026-08-18T13:00:01"
     },
     {
-      "title": "Okullar ne zaman, hangi tarihte açılıyor? Okullar eylül ayının kaçında açılacak?",
-      "summary": "Okulların açılış tarihi araması hızlanıyor. Eylül ayının yaklaşması ile birlikte &quot;Okullar ne zaman, hangi tarihte açılıyor&quot; sorusu artıyor. İşte Milli Eğitim Bakanlığının geçtiği takvim...",
-      "url": "https://www.dunya.com/gundem/okullar-ne-zaman-hangi-tarihte-aciliyor-okullar-eylul-ayinin-kacinda-acilacak-haberi-836710",
+      "title": "Alihan Kuriş soruşturmasında feth-i kabir kararı: Eski Bakan Arif Ahmet Denizolgun'un mezarı açılacak",
+      "summary": "Son dakika... Kamuoyunda &quot;Süleymancılar&quot; olarak bilinen cemaatin lideri Alihan Kuriş&#039;e yönelik soruşturma kapsamında savcılık eski Ulaştırma Bakanı Arif Ahmet Denizolgun&#039;un mezarının açılmasına karar verdi. 10 yıl önce hayatını kaybeden ve ölümü uzun süredir aile içindeki tartışmaların merkezinde bulunan Denizolgun cemaatin Kuriş&#039;ten önceki lideriydi.",
+      "url": "https://www.dunya.com/gundem/alihan-kuris-sorusturmasinda-feth-i-kabir-karari-eski-bakan-arif-ahmet-denizolgunun-mezari-acilacak-haberi-836718",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-18T12:00:00"
+      "published": "2026-08-18T12:51:00"
     },
     {
-      "title": "Son 76 yılın en şiddetlisi olabilir! Uzmanlardan 'Süper El Nino' uyarısı",
-      "summary": "Pasifik Okyanusu&#039;nda hızla güçlenen El Nino için uzmanlardan çarpıcı bir uyarı geldi. NOAA&#039;ya göre hava olayının, 1950&#039;den bu yana kaydedilen en şiddetli El Nino olma ihtimali yüzde 70&#039;e ulaştı. Sonbahar sonu ile kış başında zirveye çıkması beklenen olay, 1982-1983 dönemindeki &quot;Süper El Nino&quot;yu geride bırakabilir.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/son-76-yilin-en-siddetlisi-olabilir-uzmanlardan-super-el-nino-uyarisi-galeri-836712",
+      "title": "Kademeli emeklilikte son durum nedir? Kademeli emeklilik çıkacak mı, geliyor mu?",
+      "summary": "Kademeli emeklilik için bekleyiş devam ediyor. Yaklaşık 4 milyon kişi yasanın çıkıp çıkmayacağını merak ediyor. Konu gündemden düşmezken tekrar tekrar gelen soru &quot;Kademeli emeklilik çıkacak mı, geliyor mu&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/kademeli-emeklilikte-son-durum-nedir-kademeli-emeklilik-cikacak-mi-geliyor-mu-haberi-836716",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-18T12:00:00"
-    },
-    {
-      "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-      "summary": "Brunswick Corp. CEO David Foulkes told CNBC premium boat sales are staying afloat, while value options are lagging.",
-      "url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T11:59:01"
-    },
-    {
-      "title": "Jefferson Capital’in yan kuruluşu 100 milyon dolarlık tahvil ihracı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/jefferson-capitalin-yan-kurulusu-100-milyon-dolarlk-tahvil-ihrac-baslatt-93CH-4034505",
-      "source": "Investing Türkiye",
-      "published": "2026-08-18T11:57:19"
-    },
-    {
-      "title": "Deutsche Bank’tan piyasalara uyarı: Her şey yolunda gitse bile risk var",
-      "summary": "Küresel piyasalarda rekorlar ve faiz iyimserliği öne çıkarken Deutsche Bank, yatırımcıların “kusursuza yakın” bir senaryoyu fiyatladığını belirtti. Banka, büyümeden enflasyona ve arz şoklarına kadar mevcut dengeleri bozabilecek risklere dikkat çekti.",
-      "url": "https://www.dunya.com/ekonomi/deutsche-banktan-piyasalara-uyari-her-sey-yolunda-gitse-bile-risk-var-haberi-836711",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-18T11:56:00"
-    },
-    {
-      "title": "Nvidia's AI moat is shifting from chips to capital",
-      "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
-      "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T11:55:33"
-    },
-    {
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
-      "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-18T11:48:01"
+      "published": "2026-08-18T12:43:00"
     }
   ]
 }
