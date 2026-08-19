@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-08-19T14:47:50+03:00",
+  "updated_at": "2026-08-19T15:26:23+03:00",
   "news": [
+    {
+      "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "summary": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+      "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-19T12:24:19"
+    },
+    {
+      "title": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle",
+      "summary": "Shares of Spain's Deoleo jumped on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+      "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-19T12:23:39"
+    },
+    {
+      "title": "20 yaşında serveti 150 milyon dolara ulaştı: Annesini bile geride bıraktı",
+      "summary": "Donald Trump’ın oğlu Barron Trump’ın tahmini serveti 150 milyon dolara ulaştı. Henüz 20 yaşındaki Barron’ın annesi Melania Trump’ı geride bıraktığı hesaplanırken, genç Trump’ın servetinin arkasındaki asıl kaynak dikkat çekti.",
+      "url": "https://www.dunya.com/ekonomi/20-yasinda-serveti-150-milyon-dolara-ulasti-annesini-bile-geride-birakti-haberi-836879",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T12:20:00"
+    },
+    {
+      "title": "Rusya’da yakıt krizi büyüyor: Moskova’da benzine litre sınırı",
+      "summary": "Rusya’da rafinerilere yönelik saldırılar ve yaz aylarında artan talebin sıkıştırdığı akaryakıt piyasasında kriz yeniden başkente ulaştı. Moskova’daki büyük istasyon zincirleri benzin satışını araç başına sınırlandırırken bazı noktalarda uzun kuyruklar oluştu.",
+      "url": "https://www.dunya.com/ekonomi/rusyada-yakit-krizi-buyuyor-moskovada-benzine-litre-siniri-haberi-836878",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T12:17:00"
+    },
+    {
+      "title": "Stifel, Okta’nın hisse hedefini kimlik güvenliği nedeniyle 160 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-oktann-hisse-hedefini-kimlik-guvenligi-nedeniyle-160-dolara-yukseltti-93CH-4036366",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:10:41"
+    },
+    {
+      "title": "SK hynix hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sk-hynix-hisseleri-neden-yukseliste-93CH-4036363",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:09:25"
+    },
+    {
+      "title": "WhiteFiber hissesi neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/whitefiber-hissesi-neden-dusuyor-93CH-4036362",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:09:06"
+    },
+    {
+      "title": "ICE şeker piyasaları 2,3 milyon sözleşmeyle rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ice-seker-piyasalar-23-milyon-sozlesmeyle-rekor-krd-93CH-4036355",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:06:16"
+    },
+    {
+      "title": "Monopar tıbbi işler başkanı atadı, karaciğer toplantısında sunum yapacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/monopar-tbbi-isler-baskan-atad-karaciger-toplantsnda-sunum-yapacak-93CH-4036354",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:06:15"
+    },
+    {
+      "title": "Veralto, Cleanwater1’i 465 milyon dolara satın alıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/veralto-cleanwater1i-465-milyon-dolara-satn-alyor-93CH-4036352",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:06:07"
+    },
+    {
+      "title": "Innventure ana şirket maliyetlerini kesiyor, AeroFlexx satışı için seçenekler arıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/innventure-ana-sirket-maliyetlerini-kesiyor-aeroflexx-sats-icin-secenekler-aryor-93CH-4036351",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:06:06"
+    },
+    {
+      "title": "PN Smart Energy 200MW güneş projesi için anlaşma imzaladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/pn-smart-energy-200mw-gunes-projesi-icin-anlasma-imzalad-93CH-4036350",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:06:02"
+    },
+    {
+      "title": "PayPal ve Venmo ABD okullarında harç ödemelerinde kabul ediliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/paypal-ve-venmo-abd-okullarnda-harc-odemelerinde-kabul-ediliyor-93CH-4036349",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:05:56"
+    },
+    {
+      "title": "Taboola, NBC News ortaklığını display reklamcılığa genişletti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/taboola-nbc-news-ortaklgn-display-reklamclga-genisletti-93CH-4036348",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T12:05:52"
+    },
+    {
+      "title": "Altın yükselecek mi, gram altın düşer mi? Altında son durum...",
+      "summary": "Altın fiyatları bu hafta inişli çıkışlı bir grafik sergiliyor. Ons altın 4 bin 450 doları geçemezken şu sıralar 4 bin 364 dolar bandında seyrediyor. Gram altında bugün hafif bir yükseliş kaydedilirken altın yatırımcıları son durumu merak ederek &quot;Altın yükselecek mi, gram altın düşer mi&quot; diye soruyor.",
+      "url": "https://www.dunya.com/ekonomi/altin-yukselecek-mi-gram-altin-duser-mi-altinda-son-durum-haberi-836877",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T11:55:00"
+    },
+    {
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 100%",
+      "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-19T11:53:58"
+    },
+    {
+      "title": "Alphabet Avustralya’da ilk kez borçlandı, tahvile üç katından fazla talep geldi",
+      "summary": "Google&#039;ın çatı şirketi Alphabet, Avustralya doları cinsinden ilk tahvil ihracında 5,5 milyar Avustralya doları topladı. Yatırımcı talebi 18 milyar doları aşarken, teknoloji devlerinin hızlanan yatırım harcamaları finansman arayışını büyütüyor.",
+      "url": "https://www.dunya.com/ekonomi/alphabet-avustralyada-ilk-kez-borclandi-tahvile-uc-katindan-fazla-talep-geldi-haberi-836875",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T11:48:00"
+    },
     {
       "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
       "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
@@ -9,25 +128,11 @@
       "published": "2026-08-19T11:41:43"
     },
     {
-      "title": "James Latham hissedarları tüm kararları onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/james-latham-hissedarlar-tum-kararlar-onaylad-93CH-4036237",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:31:40"
-    },
-    {
-      "title": "Ciena hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ciena-hissesi-bugun-neden-yukseliyor-93CH-4036222",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:28:02"
-    },
-    {
-      "title": "Mizuho, LeonaBio hisse hedefini yüksek OpEx nedeniyle düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/mizuho-leonabio-hisse-hedefini-yuksek-opex-nedeniyle-dusurdu-93CH-4036221",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:27:59"
+      "title": "4 milyar dolarlık mirastan geriye o kalmıştı: 5 kardeş satmak için anlaştı",
+      "summary": "Türkiye&#039;nin sayılı zenginlerinden Faruk Yalçın&#039;ın, Kanlıca&#039;daki kendi adıyla anılan tarihi yalısı satışa çıkarıldı. Başlangıçta 70 milyon dolar istenen yalının alıcı çıkmaması üzerine fiyatı güncellenirken, yalının yeni sahibi olacak isim büyük merak konusu oldu.",
+      "url": "https://www.dunya.com/gundem/4-milyar-dolarlik-mirastan-geriye-o-kalmisti-5-kardes-satmak-icin-anlasti-haberi-836876",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T11:31:00"
     },
     {
       "title": "UAE severs trade with Iran after reported missile strike",
@@ -35,111 +140,6 @@
       "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
       "source": "CNBC World Markets",
       "published": "2026-08-19T11:27:32"
-    },
-    {
-      "title": "Autozi tedarik zinciri genişlemesi için 30 milyon dolar aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/autozi-tedarik-zinciri-genislemesi-icin-30-milyon-dolar-ald-93CH-4036215",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:26:07"
-    },
-    {
-      "title": "Almanya’nın borçlanma maliyeti savunma harcamaları nedeniyle 15 yılın zirvesinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/almanyann-borclanma-maliyeti-savunma-harcamalar-nedeniyle-15-yln-zirvesinde-93CH-4036214",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:25:47"
-    },
-    {
-      "title": "Her ameliyat öncesi tam altın verdi, son halini görünce aynalara küstü",
-      "summary": "Elazığ’da çalıştığı bakım merkezinde bir hastanın müdahalesi sonucu burnu kırılan 41 yaşındaki Aysun Alpsoy, tedavi amacıyla geçirdiği 4 operasyonun ardından burnunda şekil bozukluğu, yırtık ve yanık izi oluştuğunu öne sürdü. “Ben resmen hayattan koptum” diyen Alpsoy, doktor hakkında şikâyetçi olarak konuyu yargıya taşıdı.",
-      "url": "https://www.dunya.com/foto-galeri/yasam/her-ameliyat-oncesi-tam-altin-verdi-son-halini-gorunce-aynalara-kustu-galeri-836874",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:24:00"
-    },
-    {
-      "title": "Canaccord, Alesta satın alımı sonrası BioMarin hisse notunu korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-alesta-satn-alm-sonras-biomarin-hisse-notunu-korudu-93CH-4036209",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:22:34"
-    },
-    {
-      "title": "Aşı hisseleri Moderna’nın melanom aşısı sonuçlarıyla sıçradı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/as-hisseleri-modernann-melanom-ass-sonuclaryla-scrad-93CH-4036207",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:21:47"
-    },
-    {
-      "title": "Merck hisseleri neden bugün yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/merck-hisseleri-neden-bugun-yukseliyor-93CH-4036201",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:20:12"
-    },
-    {
-      "title": "YENİ Parti'nin kongre takvimi belli oldu",
-      "summary": "YENİ Parti&#039;nin 22 Ağustos&#039;ta başlayacak kongre sürecine ilişkin takvim belli oldu. İlçe başkanlığı seçimlerinin 12 Eylül&#039;de, il başkanlığı seçimlerinin ise 18 Ekim&#039;de yapılması planlanırken partinin yeni genel merkezi 30 Ağustos&#039;ta açılacak. Kongre sürecinde oy kullanmak isteyenlerin 26 Ağustos&#039;a kadar üyeliklerini tamamlaması gerekecek.",
-      "url": "https://www.dunya.com/gundem/yeni-partinin-kongre-takvimi-belli-oldu-haberi-836873",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:20:00"
-    },
-    {
-      "title": "Aurora Cannabis, Curaleaf teklifini reddetmesi için çağrı yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/aurora-cannabis-curaleaf-teklifini-reddetmesi-icin-cagr-yapt-93CH-4036186",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:17:55"
-    },
-    {
-      "title": "Güney Afrika’da perakende satışlar yıllık %1,6 arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/guney-afrikada-perakende-satslar-yllk-16-artt-93CH-4036185",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T11:17:46"
-    },
-    {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
-      "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-      "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-19T11:16:34"
-    },
-    {
-      "title": "TCMB TOPLANTI TARİHİ: Ağustos ayında Merkez Bankası toplantısı var mı, faiz kararı ne zaman açıklanacak?",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası yılın belirli dönemlerinde toplantı düzenliyor. Son toplantı temmuz ayında gerçekleşti. Bu ay toplantı olup olmayacağı sorgulanırken &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusu tırmanıyor.",
-      "url": "https://www.dunya.com/ekonomi/tcmb-toplanti-tarihi-agustos-ayinda-merkez-bankasi-toplantisi-var-mi-faiz-karari-ne-zaman-aciklanacak-haberi-836870",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:10:00"
-    },
-    {
-      "title": "Yapay zekâ veri merkezleri Avrupa kentlerinden uzaklaşıyor",
-      "summary": "Yapay zekâ yatırımlarının büyüttüğü elektrik ve arazi ihtiyacı Avrupa&#039;nın veri merkezi haritasını değiştiriyor. Yeni dev tesisler büyük kentlerden uzaklaşırken, ucuz enerjiye ve hızlı şebeke bağlantısına erişen bölgeler öne çıkıyor.",
-      "url": "https://www.dunya.com/ekonomi/yapay-zeka-veri-merkezleri-avrupa-kentlerinden-uzaklasiyor-haberi-836872",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:10:00"
-    },
-    {
-      "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
-      "summary": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.",
-      "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-19T11:09:33"
-    },
-    {
-      "title": "Mahalleyi ayağa kaldıran 'Gulyabani' korkusu",
-      "summary": "Adapazarı’nda geceleri ortaya çıkarak evleri taşladığı, lazer tuttuğu ve güvenlik kameralarını hedef aldığı öne sürülen kimliği belirsiz şahıs mahalleyi ayağa kaldırdı. Sabaha kadar nöbet tutan vatandaşlar, “Gulyabani&#039;den daha büyük bir film var burada” diyerek yardım istedi.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/mahalleyi-ayaga-kaldiran-gulyabani-korkusu-galeri-836871",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:05:00"
-    },
-    {
-      "title": "Levent Börek'in sahibi Mustafa Levent Tamtürk’ün şirketine kayyum",
-      "summary": "LB Börekçilik Gıda Sanayi Tic. Ltd. Şti çatısı altında faaliyet gösteren Levent Börek&#039;in sahibi Mustafa Levent Tamtürk’ün yetkilisi ve tek ortağı olduğu MLT Börekçilik Gıda Sanayi Tic. Ltd. Şti.&#039;ye Furkan Vakfı soruşturması kapsamında kayyum atandı.",
-      "url": "https://www.dunya.com/gundem/levent-borekin-sahibi-mustafa-levent-tamturkun-sirketine-kayyum-haberi-836868",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T11:02:00"
     }
   ]
 }
