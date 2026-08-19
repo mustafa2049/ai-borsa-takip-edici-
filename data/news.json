@@ -1,12 +1,131 @@
 {
-  "updated_at": "2026-08-19T13:52:54+03:00",
+  "updated_at": "2026-08-19T14:16:58+03:00",
   "news": [
     {
-      "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
       "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
       "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-19T10:49:31"
+      "published": "2026-08-19T11:16:34"
+    },
+    {
+      "title": "InvestingPro’nun Integra hissesi için gerçeğe uygun değer çağrısı %73 kazandırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-integra-hissesi-icin-gercege-uygun-deger-cagrs-73-kazandrd-93CH-4036161",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:11:09"
+    },
+    {
+      "title": "TCMB TOPLANTI TARİHİ: Ağustos ayında Merkez Bankası toplantısı var mı, faiz kararı ne zaman açıklanacak?",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası yılın belirli dönemlerinde toplantı düzenliyor. Son toplantı temmuz ayında gerçekleşti. Bu ay toplantı olup olmayacağı sorgulanırken &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusu tırmanıyor.",
+      "url": "https://www.dunya.com/ekonomi/tcmb-toplanti-tarihi-agustos-ayinda-merkez-bankasi-toplantisi-var-mi-faiz-karari-ne-zaman-aciklanacak-haberi-836870",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T11:10:00"
+    },
+    {
+      "title": "Evolution Petroleum 12 milyon dolarlık hisse arzını fiyatladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/evolution-petroleum-12-milyon-dolarlk-hisse-arzn-fiyatlad-93CH-4036157",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:47"
+    },
+    {
+      "title": "Galmed, kolon dokusu değerlendirme teknolojisi için fizibilite çalışmasını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/galmed-kolon-dokusu-degerlendirme-teknolojisi-icin-fizibilite-calsmasn-tamamlad-93CH-4036156",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:44"
+    },
+    {
+      "title": "Pulsenmore ev ultrason hizmetini Ichilov hastanesine genişletiyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/pulsenmore-ev-ultrason-hizmetini-ichilov-hastanesine-genisletiyor-93CH-4036155",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:30"
+    },
+    {
+      "title": "StoneX yem işini büyütmek için Advanced Marketing’i satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/stonex-yem-isini-buyutmek-icin-advanced-marketingi-satn-ald-93CH-4036154",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:29"
+    },
+    {
+      "title": "VisionWave, İngiltere savunma genişlemesine Tony Fabrizio’yu atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/visionwave-ingiltere-savunma-genislemesine-tony-fabrizioyu-atad-93CH-4036153",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:28"
+    },
+    {
+      "title": "Nasus Pharma CFO’su Eyal Rubin Eylül’de ayrılacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/nasus-pharma-cfosu-eyal-rubin-eylulde-ayrlacak-93CH-4036152",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:26"
+    },
+    {
+      "title": "LCNB, Susan Zaunbrecher’i yönetim kuruluna atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lcnb-susan-zaunbrecheri-yonetim-kuruluna-atad-93CH-4036151",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:22"
+    },
+    {
+      "title": "Palantir 30 günde ikinci egemenlik eğitim kampını düzenliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/palantir-30-gunde-ikinci-egemenlik-egitim-kampn-duzenliyor-93CH-4036150",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:20"
+    },
+    {
+      "title": "UL Solutions hisse başına 0,145 dolar temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ul-solutions-hisse-basna-0145-dolar-temettu-dagtacak-93CH-4036149",
+      "source": "Investing Türkiye",
+      "published": "2026-08-19T11:09:00"
+    },
+    {
+      "title": "Levent Börek'in sahibi Mustafa Levent Tamtürk’ün şirketine kayyum",
+      "summary": "LB Börekçilik Gıda Sanayi Tic. Ltd. Şti çatısı altında faaliyet gösteren Levent Börek&#039;in sahibi Mustafa Levent Tamtürk’ün yetkilisi ve tek ortağı olduğu MLT Börekçilik Gıda Sanayi Tic. Ltd. Şti.&#039;ye Furkan Vakfı soruşturması kapsamında kayyum atandı.",
+      "url": "https://www.dunya.com/gundem/levent-borekin-sahibi-mustafa-levent-tamturkun-sirketine-kayyum-haberi-836868",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T11:02:00"
+    },
+    {
+      "title": "Car dealerships are relying more on parts and service for profits",
+      "summary": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
+      "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-19T11:00:01"
+    },
+    {
+      "title": "Weekly mortgage demand stalls along with interest rates, but rates are now moving higher again.",
+      "summary": "Mortgage rates were unchanged last week, as was mortgage demand, and total volume remains lower than year-ago levels.",
+      "url": "https://www.cnbc.com/2026/08/19/mortgage-demand-stalls-along-with-interest-rates.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-19T11:00:01"
+    },
+    {
+      "title": "80 bin çiçekten yalnızca yarım kilo çıkıyor: Kilosu 600 bin lira!",
+      "summary": "Safranbolu&#039;da geçen sezon kilosu 600 bin liraya kadar çıkan ve &#039;dünyanın en pahalı baharatı&#039; olarak bilinen safranın yeni sezon dikimi başladı. Yaklaşık 80 bin çiçekten yalnızca 500 gram elde edilen safran, zahmetli üretim süreci ve yüksek değeriyle dikkat çekiyor. İlçede 51 üretici toplam 110 dekarda yetiştiricilik yaparken yeni dikilen soğanların ekim ve kasım aylarında çiçek açma",
+      "url": "https://www.dunya.com/gundem/80-bin-cicekten-yalnizca-yarim-kilo-cikiyor-kilosu-600-bin-lira-haberi-836869",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T10:57:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Japonya Başbakanı Takaiçi ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Japonya Başbakanı Sanae Takaiçi ile telefon görüşmesinde ikili ilişkiler ile bölgesel ve küresel gelişmeleri ele aldı. Erdoğan, İran ile ABD arasındaki çatışmaların çözümünün tek yolunun müzakereler olduğunu belirterek, Türkiye&#039;nin kalıcı barış ve istikrar için diplomatik çabalara desteğini sürdüreceğini ifade etti.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-japonya-basbakani-takaici-ile-gorustu-haberi-836867",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T10:56:00"
+    },
+    {
+      "title": "Yapay zekâ çipte fiyatları yükseltti, Samsung’dan yüzde 15’e varan zam",
+      "summary": "Yapay zekâ çiplerine yönelik talep üretim kapasitesini sıkıştırırken Samsung’un temmuzda yaptığı fiyat artışlarının ayrıntıları ortaya çıktı. Bazı gelişmiş üretim süreçlerinde zam yüzde 15’e ulaşırken en sert artış Çin ve ABD müşterilerine yansıdı.",
+      "url": "https://www.dunya.com/is-dunyasi/yapay-zeka-cipte-fiyatlari-yukseltti-samsungdan-yuzde-15e-varan-zam-haberi-836866",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-19T10:47:00"
     },
     {
       "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
@@ -16,130 +135,11 @@
       "published": "2026-08-19T10:45:39"
     },
     {
-      "title": "Solaria Energia y Medio Ambiente hisseleri neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/solaria-energia-y-medio-ambiente-hisseleri-neden-yukseliste-93CH-4036076",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:44:50"
-    },
-    {
-      "title": "Datavault AI hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/datavault-ai-hissesi-bugun-neden-dusuyor-93CH-4036075",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:44:36"
-    },
-    {
-      "title": "Ülker Bisküvi hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ulker-biskuvi-hissesi-bugun-neden-yukseliyor-93CH-4036074",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:43:44"
-    },
-    {
-      "title": "Needham, karışık sonuçlar sonrası Klarna hissesi için Tut tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-karsk-sonuclar-sonras-klarna-hissesi-icin-tut-tavsiyesini-yineledi-93CH-4036059",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:42:21"
-    },
-    {
       "title": "Milletvekilini bıçaklayan eski ilçe başkanından ilk sözler: Çok pişmanım",
       "summary": "Yeni Parti Gaziantep Milletvekili Melih Meriç’i bıçakladıktan sonra teslim olan CHP Oğuzeli eski İlçe Başkanı Seydi Ahmet Keleş ile 4 şüpheli adliyeye sevk edildi. Keleş, sevk sırasında olaydan pişman olduğunu söyledi.",
       "url": "https://www.dunya.com/video-galeri/gundem/milletvekilini-bicaklayan-eski-ilce-baskanindan-ilk-sozler-cok-pismanim-video-836865",
       "source": "Dünya Gazetesi",
       "published": "2026-08-19T10:38:00"
-    },
-    {
-      "title": "Parsons, 981 milyon dolarlık ABD Uzay Kuvvetleri sözleşmesinde yer aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/parsons-981-milyon-dolarlk-abd-uzay-kuvvetleri-sozlesmesinde-yer-ald-93CH-4036036",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:37:34"
-    },
-    {
-      "title": "Eshallgo Çinli yazıcı sarf malzemesi üreticisiyle dağıtım ortaklığı kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/eshallgo-cinli-yazc-sarf-malzemesi-ureticisiyle-dagtm-ortaklg-kurdu-93CH-4036035",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:37:22"
-    },
-    {
-      "title": "Hyperscale Data imtiyazlı hisse temettülerini açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/hyperscale-data-imtiyazl-hisse-temettulerini-acklad-93CH-4036034",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:37:21"
-    },
-    {
-      "title": "NOV Eylül ayında ödenecek 0,09 dolar temettü açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nov-eylul-aynda-odenecek-009-dolar-temettu-acklad-93CH-4036031",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:36:55"
-    },
-    {
-      "title": "BTIG, olumlu çalışma verileriyle Avita Medical hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/btig-olumlu-calsma-verileriyle-avita-medical-hisse-hedefini-yukseltti-93CH-4036030",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:36:09"
-    },
-    {
-      "title": "Polonya vergi eşiğini yükseltti, yeni kurumsal oran ekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/polonya-vergi-esigini-yukseltti-yeni-kurumsal-oran-ekledi-93CH-4036020",
-      "source": "Investing Türkiye",
-      "published": "2026-08-19T10:33:49"
-    },
-    {
-      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-      "summary": "Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing the cloud-access gap.",
-      "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-19T10:32:51"
-    },
-    {
-      "title": "İniş takımları açılmayan özel jet piste böyle indi",
-      "summary": "ABD&#039;nin Ohio eyaletinde ön iniş takımı açılmayan özel jet, pilotların soğukkanlı müdahalesiyle güvenli şekilde piste indirildi. Washington Dulles Uluslararası Havalimanı&#039;ndan kalkan NetJets&#039;e ait Cessna Citation tipi uçak, yaşanan arızanın ardından Akron-Canton Havalimanı&#039;na acil iniş yaptı.",
-      "url": "https://www.dunya.com/video-galeri/gundem/inis-takimlari-acilmayan-ozel-jet-piste-boyle-indi-video-836863",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:30:00"
-    },
-    {
-      "title": "Bakan Bolat açıkladı: İhracat 401 milyar dolara ulaştı",
-      "summary": "Ticaret Bakanı Ömer Bolat, temmuz itibarıyla Türkiye&#039;nin toplam mal ve hizmet ihracatının 401 milyar dolara ulaştığını belirterek, bu tutarın milli gelirin dörtte birine karşılık geldiğini söyledi. Bolat, hizmet ihracatının ise 128 milyar dolara yükseldiğini açıkladı.",
-      "url": "https://www.dunya.com/ekonomi/bakan-bolat-acikladi-ihracat-401-milyar-dolara-ulasti-haberi-836864",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:28:00"
-    },
-    {
-      "title": "Bakan Işıkhan işsizlik verilerini değerlendirdi: 21 yılın en düşük seviyesi",
-      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, TÜİK&#039;in ikinci çeyrek işgücü verilerini değerlendirdi. İşsizlik oranının yüzde 7,9&#039;a gerilemesine dikkat çeken Işıkhan, bu oranın 2005&#039;ten bu yana çeyreklik bazda en düşük seviye olduğunu belirtti.",
-      "url": "https://www.dunya.com/ekonomi/bakan-isikhan-issizlik-verilerini-degerlendirdi-21-yilin-en-dusuk-seviyesi-haberi-836862",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:26:00"
-    },
-    {
-      "title": "Türkiye Kültür Yolu Festivali ilk kez Ordu’da",
-      "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin on beşinci durağı Ordu, 22-30 Ağustos tarihleri arasında ilk kez festival coşkusuna ortak olacak. Dokuz gün boyunca konser, sergi, söyleşi, atölye, çocuk etkinlikleri ve gastronomi rotalarıyla birbirinden özel programlara ev sahipliği yapacak şehir, kültür ve sanatseverleri bir araya getirecek. Festival kapsamında O",
-      "url": "https://www.dunya.com/sektorler/turizm/turkiye-kultur-yolu-festivali-ilk-kez-orduda-haberi-836861",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:17:00"
-    },
-    {
-      "title": "Ahmet Halûk Dursun 7’nci vefat yıl dönümünde Ankara’da anıldı",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Prof. Dr. Ahmet Halûk Dursun’un vefatının 7’nci yıl dönümü dolayısıyla Ankara Resim ve Heykel Müzesinde düzenlenen Haluk Dursun Sergisi ve Belgesel Gösterimi programına katıldı. Ersoy, Dursun’u ‘ömrünü ilme, tarihe, kültüre adamış, ülkesine ve milletine sevdalı’ bir mesai arkadaşı ve dostu olarak anarken “Haluk Hoca’yı anmak yalnızca geçmişi konuşmak deği",
-      "url": "https://www.dunya.com/gundem/ahmet-haluk-dursun-7nci-vefat-yil-donumunde-ankarada-anildi-haberi-836859",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:13:00"
-    },
-    {
-      "title": "Enerji fiyatları İngiltere'yi vurdu: Enflasyon yükseldi",
-      "summary": "İngiltere&#039;de yıllık enflasyon, Orta Doğu&#039;daki savaşın ardından yükselen enerji maliyetlerinin etkisiyle temmuzda yüzde 2,9&#039;a çıktı. Gaz fiyatlarında yaklaşık dört yılın en sert artışının yaşanması, hane halklarının yaşam maliyetleri üzerindeki baskıyı artırdı.",
-      "url": "https://www.dunya.com/ekonomi/enerji-fiyatlari-ingiltereyi-vurdu-enflasyon-yukseldi-haberi-836858",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-19T10:01:00"
     }
   ]
 }
