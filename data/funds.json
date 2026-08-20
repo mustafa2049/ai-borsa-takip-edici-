@@ -1,185 +1,185 @@
 {
-  "updated_at": "2026-08-19T18:34:51+03:00",
+  "updated_at": "2026-08-20T10:33:10+03:00",
   "funds": [
-    {
-      "code": "YAY",
-      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
-      "price": 1876.688514,
-      "return_1m": 9.88,
-      "return_3m": 10.19,
-      "return_6m": 45.5,
-      "return_1y": 79.44
-    },
-    {
-      "code": "AFT",
-      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
-      "price": 0.991306,
-      "return_1m": 7.88,
-      "return_3m": -0.55,
-      "return_6m": 20.69,
-      "return_1y": 43.21
-    },
     {
       "code": "TGE",
       "name": "İŞ PORTFÖY EMTİA YABANCI BYF FON SEPETİ FONU",
-      "price": 0.293454,
-      "return_1m": 6.83,
-      "return_3m": 0.27,
-      "return_6m": 27.04,
-      "return_1y": 63.99
+      "price": 0.293684,
+      "return_1m": 6.04,
+      "return_3m": 0.19,
+      "return_6m": 27.01,
+      "return_1y": 64.57
     },
     {
       "code": "TTE",
       "name": "İŞ PORTFÖY BIST TEKNOLOJİ AĞIRLIK SINIRLAMALI ENDEKSİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.7652,
-      "return_1m": 6.47,
-      "return_3m": 10.97,
-      "return_6m": 48.37,
-      "return_1y": 74.72
+      "price": 1.778641,
+      "return_1m": 5.97,
+      "return_3m": 13.3,
+      "return_6m": 48.46,
+      "return_1y": 76.33
     },
     {
       "code": "TMG",
       "name": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
-      "price": 1.442636,
-      "return_1m": 6.09,
-      "return_3m": 8.02,
-      "return_6m": 25.27,
-      "return_1y": 42.99
-    },
-    {
-      "code": "IPJ",
-      "name": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
-      "price": 19.960531,
-      "return_1m": 5.94,
-      "return_3m": 0.22,
-      "return_6m": 19.73,
-      "return_1y": 53.42
-    },
-    {
-      "code": "YAC",
-      "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
-      "price": 14.61611,
-      "return_1m": 5.43,
-      "return_3m": 5.0,
-      "return_6m": 6.97,
-      "return_1y": 32.63
+      "price": 1.446796,
+      "return_1m": 5.36,
+      "return_3m": 8.81,
+      "return_6m": 23.96,
+      "return_1y": 47.19
     },
     {
       "code": "AFA",
       "name": "AK PORTFÖY AMERİKA YABANCI HİSSE SENEDİ FONU",
-      "price": 1.275052,
-      "return_1m": 5.38,
-      "return_3m": 9.3,
-      "return_6m": 27.89,
-      "return_1y": 42.03
+      "price": 1.278562,
+      "return_1m": 5.27,
+      "return_3m": 10.06,
+      "return_6m": 27.28,
+      "return_1y": 42.91
+    },
+    {
+      "code": "YAC",
+      "name": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
+      "price": 14.657625,
+      "return_1m": 4.79,
+      "return_3m": 5.67,
+      "return_6m": 6.94,
+      "return_1y": 32.87
+    },
+    {
+      "code": "YAY",
+      "name": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
+      "price": 1836.4967,
+      "return_1m": 4.36,
+      "return_3m": 8.27,
+      "return_6m": 40.91,
+      "return_1y": 76.4
+    },
+    {
+      "code": "AFT",
+      "name": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
+      "price": 0.976141,
+      "return_1m": 3.71,
+      "return_3m": -1.14,
+      "return_6m": 19.16,
+      "return_1y": 41.91
+    },
+    {
+      "code": "IPJ",
+      "name": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
+      "price": 19.783558,
+      "return_1m": 3.53,
+      "return_3m": 0.35,
+      "return_6m": 17.31,
+      "return_1y": 52.42
     },
     {
       "code": "TCD",
       "name": "TACİRLER PORTFÖY DEĞIŞKEN FON",
-      "price": 48.680843,
-      "return_1m": 3.21,
-      "return_3m": 5.13,
-      "return_6m": 9.26,
-      "return_1y": 37.24
-    },
-    {
-      "code": "IPB",
-      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
-      "price": 0.890682,
-      "return_1m": 2.55,
-      "return_3m": 6.69,
-      "return_6m": 16.05,
-      "return_1y": 35.64
+      "price": 49.144286,
+      "return_1m": 2.69,
+      "return_3m": 5.53,
+      "return_6m": 11.05,
+      "return_1y": 38.58
     },
     {
       "code": "TYH",
       "name": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 2.050942,
-      "return_1m": 1.21,
-      "return_3m": -0.23,
-      "return_6m": -7.5,
-      "return_1y": 19.34
+      "price": 2.104453,
+      "return_1m": 2.58,
+      "return_3m": 2.7,
+      "return_6m": -4.99,
+      "return_1y": 22.75
+    },
+    {
+      "code": "IPB",
+      "name": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+      "price": 0.893267,
+      "return_1m": 2.47,
+      "return_3m": 6.86,
+      "return_6m": 17.44,
+      "return_1y": 35.24
     },
     {
       "code": "DAH",
       "name": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 3.576472,
-      "return_1m": 1.16,
-      "return_3m": -0.63,
-      "return_6m": -6.86,
-      "return_1y": 23.9
+      "price": 3.643593,
+      "return_1m": 1.87,
+      "return_3m": 1.39,
+      "return_6m": -4.78,
+      "return_1y": 25.97
     },
     {
       "code": "OPH",
       "name": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "price": 25.927818,
-      "return_1m": 0.46,
-      "return_3m": 2.85,
-      "return_6m": 3.0,
-      "return_1y": 34.09
+      "price": 26.601911,
+      "return_1m": 0.95,
+      "return_3m": 4.79,
+      "return_6m": 5.96,
+      "return_1y": 38.03
     },
     {
       "code": "IDH",
       "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 12.846862,
-      "return_1m": -0.03,
-      "return_3m": 0.39,
-      "return_6m": 3.31,
-      "return_1y": 25.72
+      "price": 13.059273,
+      "return_1m": 0.77,
+      "return_3m": 2.02,
+      "return_6m": 5.71,
+      "return_1y": 28.63
     },
     {
       "code": "TI2",
       "name": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.126263,
-      "return_1m": -0.39,
-      "return_3m": -2.11,
-      "return_6m": -7.22,
-      "return_1y": 16.85
-    },
-    {
-      "code": "HKH",
-      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 8.480835,
-      "return_1m": -1.25,
-      "return_3m": -2.61,
-      "return_6m": -7.55,
-      "return_1y": 6.96
-    },
-    {
-      "code": "GAF",
-      "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.620236,
-      "return_1m": -1.93,
-      "return_3m": -4.09,
-      "return_6m": -9.19,
-      "return_1y": 28.68
+      "price": 0.128543,
+      "return_1m": 0.68,
+      "return_3m": -0.41,
+      "return_6m": -5.19,
+      "return_1y": 18.37
     },
     {
       "code": "NNF",
       "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 22.777747,
-      "return_1m": -2.1,
-      "return_3m": 0.85,
-      "return_6m": -9.29,
-      "return_1y": 8.3
+      "price": 23.352265,
+      "return_1m": 0.21,
+      "return_3m": 3.82,
+      "return_6m": -5.91,
+      "return_1y": 11.24
+    },
+    {
+      "code": "HKH",
+      "name": "HEDEF PORTFÖY KATILIM HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 8.674708,
+      "return_1m": -0.16,
+      "return_3m": -0.66,
+      "return_6m": -4.57,
+      "return_1y": 10.24
+    },
+    {
+      "code": "GAF",
+      "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 1.658202,
+      "return_1m": -0.22,
+      "return_3m": -2.57,
+      "return_6m": -6.82,
+      "return_1y": 30.94
     },
     {
       "code": "GMR",
       "name": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.366711,
-      "return_1m": -2.42,
-      "return_3m": -5.7,
-      "return_6m": -6.52,
-      "return_1y": 18.82
+      "price": 1.388201,
+      "return_1m": -2.7,
+      "return_3m": -4.12,
+      "return_6m": -3.58,
+      "return_1y": 21.74
     },
     {
       "code": "MAC",
       "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.751802,
-      "return_1m": -4.72,
-      "return_3m": -6.36,
-      "return_6m": -8.45,
-      "return_1y": 13.22
+      "price": 0.763875,
+      "return_1m": -3.88,
+      "return_3m": -4.73,
+      "return_6m": -6.07,
+      "return_1y": 13.98
     }
   ]
 }
