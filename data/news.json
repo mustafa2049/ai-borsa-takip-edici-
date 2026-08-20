@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-20T14:24:01+03:00",
+  "updated_at": "2026-08-20T14:50:08+03:00",
   "news": [
+    {
+      "title": "Tarım ve Orman Bakanlığı sonuçları açıklandı mı, personel alımı sonuçları ne zaman açıklanacak?",
+      "summary": "Tarım ve Orman Bakanlığı perosnel alım sonuçları için adaylar duyuru bekliyor. Tarihlerin belli olmaması nedeniyle aramalar her gün yoğun şekilde yapılıyor. Adayların ortak sorusu &quot;Tarım ve Orman Bakanlığı personel alım sonuçları ne zaman açıklanacak&quot; oluyor.",
+      "url": "https://www.dunya.com/gundem/tarim-ve-orman-bakanligi-sonuclari-aciklandi-mi-personel-alimi-sonuclari-ne-zaman-aciklanacak-haberi-837021",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:35:00"
+    },
+    {
+      "title": "Meta, Microsoft’un Azure bulut hizmetinin önemli yapay zeka müşterisi oldu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/meta-microsoftun-azure-bulut-hizmetinin-onemli-yapay-zeka-musterisi-oldu-93CH-4037947",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:22:10"
+    },
+    {
+      "title": "Oppenheimer, Salesforce hissesi için Outperform tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/oppenheimer-salesforce-hissesi-icin-outperform-tavsiyesini-yineledi-93CH-4037941",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:20:24"
+    },
+    {
+      "title": "Kandilli'den Adalar'daki sarsıntılara ilişkin açıklama: 117 deprem kaydedildi",
+      "summary": "İstanbul&#039;un Adalar ilçesinin güneyinde dün başlayan sismik hareketlilikte bugün öğle saatlerine kadar 117 deprem kaydedildi. Kandilli Rasathanesi, büyüklükleri 0,7 ile 3,1 arasında değişen sarsıntıların aynı bölgede yoğunlaşan bir mikrodeprem dizisi oluşturduğunu bildirdi.",
+      "url": "https://www.dunya.com/gundem/kandilliden-adalardaki-sarsintilara-iliskin-aciklama-117-deprem-kaydedildi-haberi-837019",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:19:00"
+    },
+    {
+      "title": "Boğaz'daki 55 milyon dolarlık yalı satılırsa, devletin kasasına girecek rakam belli oldu",
+      "summary": "Merhum iş insanı Faruk Yalçın&#039;ın ailesinin Kanlıca&#039;daki Yağcı Hacı Şefik Bey Yalısı 55 milyon dolara satışa çıkarıldı. Daha önce 70 milyon dolar istenen tarihi yalı, yaklaşık 2 milyar 640 milyon TL&#039;lik güncel fiyatından satılırsa yalnızca tapu harcı olarak devletin kasasına 105 milyon 600 bin TL girecek.",
+      "url": "https://www.dunya.com/sektorler/emlak/bogazdaki-55-milyon-dolarlik-yali-satilirsa-devletin-kasasina-girecek-rakam-belli-oldu-haberi-837020",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:17:00"
+    },
     {
       "title": "İstanbul’da palamut bolluğu: Oltasını atan boş dönmüyor",
       "summary": "Sarıyer sahilinde palamut bolluğu olta balıkçılarının yüzünü güldürdü. Sabahın erken saatlerinde kıyıya gelen vatandaşların kovaları dolarken, balıkçılar ilerleyen günlerde palamutların daha da irileşeceğini ve sezonun bereketli geçeceğini belirtti.",
@@ -9,11 +44,53 @@
       "published": "2026-08-20T11:15:00"
     },
     {
-      "title": "Alibaba shares fall 3% as AI spending drives 75% drop in net income",
-      "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
-      "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-20T11:14:16"
+      "title": "IntraGel, kanser tedavisi için UroGen’den 7 milyon dolar aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/intragel-kanser-tedavisi-icin-urogenden-7-milyon-dolar-ald-93CH-4037904",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:48"
+    },
+    {
+      "title": "Harrow göz anestezi jeli için olumlu çalışma sonuçları bildirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/harrow-goz-anestezi-jeli-icin-olumlu-calsma-sonuclar-bildirdi-93CH-4037903",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:44"
+    },
+    {
+      "title": "LSI Industries 4. çeyrek net satışlarını %51 artışla 234,6 milyon dolara çıkardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lsi-industries-4-ceyrek-net-satslarn-51-artsla-2346-milyon-dolara-ckard-93CH-4037902",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:43"
+    },
+    {
+      "title": "Centerra Gold, Azimut Exploration’daki payını %12,67’ye çıkardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/centerra-gold-azimut-explorationdaki-payn-1267ye-ckard-93CH-4037901",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:32"
+    },
+    {
+      "title": "Natuzzi CEO adayı ile anlaşmaya vardı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/natuzzi-ceo-aday-ile-anlasmaya-vard-93CH-4037900",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:29"
+    },
+    {
+      "title": "SharonAI, 950 milyon dolarlık sözleşme kapsamında AI bulut dağıtımını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/sharonai-950-milyon-dolarlk-sozlesme-kapsamnda-ai-bulut-dagtmn-tamamlad-93CH-4037899",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:28"
+    },
+    {
+      "title": "RYTHM, THC içerikli buzlu çay limonata içeceğini piyasaya sürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/rythm-thc-icerikli-buzlu-cay-limonata-icecegini-piyasaya-surdu-93CH-4037898",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:23"
     },
     {
       "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
@@ -23,6 +100,13 @@
       "published": "2026-08-20T11:13:22"
     },
     {
+      "title": "Virtus Investment Partners üç aylık temettüsünü 2,45 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/virtus-investment-partners-uc-aylk-temettusunu-245-dolara-yukseltti-93CH-4037897",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T11:13:08"
+    },
+    {
       "title": "Merkez Bankası toplantısı ne zaman? MB faiz kararı hangi tarihte açıklanacak?",
       "summary": "Merkez Bankası toplantı tarihleri sık sık araştırılıyor. Merkez&#039;in atacağı hamle büyük merak konusu haline gelmiş durumda... Ağustos ayının 3&#039;te ikisi geride kalırken sık sık &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusu yöneltiliyor.",
       "url": "https://www.dunya.com/ekonomi/merkez-bankasi-toplantisi-ne-zaman-mb-faiz-karari-hangi-tarihte-aciklanacak-haberi-837015",
@@ -30,58 +114,16 @@
       "published": "2026-08-20T11:07:00"
     },
     {
-      "title": "Capella Üniversitesi onkologu mütevelli heyetine atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/capella-universitesi-onkologu-mutevelli-heyetine-atad-93CH-4037868",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:05:26"
-    },
-    {
-      "title": "Euro Trend, pay geri alım programını 12 milyon TL ile revize etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/euro-trend-pay-geri-alm-programn-12-milyon-tl-ile-revize-etti-93CH-4037864",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:04:34"
-    },
-    {
-      "title": "Needham, Bandwidth hissesi için tavsiyesini Voice AI büyüme görünümüyle korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-bandwidth-hissesi-icin-tavsiyesini-voice-ai-buyume-gorunumuyle-korudu-93CH-4037863",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:04:20"
-    },
-    {
-      "title": "InvestingPro’nun Gerçeğe Uygun Değeri Veeco’nun aşırı değerlenmesini %39’luk düşüşten önce yakaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-veeconun-asr-degerlenmesini-39luk-dususten-once-yakalad-93CH-4037862",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:04:06"
-    },
-    {
-      "title": "Euro Menkul Kıymet, pay geri alım programını revize etti: 12 milyon TL",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/euro-menkul-kymet-pay-geri-alm-programn-revize-etti-12-milyon-tl-93CH-4037854",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:03:01"
-    },
-    {
-      "title": "Flutter Entertainment CEO’su Jeremy Jackson 197.084 dolar değerinde hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/flutter-entertainment-ceosu-jeremy-jackson-197084-dolar-degerinde-hisse-satt-93CH-4037851",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T11:02:09"
+      "title": "BofA açıkladı: Dolar ve euro'da yıl sonu tahminleri değişti",
+      "summary": "Döviz piyasasında dengelerin değişebileceğine işaret eden Bank of America (BofA), kısa vadede dolar üzerindeki aşağı yönlü risklerin arttığını, euroda ise yükseliş ihtimalinin güçlendiğini belirtti. Bankanın tahminlerinde yıl sonu ve 2027 için dikkat çeken seviyeler öne çıktı.",
+      "url": "https://www.dunya.com/finans/haberler/bofa-acikladi-dolar-ve-euroda-yil-sonu-tahminleri-degisti-haberi-837018",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:01:00"
     },
     {
       "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
       "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
       "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-20T11:00:01"
-    },
-    {
-      "title": "Workers can't agree if junior employees should use AI at work: CNBC survey",
-      "summary": "Workers are divided on what AI usage should ideally look like for their junior colleagues, according to the CNBC and SurveyMonkey Quarterly AI and Jobs Survey.",
-      "url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
       "source": "CNBC World Markets",
       "published": "2026-08-20T11:00:01"
     },
@@ -93,53 +135,11 @@
       "published": "2026-08-20T10:59:00"
     },
     {
-      "title": "İş Yatırım, 2,4 milyar TL tutarında 92 günlük finansman bonosu ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/is-yatrm-24-milyar-tl-tutarnda-92-gunluk-finansman-bonosu-ihrac-etti-93CH-4037842",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:58:56"
-    },
-    {
-      "title": "UBS, Campbell’s için hedef fiyatı yükseltti, sat tavsiyesi devam",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-campbells-icin-hedef-fiyat-yukseltti-sat-tavsiyesi-devam-93CH-4037841",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:58:15"
-    },
-    {
-      "title": "Lucid Capital Markets, Eloxx Pharma hissesi için al önerisi verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/lucid-capital-markets-eloxx-pharma-hissesi-icin-al-onerisi-verdi-93CH-4037840",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:58:11"
-    },
-    {
-      "title": "Atour Lifestyle hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/atour-lifestyle-hissesi-bugun-neden-yukseliyor-93CH-4037839",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:57:33"
-    },
-    {
       "title": "Aracıların teklifini kabul etmedi: Ürününü pazarda kendisi satıyor",
       "summary": "Manisa&#039;nın Sarıgöl ilçesinde 5 dönüm arazide kavun ve karpuz yetiştiren Zafer Gençeli, komisyoncuların düşük alım fiyatları nedeniyle ürünlerini aracısız satmaya başladı. Gençeli, hasat ettiği ürünleri traktörüyle pazara taşıyarak doğrudan tüketiciyle buluşturuyor.",
       "url": "https://www.dunya.com/ekonomi/aracilarin-teklifini-kabul-etmedi-urununu-pazarda-kendisi-satiyor-haberi-837014",
       "source": "Dünya Gazetesi",
       "published": "2026-08-20T10:56:00"
-    },
-    {
-      "title": "Palamut bu sezon yüzleri güldürecek: Bir balıkta işler tersine dönecek",
-      "summary": "Balıkçı Selahattin Arslanbenzer, bu sezon palamutta bolluk beklediklerini belirtirken hamsi için dikkat çeken bir öngörüde bulundu. Palamudun hamsiyi kovaladığını söyleyen Arslanbenzer, hamsi miktarının geçen sezona göre yüzde 50 azalabileceğini ifade etti.",
-      "url": "https://www.dunya.com/ekonomi/palamut-bu-sezon-yuzleri-guldurecek-bir-balikta-isler-tersine-donecek-haberi-837012",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T10:32:00"
-    },
-    {
-      "title": "Amasya’nın sarı altını yok satıyor: Kilosu 1.400 liraya ulaştı",
-      "summary": "Amasya’da &quot;sarı altın&quot; olarak bilinen coğrafi işaretli çiçek bamyasında hasat sürüyor. Kurusunun kilosu 1.400 liradan satılan ürüne yoğun talep gelirken üreticiler bamyayı günün hemen her saatinde nakite çevirebiliyor. Bölgede bu yıl yaklaşık 2 bin 500 ton üretim bekleniyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/amasyanin-sari-altini-yok-satiyor-kilosu-1400-liraya-ulasti-galeri-837013",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T10:16:00"
     }
   ]
 }
