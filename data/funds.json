@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:33:10+03:00",
+  "updated_at": "2026-08-20T11:27:15+03:00",
   "funds": [
     {
       "code": "TGE",
@@ -112,11 +112,11 @@
     {
       "code": "OPH",
       "name": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
-      "price": 26.601911,
-      "return_1m": 0.95,
-      "return_3m": 4.79,
-      "return_6m": 5.96,
-      "return_1y": 38.03
+      "price": 26.590451,
+      "return_1m": 0.91,
+      "return_3m": 4.74,
+      "return_6m": 5.91,
+      "return_1y": 37.97
     },
     {
       "code": "IDH",
