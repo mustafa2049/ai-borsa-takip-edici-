@@ -1,82 +1,131 @@
 {
-  "updated_at": "2026-08-20T13:57:26+03:00",
+  "updated_at": "2026-08-20T14:24:01+03:00",
   "news": [
     {
-      "title": "Alibaba shares fall as AI spending drives 75% drop in net income",
+      "title": "İstanbul’da palamut bolluğu: Oltasını atan boş dönmüyor",
+      "summary": "Sarıyer sahilinde palamut bolluğu olta balıkçılarının yüzünü güldürdü. Sabahın erken saatlerinde kıyıya gelen vatandaşların kovaları dolarken, balıkçılar ilerleyen günlerde palamutların daha da irileşeceğini ve sezonun bereketli geçeceğini belirtti.",
+      "url": "https://www.dunya.com/ekonomi/istanbulda-palamut-bollugu-oltasini-atan-bos-donmuyor-haberi-837017",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:15:00"
+    },
+    {
+      "title": "Alibaba shares fall 3% as AI spending drives 75% drop in net income",
       "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
       "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-20T10:45:09"
+      "published": "2026-08-20T11:14:16"
     },
     {
-      "title": "Advance Auto Parts hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/advance-auto-parts-hisseleri-neden-dusuyor-93CH-4037783",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:44:27"
-    },
-    {
-      "title": "Alibaba ADR hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/alibaba-adr-hissesi-bugun-neden-dusuyor-93CH-4037782",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:44:14"
-    },
-    {
-      "title": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
+      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
       "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
       "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-20T10:43:16"
+      "published": "2026-08-20T11:13:22"
     },
     {
-      "title": "Aktif Yatırım Bankası, ilk yarı net kârı 3,3 milyar TL olarak açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/aktif-yatrm-bankas-ilk-yar-net-kar-33-milyar-tl-olarak-acklad-93CH-4037775",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:40:03"
+      "title": "Merkez Bankası toplantısı ne zaman? MB faiz kararı hangi tarihte açıklanacak?",
+      "summary": "Merkez Bankası toplantı tarihleri sık sık araştırılıyor. Merkez&#039;in atacağı hamle büyük merak konusu haline gelmiş durumda... Ağustos ayının 3&#039;te ikisi geride kalırken sık sık &quot;Merkez Bankası faiz kararı ne zaman açıklanacak&quot; sorusu yöneltiliyor.",
+      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-toplantisi-ne-zaman-mb-faiz-karari-hangi-tarihte-aciklanacak-haberi-837015",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T11:07:00"
     },
     {
-      "title": "CrowdStrike hisseleri CTO’nun ayrılmasıyla düştü",
+      "title": "Capella Üniversitesi onkologu mütevelli heyetine atadı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/crowdstrike-hisseleri-ctonun-ayrlmasyla-dustu-93CH-4037772",
+      "url": "https://tr.investing.com/news/company-news/capella-universitesi-onkologu-mutevelli-heyetine-atad-93CH-4037868",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:39:08"
+      "published": "2026-08-20T11:05:26"
     },
     {
-      "title": "Parsons, Donanma’dan 350 milyon dolarlık sözleşme aldı",
+      "title": "Euro Trend, pay geri alım programını 12 milyon TL ile revize etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/parsons-donanmadan-350-milyon-dolarlk-sozlesme-ald-93CH-4037770",
+      "url": "https://tr.investing.com/news/global-filings/euro-trend-pay-geri-alm-programn-12-milyon-tl-ile-revize-etti-93CH-4037864",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:37:44"
+      "published": "2026-08-20T11:04:34"
     },
     {
-      "title": "Qnity, Massachusetts’te KLA kusur tespit sistemi kurdu",
+      "title": "Needham, Bandwidth hissesi için tavsiyesini Voice AI büyüme görünümüyle korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/qnity-massachusettste-kla-kusur-tespit-sistemi-kurdu-93CH-4037769",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-bandwidth-hissesi-icin-tavsiyesini-voice-ai-buyume-gorunumuyle-korudu-93CH-4037863",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:37:28"
+      "published": "2026-08-20T11:04:20"
     },
     {
-      "title": "Gelecek Varlık Yönetimi, İş Bankası ihalesi: 754,8 milyon TL’lik portföy",
+      "title": "InvestingPro’nun Gerçeğe Uygun Değeri Veeco’nun aşırı değerlenmesini %39’luk düşüşten önce yakaladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/gelecek-varlk-yonetimi-is-bankas-ihalesi-7548-milyon-tllik-portfoy-93CH-4037766",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpronun-gercege-uygun-degeri-veeconun-asr-degerlenmesini-39luk-dususten-once-yakalad-93CH-4037862",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:36:21"
+      "published": "2026-08-20T11:04:06"
     },
     {
-      "title": "Norsk Hydro, tarife anlaşması endişesiyle Oslo’da %3 geriledi",
+      "title": "Euro Menkul Kıymet, pay geri alım programını revize etti: 12 milyon TL",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/norsk-hydro-hisseleri-geri-donusum-marjlarndaki-bask-ile-3-dustu-4037768",
+      "url": "https://tr.investing.com/news/global-filings/euro-menkul-kymet-pay-geri-alm-programn-revize-etti-12-milyon-tl-93CH-4037854",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:36:08"
+      "published": "2026-08-20T11:03:01"
     },
     {
-      "title": "Z Squared CMO’su Christopher Schadel şirket hissesinden 3.920 dolar aldı",
+      "title": "Flutter Entertainment CEO’su Jeremy Jackson 197.084 dolar değerinde hisse sattı",
       "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/z-squared-cmosu-christopher-schadel-sirket-hissesinden-3920-dolar-ald-93CH-4037760",
+      "url": "https://tr.investing.com/news/insider-trading-news/flutter-entertainment-ceosu-jeremy-jackson-197084-dolar-degerinde-hisse-satt-93CH-4037851",
       "source": "Investing Türkiye",
-      "published": "2026-08-20T10:32:59"
+      "published": "2026-08-20T11:02:09"
+    },
+    {
+      "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
+      "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-20T11:00:01"
+    },
+    {
+      "title": "Workers can't agree if junior employees should use AI at work: CNBC survey",
+      "summary": "Workers are divided on what AI usage should ideally look like for their junior colleagues, according to the CNBC and SurveyMonkey Quarterly AI and Jobs Survey.",
+      "url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-20T11:00:01"
+    },
+    {
+      "title": "Çöpe atılsa kimse dönüp bakmazdı: Apple’ın eski ürünleri servet değerinde",
+      "summary": "Apple’ın 50. yılı için düzenlenen müzayedede eski bilgisayarlar, prototipler ve Steve Jobs’a ait kişisel eşyalar satışa çıktı. Sıradan görünen bazı parçalar on binlerce dolara ulaşırken, bir kartvizit 100 bin doları aştı. Bugün milyonlarca kişinin cebinde veya masasında bulunan Apple ürünlerinin ataları, koleksiyon piyasasında bambaşka fiyatlarla alıcı arıyor. RR Auction’ın 20 Ağustos’ta son aşama",
+      "url": "https://www.dunya.com/foto-galeri/gundem/cope-atilsa-kimse-donup-bakmazdi-applein-eski-urunleri-servet-degerinde-galeri-837016",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T10:59:00"
+    },
+    {
+      "title": "İş Yatırım, 2,4 milyar TL tutarında 92 günlük finansman bonosu ihraç etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/is-yatrm-24-milyar-tl-tutarnda-92-gunluk-finansman-bonosu-ihrac-etti-93CH-4037842",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:58:56"
+    },
+    {
+      "title": "UBS, Campbell’s için hedef fiyatı yükseltti, sat tavsiyesi devam",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-campbells-icin-hedef-fiyat-yukseltti-sat-tavsiyesi-devam-93CH-4037841",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:58:15"
+    },
+    {
+      "title": "Lucid Capital Markets, Eloxx Pharma hissesi için al önerisi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/lucid-capital-markets-eloxx-pharma-hissesi-icin-al-onerisi-verdi-93CH-4037840",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:58:11"
+    },
+    {
+      "title": "Atour Lifestyle hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/atour-lifestyle-hissesi-bugun-neden-yukseliyor-93CH-4037839",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:57:33"
+    },
+    {
+      "title": "Aracıların teklifini kabul etmedi: Ürününü pazarda kendisi satıyor",
+      "summary": "Manisa&#039;nın Sarıgöl ilçesinde 5 dönüm arazide kavun ve karpuz yetiştiren Zafer Gençeli, komisyoncuların düşük alım fiyatları nedeniyle ürünlerini aracısız satmaya başladı. Gençeli, hasat ettiği ürünleri traktörüyle pazara taşıyarak doğrudan tüketiciyle buluşturuyor.",
+      "url": "https://www.dunya.com/ekonomi/aracilarin-teklifini-kabul-etmedi-urununu-pazarda-kendisi-satiyor-haberi-837014",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T10:56:00"
     },
     {
       "title": "Palamut bu sezon yüzleri güldürecek: Bir balıkta işler tersine dönecek",
@@ -86,60 +135,11 @@
       "published": "2026-08-20T10:32:00"
     },
     {
-      "title": "Michelin hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/michelin-hissesi-bugun-neden-yukseliyor-93CH-4037756",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T10:31:14"
-    },
-    {
       "title": "Amasya’nın sarı altını yok satıyor: Kilosu 1.400 liraya ulaştı",
       "summary": "Amasya’da &quot;sarı altın&quot; olarak bilinen coğrafi işaretli çiçek bamyasında hasat sürüyor. Kurusunun kilosu 1.400 liradan satılan ürüne yoğun talep gelirken üreticiler bamyayı günün hemen her saatinde nakite çevirebiliyor. Bölgede bu yıl yaklaşık 2 bin 500 ton üretim bekleniyor.",
       "url": "https://www.dunya.com/foto-galeri/ekonomi/amasyanin-sari-altini-yok-satiyor-kilosu-1400-liraya-ulasti-galeri-837013",
       "source": "Dünya Gazetesi",
       "published": "2026-08-20T10:16:00"
-    },
-    {
-      "title": "Tadı kaçtı: 90 bin tondan 30 bin tona düşebilir",
-      "summary": "Mersin&#039;in Mut ilçesinde beyaz incir üreticileri bu yıl ciddi verim kaybıyla karşı karşıya. Normal yıllarda yaklaşık 90 bin ton ürün alınan bölgede rekoltenin 30 bin tona kadar gerilemesi bekleniyor. Üstelik ürün azalmasına rağmen incirin kilogram fiyatı hasat döneminde 200 liradan 100 liraya kadar düştü.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/tadi-kacti-90-bin-tondan-30-bin-tona-dusebilir-galeri-837011",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T10:15:00"
-    },
-    {
-      "title": "Spor ayakkabı tutkusu fren yaptı: Perakende devinin hisseleri çöktü",
-      "summary": "JD Sports, zayıflayan spor ayakkabı talebi ve özellikle Kuzey Amerika’daki sert yavaşlama nedeniyle yıllık kâr beklentisini aşağı çekti. Açıklamanın ardından hisseler çift haneli gerilerken, 4 bin 800 mağazalı devde tüketici iştahındaki zayıflama daha görünür hale geldi.",
-      "url": "https://www.dunya.com/ekonomi/spor-ayakkabi-tutkusu-fren-yapti-perakende-devinin-hisseleri-coktu-haberi-837010",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T10:09:00"
-    },
-    {
-      "title": "Yüzde 1,20 faizli konut kredisi çıktı mı? İlk Evim Konut Kredisi kampanyası ne zaman başlıyor?",
-      "summary": "Ev sahibi olmak milyonların hayalini süsülüyor TOKİ iş birliği ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığı zaman zaman projeler üreterek orta ve dar gelirli vatandaşların daire sahibi olmasına olanak sunuyor. Yakın zamanda da yüzde 1,20 faizli konut kredisi müjdesi beklenirken son durum araştırılıyor.",
-      "url": "https://www.dunya.com/gundem/yuzde-120-faizli-konut-kredisi-cikti-mi-ilk-evim-konut-kredisi-kampanyasi-ne-zaman-basliyor-haberi-837007",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:51:00"
-    },
-    {
-      "title": "Kadın girişimcilere 3 milyon TL hibe desteği: Başvurular başladı",
-      "summary": "Kadın girişimcilere yönelik yeni destek programının başvuruları başladı. Türk Telekom, TOBB, UNDP ve Habitat Derneği iş birliğiyle yürütülen “Dijitalde Hayat Kolay” projesi kapsamında 40 kadın girişimci mentörlük programına alınacak. Programı başarıyla tamamlayanlar arasından seçilecek 20 girişimciye toplam 3 milyon TL hibe verilecek. Başvurular 13 Eylül&#039;e kadar yapılabilecek.",
-      "url": "https://www.dunya.com/sirketler/kadin-girisimcilere-3-milyon-tl-hibe-destegi-basvurular-basladi-haberi-837006",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:47:00"
-    },
-    {
-      "title": "Dolar çakıldı, altın zıpladı: Rekor getirecek ralli başladı",
-      "summary": "Altın piyasasında dengeler bir kez daha altın yatırımcısı lehine değişti. Doların üç ayın en düşük seviyesine gerilemesiyle hızlanan alımlar, ons altını hazirandan bu yana görülmeyen seviyelere taşıdı. 4.525 doları test eden altında şimdi gözler, rallinin yeni bir rekora dönüşüp dönüşmeyeceğini gösterecek kritik eşiklere çevrildi.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/dolar-cakildi-altin-zipladi-rekor-getirecek-ralli-basladi-galeri-837009",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:47:00"
-    },
-    {
-      "title": "Petrol piyasasında alarm! Fiyatlar üç haftanın zirvesine çıktı",
-      "summary": "Petrol fiyatları, Orta Doğu&#039;daki gerilimin yeni arz kesintilerine yol açabileceği endişesiyle son üç haftanın en yüksek düzeyine çıktı. Brent petrol 92 doların üzerine yükselirken, WTI&#039;da da artış beşinci işlem gününe taşındı. Hürmüz Boğazı&#039;ndaki geçişlerin savaş öncesi seviyelerin altında kalması ve bölgeden petrol ihracatındaki düşüş, piyasadaki arz endişelerini canlı tutuyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/petrol-piyasasinda-alarm-fiyatlar-uc-haftanin-zirvesine-cikti-galeri-837008",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:43:00"
     }
   ]
 }
