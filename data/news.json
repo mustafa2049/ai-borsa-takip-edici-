@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-08-20T12:58:05+03:00",
+  "updated_at": "2026-08-20T13:28:23+03:00",
   "news": [
     {
-      "title": "Alibaba cloud revenue rises 45% even as AI spending weighs on profit",
+      "title": "Ridgeview destekli şirketin Pinewood.AI anlaşmasında destek azaldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ridgeview-destekli-sirketin-pinewoodai-anlasmasnda-destek-azald-93CH-4037732",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:17:26"
+    },
+    {
+      "title": "Smart Sand EVP Young 136.841 dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/smart-sand-evp-young-136841-dolarlk-hisse-satt-93CH-4037731",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:17:14"
+    },
+    {
+      "title": "Yemen açıklarında tankere yetkisiz tekne yaklaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/yemen-acklarnda-tankere-yetkisiz-tekne-yaklast-93CH-4037730",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:16:18"
+    },
+    {
+      "title": "Tadı kaçtı: 90 bin tondan 30 bin tona düşebilir",
+      "summary": "Mersin&#039;in Mut ilçesinde beyaz incir üreticileri bu yıl ciddi verim kaybıyla karşı karşıya. Normal yıllarda yaklaşık 90 bin ton ürün alınan bölgede rekoltenin 30 bin tona kadar gerilemesi bekleniyor. Üstelik ürün azalmasına rağmen incirin kilogram fiyatı hasat döneminde 200 liradan 100 liraya kadar düştü.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/tadi-kacti-90-bin-tondan-30-bin-tona-dusebilir-galeri-837011",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T10:15:00"
+    },
+    {
+      "title": "Robo.ai Pazar günü ilk yarı sonuçlarını açıklayacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/roboai-pazar-gunu-ilk-yar-sonuclarn-acklayacak-93CH-4037728",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:13:40"
+    },
+    {
+      "title": "Wolfe Research, Fox hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/wolfe-research-fox-hissesi-icin-hedef-fiyat-yukseltti-93CH-4037727",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:12:07"
+    },
+    {
+      "title": "Barclays, SK Hynix için Overweight tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/barclays-sk-hynix-icin-overweight-tavsiyesini-yineledi-93CH-4037726",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:12:03"
+    },
+    {
+      "title": "Umman, Hürmüz Boğazı bölgesinde kalıcı barış çağrısı yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/umman-hurmuz-bogaz-bolgesinde-kalc-bars-cagrs-yapt-93CH-4037725",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:12:02"
+    },
+    {
+      "title": "Raymond James, büyüme görünümüyle American Integrity Insurance hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-buyume-gorunumuyle-american-integrity-insurance-hisse-hedefini-yukseltti-93CH-4037723",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:11:56"
+    },
+    {
+      "title": "Binance yapay zeka ticaret uygulamaları için Agent OS platformunu başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/cryptocurrency-news/binance-yapay-zeka-ticaret-uygulamalar-icin-agent-os-platformunu-baslatt-93CH-4037717",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:09:37"
+    },
+    {
+      "title": "CRISM Therapeutics glioblastoma için Faz II denemesinde hasta alımına başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/crism-therapeutics-glioblastoma-icin-faz-ii-denemesinde-hasta-almna-baslad-93CH-4037718",
+      "source": "Investing Türkiye",
+      "published": "2026-08-20T10:09:37"
+    },
+    {
+      "title": "Spor ayakkabı tutkusu fren yaptı: Perakende devinin hisseleri çöktü",
+      "summary": "JD Sports, zayıflayan spor ayakkabı talebi ve özellikle Kuzey Amerika’daki sert yavaşlama nedeniyle yıllık kâr beklentisini aşağı çekti. Açıklamanın ardından hisseler çift haneli gerilerken, 4 bin 800 mağazalı devde tüketici iştahındaki zayıflama daha görünür hale geldi.",
+      "url": "https://www.dunya.com/ekonomi/spor-ayakkabi-tutkusu-fren-yapti-perakende-devinin-hisseleri-coktu-haberi-837010",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T10:09:00"
+    },
+    {
+      "title": "Alibaba shares fall 4% as AI spending drives 75% drop in net income",
       "summary": "",
       "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-20T09:52:41"
+      "published": "2026-08-20T10:04:40"
     },
     {
       "title": "Yüzde 1,20 faizli konut kredisi çıktı mı? İlk Evim Konut Kredisi kampanyası ne zaman başlıyor?",
@@ -21,6 +105,20 @@
       "url": "https://www.dunya.com/sirketler/kadin-girisimcilere-3-milyon-tl-hibe-destegi-basvurular-basladi-haberi-837006",
       "source": "Dünya Gazetesi",
       "published": "2026-08-20T09:47:00"
+    },
+    {
+      "title": "Dolar çakıldı, altın zıpladı: Rekor getirecek ralli başladı",
+      "summary": "Altın piyasasında dengeler bir kez daha altın yatırımcısı lehine değişti. Doların üç ayın en düşük seviyesine gerilemesiyle hızlanan alımlar, ons altını hazirandan bu yana görülmeyen seviyelere taşıdı. 4.525 doları test eden altında şimdi gözler, rallinin yeni bir rekora dönüşüp dönüşmeyeceğini gösterecek kritik eşiklere çevrildi.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/dolar-cakildi-altin-zipladi-rekor-getirecek-ralli-basladi-galeri-837009",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T09:47:00"
+    },
+    {
+      "title": "Petrol piyasasında alarm! Fiyatlar üç haftanın zirvesine çıktı",
+      "summary": "Petrol fiyatları, Orta Doğu&#039;daki gerilimin yeni arz kesintilerine yol açabileceği endişesiyle son üç haftanın en yüksek düzeyine çıktı. Brent petrol 92 doların üzerine yükselirken, WTI&#039;da da artış beşinci işlem gününe taşındı. Hürmüz Boğazı&#039;ndaki geçişlerin savaş öncesi seviyelerin altında kalması ve bölgeden petrol ihracatındaki düşüş, piyasadaki arz endişelerini canlı tutuyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/petrol-piyasasinda-alarm-fiyatlar-uc-haftanin-zirvesine-cikti-galeri-837008",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-20T09:43:00"
     },
     {
       "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
@@ -42,104 +140,6 @@
       "url": "https://www.dunya.com/foto-galeri/otomotiv/trafik-sigortasinda-yeni-donem-tek-merkezden-yapilacak-galeri-837005",
       "source": "Dünya Gazetesi",
       "published": "2026-08-20T09:34:00"
-    },
-    {
-      "title": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
-      "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-      "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-20T09:30:49"
-    },
-    {
-      "title": "Albayrak Hazır Beton, JCR Avrasya’dan A (tr) / Durağan kredi notu aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/albayrak-hazr-beton-jcr-avrasyadan-a-tr--duragan-kredi-notu-ald-93CH-4037634",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:21:57"
-    },
-    {
-      "title": "Nemrut’un dev heykellerine 5 yıllık koruma kalkanı",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, UNESCO Dünya Mirası Listesi’nde yer alan Nemrut Dağı Tümülüsü’ndeki anıtsal heykeller için 2025 yılında başlatılan kapsamlı sağlamlaştırma çalışmalarının bu yıl da devam ettiğini açıkladı. Nanoteknolojik çözeltiler ve kireç bağlayıcılı harçlarla gerçekleştirilen müdahalelerde eserlerin özgün görünümü korunurken çalışmalar, beş yıllık program doğrultusunda",
-      "url": "https://www.dunya.com/sektorler/turizm/nemrutun-dev-heykellerine-5-yillik-koruma-kalkani-haberi-837003",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:19:00"
-    },
-    {
-      "title": "Citizens, swap baskısı nedeniyle NexPoint hisse notunu korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-swap-basks-nedeniyle-nexpoint-hisse-notunu-korudu-93CH-4037625",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:18:16"
-    },
-    {
-      "title": "Fed faiz kararı ne zaman, hangi tarihte açıklanıyor? Fed faiz indirecek mi?",
-      "summary": "ABD&#039;de tarım dışı istihdam, enflasyon verileri gelirken dün de FMOC tutanakları yayımladı. Piyasalar hareketlenirken Fed&#039;in toplantı tarihi bir kez daha gündem oldu.",
-      "url": "https://www.dunya.com/gundem/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklaniyor-fed-faiz-indirecek-mi-haberi-837002",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:14:00"
-    },
-    {
-      "title": "Koleksiyon Mobilya, 500.000 geri alım payını 15,78 TL’den sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/koleksiyon-mobilya-500000-geri-alm-payn-1578-tlden-satt-93CH-4037607",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:13:16"
-    },
-    {
-      "title": "Citizens, Lime hissesi için hedefini LimePrime büyümesiyle korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-lime-hissesi-icin-hedefini-limeprime-buyumesiyle-korudu-93CH-4037602",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:12:00"
-    },
-    {
-      "title": "Bülbüloğlu Vinç, 1.060.000 Euro’luk vinç imalatı sözleşmesi imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/bulbuloglu-vinc-1060000-euroluk-vinc-imalat-sozlesmesi-imzalad-93CH-4037599",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:09:55"
-    },
-    {
-      "title": "Safkar, Yatırımcı İlişkileri Yöneticiliği’ne Rafi Kutay Camgöz’ü atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/safkar-yatrmc-iliskileri-yoneticiligine-rafi-kutay-camgozu-atad-93CH-4037598",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:09:31"
-    },
-    {
-      "title": "Katılım Varlık Kiralama, Karsan için 250 milyon TL ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/katlm-varlk-kiralama-karsan-icin-250-milyon-tl-ihrac-etti-93CH-4037592",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:08:09"
-    },
-    {
-      "title": "Türk askeri heyeti var mıydı? MSB'den İsrail'in Suriye'deki hava üssü saldırısına ilişkin açıklama",
-      "summary": "Milli Savunma Bakanlığı, İsrail&#039;in Suriye&#039;deki Ebu Zuhur Hava Üssü&#039;ne düzenlediği saldırıya ilişkin açıklama yaptı. Bakanlık, saldırı öncesinde veya saldırı sırasında üste herhangi bir Türk askeri heyetinin bulunmadığını bildirdi.",
-      "url": "https://www.dunya.com/gundem/turk-askeri-heyeti-var-miydi-msbden-israilin-suriyedeki-hava-ussu-saldirisina-iliskin-aciklama-haberi-837000",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-20T09:08:00"
-    },
-    {
-      "title": "Aberdeen New India Investment Trust kıyaslamasını geride bıraktı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/aberdeen-new-india-investment-trust-kyaslamasn-geride-brakt-93CH-4037590",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:07:30"
-    },
-    {
-      "title": "Citizens, güçlü FFO sonuçlarıyla BRT hisse tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-guclu-ffo-sonuclaryla-brt-hisse-tavsiyesini-korudu-93CH-4037589",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:06:09"
-    },
-    {
-      "title": "Korteks, 267,14 milyon TL tutarında finansman bonosu ihracını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/korteks-26714-milyon-tl-tutarnda-finansman-bonosu-ihracn-tamamlad-93CH-4037587",
-      "source": "Investing Türkiye",
-      "published": "2026-08-20T09:05:26"
     }
   ]
 }
