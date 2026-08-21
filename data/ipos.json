@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-20T18:56:37+03:00",
+  "updated_at": "2026-08-21T10:35:27+03:00",
   "ipos": [
+    {
+      "company": "İntetra Teknoloji ve Bilişim Hizmetleri A.Ş.",
+      "url": "https://halkarz.com/intetra-teknoloji-ve-bilisim-hizmetleri-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
+    {
+      "company": "Bakırcı Gayrimenkul Yatırım Ortaklığı A.Ş.",
+      "url": "https://halkarz.com/bakirci-gayrimenkul-yatirim-ortakligi-a-s/",
+      "details": "Hazırlanıyor... | Hazırlanıyor..."
+    },
     {
       "company": "Türker Vangölü Enerji Yatırım A.Ş.",
       "url": "https://halkarz.com/turker-vangolu-enerji-yatirim-a-s/",
@@ -65,16 +75,6 @@
       "company": "İsvea Seramik ve Banyo Ürünleri Sanayi A.Ş.",
       "url": "https://halkarz.com/isvea-seramik-ve-banyo-urunleri-sanayi-a-s/",
       "details": "ISVEA | 1-2-3 Temmuz 2026 | 1-2-3 Temmuz 2026"
-    },
-    {
-      "company": "(Intercity) Ekim Turizm Tic. ve San. A.Ş.",
-      "url": "https://halkarz.com/ekim-turizm-tic-ve-san-a-s/",
-      "details": "EKIM | 1-2-3 Temmuz 2026 | 1-2-3 Temmuz 2026"
-    },
-    {
-      "company": "Golda Gıda San. ve Tic. A.Ş.",
-      "url": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
-      "details": "GOLDA | 1-2 Temmuz 2026 | 1-2 Temmuz 2026"
     }
   ]
 }
