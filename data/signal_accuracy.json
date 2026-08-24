@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:30:01+03:00",
+  "updated_at": "2026-08-24T19:04:59+03:00",
   "eval_days": 7,
   "overall": {
     "evaluated": 182,
@@ -29,42 +29,17 @@
     }
   },
   "by_symbol": {
-    "GARAN": {
-      "evaluated": 14,
-      "correct": 13,
-      "accuracy_pct": 92.9
-    },
-    "EKGYO": {
-      "evaluated": 12,
-      "correct": 0,
-      "accuracy_pct": 0.0
+    "ISCTR": {
+      "evaluated": 4,
+      "correct": 3,
+      "accuracy_pct": 75.0
     },
     "PGSUS": {
       "evaluated": 7,
       "correct": 0,
       "accuracy_pct": 0.0
     },
-    "SISE": {
-      "evaluated": 12,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "AKBNK": {
-      "evaluated": 12,
-      "correct": 12,
-      "accuracy_pct": 100.0
-    },
-    "ISCTR": {
-      "evaluated": 4,
-      "correct": 3,
-      "accuracy_pct": 75.0
-    },
     "THYAO": {
-      "evaluated": 14,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
-    "ASELS": {
       "evaluated": 14,
       "correct": 0,
       "accuracy_pct": 0.0
@@ -73,6 +48,41 @@
       "evaluated": 12,
       "correct": 0,
       "accuracy_pct": 0.0
+    },
+    "TOASO": {
+      "evaluated": 13,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "EKGYO": {
+      "evaluated": 12,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "TUPRS": {
+      "evaluated": 14,
+      "correct": 14,
+      "accuracy_pct": 100.0
+    },
+    "ASELS": {
+      "evaluated": 14,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "YKBNK": {
+      "evaluated": 12,
+      "correct": 12,
+      "accuracy_pct": 100.0
+    },
+    "SISE": {
+      "evaluated": 12,
+      "correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "FROTO": {
+      "evaluated": 13,
+      "correct": 2,
+      "accuracy_pct": 15.4
     },
     "PETKM": {
       "evaluated": 4,
@@ -84,30 +94,20 @@
       "correct": 13,
       "accuracy_pct": 100.0
     },
-    "FROTO": {
-      "evaluated": 13,
-      "correct": 2,
-      "accuracy_pct": 15.4
-    },
-    "TUPRS": {
-      "evaluated": 14,
-      "correct": 14,
-      "accuracy_pct": 100.0
-    },
-    "YKBNK": {
-      "evaluated": 12,
-      "correct": 12,
-      "accuracy_pct": 100.0
-    },
-    "TOASO": {
-      "evaluated": 13,
-      "correct": 0,
-      "accuracy_pct": 0.0
-    },
     "KCHOL": {
       "evaluated": 12,
       "correct": 0,
       "accuracy_pct": 0.0
+    },
+    "GARAN": {
+      "evaluated": 14,
+      "correct": 13,
+      "accuracy_pct": 92.9
+    },
+    "AKBNK": {
+      "evaluated": 12,
+      "correct": 12,
+      "accuracy_pct": 100.0
     }
   },
   "recent": [
