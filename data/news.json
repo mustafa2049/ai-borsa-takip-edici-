@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-08-24T15:29:32+03:00",
+  "updated_at": "2026-08-24T16:31:18+03:00",
   "news": [
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T13:34:46"
+    },
+    {
+      "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+      "summary": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
+      "url": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T13:33:29"
+    },
+    {
+      "title": "Son dkika... Aziz İhsan Aktaş örgüt kurmaktan beraat etti",
+      "summary": "Son dakika... Aziz İhsan Aktaş suç örgütüne ilişkin 6&#039;sı görevinden uzaklaştırılan 7 belediye başkanının da aralarında bulunduğu, 5&#039;i tutuklu 200 sanığın yargılandığı davada, davanın bir numaralı sanığı ve örgüt lideri olmakla suçlanan Aziz İhsan Aktaş örgüt kurma suçundan beraat etti.",
+      "url": "https://www.dunya.com/gundem/son-dkika-aziz-ihsan-aktas-orgut-kurmaktan-beraat-etti-haberi-837462",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:28:00"
+    },
+    {
+      "title": "Cantor Fitzgerald çip devi Nvidia’yı en iyi yarı iletken hissesi seçti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/cantor-fitzgerald-cip-devi-nvidiay-en-iyi-yar-iletken-hissesi-secti-93CH-4041645",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:26:09"
+    },
+    {
+      "title": "MicroVision binlerce IRIS lidar sensörü için sipariş aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/microvision-binlerce-iris-lidar-sensoru-icin-siparis-ald-93CH-4041642",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:25:35"
+    },
+    {
+      "title": "Cyabra, 500.000 dolarlık Avrupa devlet sözleşmeleri aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cyabra-500000-dolarlk-avrupa-devlet-sozlesmeleri-ald-93CH-4041641",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:25:25"
+    },
+    {
+      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
+      "summary": "Canadian negotiators left Washington Friday without a deal to prevent President Donald Trump from enacting new 50% tariffs on about $20 billion worth of goods.",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T13:24:51"
+    },
+    {
+      "title": "Net Power 123 MW üretim kapasitesi haklarını güvence altına aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/net-power-123-mw-uretim-kapasitesi-haklarn-guvence-altna-ald-93CH-4041634",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:21:39"
+    },
+    {
+      "title": "Diana Shipping, Panamax gemisi için kirayı yüksek oranda uzattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/diana-shipping-panamax-gemisi-icin-kiray-yuksek-oranda-uzatt-93CH-4041633",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:21:35"
+    },
+    {
+      "title": "Wendy’s pazarlama direktörlüğüne Tariq Hassan’ı atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/wendys-pazarlama-direktorlugune-tariq-hassan-atad-93CH-4041632",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:21:33"
+    },
+    {
+      "title": "Dave & Buster’s üst yönetiminde değişiklikler açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/dave--busters-ust-yonetiminde-degisiklikler-acklad-93CH-4041631",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:21:31"
+    },
+    {
+      "title": "Lion Group 15,8 milyon dolarlık Hyperliquid token tutmaya devam ediyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/lion-group-158-milyon-dolarlk-hyperliquid-token-tutmaya-devam-ediyor-93CH-4041630",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:21:13"
+    },
+    {
+      "title": "TCMB'nin olası faiz indirimi ne getirecek? Hakan Kara tek tek sıraladı",
+      "summary": "TCMB’nin fiili faizi yüzde 40’tan yüzde 37’ye çekme sinyali verdiğini belirten ekonomist Hakan Kara, 300 baz puanlık indirimin mevduattan krediye, borsadan konut piyasasına kadar olası etkilerini sıraladı. 300 baz puanlık olası faiz indirimi piyasalara nasıl yansır? İşte cevabı...",
+      "url": "https://www.dunya.com/ekonomi/tcmbnin-olasi-faiz-indirimi-ne-getirecek-hakan-kara-tek-tek-siraladi-haberi-837460",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:21:00"
+    },
+    {
+      "title": "Son dakika: Balıkesir'de hissedilen deprem!",
+      "summary": "Son dakika haberi... Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
+      "url": "https://www.dunya.com/gundem/son-dakika-balikesirde-hissedilen-deprem-haberi-837459",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:20:00"
+    },
+    {
+      "title": "Macaristan kuraklık ve enerji krizi nedeniyle yüzde 7,5 bütçe açığı hedefliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/macaristan-kuraklk-ve-enerji-krizi-nedeniyle-yuzde-75-butce-acg-hedefliyor-93CH-4041624",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T13:18:39"
+    },
     {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
       "summary": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
       "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-24T12:26:17"
+      "published": "2026-08-24T13:17:35"
     },
     {
-      "title": "Mahfi Eğilmez’den TCMB yorumu: Fiili faiz indirimi mi geliyor?",
-      "summary": "İktisatçı Mahfi Eğilmez, TCMB’nin bankalara sağladığı fonlamada haftalık repo ihalelerini yeniden kullanmaya başlamasının fiili faiz indirimi anlamına gelebileceğini belirtti. Bunun için henüz erken olduğunu vurgulayan Eğilmez, “Kararın ne anlama geldiğini dünkü metin değil, önümüzdeki günlerdeki fonlama adımları belirleyecek” dedi.",
-      "url": "https://www.dunya.com/ekonomi/mahfi-egilmezden-tcmb-yorumu-fiili-faiz-indirimi-mi-geliyor-haberi-837455",
+      "title": "8 milyonluk Mercedes seyir halindeyken alev aldı: Müdahale 12 saat sürdü",
+      "summary": "Aydın&#039;ın Söke ilçesinde İzmir&#039;den Bodrum&#039;a giden yaklaşık 8 milyon lira değerindeki Mercedes AMG EQE 53 serisi elektrikli otomobil, seyir halindeyken alev aldı. Sürücünün yol kenarına çekerek terk ettiği araçtaki batarya yangınına, 2 bin 100 derece sıcaklığa dayanabilen yeni nesil söndürme çadırıyla müdahale edildi. Alevlerin ormanlık alana ve diğer araçlara sıçraması önlenirken çal",
+      "url": "https://www.dunya.com/foto-galeri/gundem/8-milyonluk-mercedes-seyir-halindeyken-alev-aldi-mudahale-12-saat-surdu-galeri-837461",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-24T12:22:00"
+      "published": "2026-08-24T13:15:00"
     },
     {
-      "title": "İngiltere’de enerji borcu 6 milyar sterline ulaştı",
+      "title": "RedCloud, FMCG distribütörleri için RedAI Sales uygulamasını başlattı",
       "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/ingilterede-enerji-borcu-6-milyar-sterline-ulast-93CH-4041474",
+      "url": "https://tr.investing.com/news/company-news/redcloud-fmcg-distributorleri-icin-redai-sales-uygulamasn-baslatt-93CH-4041610",
       "source": "Investing Türkiye",
-      "published": "2026-08-24T12:15:35"
+      "published": "2026-08-24T13:13:42"
     },
     {
-      "title": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
-      "summary": "Trump Media interim CEO Kevin McGurn defended his company offering faster access to President Donald Trump's Truth Social posts.",
-      "url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T12:15:30"
-    },
-    {
-      "title": "NANO Nuclear, yapay zeka veri merkezleri için Tillman ile anlaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nano-nuclear-yapay-zeka-veri-merkezleri-icin-tillman-ile-anlast-93CH-4041469",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:14:02"
-    },
-    {
-      "title": "Humacyte, diyaliz erişimi için Kasım’da FDA başvurusu yapacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/humacyte-diyaliz-erisimi-icin-kasmda-fda-basvurusu-yapacak-93CH-4041467",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:49"
-    },
-    {
-      "title": "Spruce, MPS IIIB tedavisi için FDA ile BLA öncesi toplantıları tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/spruce-mps-iiib-tedavisi-icin-fda-ile-bla-oncesi-toplantlar-tamamlad-93CH-4041468",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:49"
-    },
-    {
-      "title": "Clearmind, MDMA kombinasyonu için ABD patent başvurusunu duyurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/clearmind-mdma-kombinasyonu-icin-abd-patent-basvurusunu-duyurdu-93CH-4041466",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:39"
-    },
-    {
-      "title": "AEG ve Archer, L.A. LIVE’da vertiport planlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/aeg-ve-archer-la-liveda-vertiport-planlyor-93CH-4041465",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:35"
-    },
-    {
-      "title": "Kentucky PSC, TeraWulf’un 482 MW’lık veri merkezi anlaşmasını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/kentucky-psc-terawulfun-482-mwlk-veri-merkezi-anlasmasn-onaylad-93CH-4041463",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:33"
-    },
-    {
-      "title": "Datacentrex 30 gün içinde 500 ön ödemeli madenci kuracak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/datacentrex-30-gun-icinde-500-on-odemeli-madenci-kuracak-93CH-4041464",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:33"
-    },
-    {
-      "title": "Japonya Rhythm’in Imcivree ilacını onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/japonya-rhythmin-imcivree-ilacn-onaylad-93CH-4041462",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:31"
-    },
-    {
-      "title": "Hawkeye Systems, Hawkeye Digital olarak yeniden markalaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/hawkeye-systems-hawkeye-digital-olarak-yeniden-markalast-93CH-4041461",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T12:13:29"
-    },
-    {
-      "title": "Dünya çelikte frene bastı: Türkiye yüzde 7 büyüdü",
-      "summary": "Çin&#039;deki üretim kaybı küresel çelik sektörünü aşağı çekerken Türkiye güçlü büyümesiyle ayrıştı. Dünya ham çelik üretimi temmuzda yıllık bazda yüzde 0,3 azalarak 149,2 milyon tona geriledi. Türkiye ise aynı dönemde üretimini yüzde 7 artırarak 3,4 milyon tona çıkardı.",
-      "url": "https://www.dunya.com/finans/emtia/dunya-celikte-frene-basti-turkiye-yuzde-7-buyudu-haberi-837454",
+      "title": "Aşırı sıcakların Almanya'ya faturası ağır oldu: 36 milyar euro",
+      "summary": "Almanya&#039;da aşırı sıcaklar ve kuraklık ekonomiyi de vurdu. Greenpeace&#039;in analizine göre üretim kayıplarından tarıma, sağlıktan ulaşıma kadar birçok alanda oluşan zararın faturası en az 36 milyar euroya ulaştı.",
+      "url": "https://www.dunya.com/ekonomi/asiri-sicaklarin-almanyaya-faturasi-agir-oldu-36-milyar-euro-haberi-837458",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-24T12:09:00"
+      "published": "2026-08-24T13:11:00"
     },
     {
-      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-      "summary": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
-      "url": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T12:07:27"
-    },
-    {
-      "title": "TCMB rezervleri 5 ayın en yüksek seviyesine çıktı",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) toplam rezervlerinin 21 Ağustos 2026 ile sona eren bir haftalık dönemde yaklaşık 5,3 milyar dolar artış kaydettiği hesaplandı.",
-      "url": "https://www.dunya.com/ekonomi/tcmb-rezervleri-5-ayin-en-yuksek-seviyesine-cikti-haberi-837453",
+      "title": "Trump'a İran'dan sert yanıt: 'Amerika'yı yeniden aç bırakın'",
+      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Donald Trump&#039;ın İran&#039;daki ekonomik duruma ilişkin paylaşımına ABD&#039;deki açlık ve gıda güvencesizliği verileriyle yanıt verdi. &quot;Amerika&#039;yı Yeniden Aç Bırakın&quot; başlıklı görseli paylaşan Kalibaf, &quot;Yenilgileri asılsız iddialarla örtbas edemezsiniz&quot; dedi.",
+      "url": "https://www.dunya.com/dunya/trumpa-irandan-sert-yanit-amerikayi-yeniden-ac-birakin-haberi-837457",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-24T11:58:00"
-    },
-    {
-      "title": "Santoli: Why all the fuss about bond yields is happening now",
-      "summary": "The textbooks say the cycle high in real yields should act as a restraint on economic growth and equity valuations.",
-      "url": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T11:56:04"
-    },
-    {
-      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-      "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
-      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T11:51:45"
-    },
-    {
-      "title": "Üreten Kadınlar Yarışması'nda 6'ncı dönem başladı",
-      "summary": "Halkbank’ın kadın girişimcileri desteklemek amacıyla düzenlediği Üreten Kadınlar Yarışması’nın 6’ncı dönem başvuruları başladı. Halkbank Genel Müdürü Recep Süleyman Özdil, kadın girişimcilerin üretme, büyüme ve ekonomiye katma değer sağlama süreçlerinde desteklerini sürdüreceklerini belirtti.",
-      "url": "https://www.dunya.com/sirketler/ureten-kadinlar-yarismasinda-6nci-donem-basladi-haberi-837452",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T11:51:00"
-    },
-    {
-      "title": "EKK'dan OVP açıklaması: Yapısal reformlar hız kesmeyecek",
-      "summary": "Ekonomi Koordinasyon Kurulu (EKK), enflasyonla mücadelede mali disiplinden taviz verilmeyeceğini, gıda ve konut başta olmak üzere arz yönlü politikaların sürdürüleceğini açıkladı. Kurul, 2027-2029 dönemini kapsayan OVP kapsamında üretim, istihdam, ihracat ve rekabet gücünü destekleyecek yapısal reformların hayata geçirileceğini bildirdi.",
-      "url": "https://www.dunya.com/ekonomi/ekkdan-ovp-aciklamasi-yapisal-reformlar-hiz-kesmeyecek-haberi-837449",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T11:46:00"
+      "published": "2026-08-24T12:40:00"
     }
   ]
 }
