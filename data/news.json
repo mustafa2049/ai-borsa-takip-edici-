@@ -1,12 +1,103 @@
 {
-  "updated_at": "2026-08-24T12:37:26+03:00",
+  "updated_at": "2026-08-24T13:28:56+03:00",
   "news": [
     {
-      "title": "DoorDash hisseleri için Market Outperform tavsiyesi korundu",
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T10:25:05"
+    },
+    {
+      "title": "Wolfe Research, Jersey Mike’s hissesine Peerperform notu verdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/doordash-hisseleri-icin-market-outperform-tavsiyesi-korundu-93CH-4040920",
+      "url": "https://tr.investing.com/news/analyst-ratings/wolfe-research-jersey-mikes-hissesine-peerperform-notu-verdi-93CH-4041062",
       "source": "Investing Türkiye",
-      "published": "2026-08-24T09:15:44"
+      "published": "2026-08-24T10:22:06"
+    },
+    {
+      "title": "TD Cowen, Jersey Mike’s hissesine büyüme beklentisiyle al önerisi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/td-cowen-jersey-mikes-hissesine-buyume-beklentisiyle-al-onerisi-verdi-93CH-4041060",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:22:01"
+    },
+    {
+      "title": "Wolfe Research, Humana’nın hisse hedefini marj görünümüyle 450 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/wolfe-research-humanann-hisse-hedefini-marj-gorunumuyle-450-dolara-yukseltti-93CH-4041061",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:22:01"
+    },
+    {
+      "title": "XPeng’in robotik birimi 900 milyon doların üzerinde fon topladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/xpengin-robotik-birimi-900-milyon-dolarn-uzerinde-fon-toplad-93CH-4041048",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:17:39"
+    },
+    {
+      "title": "Union Jack Oil hissedarları yönetim kurulu değişikliğini onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/union-jack-oil-hissedarlar-yonetim-kurulu-degisikligini-onaylad-93CH-4041047",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:17:20"
+    },
+    {
+      "title": "Siegfried hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/siegfried-hissesi-bugun-neden-dusuyor-93CH-4041046",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:16:23"
+    },
+    {
+      "title": "BofA, Williams-Sonoma’nın hisse hedefini büyüme ile 261 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bofa-williamssonomann-hisse-hedefini-buyume-ile-261-dolara-yukseltti-93CH-4041045",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:16:06"
+    },
+    {
+      "title": "JPMorgan, Roku hissesini Fox anlaşması nedeniyle nötr başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-roku-hissesini-fox-anlasmas-nedeniyle-notr-baslatt-93CH-4041044",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:16:02"
+    },
+    {
+      "title": "JPMorgan MediaAlpha hissesini nötr notla takibe aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/jpmorgan-mediaalpha-hissesini-notr-notla-takibe-ald-93CH-4041043",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:15:57"
+    },
+    {
+      "title": "SU Group Makao’da insansız muayene robotu için münhasır hak aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/su-group-makaoda-insansz-muayene-robotu-icin-munhasr-hak-ald-93CH-4041038",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T10:13:38"
+    },
+    {
+      "title": "Gişelerde bekleme dönemi bitiyor: SGS 8 noktaya daha geliyor",
+      "summary": "Otoyollarda gişe düzeni değişiyor. Akıncı Gişeleri&#039;nde Serbest Geçiş Sistemi&#039;nin devreye alınmasının ardından eski gişe adaları ve kanopiler kaldırılıyor. Çalışmalar boyunca giriş ve çıkışlar kontrollü sağlanırken sürücüler yeni sistem sayesinde durmadan ve şerit değiştirmeden geçebilecek. Halen 35 istasyonda kullanılan sistem, yıl sonuna kadar sekiz noktada daha devreye alınacak.",
+      "url": "https://www.dunya.com/gundem/giselerde-bekleme-donemi-bitiyor-sgs-8-noktaya-daha-geliyor-haberi-837441",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:45:00"
+    },
+    {
+      "title": "Altında yeni zirve hesabı: Çin'in hamlesi piyasayı karıştırdı",
+      "summary": "Temmuz sonunda 4 bin doların altına gerileyen ons altın ağustosta sert bir dönüş yaptı. Ons fiyatı 4 bin 600 doları aşarken, gram altın da 7 bin 200 TL&#039;ye yaklaştı. Zayıflayan dolar ve Çin&#039;den gelen güçlü alımlar da bu yükselişi destekledi. Piyasalarda şimdi altının yeni rekor seviyesi tartışılıyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-yeni-zirve-hesabi-cinin-hamlesi-piyasayi-karistirdi-galeri-837442",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:39:00"
+    },
+    {
+      "title": "Süper Lig'de kombine fiyatları cep yakıyor: En pahalı bilet hangi takımda?",
+      "summary": "Süper Lig&#039;de 2026-2027 sezonu kombine fiyatları belli oldu. En pahalı kombineler 275 bin lirayla Galatasaray ve Trabzonspor&#039;da satışa sunulurken, en ucuz kombine ise 3 bin lirayla Başakşehir&#039;in oldu.",
+      "url": "https://www.dunya.com/foto-galeri/spor/super-ligde-kombine-fiyatlari-cep-yakiyor-en-pahali-bilet-hangi-takimda-galeri-837440",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:18:00"
     },
     {
       "title": "Bitcoin'e para yağdı: 10 ayın rekoru geldi",
@@ -16,34 +107,6 @@
       "published": "2026-08-24T09:15:00"
     },
     {
-      "title": "CB&I Fildişi Sahili’nde 50-100 milyon dolarlık sözleşme aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cbi-fildisi-sahilinde-50100-milyon-dolarlk-sozlesme-ald-93CH-4040916",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:13:17"
-    },
-    {
-      "title": "Barclays, enflasyon baskısına rağmen İngiltere büyümesinin süreceğini öngörüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/barclays-enflasyon-basksna-ragmen-ingilterede-buyumenin-guclu-kalacagn-ongoruyor-4040914",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:11:28"
-    },
-    {
-      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
-      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T09:11:23"
-    },
-    {
-      "title": "Diploma hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/diploma-hissesi-bugun-neden-yukseliyor-93CH-4040911",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:10:24"
-    },
-    {
       "title": "Aydın'ın gözdesi değerini katlıyor: 3 günde hazırlanıyor, fiyatı 6 katına çıkıyor",
       "summary": "Aydın’da hasat sezonuyla birlikte incirin katma değerli hali için üretim mesaisi başladı. İnce dilimlenerek birkaç gün içinde hazırlanan incir cipsi, taze ürüne göre 5-6 kat daha yüksek fiyatla alıcı bulurken üreticilere ve bölgedeki kadınlara yeni gelir kapısı oluşturuyor.",
       "url": "https://www.dunya.com/foto-galeri/ekonomi/aydinin-gozdesi-degerini-katliyor-3-gunde-hazirlaniyor-fiyati-6-katina-cikiyor-galeri-837437",
@@ -51,53 +114,11 @@
       "published": "2026-08-24T09:10:00"
     },
     {
-      "title": "Citizens, Asana hissesi için hedef fiyatını korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-asana-hissesi-icin-hedef-fiyatn-korudu-93CH-4040910",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:09:51"
-    },
-    {
-      "title": "Oyak Yatırım Ortaklığı, piyasa fiyatı NAD’ın 2 katını aştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/oyak-yatrm-ortaklg-piyasa-fiyat-nadn-2-katn-ast-93CH-4040907",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:08:31"
-    },
-    {
       "title": "AB'den Ukrayna için 6,1 milyar euroluk yeni paket",
       "summary": "Avrupa Birliği, Ukrayna&#039;nın hava ve füze savunmasını güçlendirmek için 6,1 milyar euroluk yeni finansmana onay verdi. Kaynak, hava savunma sistemleri, füzeler, mühimmat ve radarların satın alınmasında kullanılacak.",
       "url": "https://www.dunya.com/dunya/abden-ukrayna-icin-61-milyar-euroluk-yeni-paket-haberi-837438",
       "source": "Dünya Gazetesi",
       "published": "2026-08-24T09:06:00"
-    },
-    {
-      "title": "Aktif Yatırım Bankası, 5 milyar TL’lik finansman bonosu ihracını tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/aktif-yatrm-bankas-5-milyar-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4040904",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:05:57"
-    },
-    {
-      "title": "Havas haftalık hisse geri alım faaliyetini açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/havas-haftalk-hisse-geri-alm-faaliyetini-acklad-93CH-4040903",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:05:08"
-    },
-    {
-      "title": "Deutsche Bank hisse pozisyonlarının düştüğünü ancak ağırlıklı kaldığını söylüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisse-pozisyonlarnn-dustugunu-ancak-agrlkl-kaldgn-soyluyor-93CH-4040897",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:04:02"
-    },
-    {
-      "title": "Ak Yatırım, 1,976 milyar TL tutarında finansman bonosu ihraç etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/ak-yatrm-1976-milyar-tl-tutarnda-finansman-bonosu-ihrac-etti-93CH-4040896",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T09:03:24"
     },
     {
       "title": "Balçova Belediye Başkanı Onur Yiğit görevine iade edildi",
@@ -119,27 +140,6 @@
       "url": "https://www.dunya.com/foto-galeri/aktuel/palamutta-sezon-oncesi-hareketlilik-uzmanlardan-kritik-uyari-galeri-837433",
       "source": "Dünya Gazetesi",
       "published": "2026-08-24T08:30:00"
-    },
-    {
-      "title": "Katlanabilir telefon yarışını değiştirebilir! İki teknoloji devinden büyük ortaklık",
-      "summary": "Akıllı telefon pazarındaki çip rekabetinde dengeleri değiştirebilecek yeni bir iş birliği kuruldu. Xiaomi, kendi geliştirdiği Xring O3 işlemcisinin üretimi için TSMC ile güçlerini birleştirdi. 3 nanometre teknolojisiyle üretilecek çip, ilk olarak Xiaomi&#039;nin yeni amiral gemisi katlanabilir telefonunda kullanılacak.",
-      "url": "https://www.dunya.com/dunya/katlanabilir-telefon-yarisini-degistirebilir-iki-teknoloji-devinden-buyuk-ortaklik-haberi-837434",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T08:30:00"
-    },
-    {
-      "title": "Fındıkta hasat bitti, saatliği 6 bin TL olan yeni mesai başladı",
-      "summary": "Ordu’da fındık hasadını tamamlayan üreticiler, bu kez harmanlarda patoz mesaisine başladı. Geçen yıl saatlik 4 bin 500 TL olan patoz ücretinin bu sezon 6 bin TL’ye çıkması üreticinin maliyetini artırırken patozcuları sevindirdi.",
-      "url": "https://www.dunya.com/sektorler/tarim/findikta-hasat-bitti-saatligi-6-bin-tl-olan-yeni-mesai-basladi-haberi-837432",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T08:25:00"
-    },
-    {
-      "title": "Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears",
-      "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
-      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T08:24:46"
     }
   ]
 }
