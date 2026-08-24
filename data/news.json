@@ -1,12 +1,131 @@
 {
-  "updated_at": "2026-08-24T16:31:18+03:00",
+  "updated_at": "2026-08-24T17:33:05+03:00",
   "news": [
     {
-      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
-      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "title": "Cumhurbaşkanı Erdoğan, Brezilya Devlet Başkanı Lula da Silva ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan&#039;ın, Brezilya Devlet Başkanı Lula da Silva ile yaptığı telefon görüşmesinde, ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-brezilya-devlet-baskani-lula-da-silva-ile-gorustu-haberi-837467",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T14:25:00"
+    },
+    {
+      "title": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
+      "summary": "Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.",
+      "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-24T13:34:46"
+      "published": "2026-08-24T14:21:19"
+    },
+    {
+      "title": "Lithium Argentina hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/lithium-argentina-hisseleri-neden-dusuyor-93CH-4041801",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:18:57"
+    },
+    {
+      "title": "Porsche, Tata ile 1,5 milyar dolarlık yapay zeka anlaşması yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/porsche-tata-ile-15-milyar-dolarlk-yapay-zeka-anlasmas-yapt-93CH-4041800",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:18:05"
+    },
+    {
+      "title": "ZoomInfo, GTM verilerini Slack AI asistanına entegre etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/zoominfo-gtm-verilerini-slack-ai-asistanna-entegre-etti-93CH-4041799",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:17:25"
+    },
+    {
+      "title": "KOMO Seattle çalışanları sendika temsilini sonlandırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/komo-seattle-calsanlar-sendika-temsilini-sonlandrd-93CH-4041797",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:16:59"
+    },
+    {
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027",
+      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T14:16:53"
+    },
+    {
+      "title": "Chemed CEO’su McNamara 1,08 milyon dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/chemed-ceosu-mcnamara-108-milyon-dolarlk-hisse-satt-93CH-4041795",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:16:45"
+    },
+    {
+      "title": "Raymond James, Newmont için hisse hedefini ortak girişim anlaşması sonrası yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-newmont-icin-hisse-hedefini-ortak-girisim-anlasmas-sonras-yukseltti-93CH-4041793",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:16:01"
+    },
+    {
+      "title": "Veeva Systems hisse hedef fiyatı TD Cowen tarafından 235 dolarda tutuldu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/veeva-systems-hisse-hedef-fiyat-td-cowen-tarafndan-235-dolarda-tutuldu-93CH-4041792",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:15:59"
+    },
+    {
+      "title": "BMO Capital, ServiceTitan hissesi için hedefini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-capital-servicetitan-hissesi-icin-hedefini-korudu-93CH-4041791",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:15:49"
+    },
+    {
+      "title": "BMO, Scholar Rock hissesi için hedef fiyatını korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-scholar-rock-hissesi-icin-hedef-fiyatn-korudu-93CH-4041790",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:15:44"
+    },
+    {
+      "title": "TotalEnergies Norveç operasyonları için yeni keşif müdürü atıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/totalenergies-norvec-operasyonlar-icin-yeni-kesif-muduru-atyor-93CH-4041789",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T14:15:06"
+    },
+    {
+      "title": "New York borsası düşüşle açıldı",
+      "summary": "New York borsası, açıklanacak büyüme verisi ile enflasyon göstergesi niteliğindeki verilerin, Jackson Hole Ekonomi Politikaları Sempozyumu&#039;nun ve Nvidia&#039;nın bilançosunun öne çıkacağı yoğun haftanın ilk işlem gününe düşüşle başladı.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-acildi-haberi-837466",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T14:15:00"
+    },
+    {
+      "title": "Crypto extends gains after biggest 3-day rally since 2023",
+      "summary": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
+      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T14:02:54"
+    },
+    {
+      "title": "Komşuda Batı Nil virüsü alarmı: Gerçek vaka sayısı açıklananın 10 katı",
+      "summary": "Yunanistan&#039;da yıl başından bu yana 157 Batı Nil virüsü vakası tespit edilirken 13 kişi hayatını kaybetti. Ancak hastalığı hafif geçirenlerin kayıtlara girmemesi nedeniyle gerçek vaka sayısının resmi rakamların en az 10 katı olduğunu düşünülüyor.",
+      "url": "https://www.dunya.com/dunya/komsuda-bati-nil-virusu-alarmi-gercek-vaka-sayisi-aciklananin-10-kati-haberi-837464",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:53:00"
+    },
+    {
+      "title": "Porsche düğmeye bastı: MHP'yi Hintli teknoloji devine satıyor",
+      "summary": "Alman otomotiv üreticisi Porsche, yönetim ve bilgi teknolojileri danışmanlık şirketi MHP’deki hisselerinin tamamını Hindistan merkezli Tata Consultancy Services’e satmak için anlaşma imzaladı. Finansal ayrıntıları açıklanmayan işlemin gelecek aylarda tamamlanması bekleniyor.",
+      "url": "https://www.dunya.com/dunya/porsche-dugmeye-basti-mhpyi-hintli-teknoloji-devine-satiyor-haberi-837465",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:53:00"
+    },
+    {
+      "title": "Avrupa'da doğal gaz fiyatları sıçradı",
+      "summary": "Avrupa&#039;da doğalgaz fiyatları, stokların geçen yılın belirgin şekilde altında kalması ve Orta Doğu kaynaklı arz kesintilerinin sürmesiyle yükseldi. Eylül vadeli kontratlarda fiyat yüzde 4,7 artarak megavatsaat başına 68,9 euro çıkarken, kış aylarına ilişkin tedarik endişeleri de güçlendi.",
+      "url": "https://www.dunya.com/ekonomi/avrupada-dogal-gaz-fiyatlari-sicradi-haberi-837463",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T13:36:00"
     },
     {
       "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
@@ -16,130 +135,11 @@
       "published": "2026-08-24T13:33:29"
     },
     {
-      "title": "Son dkika... Aziz İhsan Aktaş örgüt kurmaktan beraat etti",
-      "summary": "Son dakika... Aziz İhsan Aktaş suç örgütüne ilişkin 6&#039;sı görevinden uzaklaştırılan 7 belediye başkanının da aralarında bulunduğu, 5&#039;i tutuklu 200 sanığın yargılandığı davada, davanın bir numaralı sanığı ve örgüt lideri olmakla suçlanan Aziz İhsan Aktaş örgüt kurma suçundan beraat etti.",
-      "url": "https://www.dunya.com/gundem/son-dkika-aziz-ihsan-aktas-orgut-kurmaktan-beraat-etti-haberi-837462",
+      "title": "Son dakika... Aziz İhsan Aktaş davasında karar",
+      "summary": "Son dakika... Aziz İhsan Aktaş suç örgütüne ilişkin, 6’sı görevinden uzaklaştırılan 7 belediye başkanının da aralarında bulunduğu, 5’i tutuklu 200 sanığın yargılandığı davada, dosyanın bir numaralı sanığı ve örgüt lideri olmakla suçlanan Aziz İhsan Aktaş ile Baki Nogay, “örgüt kurma” suçundan beraat etti. Tutuklandıktan sonra görevden uzaklaştırılan Beşiktaş Belediye Başkanı Rıza Akpolat da “örgüt",
+      "url": "https://www.dunya.com/gundem/son-dakika-aziz-ihsan-aktas-davasinda-karar-haberi-837462",
       "source": "Dünya Gazetesi",
       "published": "2026-08-24T13:28:00"
-    },
-    {
-      "title": "Cantor Fitzgerald çip devi Nvidia’yı en iyi yarı iletken hissesi seçti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cantor-fitzgerald-cip-devi-nvidiay-en-iyi-yar-iletken-hissesi-secti-93CH-4041645",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:26:09"
-    },
-    {
-      "title": "MicroVision binlerce IRIS lidar sensörü için sipariş aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/microvision-binlerce-iris-lidar-sensoru-icin-siparis-ald-93CH-4041642",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:25:35"
-    },
-    {
-      "title": "Cyabra, 500.000 dolarlık Avrupa devlet sözleşmeleri aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cyabra-500000-dolarlk-avrupa-devlet-sozlesmeleri-ald-93CH-4041641",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:25:25"
-    },
-    {
-      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
-      "summary": "Canadian negotiators left Washington Friday without a deal to prevent President Donald Trump from enacting new 50% tariffs on about $20 billion worth of goods.",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T13:24:51"
-    },
-    {
-      "title": "Net Power 123 MW üretim kapasitesi haklarını güvence altına aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/net-power-123-mw-uretim-kapasitesi-haklarn-guvence-altna-ald-93CH-4041634",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:21:39"
-    },
-    {
-      "title": "Diana Shipping, Panamax gemisi için kirayı yüksek oranda uzattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/diana-shipping-panamax-gemisi-icin-kiray-yuksek-oranda-uzatt-93CH-4041633",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:21:35"
-    },
-    {
-      "title": "Wendy’s pazarlama direktörlüğüne Tariq Hassan’ı atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/wendys-pazarlama-direktorlugune-tariq-hassan-atad-93CH-4041632",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:21:33"
-    },
-    {
-      "title": "Dave & Buster’s üst yönetiminde değişiklikler açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dave--busters-ust-yonetiminde-degisiklikler-acklad-93CH-4041631",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:21:31"
-    },
-    {
-      "title": "Lion Group 15,8 milyon dolarlık Hyperliquid token tutmaya devam ediyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lion-group-158-milyon-dolarlk-hyperliquid-token-tutmaya-devam-ediyor-93CH-4041630",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:21:13"
-    },
-    {
-      "title": "TCMB'nin olası faiz indirimi ne getirecek? Hakan Kara tek tek sıraladı",
-      "summary": "TCMB’nin fiili faizi yüzde 40’tan yüzde 37’ye çekme sinyali verdiğini belirten ekonomist Hakan Kara, 300 baz puanlık indirimin mevduattan krediye, borsadan konut piyasasına kadar olası etkilerini sıraladı. 300 baz puanlık olası faiz indirimi piyasalara nasıl yansır? İşte cevabı...",
-      "url": "https://www.dunya.com/ekonomi/tcmbnin-olasi-faiz-indirimi-ne-getirecek-hakan-kara-tek-tek-siraladi-haberi-837460",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T13:21:00"
-    },
-    {
-      "title": "Son dakika: Balıkesir'de hissedilen deprem!",
-      "summary": "Son dakika haberi... Balıkesir ve çevre illerde hissedilen bir deprem meydana geldi",
-      "url": "https://www.dunya.com/gundem/son-dakika-balikesirde-hissedilen-deprem-haberi-837459",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T13:20:00"
-    },
-    {
-      "title": "Macaristan kuraklık ve enerji krizi nedeniyle yüzde 7,5 bütçe açığı hedefliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/macaristan-kuraklk-ve-enerji-krizi-nedeniyle-yuzde-75-butce-acg-hedefliyor-93CH-4041624",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:18:39"
-    },
-    {
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-      "summary": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
-      "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T13:17:35"
-    },
-    {
-      "title": "8 milyonluk Mercedes seyir halindeyken alev aldı: Müdahale 12 saat sürdü",
-      "summary": "Aydın&#039;ın Söke ilçesinde İzmir&#039;den Bodrum&#039;a giden yaklaşık 8 milyon lira değerindeki Mercedes AMG EQE 53 serisi elektrikli otomobil, seyir halindeyken alev aldı. Sürücünün yol kenarına çekerek terk ettiği araçtaki batarya yangınına, 2 bin 100 derece sıcaklığa dayanabilen yeni nesil söndürme çadırıyla müdahale edildi. Alevlerin ormanlık alana ve diğer araçlara sıçraması önlenirken çal",
-      "url": "https://www.dunya.com/foto-galeri/gundem/8-milyonluk-mercedes-seyir-halindeyken-alev-aldi-mudahale-12-saat-surdu-galeri-837461",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T13:15:00"
-    },
-    {
-      "title": "RedCloud, FMCG distribütörleri için RedAI Sales uygulamasını başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/redcloud-fmcg-distributorleri-icin-redai-sales-uygulamasn-baslatt-93CH-4041610",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T13:13:42"
-    },
-    {
-      "title": "Aşırı sıcakların Almanya'ya faturası ağır oldu: 36 milyar euro",
-      "summary": "Almanya&#039;da aşırı sıcaklar ve kuraklık ekonomiyi de vurdu. Greenpeace&#039;in analizine göre üretim kayıplarından tarıma, sağlıktan ulaşıma kadar birçok alanda oluşan zararın faturası en az 36 milyar euroya ulaştı.",
-      "url": "https://www.dunya.com/ekonomi/asiri-sicaklarin-almanyaya-faturasi-agir-oldu-36-milyar-euro-haberi-837458",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T13:11:00"
-    },
-    {
-      "title": "Trump'a İran'dan sert yanıt: 'Amerika'yı yeniden aç bırakın'",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Donald Trump&#039;ın İran&#039;daki ekonomik duruma ilişkin paylaşımına ABD&#039;deki açlık ve gıda güvencesizliği verileriyle yanıt verdi. &quot;Amerika&#039;yı Yeniden Aç Bırakın&quot; başlıklı görseli paylaşan Kalibaf, &quot;Yenilgileri asılsız iddialarla örtbas edemezsiniz&quot; dedi.",
-      "url": "https://www.dunya.com/dunya/trumpa-irandan-sert-yanit-amerikayi-yeniden-ac-birakin-haberi-837457",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T12:40:00"
     }
   ]
 }
