@@ -1,19 +1,117 @@
 {
-  "updated_at": "2026-08-24T11:37:33+03:00",
+  "updated_at": "2026-08-24T12:37:26+03:00",
   "news": [
     {
-      "title": "PDI Gold isim değişikliğini ve hisse birleşimini tamamladı",
+      "title": "DoorDash hisseleri için Market Outperform tavsiyesi korundu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/pdi-gold-isim-degisikligini-ve-hisse-birlesimini-tamamlad-93CH-4040852",
+      "url": "https://tr.investing.com/news/analyst-ratings/doordash-hisseleri-icin-market-outperform-tavsiyesi-korundu-93CH-4040920",
       "source": "Investing Türkiye",
-      "published": "2026-08-24T08:33:38"
+      "published": "2026-08-24T09:15:44"
     },
     {
-      "title": "Morgan Stanley, Reformation hissesi için Eşit Ağırlık önerisi verdi",
+      "title": "Bitcoin'e para yağdı: 10 ayın rekoru geldi",
+      "summary": "Bitcoin piyasasında aylar süren dalgalı seyrin ardından yatırımcı talebi yeniden güçlendi. ABD spot Bitcoin ETF&#039;leri geçen hafta 1,92 milyar dolarlık net girişle Ekim 2025&#039;ten bu yana en güçlü haftasını yaşadı. Para akışına fiyatlardaki sert yükseliş de eşlik ederken Bitcoin, yaklaşık 63 bin dolardan 79 bin doların üzerine çıkarak bir haftada yüzde 20&#039;den fazla değer kazandı.",
+      "url": "https://www.dunya.com/finans/kripto-para/bitcoine-para-yagdi-10-ayin-rekoru-geldi-haberi-837439",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:15:00"
+    },
+    {
+      "title": "CB&I Fildişi Sahili’nde 50-100 milyon dolarlık sözleşme aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/morgan-stanley-reformation-hissesi-icin-esit-agrlk-onerisi-verdi-93CH-4040850",
+      "url": "https://tr.investing.com/news/company-news/cbi-fildisi-sahilinde-50100-milyon-dolarlk-sozlesme-ald-93CH-4040916",
       "source": "Investing Türkiye",
-      "published": "2026-08-24T08:32:03"
+      "published": "2026-08-24T09:13:17"
+    },
+    {
+      "title": "Barclays, enflasyon baskısına rağmen İngiltere büyümesinin süreceğini öngörüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/barclays-enflasyon-basksna-ragmen-ingilterede-buyumenin-guclu-kalacagn-ongoruyor-4040914",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:11:28"
+    },
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+      "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T09:11:23"
+    },
+    {
+      "title": "Diploma hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/diploma-hissesi-bugun-neden-yukseliyor-93CH-4040911",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:10:24"
+    },
+    {
+      "title": "Aydın'ın gözdesi değerini katlıyor: 3 günde hazırlanıyor, fiyatı 6 katına çıkıyor",
+      "summary": "Aydın’da hasat sezonuyla birlikte incirin katma değerli hali için üretim mesaisi başladı. İnce dilimlenerek birkaç gün içinde hazırlanan incir cipsi, taze ürüne göre 5-6 kat daha yüksek fiyatla alıcı bulurken üreticilere ve bölgedeki kadınlara yeni gelir kapısı oluşturuyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/aydinin-gozdesi-degerini-katliyor-3-gunde-hazirlaniyor-fiyati-6-katina-cikiyor-galeri-837437",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:10:00"
+    },
+    {
+      "title": "Citizens, Asana hissesi için hedef fiyatını korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/citizens-asana-hissesi-icin-hedef-fiyatn-korudu-93CH-4040910",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:09:51"
+    },
+    {
+      "title": "Oyak Yatırım Ortaklığı, piyasa fiyatı NAD’ın 2 katını aştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/oyak-yatrm-ortaklg-piyasa-fiyat-nadn-2-katn-ast-93CH-4040907",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:08:31"
+    },
+    {
+      "title": "AB'den Ukrayna için 6,1 milyar euroluk yeni paket",
+      "summary": "Avrupa Birliği, Ukrayna&#039;nın hava ve füze savunmasını güçlendirmek için 6,1 milyar euroluk yeni finansmana onay verdi. Kaynak, hava savunma sistemleri, füzeler, mühimmat ve radarların satın alınmasında kullanılacak.",
+      "url": "https://www.dunya.com/dunya/abden-ukrayna-icin-61-milyar-euroluk-yeni-paket-haberi-837438",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T09:06:00"
+    },
+    {
+      "title": "Aktif Yatırım Bankası, 5 milyar TL’lik finansman bonosu ihracını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/aktif-yatrm-bankas-5-milyar-tllik-finansman-bonosu-ihracn-tamamlad-93CH-4040904",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:05:57"
+    },
+    {
+      "title": "Havas haftalık hisse geri alım faaliyetini açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/havas-haftalk-hisse-geri-alm-faaliyetini-acklad-93CH-4040903",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:05:08"
+    },
+    {
+      "title": "Deutsche Bank hisse pozisyonlarının düştüğünü ancak ağırlıklı kaldığını söylüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisse-pozisyonlarnn-dustugunu-ancak-agrlkl-kaldgn-soyluyor-93CH-4040897",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:04:02"
+    },
+    {
+      "title": "Ak Yatırım, 1,976 milyar TL tutarında finansman bonosu ihraç etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/ak-yatrm-1976-milyar-tl-tutarnda-finansman-bonosu-ihrac-etti-93CH-4040896",
+      "source": "Investing Türkiye",
+      "published": "2026-08-24T09:03:24"
+    },
+    {
+      "title": "Balçova Belediye Başkanı Onur Yiğit görevine iade edildi",
+      "summary": "Hakkında yürütülen soruşturma kapsamında 3 Temmuz’da geçici olarak görevden uzaklaştırılan Balçova Belediye Başkanı Onur Yiğit, İçişleri Bakanlığının onayıyla görevine iade edildi.",
+      "url": "https://www.dunya.com/gundem/balcova-belediye-baskani-onur-yigit-gorevine-iade-edildi-haberi-837436",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T08:59:00"
+    },
+    {
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-24T08:54:42"
     },
     {
       "title": "Palamutta sezon öncesi hareketlilik: Uzmanlardan kritik uyarı",
@@ -23,11 +121,11 @@
       "published": "2026-08-24T08:30:00"
     },
     {
-      "title": "Tracsis hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tracsis-hissesi-bugun-neden-yukseliyor-93CH-4040836",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:25:48"
+      "title": "Katlanabilir telefon yarışını değiştirebilir! İki teknoloji devinden büyük ortaklık",
+      "summary": "Akıllı telefon pazarındaki çip rekabetinde dengeleri değiştirebilecek yeni bir iş birliği kuruldu. Xiaomi, kendi geliştirdiği Xring O3 işlemcisinin üretimi için TSMC ile güçlerini birleştirdi. 3 nanometre teknolojisiyle üretilecek çip, ilk olarak Xiaomi&#039;nin yeni amiral gemisi katlanabilir telefonunda kullanılacak.",
+      "url": "https://www.dunya.com/dunya/katlanabilir-telefon-yarisini-degistirebilir-iki-teknoloji-devinden-buyuk-ortaklik-haberi-837434",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-24T08:30:00"
     },
     {
       "title": "Fındıkta hasat bitti, saatliği 6 bin TL olan yeni mesai başladı",
@@ -42,104 +140,6 @@
       "url": "https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html",
       "source": "CNBC World Markets",
       "published": "2026-08-24T08:24:46"
-    },
-    {
-      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
-      "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-24T08:21:17"
-    },
-    {
-      "title": "Barclays, Prologis anlaşması sonrası Segro hissesini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/barclays-prologis-anlasmas-sonras-segro-hissesini-yukseltti-93CH-4040833",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:19:53"
-    },
-    {
-      "title": "Barclays yükseltmesiyle Cellnex ve INWIT hisseleri yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/barclays-yukseltmesiyle-cellnex-ve-inwit-hisseleri-yukseldi-4040834",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:16:06"
-    },
-    {
-      "title": "OTE 4,7 milyon euroya 237.155 hisse geri aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ote-47-milyon-euroya-237155-hisse-geri-ald-93CH-4040831",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:15:11"
-    },
-    {
-      "title": "Efor Yatırım, pay satışı gelirlerini açıkladı, 6 ay satış yasağı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/efor-yatrm-pay-sats-gelirlerini-acklad-6-ay-sats-yasag-93CH-4040830",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:14:43"
-    },
-    {
-      "title": "Efor Yatırım, İbrahim Akkuş’a 3 milyar TL’lik tahsisli artırım planlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/efor-yatrm-ibrahim-akkusa-3-milyar-tllik-tahsisli-artrm-planlyor-93CH-4040828",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:13:08"
-    },
-    {
-      "title": "Küresel tahviller dondu, ABD İran’a karşı ’en büyük saldırıyı’ hazırlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/forex-news/kuresel-tahviller-dondu-abd-irana-kars-en-buyuk-saldry-hazrlyor-4040829",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:11:27"
-    },
-    {
-      "title": "Ard Grup’un Özbekistan bağlı ortaklığı, 2 yeni EDS noktasını devreye aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/ard-grupun-ozbekistan-bagl-ortaklg-2-yeni-eds-noktasn-devreye-ald-93CH-4040826",
-      "source": "Investing Türkiye",
-      "published": "2026-08-24T08:11:09"
-    },
-    {
-      "title": "İstanbul ihracatta rotayı genişletti: 193 ülkeye satış",
-      "summary": "İstanbul İhracatçı Birlikleri (İİB), yılın ilk 7 ayında ihracatını geçen yılın aynı dönemine göre yüzde 4,9 artırarak 7 milyar 547 milyon dolara çıkardı. İİB üyeleri bu dönemde 193 ülkeye ürün satarken, en fazla ihracat ABD&#039;ye gerçekleştirildi.",
-      "url": "https://www.dunya.com/ihracat/istanbul-ihracatta-rotayi-genisletti-193-ulkeye-satis-haberi-837431",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T08:11:00"
-    },
-    {
-      "title": "'Hz. Muhammed' isminin yer aldığı Selçuklu taşı bulundu",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Ani Ören Yeri’ndeki Selçuklu Mezarlığı’nda üzerinde kûfi hatla “Hz. Muhammed” isminin altı kez tekrarlandığı bezemeli bir taş bulunduğunu açıkladı. Bir Selçuklu kümbetine ait olduğu değerlendirilen, Peygamber Efendimiz Hazreti Muhammed’in isminin yazdığı eser, Mevlid Kandili’nde kamuoyuyla paylaşıldı.",
-      "url": "https://www.dunya.com/sektorler/turizm/hz-muhammed-isminin-yer-aldigi-selcuklu-tasi-bulundu-haberi-837429",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T08:00:00"
-    },
-    {
-      "title": "Salah'ın ardından bir yıldız daha! Brezilyalı yıldız bugün Trabzon'a geliyor",
-      "summary": "Trabzonspor&#039;un prensip anlaşmasına vardığı Brezilyalı yıldız Fabinho, bordo-mavili kulüple transfer görüşmelerini tamamlamak üzere Trabzon&#039;a geliyor. Kulüp, saat 11.30&#039;daki havalimanı karşılaması için taraftarlara çağrı yaptı.",
-      "url": "https://www.dunya.com/spor/salahin-ardindan-bir-yildiz-daha-brezilyali-yildiz-bugun-trabzona-geliyor-haberi-837428",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T07:56:00"
-    },
-    {
-      "title": "İran'da yeni yeraltı tesisi iddiası: Uydu görüntüleri ortaya çıktı",
-      "summary": "İran’ın Kerec kenti yakınlarında Devrim Muhafızları Ordusu ile bağlantılı olduğu öne sürülen yeni bir yeraltı tesisi inşa ettiği iddia edildi. Uydu görüntülerine dayandırılan analize göre çalışmaların 21 Mayıs&#039;ta başladığı belirtiliyor.",
-      "url": "https://www.dunya.com/dunya/iranda-yeni-yeralti-tesisi-iddiasi-uydu-goruntuleri-ortaya-cikti-haberi-837430",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T07:50:00"
-    },
-    {
-      "title": "2026'nın ikinci yarısında hangi yatırımlar öne çıkacak? UBS açıkladı",
-      "summary": "2026&#039;nın ikinci yarısında yatırımcıların radarına hedge fonlar, özel altyapı ve özel sermaye girebilir. UBS, büyüme, enflasyon ve faiz eğilimlerinin ayrıştığı dönemde bu varlıkların portföylere çeşitlendirme sağlayabileceğini belirtti. Hedge fonlar son beş yılın en güçlü ilk yarı performansına ulaşırken özel altyapı uzun vadeli getirileriyle, özel sermaye ise hızlanan fon toplama faaliyetleri",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/2026nin-ikinci-yarisinda-hangi-yatirimlar-one-cikacak-ubs-acikladi-galeri-837427",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T07:47:00"
-    },
-    {
-      "title": "Morgan Stanley stratejisini değiştirdi: Paranın yöneldiği alanı açıkladı",
-      "summary": "Morgan Stanley Başstratejisti Michael Wilson ve ekibi, piyasalarda sermayenin yön değiştirdiğine dikkat çekti. Yapay zekâ ve yarı iletken hisselerine ilişkin değerlendirmelerde bulunan stratejistler, yakın dönemin en büyük riskini açıklarken yatırımcıların korunabileceği sektörü de işaret etti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/morgan-stanley-stratejisini-degistirdi-paranin-yoneldigi-alani-acikladi-galeri-837426",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-24T07:46:00"
     }
   ]
 }
