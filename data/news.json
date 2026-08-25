@@ -1,12 +1,131 @@
 {
-  "updated_at": "2026-08-25T16:29:36+03:00",
+  "updated_at": "2026-08-25T17:21:06+03:00",
   "news": [
+    {
+      "title": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+      "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T14:17:00"
+    },
+    {
+      "title": "Arsan Varlık Yönetim, 100 milyon TL’lik bonosuna %23,9462 faiz belirledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/arsan-varlk-yonetim-100-milyon-tllik-bonosuna-239462-faiz-belirledi-93CH-4043353",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:11:01"
+    },
+    {
+      "title": "Super Micro Computer hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/super-micro-computer-hisseleri-neden-yukseliste-93CH-4043352",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:09:50"
+    },
+    {
+      "title": "Yapay Zeka Sunucu CPU Büyümesi İçin En İyi Yarı İletken Hisseleri",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-sunucu-cpu-buyumesi-icin-en-iyi-yar-iletken-hisseleri-93CH-4043341",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:05:19"
+    },
+    {
+      "title": "Lider Turizm, A+ (tr) kredi notu teyit edildi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/global-filings/lider-turizm-a-tr-kredi-notu-teyit-edildi-93CH-4043337",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:03:58"
+    },
+    {
+      "title": "Jefferies, Birkenstock hissesi için birden fazla büyüme yolu görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/jefferies-birkenstock-hissesi-icin-birden-fazla-buyume-yolu-goruyor-93CH-4043325",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:58:34"
+    },
+    {
+      "title": "New York borsası yükselişle açıldı",
+      "summary": "New York borsası, hazine tahvili faizlerindeki düşüş ve çip hisselerindeki toparlanmayla güne yükselişle başladı.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-837579",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:56:00"
+    },
+    {
+      "title": "Apple yeni çipleri tanıttı, Mac mini ve Mac Studio’yu güncelledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/apple-yeni-cipleri-tantt-mac-mini-ve-mac-studioyu-guncelledi-4043340",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:55:19"
+    },
+    {
+      "title": "Alice yapay zeka güvenliği endişeleri ortasında 140 milyon dolar topladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/alice-yapay-zeka-guvenligi-endiseleri-ortasnda-140-milyon-dolar-toplad-93CH-4043316",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:52:33"
+    },
+    {
+      "title": "Benchmark, tedarik zinciri toparlanmasıyla TATT hisse değerlendirmesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-tat-technologies-hissesi-icin-tavsiyesini-yineledi-93CH-4043315",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:52:22"
+    },
+    {
+      "title": "Uber gençlerin yolculuklarına canlı video özelliği ekliyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/uber-genclerin-yolculuklarna-canl-video-ozelligi-ekliyor-93CH-4043313",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:49:46"
+    },
+    {
+      "title": "Epsilon Energy CEO Jason Stabell, 147.713 dolarlık hisse satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/epsilon-energy-ceosu-jason-stabell-147713-dolarlk-hisse-ald-93CH-4043310",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T13:47:19"
+    },
+    {
+      "title": "Bursa'da orman yangını: Havadan karadan yoğun müdahale başladı",
+      "summary": "Bursa&#039;nın Nilüfer ilçesine bağlı Hasanağa Mahallesi&#039;nde otluk alanda başlayan yangın, kısa sürede tarım arazilerine, yaklaşık yarım saat sonra da ormanlık bölgeye sıçradı. Yoğun dumanın kentin birçok noktasından görüldüğü yangına 2 uçak, 4 helikopter, arazözler, su tankerleri, dozerler ve itfaiye araçlarıyla müdahale ediliyor.",
+      "url": "https://www.dunya.com/gundem/bursada-orman-yangini-havadan-karadan-yogun-mudahale-basladi-haberi-837578",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:45:00"
+    },
+    {
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T13:44:09"
+    },
+    {
+      "title": "Fed'in faiz hesabında yeni sinyal! ABD'de özel sektör istihdamı hızlandı",
+      "summary": "ABD&#039;de özel sektör istihdamı ikinci haftada da artışını sürdürürken, dört haftalık ortalama 11 bin 750&#039;ye yükseldi. Son aylarda işgücü piyasasından gelen zayıflama sinyallerinin ardından yaşanan toparlanma dikkat çekerken, yatırımcılar verilerin Fed&#039;in faiz politikasına nasıl yansıyacağını izliyor.",
+      "url": "https://www.dunya.com/ekonomi/fedin-faiz-hesabinda-yeni-sinyal-abdde-ozel-sektor-istihdami-hizlandi-haberi-837580",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:43:00"
+    },
     {
       "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
       "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
       "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
       "source": "CNBC World Markets",
       "published": "2026-08-25T13:29:31"
+    },
+    {
+      "title": "Dev bankadan eylül uyarısı: Borsada dengeler değişebilir",
+      "summary": "ABD borsalarında yükseliş sürerken JPMorgan, piyasanın iç dinamiklerinde zayıflama sinyalleri görüldüğünü açıkladı. Bankanın stratejisti Jason Hunter, yatırımcıların uzun pozisyonlarını azaltmayı değerlendirebileceği döneme işaret etti.",
+      "url": "https://www.dunya.com/ekonomi/dev-bankadan-eylul-uyarisi-borsada-dengeler-degisebilir-haberi-837577",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:28:00"
+    },
+    {
+      "title": "Şahan Gökbakar’ın Ahbap soruşturması ifadesi ortaya çıktı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen terörizmin finansmanı ve aklama soruşturması kapsamında tanık sıfatıyla dinlenen Şahan Gökbakar&#039;ın ifadesi ortaya çıktı. Ünlü oyuncu, 6 Şubat depremleri öncesinde ve sonrasında Ahbap Derneği ile herhangi bir ilişki kurmadığını, dernek üzerinden maddi yardım yapmadığını söyledi. Afet dönemlerindeki yardımlarını kendi imkânlarıyla topladığını ve AFA",
+      "url": "https://www.dunya.com/gundem/sahan-gokbakarin-ahbap-sorusturmasi-ifadesi-ortaya-cikti-haberi-837576",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:20:00"
     },
     {
       "title": "ABD konut piyasasında iki farklı tablo: Fiyat arttı, gerçek değer düştü",
@@ -21,125 +140,6 @@
       "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
       "source": "CNBC World Markets",
       "published": "2026-08-25T13:09:12"
-    },
-    {
-      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
-      "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T13:07:35"
-    },
-    {
-      "title": "Avrupa’da kuraklık alarmı: Tarımsal verim tahminleri düşürüldü",
-      "summary": "Avrupa’da art arda yaşanan sıcak hava dalgaları ve derinleşen kuraklık, yazlık ürünlerde verim beklentilerini aşağı çekti. Soya fasulyesinde kaybın yüzde 14’e, Fransa’daki bazı ürünlerde ise yüzde 30’a ulaşabileceği öngörüldü.",
-      "url": "https://www.dunya.com/sektorler/tarim/avrupada-kuraklik-alarmi-tarimsal-verim-tahminleri-dusuruldu-haberi-837573",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T13:03:00"
-    },
-    {
-      "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-      "summary": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
-      "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T13:00:01"
-    },
-    {
-      "title": "Kılıçdaroğlu’ndan il başkanlarına: CHP’den ayrılanlarla tartışmayın",
-      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, partisinin il başkanlarına CHP’den ayrılanlarla tartışmaya girmemeleri çağrısında bulundu. Siyasetin kişisel hesaplardan arınması gerektiğini belirten Kılıçdaroğlu, olağan kurultay öncesinde parti tüzüğünü değiştirerek ön seçimi zorunlu hale getireceklerini söyledi.",
-      "url": "https://www.dunya.com/gundem/kilicdaroglundan-il-baskanlarina-chpden-ayrilanlarla-tartismayin-haberi-837572",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:54:00"
-    },
-    {
-      "title": "Rekabet Kurumu'ndan Warner Bros., Discovery ve CVC kararı",
-      "summary": "Rekabet Kurumu, aralarında Warner Bros. Discovery&#039;nin Paramount Skydance tarafından devralınmasının da bulunduğu çeşitli birleşme, devralma ve ortak girişim işlemlerini karara bağladı. Kurul, Warner Bros. Discovery işlemine koşullu izin verirken, diğer başvuruları da uygun buldu.",
-      "url": "https://www.dunya.com/gundem/rekabet-kurumundan-warner-bros-discovery-ve-cvc-karari-haberi-837574",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:49:00"
-    },
-    {
-      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-      "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T12:42:15"
-    },
-    {
-      "title": "Hürmüz Boğazı'nda savaşın en düşük seviyesi görüldü",
-      "summary": "ABD ile İran arasındaki gerilim, küresel enerji ticaretinin kilit güzergâhı Hürmüz Boğazı&#039;nda tanker trafiğini durma noktasına getirdi. İran&#039;ın geçişlere izin vermemesi nedeniyle pazartesi günü boğazdan yalnızca iki tanker geçerken bu sayı savaşın başlangıcından bu yana kaydedilen en düşük seviye oldu.",
-      "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-savasin-en-dusuk-seviyesi-goruldu-haberi-837571",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:38:00"
-    },
-    {
-      "title": "ABD’de özel sektör istihdamı haftalık ortalama 11.750 arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economic-indicators/abdde-ozel-sektor-istihdam-haftalk-ortalama-11750-artt-4043163",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:37:37"
-    },
-    {
-      "title": "Üç haneli getiriyi cebe koyduktan sonra akıllı para nereye yöneliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/uc-haneli-getiriyi-cebe-koyduktan-sonra-akll-para-nereye-yoneliyor-4043126",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:31:05"
-    },
-    {
-      "title": "Sahte konut ilanlarıyla 25 milyonluk vurgun: 13 şüpheli yakalandı",
-      "summary": "İstanbul’da internet üzerinden uygun fiyatlı konut satışı vaadiyle ilan vererek vatandaşlardan kapora aldıkları öne sürülen şüphelilere yönelik soruşturmada yeni ayrıntılar ortaya çıktı. 30 farklı olayda 30 kişinin yaklaşık 25 milyon lira dolandırıldığı belirlenirken, operasyonlarda 13 şüpheli gözaltına alındı.",
-      "url": "https://www.dunya.com/gundem/sahte-konut-ilanlariyla-25-milyonluk-vurgun-13-supheli-yakalandi-haberi-837570",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:30:00"
-    },
-    {
-      "title": "Raymond James AMD’yi yükseltti, 2030’da 201 milyar dolarlık CPU pazarı görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/raymond-james-amdyi-yukseltti-2030da-201-milyar-dolarlk-cpu-pazar-goruyor-4043142",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:27:47"
-    },
-    {
-      "title": "CVRx hissedar mektubuna şirket değerlemesi konusunda yanıt verdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cvrx-hissedar-mektubuna-sirket-degerlemesi-konusunda-yant-verdi-93CH-4043096",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:16:48"
-    },
-    {
-      "title": "AmpliTech’in birimi uydu bileşenleri için sipariş aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/amplitechin-birimi-uydu-bilesenleri-icin-siparis-ald-93CH-4043094",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:16:41"
-    },
-    {
-      "title": "Docusign platformunu Google Cloud’un Gemini Enterprise ile entegre etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/docusign-platformunu-google-cloudun-gemini-enterprise-ile-entegre-etti-93CH-4043087",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:16:26"
-    },
-    {
-      "title": "Macaristan Merkez Bankası faiz oranını %5,5’e indirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/macaristan-merkez-bankas-faiz-orann-55e-indirdi-93CH-4043086",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:15:14"
-    },
-    {
-      "title": "Trump şimdi de Ontario Gölü'nün adını değiştirmek istiyor",
-      "summary": "ABD ile Kanada arasında sonuçsuz kalan ticaret görüşmeleri ve karşılıklı tarife restleşmesi, bu kez dikkat çeken bir isim tartışmasına dönüştü. Donald Trump, New York ile Ontario arasında bulunan Ontario Gölü&#039;nün adını &quot;Amerika Gölü&quot; olarak değiştirmeyi ciddi biçimde değerlendirdiklerini açıkladı.",
-      "url": "https://www.dunya.com/dunya/trump-simdi-de-ontario-golunun-adini-degistirmek-istiyor-haberi-837568",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:14:00"
-    },
-    {
-      "title": "Sandvik hisseleri Kongo maden siparişiyle yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sandvik-hisseleri-kongo-maden-siparisiyle-yukseldi-93CH-4043084",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:12:15"
     }
   ]
 }
