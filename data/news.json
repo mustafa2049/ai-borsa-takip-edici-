@@ -1,12 +1,131 @@
 {
-  "updated_at": "2026-08-25T15:30:13+03:00",
+  "updated_at": "2026-08-25T16:29:36+03:00",
   "news": [
     {
-      "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
+      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
       "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
       "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-25T12:23:32"
+      "published": "2026-08-25T13:29:31"
+    },
+    {
+      "title": "ABD konut piyasasında iki farklı tablo: Fiyat arttı, gerçek değer düştü",
+      "summary": "ABD&#039;de S&amp;P Cotality Case-Shiller Ulusal Konut Fiyat Endeksi, haziranda yıllık bazda yüzde 1,5 artış kaydetti.",
+      "url": "https://www.dunya.com/ekonomi/abd-konut-piyasasinda-iki-farkli-tablo-fiyat-artti-gercek-deger-dustu-haberi-837575",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:19:00"
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "summary": "United is betting big on premium, international travel with a host of new routes.",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T13:09:12"
+    },
+    {
+      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T13:07:35"
+    },
+    {
+      "title": "Avrupa’da kuraklık alarmı: Tarımsal verim tahminleri düşürüldü",
+      "summary": "Avrupa’da art arda yaşanan sıcak hava dalgaları ve derinleşen kuraklık, yazlık ürünlerde verim beklentilerini aşağı çekti. Soya fasulyesinde kaybın yüzde 14’e, Fransa’daki bazı ürünlerde ise yüzde 30’a ulaşabileceği öngörüldü.",
+      "url": "https://www.dunya.com/sektorler/tarim/avrupada-kuraklik-alarmi-tarimsal-verim-tahminleri-dusuruldu-haberi-837573",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T13:03:00"
+    },
+    {
+      "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
+      "summary": "\"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said.",
+      "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T13:00:01"
+    },
+    {
+      "title": "Kılıçdaroğlu’ndan il başkanlarına: CHP’den ayrılanlarla tartışmayın",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, partisinin il başkanlarına CHP’den ayrılanlarla tartışmaya girmemeleri çağrısında bulundu. Siyasetin kişisel hesaplardan arınması gerektiğini belirten Kılıçdaroğlu, olağan kurultay öncesinde parti tüzüğünü değiştirerek ön seçimi zorunlu hale getireceklerini söyledi.",
+      "url": "https://www.dunya.com/gundem/kilicdaroglundan-il-baskanlarina-chpden-ayrilanlarla-tartismayin-haberi-837572",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T12:54:00"
+    },
+    {
+      "title": "Rekabet Kurumu'ndan Warner Bros., Discovery ve CVC kararı",
+      "summary": "Rekabet Kurumu, aralarında Warner Bros. Discovery&#039;nin Paramount Skydance tarafından devralınmasının da bulunduğu çeşitli birleşme, devralma ve ortak girişim işlemlerini karara bağladı. Kurul, Warner Bros. Discovery işlemine koşullu izin verirken, diğer başvuruları da uygun buldu.",
+      "url": "https://www.dunya.com/gundem/rekabet-kurumundan-warner-bros-discovery-ve-cvc-karari-haberi-837574",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T12:49:00"
+    },
+    {
+      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+      "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T12:42:15"
+    },
+    {
+      "title": "Hürmüz Boğazı'nda savaşın en düşük seviyesi görüldü",
+      "summary": "ABD ile İran arasındaki gerilim, küresel enerji ticaretinin kilit güzergâhı Hürmüz Boğazı&#039;nda tanker trafiğini durma noktasına getirdi. İran&#039;ın geçişlere izin vermemesi nedeniyle pazartesi günü boğazdan yalnızca iki tanker geçerken bu sayı savaşın başlangıcından bu yana kaydedilen en düşük seviye oldu.",
+      "url": "https://www.dunya.com/dunya/hurmuz-bogazinda-savasin-en-dusuk-seviyesi-goruldu-haberi-837571",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T12:38:00"
+    },
+    {
+      "title": "ABD’de özel sektör istihdamı haftalık ortalama 11.750 arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economic-indicators/abdde-ozel-sektor-istihdam-haftalk-ortalama-11750-artt-4043163",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:37:37"
+    },
+    {
+      "title": "Üç haneli getiriyi cebe koyduktan sonra akıllı para nereye yöneliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/uc-haneli-getiriyi-cebe-koyduktan-sonra-akll-para-nereye-yoneliyor-4043126",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:31:05"
+    },
+    {
+      "title": "Sahte konut ilanlarıyla 25 milyonluk vurgun: 13 şüpheli yakalandı",
+      "summary": "İstanbul’da internet üzerinden uygun fiyatlı konut satışı vaadiyle ilan vererek vatandaşlardan kapora aldıkları öne sürülen şüphelilere yönelik soruşturmada yeni ayrıntılar ortaya çıktı. 30 farklı olayda 30 kişinin yaklaşık 25 milyon lira dolandırıldığı belirlenirken, operasyonlarda 13 şüpheli gözaltına alındı.",
+      "url": "https://www.dunya.com/gundem/sahte-konut-ilanlariyla-25-milyonluk-vurgun-13-supheli-yakalandi-haberi-837570",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T12:30:00"
+    },
+    {
+      "title": "Raymond James AMD’yi yükseltti, 2030’da 201 milyar dolarlık CPU pazarı görüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/raymond-james-amdyi-yukseltti-2030da-201-milyar-dolarlk-cpu-pazar-goruyor-4043142",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:27:47"
+    },
+    {
+      "title": "CVRx hissedar mektubuna şirket değerlemesi konusunda yanıt verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cvrx-hissedar-mektubuna-sirket-degerlemesi-konusunda-yant-verdi-93CH-4043096",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:16:48"
+    },
+    {
+      "title": "AmpliTech’in birimi uydu bileşenleri için sipariş aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/amplitechin-birimi-uydu-bilesenleri-icin-siparis-ald-93CH-4043094",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:16:41"
+    },
+    {
+      "title": "Docusign platformunu Google Cloud’un Gemini Enterprise ile entegre etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/docusign-platformunu-google-cloudun-gemini-enterprise-ile-entegre-etti-93CH-4043087",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:16:26"
+    },
+    {
+      "title": "Macaristan Merkez Bankası faiz oranını %5,5’e indirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/macaristan-merkez-bankas-faiz-orann-55e-indirdi-93CH-4043086",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T12:15:14"
     },
     {
       "title": "Trump şimdi de Ontario Gölü'nün adını değiştirmek istiyor",
@@ -16,130 +135,11 @@
       "published": "2026-08-25T12:14:00"
     },
     {
-      "title": "İran Merkez Bankası’ndan dövize 500 milyon dolarlık müdahale",
-      "summary": "İran Merkez Bankası, dövizdeki dalgalanmalara karşı piyasayı yönetmek ve döviz arzını güçlendirmek amacıyla bankacılık ağına 500 milyon dolarlık banknot tedarikinin ilk aşamasına bugün başlayacağını duyurdu.",
-      "url": "https://www.dunya.com/dunya/iran-merkez-bankasindan-dovize-500-milyon-dolarlik-mudahale-haberi-837566",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:12:00"
-    },
-    {
-      "title": "Çinli robot devinde sert çöküş: Hisseleri üç günde eridi",
-      "summary": "Çin’in önde gelen insansı robot üreticilerinden Unitree’nin hisseleri, Şanghay Borsası’ndaki güçlü başlangıcının ardından tersine döndü. İlk işlem gününde beş kattan fazla yükselen hisselerde üç günlük kayıp yüzde 45’i bulurken sert hareket, teknoloji hisselerinde “balon” tartışmasını yeniden alevlendirdi.",
-      "url": "https://www.dunya.com/foto-galeri/teknoloji/cinli-robot-devinde-sert-cokus-hisseleri-uc-gunde-eridi-galeri-837569",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T12:06:00"
-    },
-    {
-      "title": "Stifel, On Holding için Al tavsiyesini yineledi",
+      "title": "Sandvik hisseleri Kongo maden siparişiyle yükseldi",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-on-holding-icin-al-tavsiyesini-yineledi-93CH-4043061",
+      "url": "https://tr.investing.com/news/stock-market-news/sandvik-hisseleri-kongo-maden-siparisiyle-yukseldi-93CH-4043084",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T12:04:42"
-    },
-    {
-      "title": "Stifel, Deckers Outdoor hissesi için al tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-deckers-outdoor-hissesi-icin-al-tavsiyesini-yineledi-93CH-4043058",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:04:27"
-    },
-    {
-      "title": "Hinge Health başkanı James Pursley 2,9 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/hinge-health-baskan-james-pursley-29-milyon-dolarlk-hisse-satt-93CH-4043054",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:02:48"
-    },
-    {
-      "title": "Adidas ve Puma hisseleri Dick’s Sporting Goods’un zayıflığıyla düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/adidas-ve-puma-hisseleri-dicks-sporting-goodsun-zayflgyla-dustu-93CH-4043053",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:02:28"
-    },
-    {
-      "title": "United States Antimony Montana’daki madencilik ilerlemesini açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/united-states-antimony-montanadaki-madencilik-ilerlemesini-acklad-93CH-4043049",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T12:01:40"
-    },
-    {
-      "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
-      "summary": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
-      "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T12:00:01"
-    },
-    {
-      "title": "BHP yöneticileri hisse ödüllerinin devri sonrası hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/bhp-yoneticileri-hisse-odullerinin-devri-sonras-hisse-satt-93CH-4043047",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:59:21"
-    },
-    {
-      "title": "Gorilla Technology hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gorilla-technology-hisseleri-neden-dusuyor-93CH-4043046",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:58:23"
-    },
-    {
-      "title": "Scotiabank, Rubrik hissesi için hedef fiyatı yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/scotiabank-rubrik-hissesi-icin-hedef-fiyat-yukseltti-93CH-4043045",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:58:16"
-    },
-    {
-      "title": "Stifel, Bausch & Lomb hissesi için Tut tavsiyesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stifel-bausch--lomb-hissesi-icin-tut-tavsiyesini-korudu-93CH-4043043",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:58:10"
-    },
-    {
-      "title": "Susquehanna, yapay zeka ağ gücüyle Marvell için hedefi yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/susquehanna-yapay-zeka-ag-gucuyle-marvell-icin-hedefi-yukseltti-93CH-4043042",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:58:03"
-    },
-    {
-      "title": "Rusya, Starlink’e rakip küresel uydu internet ağı kuruyor",
-      "summary": "Rusya, SpaceX&#039;in Starlink ağına rakip olacak uydu internet sistemi Rassvet için çalışmalarını hızlandırdı. Yüzlerce uydudan oluşması planlanan sistemin 2027&#039;de hizmete girmesi hedeflenirken, proje için yaklaşık 5,2 milyar dolarlık finansman öngörülüyor. Ağın ilerleyen dönemde 924 uyduya kadar genişletilebileceği belirtiliyor.",
-      "url": "https://www.dunya.com/dunya/rusya-starlinke-rakip-kuresel-uydu-internet-agi-kuruyor-haberi-837567",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T11:58:00"
-    },
-    {
-      "title": "Avrupa Birliği üç yıl sonra dış ticaret açığı verdi",
-      "summary": "Avrupa Birliği&#039;nin ithalatı ikinci çeyrekte ihracatından daha hızlı artınca Birlik, 2023&#039;ten bu yana ilk kez dış ticaret açığı verdi. İthalatın yüzde 9,9, ihracatın ise yüzde 5,4 yükseldiği dönemde açık 21,8 milyar Euro&#039;ya ulaştı. Ticaret dengesindeki bozulmada enerji ürünleri belirleyici olurken makine ve taşıtlardan sağlanan fazla da geriledi.",
-      "url": "https://www.dunya.com/dunya/avrupa-birligi-uc-yil-sonra-dis-ticaret-acigi-verdi-haberi-837565",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T11:48:00"
-    },
-    {
-      "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
-      "summary": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T11:41:49"
-    },
-    {
-      "title": "Cem Küçük soruşturmasında yeni gelişme: 3 kişi hakkında yakalama kararı",
-      "summary": "Tutuklanan gazeteci Cem Küçük hakkında yürütülen soruşturmada İsmail Çanak, Serdar Özyurt ve Ahsen Melek Kocatürk hakkında yakalama kararı çıkarıldı. Tutuklu Cem Duman’ın da şüpheli sıfatıyla ifadesinin alınacağı öğrenildi.",
-      "url": "https://www.dunya.com/gundem/cem-kucuk-sorusturmasinda-yeni-gelisme-3-kisi-hakkinda-yakalama-karari-haberi-837564",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T11:35:00"
-    },
-    {
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "summary": "United is betting big on premium, international travel with a host of new routes.",
-      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T11:32:06"
+      "published": "2026-08-25T12:12:15"
     }
   ]
 }
