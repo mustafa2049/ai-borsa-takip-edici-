@@ -1,33 +1,124 @@
 {
-  "updated_at": "2026-08-25T14:18:42+03:00",
+  "updated_at": "2026-08-25T14:51:49+03:00",
   "news": [
     {
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
-      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
+      "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
+      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-25T11:17:40"
+      "published": "2026-08-25T11:47:43"
     },
     {
-      "title": "Needham, Freesolve potansiyeli nedeniyle Teleflex hisse hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-freesolve-potansiyeli-nedeniyle-teleflex-hisse-hedefini-yukseltti-93CH-4042880",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:07:43"
+      "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
+      "summary": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:41:49"
     },
     {
-      "title": "Celea, ERS kongresinde deupirfenidone çalışma verilerini sunacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042879",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:07:33"
+      "title": "Cem Küçük soruşturmasında yeni gelişme: 3 kişi hakkında yakalama kararı",
+      "summary": "Tutuklanan gazeteci Cem Küçük hakkında yürütülen soruşturmada İsmail Çanak, Serdar Özyurt ve Ahsen Melek Kocatürk hakkında yakalama kararı çıkarıldı. Tutuklu Cem Duman’ın da şüpheli sıfatıyla ifadesinin alınacağı öğrenildi.",
+      "url": "https://www.dunya.com/gundem/cem-kucuk-sorusturmasinda-yeni-gelisme-3-kisi-hakkinda-yakalama-karari-haberi-837564",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T11:35:00"
     },
     {
-      "title": "Capricor Therapeutics hissesi neden yükseliyor?",
+      "title": "Kura Oncology CEO’su Troy Wilson 1,24 milyon dolarlık hisse aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/capricor-therapeutics-hissesi-neden-yukseliyor-93CH-4042876",
+      "url": "https://tr.investing.com/news/insider-trading-news/kura-oncology-ceosu-troy-wilson-124-milyon-dolarlk-hisse-ald-93CH-4042958",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T11:06:52"
+      "published": "2026-08-25T11:32:19"
+    },
+    {
+      "title": "Kura Oncology CCO Brian Powl 51.663 dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/kura-oncology-cco-brian-powl-51663-dolarlk-hisse-satt-93CH-4042957",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:32:10"
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "summary": "United is betting big on premium, international travel with a host of new routes.",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:32:06"
+    },
+    {
+      "title": "Rosenblatt, Marvell hisse hedefini yapay zeka çipi büyümesiyle 300 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-marvell-hisse-hedefini-yapay-zeka-cipi-buyumesiyle-300-dolara-yukseltti-93CH-4042950",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:30:27"
+    },
+    {
+      "title": "Rosenblatt, Synopsys hissesi için Al tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rosenblatt-synopsys-hissesi-icin-al-tavsiyesini-yineledi-93CH-4042949",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:30:23"
+    },
+    {
+      "title": "Guggenheim, Dollar Tree için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/guggenheim-dollar-tree-icin-hedef-fiyat-yukseltti-93CH-4042947",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:30:03"
+    },
+    {
+      "title": "Keefe Bruyette, Zions Bancorp hissesi için Market Perform notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/keefe-bruyette-zions-bancorp-hissesi-icin-market-perform-notunu-korudu-93CH-4042946",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:30:02"
+    },
+    {
+      "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
+      "summary": "Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines \"for a very long time\" even with the rise of EVs.",
+      "url": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:30:01"
+    },
+    {
+      "title": "Canaccord, bilanço gücüyle Strategy hissesi için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-bilanco-gucuyle-strategy-hissesi-icin-hedef-fiyat-yukseltti-93CH-4042945",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:29:57"
+    },
+    {
+      "title": "Ekrem İmamoğlu'nun babası Hasan İmamoğlu hakkında suç duyurusu talebi",
+      "summary": "&quot;Ekrem İmamoğlu Çıkar Amaçlı Suç Örgütü&quot; davasının ikinci duruşması beşinci gününde sürerken tutuksuz sanık Hasan İmamoğlu savunma yaptı. Beylikdüzü&#039;ndeki daireler üzerinden elden para aldığı iddiasını reddeden İmamoğlu, emniyette kendisine üç daire sorulduğunu ancak dört daire aldığını söylediğini anlattı. Duruşmada gündeme gelen 1 milyon Euro&#039;nun muhasebe kaydının bulunması g",
+      "url": "https://www.dunya.com/gundem/ekrem-imamoglunun-babasi-hasan-imamoglu-hakkinda-suc-duyurusu-talebi-haberi-837563",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T11:27:00"
+    },
+    {
+      "title": "Madison Air Solutions hissesi neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/madison-air-solutions-hissesi-neden-yukseliyor-93CH-4042943",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:26:30"
+    },
+    {
+      "title": "Dick’s Sporting Goods hissesi neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/dicks-sporting-goods-hissesi-neden-dusuyor-93CH-4042942",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:26:24"
+    },
+    {
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:24:50"
+    },
+    {
+      "title": "RBC Capital, Nike hissesi için görüşünü yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/rbc-capital-nike-hissesi-icin-gorusunu-yineledi-93CH-4042941",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:24:05"
     },
     {
       "title": "Volkswagen’de tarihi kriz: 50 bin kişinin işi tehlikede",
@@ -37,55 +128,6 @@
       "published": "2026-08-25T11:06:00"
     },
     {
-      "title": "Parabilis Medicines eski J&J onkoloji yöneticisini yönetim kuruluna aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/parabilis-medicines-eski-jj-onkoloji-yoneticisini-yonetim-kuruluna-ald-93CH-4042871",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:40"
-    },
-    {
-      "title": "Madison Air 2,25 milyar dolarlık özel yerleştirme açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/madison-air-225-milyar-dolarlk-ozel-yerlestirme-acklad-93CH-4042870",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:34"
-    },
-    {
-      "title": "Celea, ERS kongresinde deupirfenidone çalışma verilerini sunacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042869",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:32"
-    },
-    {
-      "title": "Sagimet akne ilacı denemesine 2026’nın 4. çeyreğinde başlayacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/sagimet-akne-ilac-denemesine-2026nn-4-ceyreginde-baslayacak-93CH-4042868",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:30"
-    },
-    {
-      "title": "Fury Gold, Eau Claire projesinden sondaj sonuçlarını açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/fury-gold-eau-claire-projesinden-sondaj-sonuclarn-acklad-93CH-4042867",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:29"
-    },
-    {
-      "title": "Beyond Air, NeuroNOS hissesini Univo’ya %19,99 hisse karşılığında satıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/beyond-air-neuronos-hissesini-univoya-1999-hisse-karslgnda-satyor-93CH-4042866",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:28"
-    },
-    {
-      "title": "ISS ve Glass Lewis, Evogene’nin yönetim kurulu adaylarını destekledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/iss-ve-glass-lewis-evogenenin-yonetim-kurulu-adaylarn-destekledi-93CH-4042865",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T11:05:26"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye ile yeni dönemin kapısı aralanacak",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malazgirt Zaferi&#039;nin 955. yıl dönümü etkinlikleri kapsamında Ahlat&#039;ta yaptığı konuşmada, “Terörsüz Türkiye hedefine ulaşınca milletimizin önünde yeni dönemin kapısı aralanacak” dedi. Erdoğan, “Herkesin bir hesabı varsa bizim de bir hesabımız, bir planımız var” ifadelerini kullandı.",
       "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-ile-yeni-donemin-kapisi-aralanacak-haberi-837562",
@@ -93,53 +135,11 @@
       "published": "2026-08-25T11:05:00"
     },
     {
-      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
-      "summary": "Dick's Sporting Goods reported second fiscal quarter revenue on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T11:01:03"
-    },
-    {
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "summary": "United is betting big on premium, international travel with a host of new routes.",
-      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T11:00:01"
-    },
-    {
-      "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
-      "summary": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T10:59:55"
-    },
-    {
       "title": "AB yapay zekada en ciddi riski açıkladı: Kontrolden çıkabilir",
       "summary": "Yapay zeka teknolojileri hızla gelişirken Avrupa Birliği&#039;nden dikkat çeken bir güvenlik uyarısı geldi. AB Komisyonu Başkan Yardımcısı Henna Virkkunen, yapay zekanın insan kontrolünden çıkmasını en ciddi risklerden biri olarak gösterirken, bazı modellerin test ortamlarının dışına çıkarak siber güvenlik açısından zarara yol açtığını söyledi.",
       "url": "https://www.dunya.com/dunya/ab-yapay-zekada-en-ciddi-riski-acikladi-kontrolden-cikabilir-haberi-837560",
       "source": "Dünya Gazetesi",
       "published": "2026-08-25T10:42:00"
-    },
-    {
-      "title": "Petrol zengini Libya'da benzin krizi: İstasyonlarda kuyruklar yüzlerce metreyi buldu",
-      "summary": "Afrika&#039;nın en büyük kanıtlanmış petrol rezervlerine sahip Libya&#039;da benzin bulmak giderek zorlaşıyor. Petrol tesislerine yönelik saldırılar ve saatler süren elektrik kesintileri yakıt dağıtımını aksatırken, benzin istasyonlarının önünde yüzlerce metrelik araç kuyrukları oluştu. Bazı kentlerde benzin bulunamazken, dizel fiyatı 9 dinara kadar çıktı.",
-      "url": "https://www.dunya.com/ekonomi/petrol-zengini-libyada-benzin-krizi-istasyonlarda-kuyruklar-yuzlerce-metreyi-buldu-haberi-837559",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T10:31:00"
-    },
-    {
-      "title": "Mart ayında evini satıp 1 kilo altın almıştı! Kâr mı etti zarar mı?",
-      "summary": "Evini satıp 1 kilogram altın alan ve “1-2 yıl sonra 4 tane ev alacağıma inanıyorum” diyen vatandaşın hesabı, aradan geçen 5 ayın ardından yeniden yapıldı. Masraflar düşülünce geriye kalan tutar dikkat çekti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/mart-ayinda-evini-satip-1-kilo-altin-almisti-kar-mi-etti-zarar-mi-galeri-837557",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T10:22:00"
-    },
-    {
-      "title": "Bahçeli'den Malazgirt Zaferi mesajı: Türkiye istikbalimizdir",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Malazgirt Zaferi&#039;nin 955. yıl dönümü dolayısıyla yayımladığı mesajda, “Malazgirt mazimizdir, Anadolu namusumuzdur, Türkiye istikbalimizdir” ifadelerini kullandı.",
-      "url": "https://www.dunya.com/gundem/bahceliden-malazgirt-zaferi-mesaji-turkiye-istikbalimizdir-haberi-837558",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T10:22:00"
     }
   ]
 }
