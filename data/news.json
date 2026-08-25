@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-08-25T12:25:58+03:00",
+  "updated_at": "2026-08-25T12:59:11+03:00",
   "news": [
+    {
+      "title": "Wolfe, Eylül FOMC öncesi Ağustos’ta 65 bin istihdam artışı öngörüyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/wolfe-eylul-fomc-oncesi-agustosta-65-bin-istihdam-arts-ongoruyor-93CH-4042647",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:56:34"
+    },
+    {
+      "title": "Moderna hisseleri bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/moderna-hisseleri-bugun-neden-yukseliyor-93CH-4042646",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:54:01"
+    },
+    {
+      "title": "Raymond James, Arm Holdings için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-arm-holdings-icin-hedef-fiyat-yukseltti-93CH-4042645",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:52:29"
+    },
+    {
+      "title": "Raymond James, Nvidia’nın hisse hedefini CPU büyümesi ile 352 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/raymond-james-nvidiann-hisse-hedefini-cpu-buyumesi-ile-352-dolara-yukseltti-93CH-4042643",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:52:07"
+    },
+    {
+      "title": "Stifel, Nike hissesi için Tut tavsiyesini anket bulgularıyla teyit etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-nike-hissesi-icin-tut-tavsiyesini-anket-bulgularyla-teyit-etti-93CH-4042644",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:52:07"
+    },
+    {
+      "title": "Bernstein, Huntington Ingalls için hedef fiyatı yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-huntington-ingalls-icin-hedef-fiyat-yukseltti-93CH-4042642",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:52:01"
+    },
+    {
+      "title": "Summit Therapeutics hissesi neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/summit-therapeutics-hissesi-neden-yukseliyor-93CH-4042641",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:51:39"
+    },
+    {
+      "title": "Advanced Micro Devices hisseleri neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/advanced-micro-devices-hisseleri-neden-yukseliyor-93CH-4042640",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:50:33"
+    },
+    {
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
+      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T09:47:56"
+    },
+    {
+      "title": "BofA, Palo Alto Networks için Al tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bofa-palo-alto-networks-icin-al-tavsiyesini-yineledi-93CH-4042637",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:46:20"
+    },
+    {
+      "title": "UBS, Drax hisselerini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-drax-hisselerini-yukseltti-4042635",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T09:42:12"
+    },
+    {
+      "title": "Velilere okul servisi uyarısı: Fazladan ücret isteyenlere dikkat",
+      "summary": "Yeni eğitim-öğretim yılı öncesinde velilere okul servisleri konusunda önemli bir uyarı geldi. Servis araçlarının ruhsat ve yetki belgelerinin kontrol edilmesi istenirken, belediyeler ve UKOME tarafından belirlenen tarifenin üzerinde ücret talep edilemeyeceği belirtildi. Fazladan ücret isteyen servisçiler ise meslek odalarına ve belediyelerin zabıta birimlerine şikayet edilebilecek.",
+      "url": "https://www.dunya.com/gundem/velilere-okul-servisi-uyarisi-fazladan-ucret-isteyenlere-dikkat-haberi-837554",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T09:37:00"
+    },
+    {
+      "title": "İran'dan ABD'ye ekonomi resti: Çıkarlarınızı tehlikeye atarız",
+      "summary": "İran Meclis Başkan Yardımcısı Ali Nikzad, ABD&#039;nin ekonomik baskılarının İran halkının geçimini zorlaştırması halinde &quot;ABD ve onunla işbirliği yapan ülkelerin ekonomik çıkarlarını tehlikeye atacaklarını&quot; söyledi.",
+      "url": "https://www.dunya.com/dunya/irandan-abdye-ekonomi-resti-cikarlarinizi-tehlikeye-atariz-haberi-837552",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T09:27:00"
+    },
+    {
+      "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T09:26:05"
+    },
     {
       "title": "Bakan Uraloğlu açıkladı: Antalya-Alanya arası 36 dakikaya düşecek",
       "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Antalya-Alanya Otoyolu Projesi&#039;nde yüzde 30 fiziki ilerleme sağlandığını açıkladı. Projenin tamamlanmasıyla iki kent arasındaki 2,5 saatlik seyahat süresi 36 dakikaya düşecek, yıllık 23,9 milyar lira tasarruf sağlanacak.",
@@ -9,39 +107,11 @@
       "published": "2026-08-25T09:15:00"
     },
     {
-      "title": "Wolfe Research görünürlük endişeleriyle Klarna’nın notunu düşürdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wolfe-research-gorunurluk-endiseleriyle-klarnann-notunu-dusurdu-93CH-4042562",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T09:04:03"
-    },
-    {
-      "title": "Citizens gen terapisi verilerine dayanarak CRISPR hisse notunu korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-gen-terapisi-verilerine-dayanarak-crispr-hisse-notunu-korudu-93CH-4042559",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T09:03:55"
-    },
-    {
-      "title": "Citizens, FCPT hissesi için hedef fiyatı korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-fcpt-hissesi-icin-hedef-fiyat-korudu-93CH-4042558",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T09:03:54"
-    },
-    {
-      "title": "Wolfe Research, büyüme görünümüyle Bread Financial hissesini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/wolfe-research-buyume-gorunumuyle-bread-financial-hissesini-yukseltti-93CH-4042557",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T09:03:53"
-    },
-    {
-      "title": "argenx hisseleri keskin yükselişin ardından Berenberg’den not indirimi aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/argenx-hisseleri-keskin-yukselisin-ardndan-berenbergden-not-indirimi-ald-4042554",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T09:00:23"
+      "title": "Ticaret Bakanlığı açıkladı: Meraya dökülen domateslerin sırrı çözüldü",
+      "summary": "Bursa&#039;da bazı salça fabrikalarının kabul etmediği domateslerin meraya dökülmesine ilişkin görüntüler sosyal medyada gündem oldu. Başlatılan incelemede ürünlerin ezik, çürük, taş ve toprakla karışmış olması nedeniyle geri çevrildiği, olayın piyasada darlık oluşturma veya fiyatları etkileme amacı taşımadığı belirlendi. Ancak domateslerin Yolağzı merasına bırakılmasının mevzuata uygun olmadığı s",
+      "url": "https://www.dunya.com/gundem/ticaret-bakanligi-acikladi-meraya-dokulen-domateslerin-sirri-cozuldu-haberi-837553",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T09:02:00"
     },
     {
       "title": "Gümüşün kaderini belirleyecek kritik seviye açıklandı",
@@ -49,41 +119,6 @@
       "url": "https://www.dunya.com/foto-galeri/ekonomi/gumusun-kaderini-belirleyecek-kritik-seviye-aciklandi-galeri-837551",
       "source": "Dünya Gazetesi",
       "published": "2026-08-25T08:59:00"
-    },
-    {
-      "title": "KeyBanc, Midera Food Processing hissesini Sektör Ağırlığı ile başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/keybanc-midera-food-processing-hissesini-sektor-agrlg-ile-baslatt-93CH-4042532",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T08:58:07"
-    },
-    {
-      "title": "UBS, Fluence Energy hissesi için tavsiyesini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/ubs-fluence-energy-hissesi-icin-tavsiyesini-yukseltti-93CH-4042531",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T08:57:57"
-    },
-    {
-      "title": "Citizens, Blackstone Mortgage Trust hissesi için görüşünü yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-blackstone-mortgage-trust-hissesi-icin-gorusunu-yineledi-93CH-4042530",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T08:57:56"
-    },
-    {
-      "title": "Citizens, Salesforce hissesi için görüşünü kazanç öncesi korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/citizens-salesforce-hissesi-icin-gorusunu-kazanc-oncesi-korudu-93CH-4042528",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T08:57:49"
-    },
-    {
-      "title": "Piper Sandler, Agomab hissesine Overweight önerisiyle başladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/piper-sandler-agomab-hissesine-overweight-onerisiyle-baslad-93CH-4042529",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T08:57:49"
     },
     {
       "title": "Dragon Ball Z theme park gets $7 billion green light",
@@ -105,41 +140,6 @@
       "url": "https://www.dunya.com/yasam/halit-ergencin-15-yillik-gizli-girisimi-ortaya-cikti-fiyati-45-bin-euroya-cikiyor-haberi-837548",
       "source": "Dünya Gazetesi",
       "published": "2026-08-25T08:43:00"
-    },
-    {
-      "title": "Gold price hovers at three-month high on dollar weakness, Treasury bond buyback plans",
-      "summary": "Gold prices fell Tuesday after rising to their highest in over three months.",
-      "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T08:39:14"
-    },
-    {
-      "title": "Bitcoin price extends gains as crypto rally gathers pace",
-      "summary": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T08:29:11"
-    },
-    {
-      "title": "Rusya'ya enerji darbesi: Benzin için dışa bağımlı hale geldi",
-      "summary": "Ukrayna&#039;nın Rusya&#039;daki rafineri ve enerji altyapısına yönelik artan saldırıları, ülkede benzin üretimini sekteye uğratarak yakıt arzında darboğaza yol açtı. Dünyanın en büyük ham petrol üreticilerinden Rusya, bazı bölgelerde satışları sınırlandırıp benzin ihracatı yasağını uzatırken iç talebi karşılamak için ithalata yöneldi.",
-      "url": "https://www.dunya.com/enerji/rusyaya-enerji-darbesi-benzin-icin-disa-bagimli-hale-geldi-haberi-837545",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T08:25:00"
-    },
-    {
-      "title": "Diyalizde su tasarrufu için Türkiye'de bir ilk: İlk ayda 46 bin litre su kurtarıldı",
-      "summary": "Türkiye&#039;de yaklaşık 72 bin kişinin yaşamını sürdürmek için ihtiyaç duyduğu diyaliz tedavisinde yılda yaklaşık 2 milyar litre su kullanılıyor. Türk Böbrek Vakfı, diyaliz sırasında arıtma sisteminden kanalizasyona giden suyu yeniden kullanıma kazandıran yeni modeli hayata geçirdi. İlk ayda 46 bin litre su tasarrufu sağlanırken, sistemin Türkiye genelinde yaygınlaşması halinde yılda 400-500 mily",
-      "url": "https://www.dunya.com/saglik/diyalizde-su-tasarrufu-icin-turkiyede-bir-ilk-ilk-ayda-46-bin-litre-su-kurtarildi-haberi-837543",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T08:22:00"
-    },
-    {
-      "title": "Mısır fiyatlarında sert yükseliş: 3 yılın zirvesi görüldü",
-      "summary": "Mısırın kile başına fiyatı, uluslararası piyasalarda El Nino hava olayının etkisi, kurak hava koşulları ve Rusya-Ukrayna savaşından kaynaklı jeopolitik risklerden dolayı 5,2425 dolara yükselerek 3 yılın en yüksek seviyesini gördü.",
-      "url": "https://www.dunya.com/sektorler/tarim/misir-fiyatlarinda-sert-yukselis-3-yilin-zirvesi-goruldu-haberi-837544",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T08:22:00"
     }
   ]
 }
