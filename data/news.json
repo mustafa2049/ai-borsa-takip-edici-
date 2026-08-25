@@ -1,47 +1,131 @@
 {
-  "updated_at": "2026-08-25T17:21:06+03:00",
+  "updated_at": "2026-08-25T18:12:21+03:00",
   "news": [
     {
-      "title": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+      "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T15:09:55"
+    },
+    {
+      "title": "İran basını: Trump'ın oğlu Barron'un başına 10 milyon dolarlık ödül konuldu",
+      "summary": "İran devlet televizyonu, ABD Başkanı Donald Trump&#039;ın oğlu Barron Trump&#039;ın başına 10 milyon dolarlık ödül konulduğunu açıkladı.",
+      "url": "https://www.dunya.com/dunya/iran-basini-trumpin-oglu-barronun-basina-10-milyon-dolarlik-odul-konuldu-haberi-837590",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T15:00:00"
+    },
+    {
+      "title": "Caredx Inc hissesi 49,77 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/caredx-inc-hissesi-4977-dolarda-52-haftalk-zirve-yapt-93CH-4043410",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:59:54"
+    },
+    {
+      "title": "ABD'de yeni konut satışları beklentilerin altında kaldı",
+      "summary": "ABD&#039;de yeni konut satışları, temmuzda aylık yüzde 10,5 azalarak beklentilerin altında gerçekleşti.",
+      "url": "https://www.dunya.com/ekonomi/abdde-yeni-konut-satislari-beklentilerin-altinda-kaldi-haberi-837589",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T14:55:00"
+    },
+    {
+      "title": "Aptiv hissesi 46,13 dolarda 52 haftalık dip yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/aptiv-hissesi-4613-dolarda-52-haftalk-dip-yapt-93CH-4043406",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:52:53"
+    },
+    {
+      "title": "Trump: Hürmüz Boğazı'ndaki tüm mayınlar temizlendi",
+      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı&#039;nın uluslararası sularındaki tüm mayınların temizlendiğini veya imha edildiğini belirterek, yeniden mayın döşenmesi halinde buna müdahale edileceğini açıkladı.",
+      "url": "https://www.dunya.com/dunya/trump-hurmuz-bogazindaki-tum-mayinlar-temizlendi-haberi-837587",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T14:49:00"
+    },
+    {
+      "title": "Meksika 2. çeyrekte 8,93 milyar dolarlık cari fazla verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/meksika-2-ceyrekte-893-milyar-dolarlk-cari-fazla-verdi-93CH-4043401",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:47:56"
+    },
+    {
+      "title": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
       "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
       "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-25T14:17:00"
+      "published": "2026-08-25T14:47:30"
     },
     {
-      "title": "Arsan Varlık Yönetim, 100 milyon TL’lik bonosuna %23,9462 faiz belirledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/arsan-varlk-yonetim-100-milyon-tllik-bonosuna-239462-faiz-belirledi-93CH-4043353",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T14:11:01"
+      "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
+      "summary": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
+      "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T14:46:59"
     },
     {
-      "title": "Super Micro Computer hisseleri neden yükselişte?",
+      "title": "FDA, HER2+ mide kanseri tedavisi için Tevimbra kombinasyonunu onayladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/super-micro-computer-hisseleri-neden-yukseliste-93CH-4043352",
+      "url": "https://tr.investing.com/news/company-news/fda-her2-mide-kanseri-tedavisi-icin-tevimbra-kombinasyonunu-onaylad-93CH-4043400",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T14:09:50"
+      "published": "2026-08-25T14:45:27"
     },
     {
-      "title": "Yapay Zeka Sunucu CPU Büyümesi İçin En İyi Yarı İletken Hisseleri",
+      "title": "Axis Bank çalışan hisse planları kapsamında 177.413 hisse tahsis etti",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-sunucu-cpu-buyumesi-icin-en-iyi-yar-iletken-hisseleri-93CH-4043341",
+      "url": "https://tr.investing.com/news/company-news/axis-bank-calsan-hisse-planlar-kapsamnda-177413-hisse-tahsis-etti-93CH-4043399",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T14:05:19"
+      "published": "2026-08-25T14:45:04"
     },
     {
-      "title": "Lider Turizm, A+ (tr) kredi notu teyit edildi",
+      "title": "Klepierre 500 milyon euroluk tahvil ihracı açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/global-filings/lider-turizm-a-tr-kredi-notu-teyit-edildi-93CH-4043337",
+      "url": "https://tr.investing.com/news/company-news/klepierre-500-milyon-euroluk-tahvil-ihrac-acklad-93CH-4043398",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T14:03:58"
+      "published": "2026-08-25T14:41:24"
     },
     {
-      "title": "Jefferies, Birkenstock hissesi için birden fazla büyüme yolu görüyor",
+      "title": "Dell hisseleri 1 Eylül’deki kazanç açıklamasıyla %11 hareket edebilir",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/jefferies-birkenstock-hissesi-icin-birden-fazla-buyume-yolu-goruyor-93CH-4043325",
+      "url": "https://tr.investing.com/news/stock-market-news/dell-hisseleri-1-eyluldeki-kazanc-acklamasyla-11-hareket-edebilir-93CH-4043397",
       "source": "Investing Türkiye",
-      "published": "2026-08-25T13:58:34"
+      "published": "2026-08-25T14:40:47"
+    },
+    {
+      "title": "Palo Alto Networks hisseleri kazanç raporunda %8,6 hareket edebilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/palo-alto-networks-hisseleri-kazanc-raporunda-86-hareket-edebilir-93CH-4043394",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:39:23"
+    },
+    {
+      "title": "MongoDB hissesi 1 Eylül’deki kazanç açıklamasıyla %14 hareket edebilir",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/mongodb-hissesi-1-eyluldeki-kazanc-acklamasyla-14-hareket-edebilir-93CH-4043393",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:38:02"
+    },
+    {
+      "title": "Click Holdings 4. çeyrekte lojistik gelirlerinde yıllık %42 büyüme bildirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/click-holdings-4-ceyrekte-lojistik-gelirlerinde-yllk-42-buyume-bildirdi-93CH-4043392",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T14:37:22"
+    },
+    {
+      "title": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
+      "summary": "Zach Witkoff, CEO of Trump-linked World Liberty Financial, said conflict-of-interest concerns related to the Trump family are misplaced.",
+      "url": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T14:27:42"
+    },
+    {
+      "title": "Amerikan askeri nakliye uçağı Moskova'ya geldi",
+      "summary": "ABD Hava Kuvvetlerine ait askeri nakliye uçağının Moskova&#039;ya inişi merak uyandırırken, ABD basını uçakta CIA Direktörü John Ratcliffe&#039;in bulunduğunu öne sürdü. Kremlin ise uçuş hakkında bilgisinin olmadığını açıkladı.",
+      "url": "https://www.dunya.com/dunya/amerikan-askeri-nakliye-ucagi-moskovaya-geldi-haberi-837585",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T14:24:00"
     },
     {
       "title": "New York borsası yükselişle açıldı",
@@ -51,95 +135,11 @@
       "published": "2026-08-25T13:56:00"
     },
     {
-      "title": "Apple yeni çipleri tanıttı, Mac mini ve Mac Studio’yu güncelledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/apple-yeni-cipleri-tantt-mac-mini-ve-mac-studioyu-guncelledi-4043340",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T13:55:19"
-    },
-    {
-      "title": "Alice yapay zeka güvenliği endişeleri ortasında 140 milyon dolar topladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/alice-yapay-zeka-guvenligi-endiseleri-ortasnda-140-milyon-dolar-toplad-93CH-4043316",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T13:52:33"
-    },
-    {
-      "title": "Benchmark, tedarik zinciri toparlanmasıyla TATT hisse değerlendirmesini korudu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/benchmark-tat-technologies-hissesi-icin-tavsiyesini-yineledi-93CH-4043315",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T13:52:22"
-    },
-    {
-      "title": "Uber gençlerin yolculuklarına canlı video özelliği ekliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/uber-genclerin-yolculuklarna-canl-video-ozelligi-ekliyor-93CH-4043313",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T13:49:46"
-    },
-    {
-      "title": "Epsilon Energy CEO Jason Stabell, 147.713 dolarlık hisse satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/epsilon-energy-ceosu-jason-stabell-147713-dolarlk-hisse-ald-93CH-4043310",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T13:47:19"
-    },
-    {
-      "title": "Bursa'da orman yangını: Havadan karadan yoğun müdahale başladı",
-      "summary": "Bursa&#039;nın Nilüfer ilçesine bağlı Hasanağa Mahallesi&#039;nde otluk alanda başlayan yangın, kısa sürede tarım arazilerine, yaklaşık yarım saat sonra da ormanlık bölgeye sıçradı. Yoğun dumanın kentin birçok noktasından görüldüğü yangına 2 uçak, 4 helikopter, arazözler, su tankerleri, dozerler ve itfaiye araçlarıyla müdahale ediliyor.",
-      "url": "https://www.dunya.com/gundem/bursada-orman-yangini-havadan-karadan-yogun-mudahale-basladi-haberi-837578",
+      "title": "Bursa'daki orman yangını kontrol altına alındı",
+      "summary": "Bursa&#039;nın merkez Nilüfer ilçesinde tarım alanlarında başlayan ve ormana sıçrayan yangın Bursa Büyükşehir Belediyesi&#039;nin kısa süredeki müdahalesi ve Orman Bölge Müdürlüğü&#039;nün havadan yoğun müdahalesi ile kontrol altına alındı.",
+      "url": "https://www.dunya.com/gundem/bursadaki-orman-yangini-kontrol-altina-alindi-haberi-837578",
       "source": "Dünya Gazetesi",
       "published": "2026-08-25T13:45:00"
-    },
-    {
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-      "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
-      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T13:44:09"
-    },
-    {
-      "title": "Fed'in faiz hesabında yeni sinyal! ABD'de özel sektör istihdamı hızlandı",
-      "summary": "ABD&#039;de özel sektör istihdamı ikinci haftada da artışını sürdürürken, dört haftalık ortalama 11 bin 750&#039;ye yükseldi. Son aylarda işgücü piyasasından gelen zayıflama sinyallerinin ardından yaşanan toparlanma dikkat çekerken, yatırımcılar verilerin Fed&#039;in faiz politikasına nasıl yansıyacağını izliyor.",
-      "url": "https://www.dunya.com/ekonomi/fedin-faiz-hesabinda-yeni-sinyal-abdde-ozel-sektor-istihdami-hizlandi-haberi-837580",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T13:43:00"
-    },
-    {
-      "title": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
-      "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T13:29:31"
-    },
-    {
-      "title": "Dev bankadan eylül uyarısı: Borsada dengeler değişebilir",
-      "summary": "ABD borsalarında yükseliş sürerken JPMorgan, piyasanın iç dinamiklerinde zayıflama sinyalleri görüldüğünü açıkladı. Bankanın stratejisti Jason Hunter, yatırımcıların uzun pozisyonlarını azaltmayı değerlendirebileceği döneme işaret etti.",
-      "url": "https://www.dunya.com/ekonomi/dev-bankadan-eylul-uyarisi-borsada-dengeler-degisebilir-haberi-837577",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T13:28:00"
-    },
-    {
-      "title": "Şahan Gökbakar’ın Ahbap soruşturması ifadesi ortaya çıktı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen terörizmin finansmanı ve aklama soruşturması kapsamında tanık sıfatıyla dinlenen Şahan Gökbakar&#039;ın ifadesi ortaya çıktı. Ünlü oyuncu, 6 Şubat depremleri öncesinde ve sonrasında Ahbap Derneği ile herhangi bir ilişki kurmadığını, dernek üzerinden maddi yardım yapmadığını söyledi. Afet dönemlerindeki yardımlarını kendi imkânlarıyla topladığını ve AFA",
-      "url": "https://www.dunya.com/gundem/sahan-gokbakarin-ahbap-sorusturmasi-ifadesi-ortaya-cikti-haberi-837576",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T13:20:00"
-    },
-    {
-      "title": "ABD konut piyasasında iki farklı tablo: Fiyat arttı, gerçek değer düştü",
-      "summary": "ABD&#039;de S&amp;P Cotality Case-Shiller Ulusal Konut Fiyat Endeksi, haziranda yıllık bazda yüzde 1,5 artış kaydetti.",
-      "url": "https://www.dunya.com/ekonomi/abd-konut-piyasasinda-iki-farkli-tablo-fiyat-artti-gercek-deger-dustu-haberi-837575",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T13:19:00"
-    },
-    {
-      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "summary": "United is betting big on premium, international travel with a host of new routes.",
-      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T13:09:12"
     }
   ]
 }
