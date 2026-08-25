@@ -1,12 +1,131 @@
 {
-  "updated_at": "2026-08-25T13:34:41+03:00",
+  "updated_at": "2026-08-25T14:18:42+03:00",
   "news": [
     {
-      "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
-      "summary": "India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.",
-      "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+      "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
+      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-25T10:23:53"
+      "published": "2026-08-25T11:17:40"
+    },
+    {
+      "title": "Needham, Freesolve potansiyeli nedeniyle Teleflex hisse hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/needham-freesolve-potansiyeli-nedeniyle-teleflex-hisse-hedefini-yukseltti-93CH-4042880",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:07:43"
+    },
+    {
+      "title": "Celea, ERS kongresinde deupirfenidone çalışma verilerini sunacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042879",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:07:33"
+    },
+    {
+      "title": "Capricor Therapeutics hissesi neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/capricor-therapeutics-hissesi-neden-yukseliyor-93CH-4042876",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:06:52"
+    },
+    {
+      "title": "Volkswagen’de tarihi kriz: 50 bin kişinin işi tehlikede",
+      "summary": "Alman otomotiv devi Volkswagen’de fabrika kapatma ve işten çıkarma planları çalışanları ayağa kaldırdı. 10 binden fazla işçinin protestosuyla büyüyen krizde sendikadan yönetime sert uyarı geldi.",
+      "url": "https://www.dunya.com/sektorler/otomotiv/volkswagende-tarihi-kriz-50-bin-kisinin-isi-tehlikede-haberi-837561",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T11:06:00"
+    },
+    {
+      "title": "Parabilis Medicines eski J&J onkoloji yöneticisini yönetim kuruluna aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/parabilis-medicines-eski-jj-onkoloji-yoneticisini-yonetim-kuruluna-ald-93CH-4042871",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:40"
+    },
+    {
+      "title": "Madison Air 2,25 milyar dolarlık özel yerleştirme açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/madison-air-225-milyar-dolarlk-ozel-yerlestirme-acklad-93CH-4042870",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:34"
+    },
+    {
+      "title": "Celea, ERS kongresinde deupirfenidone çalışma verilerini sunacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/celea-ers-kongresinde-deupirfenidone-calsma-verilerini-sunacak-93CH-4042869",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:32"
+    },
+    {
+      "title": "Sagimet akne ilacı denemesine 2026’nın 4. çeyreğinde başlayacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/sagimet-akne-ilac-denemesine-2026nn-4-ceyreginde-baslayacak-93CH-4042868",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:30"
+    },
+    {
+      "title": "Fury Gold, Eau Claire projesinden sondaj sonuçlarını açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fury-gold-eau-claire-projesinden-sondaj-sonuclarn-acklad-93CH-4042867",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:29"
+    },
+    {
+      "title": "Beyond Air, NeuroNOS hissesini Univo’ya %19,99 hisse karşılığında satıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/beyond-air-neuronos-hissesini-univoya-1999-hisse-karslgnda-satyor-93CH-4042866",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:28"
+    },
+    {
+      "title": "ISS ve Glass Lewis, Evogene’nin yönetim kurulu adaylarını destekledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/iss-ve-glass-lewis-evogenenin-yonetim-kurulu-adaylarn-destekledi-93CH-4042865",
+      "source": "Investing Türkiye",
+      "published": "2026-08-25T11:05:26"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye ile yeni dönemin kapısı aralanacak",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Malazgirt Zaferi&#039;nin 955. yıl dönümü etkinlikleri kapsamında Ahlat&#039;ta yaptığı konuşmada, “Terörsüz Türkiye hedefine ulaşınca milletimizin önünde yeni dönemin kapısı aralanacak” dedi. Erdoğan, “Herkesin bir hesabı varsa bizim de bir hesabımız, bir planımız var” ifadelerini kullandı.",
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-ile-yeni-donemin-kapisi-aralanacak-haberi-837562",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T11:05:00"
+    },
+    {
+      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market",
+      "summary": "Dick's Sporting Goods reported second fiscal quarter revenue on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
+      "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:01:03"
+    },
+    {
+      "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "summary": "United is betting big on premium, international travel with a host of new routes.",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T11:00:01"
+    },
+    {
+      "title": "Bitcoin price extends gains, briefly tops $80,000 overnight, as crypto rally gathers pace",
+      "summary": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-25T10:59:55"
+    },
+    {
+      "title": "AB yapay zekada en ciddi riski açıkladı: Kontrolden çıkabilir",
+      "summary": "Yapay zeka teknolojileri hızla gelişirken Avrupa Birliği&#039;nden dikkat çeken bir güvenlik uyarısı geldi. AB Komisyonu Başkan Yardımcısı Henna Virkkunen, yapay zekanın insan kontrolünden çıkmasını en ciddi risklerden biri olarak gösterirken, bazı modellerin test ortamlarının dışına çıkarak siber güvenlik açısından zarara yol açtığını söyledi.",
+      "url": "https://www.dunya.com/dunya/ab-yapay-zekada-en-ciddi-riski-acikladi-kontrolden-cikabilir-haberi-837560",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T10:42:00"
+    },
+    {
+      "title": "Petrol zengini Libya'da benzin krizi: İstasyonlarda kuyruklar yüzlerce metreyi buldu",
+      "summary": "Afrika&#039;nın en büyük kanıtlanmış petrol rezervlerine sahip Libya&#039;da benzin bulmak giderek zorlaşıyor. Petrol tesislerine yönelik saldırılar ve saatler süren elektrik kesintileri yakıt dağıtımını aksatırken, benzin istasyonlarının önünde yüzlerce metrelik araç kuyrukları oluştu. Bazı kentlerde benzin bulunamazken, dizel fiyatı 9 dinara kadar çıktı.",
+      "url": "https://www.dunya.com/ekonomi/petrol-zengini-libyada-benzin-krizi-istasyonlarda-kuyruklar-yuzlerce-metreyi-buldu-haberi-837559",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-25T10:31:00"
     },
     {
       "title": "Mart ayında evini satıp 1 kilo altın almıştı! Kâr mı etti zarar mı?",
@@ -21,125 +140,6 @@
       "url": "https://www.dunya.com/gundem/bahceliden-malazgirt-zaferi-mesaji-turkiye-istikbalimizdir-haberi-837558",
       "source": "Dünya Gazetesi",
       "published": "2026-08-25T10:22:00"
-    },
-    {
-      "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
-      "summary": "Kyiv says the attacks are aimed at disrupting Russian supply chains and inflicting further pressure on Putin's wartime economy.",
-      "url": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T10:20:17"
-    },
-    {
-      "title": "Lanxess Alman Konferansında: Maliyet Kesintileri Dayanıklılığı Artırıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/lanxess-alman-konferansnda-maliyet-kesintileri-dayankllg-artryor-93CH-4042683",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:14:40"
-    },
-    {
-      "title": "Fidelity National Information Services hissesi neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/fidelity-national-information-services-hissesi-neden-dusuyor-93CH-4042681",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:10:32"
-    },
-    {
-      "title": "Shift4 Payments hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/shift4-payments-hissesi-bugun-neden-yukseliyor-93CH-4042680",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:10:25"
-    },
-    {
-      "title": "Pizza Hut, Josh Allen ile futbol kampanyası başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/pizza-hut-josh-allen-ile-futbol-kampanyas-baslatt-93CH-4042678",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:09:27"
-    },
-    {
-      "title": "Intapp, yapay zeka uyum entegrasyonu için Legora ile ortaklık kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/intapp-yapay-zeka-uyum-entegrasyonu-icin-legora-ile-ortaklk-kurdu-93CH-4042677",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:09:24"
-    },
-    {
-      "title": "NuRAN Wireless gelecek halka arzlar için izahname sundu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nuran-wireless-gelecek-halka-arzlar-icin-izahname-sundu-93CH-4042676",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:09:22"
-    },
-    {
-      "title": "Nayax, IPS Group’u 350 milyon dolara nakit olarak satın alıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nayax-ips-groupu-350-milyon-dolara-nakit-olarak-satn-alyor-93CH-4042670",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:05:30"
-    },
-    {
-      "title": "Stable Sea platformuna WisdomTree’den iki tokenize fon eklendi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/stable-sea-platformuna-wisdomtreeden-iki-tokenize-fon-eklendi-93CH-4042669",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:05:29"
-    },
-    {
-      "title": "DaVita, Humana ile böbrek hastalığı bakım programı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/davita-humana-ile-bobrek-hastalg-bakm-program-baslatt-93CH-4042668",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:05:28"
-    },
-    {
-      "title": "Escalade, yalıtımlı köpek kulübesi üreticisi ASL Solutions’ı satın aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/escalade-yaltml-kopek-kulubesi-ureticisi-asl-solutions-satn-ald-93CH-4042667",
-      "source": "Investing Türkiye",
-      "published": "2026-08-25T10:05:12"
-    },
-    {
-      "title": "1950'den bu yana en şiddetlisi olabilir: Tahıl fiyatları için alarm",
-      "summary": "Çok güçlü bir Süper El Nino yaşanma ihtimalinin yüzde 90&#039;ı aşması, küresel tarım piyasalarında üretim kaybı endişelerini artırdı. Citi, olumsuz hava koşullarının yanı sıra güçlü ihracat talebi, Karadeniz&#039;deki aksamalar, enerji ve gübre maliyetleri ile biyoyakıt talebine işaret ederek mısır, soya fasulyesi ve buğday tahminlerini yukarı yönlü revize etti. Banka, piyasaların üretime yönelik",
-      "url": "https://www.dunya.com/ekonomi/1950den-bu-yana-en-siddetlisi-olabilir-tahil-fiyatlari-icin-alarm-haberi-837556",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T10:05:00"
-    },
-    {
-      "title": "Fenerbahçe'nin Lyon maçı kamp kadrosu belli oldu: 4 önemli eksik",
-      "summary": "UEFA Şampiyonlar Ligi play-off turunda 1-1&#039;in rövanşında yarın Fransa&#039;nın Olimpik Lyon ekibiyle karşılaşacak Fenerbahçe&#039;de kamp kadrosu belli oldu.",
-      "url": "https://www.dunya.com/spor/fenerbahcenin-lyon-maci-kamp-kadrosu-belli-oldu-4-onemli-eksik-haberi-837555",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T10:00:00"
-    },
-    {
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
-      "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T09:47:56"
-    },
-    {
-      "title": "Velilere okul servisi uyarısı: Fazladan ücret isteyenlere dikkat",
-      "summary": "Yeni eğitim-öğretim yılı öncesinde velilere okul servisleri konusunda önemli bir uyarı geldi. Servis araçlarının ruhsat ve yetki belgelerinin kontrol edilmesi istenirken, belediyeler ve UKOME tarafından belirlenen tarifenin üzerinde ücret talep edilemeyeceği belirtildi. Fazladan ücret isteyen servisçiler ise meslek odalarına ve belediyelerin zabıta birimlerine şikayet edilebilecek.",
-      "url": "https://www.dunya.com/gundem/velilere-okul-servisi-uyarisi-fazladan-ucret-isteyenlere-dikkat-haberi-837554",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T09:37:00"
-    },
-    {
-      "title": "İran'dan ABD'ye ekonomi resti: Çıkarlarınızı tehlikeye atarız",
-      "summary": "İran Meclis Başkan Yardımcısı Ali Nikzad, ABD&#039;nin ekonomik baskılarının İran halkının geçimini zorlaştırması halinde &quot;ABD ve onunla işbirliği yapan ülkelerin ekonomik çıkarlarını tehlikeye atacaklarını&quot; söyledi.",
-      "url": "https://www.dunya.com/dunya/irandan-abdye-ekonomi-resti-cikarlarinizi-tehlikeye-atariz-haberi-837552",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-25T09:27:00"
-    },
-    {
-      "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-      "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
-      "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-25T09:26:05"
     }
   ]
 }
