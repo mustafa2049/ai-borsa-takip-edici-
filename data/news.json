@@ -1,82 +1,96 @@
 {
-  "updated_at": "2026-08-26T13:59:26+03:00",
+  "updated_at": "2026-08-26T14:32:07+03:00",
   "news": [
+    {
+      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
+      "summary": "Mortgage rates rose again last week causing demand for both refinances and purchase loans to drop. Rates climbed to their highest level in three weeks.",
+      "url": "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-26T11:32:28"
+    },
+    {
+      "title": "Uber Technologies hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/uber-technologies-hissesi-bugun-neden-yukseliyor-93CH-4044446",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:23:40"
+    },
+    {
+      "title": "Canaccord, Connect Biopharma için Al tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-connect-biopharma-icin-al-tavsiyesini-yineledi-93CH-4044442",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:21:48"
+    },
+    {
+      "title": "İspanya’daki Airbus çalışanları maaş teklifini reddetti, greve yeniden başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/ispanyadaki-airbus-calsanlar-maas-teklifini-reddetti-greve-yeniden-baslad-93CH-4044441",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:18:21"
+    },
+    {
+      "title": "AtriCure’un hukuk direktörü 458.099 dolarlık hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/atricureun-hukuk-direktoru-458099-dolarlk-hisse-satt-93CH-4044438",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:16:47"
+    },
+    {
+      "title": "Deutsche Bank hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/deutsche-bank-hisseleri-neden-yukseliste-93CH-4044435",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:15:35"
+    },
+    {
+      "title": "GUSS otonom bahçe filosunda Ouster lidar sensörlerini kullanacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/guss-otonom-bahce-filosunda-ouster-lidar-sensorlerini-kullanacak-93CH-4044429",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:13:36"
+    },
+    {
+      "title": "Electra, Ontario kobalt rafinerisi için 17,5 milyon C$ finansmanı tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/electra-ontario-kobalt-rafinerisi-icin-175-milyon-c-finansman-tamamlad-93CH-4044428",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:13:35"
+    },
+    {
+      "title": "Veea, Meksika’da Totalplay teknik onayını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/veea-meksikada-totalplay-teknik-onayn-tamamlad-93CH-4044427",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:13:31"
+    },
+    {
+      "title": "Dycom Industries 150 milyon dolarlık geri alım programı onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/dycom-industries-150-milyon-dolarlk-geri-alm-program-onaylad-93CH-4044426",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:13:20"
+    },
+    {
+      "title": "InvestingPro Adil Değer, ACV Auctions hissesinde %62 kazanç belirledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/investment-ideas/investingpro-adil-deger-acv-auctions-hissesinde-62-kazanc-belirledi-93CH-4044425",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T11:12:53"
+    },
+    {
+      "title": "TFF'den yabancı kuralıyla ilgili düzenleme",
+      "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve 1. Lig kulüplerinin A takım listesine kaydedemedikleri futbolcularını Türkiye Kupası’nda oynatabilmesine yönelik geçici düzenleme yaptı.",
+      "url": "https://www.dunya.com/spor/tffden-yabanci-kuraliyla-ilgili-duzenleme-haberi-837684",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-26T10:59:00"
+    },
     {
       "title": "Kuru incirde sezonun ilk fiyatı belli oldu: Kilosu 850 TL",
       "summary": "Aydın&#039;da kuru incir sezonu, Ticaret Borsasında düzenlenen ilk alım töreniyle açıldı. Köşk, Germencik, İncirliova ve Efeler&#039;den 16 üreticinin getirdiği toplam 170 kilogram ürün, sembolik olarak kilosu 850 liradan satın alındı. Kış aylarının yağışlı geçmesi ve hava koşullarında olumsuzluk yaşanmaması sayesinde bu yıl incir kalitesinin son yılların en yüksek düzeylerinden birine ulaştığı be",
       "url": "https://www.dunya.com/sektorler/tarim/kuru-incirde-sezonun-ilk-fiyati-belli-oldu-kilosu-850-tl-haberi-837683",
       "source": "Dünya Gazetesi",
       "published": "2026-08-26T10:48:00"
-    },
-    {
-      "title": "Spyre Therapeutics hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/spyre-therapeutics-hisseleri-neden-dusuyor-93CH-4044266",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:41:58"
-    },
-    {
-      "title": "Boston Scientific hisseleri neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/boston-scientific-hisseleri-neden-dusuyor-93CH-4044257",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:40:05"
-    },
-    {
-      "title": "Hyundai hibrit kaymasıyla 2030 kâr marjı hedefini yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/hyundai-hibrit-kaymasyla-2030-kar-marj-hedefini-yukseltti-93CH-4044238",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:38:13"
-    },
-    {
-      "title": "Donaldson Company hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/donaldson-company-hissesi-bugun-neden-yukseliyor-93CH-4044237",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:38:04"
-    },
-    {
-      "title": "Victory Capital, First Eagle’ı 7 milyar dolara satın alıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/victory-capital-first-eagle-7-milyar-dolara-satn-alyor-93CH-4044236",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:37:50"
-    },
-    {
-      "title": "Parsons 14 milyar dolarlık savunma istihbaratı sözleşmesinde yer aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/parsons-14-milyar-dolarlk-savunma-istihbarat-sozlesmesinde-yer-ald-93CH-4044235",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:37:42"
-    },
-    {
-      "title": "Hyperscale Data’nın birimi 5,4 milyon dolarlık savunma siparişi aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/hyperscale-datann-birimi-54-milyon-dolarlk-savunma-siparisi-ald-93CH-4044234",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:37:30"
-    },
-    {
-      "title": "Gordon Haskett restoran sektörü tahmin revizyonlarını inceledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/gordon-haskett-restoran-sektoru-tahmin-revizyonlarn-inceledi-93CH-4044233",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:37:10"
-    },
-    {
-      "title": "Tisco Securities Tayland gıda sektörünü ağırlıklandırmaya yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tisco-securities-tayland-gda-sektorunu-agrlklandrmaya-yukseltti-93CH-4044225",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:33:51"
-    },
-    {
-      "title": "Berenberg, E.ON için tavsiyesini Al’a yükseltti; hisse yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/berenberg-eon-icin-tavsiyesini-ala-yukseltti-hisse-yukseldi-4044226",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T10:30:41"
     },
     {
       "title": "Netanyahu: İran ile diplomatik bir anlaşmaya varmak mümkün değil",
@@ -126,20 +140,6 @@
       "url": "https://www.dunya.com/foto-galeri/kultur-sanat/sidede-390-metrelik-antik-cadde-gun-yuzune-cikti-herakles-kapisinda-dikkat-ceken-kesif-galeri-837674",
       "source": "Dünya Gazetesi",
       "published": "2026-08-26T09:09:00"
-    },
-    {
-      "title": "Petrolde rüzgar tersine döndü: ABD'nin İran hamlesi fiyatları aşağı çekti",
-      "summary": "Orta Doğu&#039;daki gerilimle 91 doların üzerine çıkan Brent petrolde rüzgar tersine döndü. ABD&#039;nin İran&#039;a yeni hava saldırıları yerine ekonomik baskıya yöneleceği haberleri ve Hürmüz Boğazı&#039;nda geçici koridor anlaşması fiyatları hızla aşağı çekerken Brent petrol yeniden 85 doların altını gördü.",
-      "url": "https://www.dunya.com/finans/emtia/petrolde-ruzgar-tersine-dondu-abdnin-iran-hamlesi-fiyatlari-asagi-cekti-haberi-837677",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-26T09:07:00"
-    },
-    {
-      "title": "İstanbul'da hava bir anda değişecek: 'Bu ne soğuk?' dedirtecek",
-      "summary": "İstanbul&#039;da hafta boyunca etkili olan yaz sıcakları, cuma günü yerini kısa süreli serin ve yağışlı havaya bırakacak. Kentte 31-32 dereceye çıkan sıcaklıkların 21 derecelere kadar düşmesi bekleniyor. Sağanak, gök gürültüsü ve saatte 40-60 kilometre hıza ulaşabilecek poyrazın perşembe akşamından itibaren etkili olacak.",
-      "url": "https://www.dunya.com/foto-galeri/gundem/istanbulda-hava-bir-anda-degisecek-bu-ne-soguk-dedirtecek-galeri-837675",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-26T09:06:00"
     }
   ]
 }
