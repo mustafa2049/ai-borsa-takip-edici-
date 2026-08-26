@@ -1,19 +1,131 @@
 {
-  "updated_at": "2026-08-26T16:46:08+03:00",
+  "updated_at": "2026-08-26T17:35:49+03:00",
   "news": [
-    {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-      "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-26T13:46:16"
-    },
     {
       "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
       "summary": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
       "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-26T13:41:01"
+      "published": "2026-08-26T14:33:58"
+    },
+    {
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+      "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-26T14:31:02"
+    },
+    {
+      "title": "Pezeşkiyan: Ekonomik savaşın en ağır koşullarından geçiyoruz",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülkesinin ekonomik savaş nedeniyle ağır baskı altında olduğunu belirterek, halkın desteği, yöneticilerin sorumluluk bilinci ve özel sektörün katkısıyla sorunların hızla aşılabileceğini söyledi.",
+      "url": "https://www.dunya.com/dunya/pezeskiyan-ekonomik-savasin-en-agir-kosullarindan-geciyoruz-haberi-837702",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-26T14:23:00"
+    },
+    {
+      "title": "Trump'tan Moskova ziyareti için \"yarı rutin\" açıklaması",
+      "summary": "ABD Başkanı Donald Trump, ABD Merkezi Haberalma Teşkilatı (CIA) Direktörü John Ratcliffe&#039;in Moskova&#039;ya yaptığı son ziyareti &quot;yarı rutin&quot; olarak nitelendirerek, bu ziyaretin NATO veya İngiltere&#039;ye yönelik olası &quot;Rus askeri tehditleriyle&quot; bağlantılı olduğu yönündeki iddiaları yalanladı.",
+      "url": "https://www.dunya.com/dunya/trumptan-moskova-ziyareti-icin-yari-rutin-aciklamasi-haberi-837701",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-26T14:20:00"
+    },
+    {
+      "title": "UFP Technologies Midwest IDEAS’ta: büyüme planı ölçeğe dayanıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/ufp-technologies-midwest-ideasta-buyume-plan-olcege-dayanyor-93CH-4044921",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:17:07"
+    },
+    {
+      "title": "HNI CEO’su Jeffrey Lorenger şirket hissesi sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/hni-ceosu-jeffrey-lorenger-sirket-hissesi-satt-93CH-4044920",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:16:56"
+    },
+    {
+      "title": "UBS, Viking Holdings için Al tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-viking-holdings-icin-al-tavsiyesini-yineledi-93CH-4044919",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:16:14"
+    },
+    {
+      "title": "TD Cowen, Simply Goods için hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/td-cowen-simply-goods-icin-hisse-hedefini-dusurdu-93CH-4044917",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:16:02"
+    },
+    {
+      "title": "UBS, Heico için 382 dolarlık hedef fiyatı korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-heico-icin-382-dolarlk-hedef-fiyat-korudu-93CH-4044918",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:16:02"
+    },
+    {
+      "title": "UBS, varlık satış anlaşması sonrası Par Pacific hisse notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-varlk-sats-anlasmas-sonras-par-pacific-hisse-notunu-korudu-93CH-4044916",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:15:58"
+    },
+    {
+      "title": "TD Cowen, PagerDuty için hedef fiyatı 13,50 dolara yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/td-cowen-pagerduty-icin-hedef-fiyat-1350-dolara-yukseltti-93CH-4044915",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:15:57"
+    },
+    {
+      "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
+      "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
+      "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-26T14:12:55"
+    },
+    {
+      "title": "ABD Başkanı Trump: İran'la savaş çok yakında sona erecek",
+      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı&#039;nın kontrolünün tamamen kendilerinde olduğunu savunarak İran&#039;la savaşın &quot;çok yakında&quot; sona ereceğini belirtti.",
+      "url": "https://www.dunya.com/dunya/abd-baskani-trump-iranla-savas-cok-yakinda-sona-erecek-haberi-837700",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-26T14:12:00"
+    },
+    {
+      "title": "Victory Capital hisseleri neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/victory-capital-hisseleri-neden-yukseliyor-93CH-4044906",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:11:43"
+    },
+    {
+      "title": "L3Harris Technologies hisseleri neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/l3harris-technologies-hisseleri-neden-yukseliyor-93CH-4044902",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:10:36"
+    },
+    {
+      "title": "UBS, Zoom hissesi için tavsiyesini yineledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-zoom-hissesi-icin-tavsiyesini-yineledi-93CH-4044900",
+      "source": "Investing Türkiye",
+      "published": "2026-08-26T14:10:20"
+    },
+    {
+      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
+      "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
+      "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-26T13:55:02"
+    },
+    {
+      "title": "Kalp pili üreten şirkete siber saldırı: Hisseler sert düştü",
+      "summary": "Kalp pili ve stent gibi tıbbi cihazların önde gelen üreticilerinden Boston Scientific, siber saldırıya uğradı. Şirketin hisseleri yüzde 5,8 gerilerken, saldırının sipariş ve sevkiyat sistemini de aksatacağı belirtiliyor.",
+      "url": "https://www.dunya.com/ekonomi/kalp-pili-ureten-sirkete-siber-saldiri-hisseler-sert-dustu-haberi-837699",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-26T13:37:00"
     },
     {
       "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
@@ -28,118 +140,6 @@
       "url": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
       "source": "CNBC World Markets",
       "published": "2026-08-26T13:35:18"
-    },
-    {
-      "title": "Mısır vadeli işlemleri Temmuz 2023’ten bu yana en yüksek seviyeye ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/commodities-news/msr-vadeli-islemleri-temmuz-2023ten-bu-yana-en-yuksek-seviyeye-ulast-93CH-4044799",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:34:06"
-    },
-    {
-      "title": "BioHarvest Sciences 2026 Yatırımcı Zirvesi’nde konuştu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/bioharvest-sciences-2026-yatrmc-zirvesinde-konustu-93CH-4044795",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:33:30"
-    },
-    {
-      "title": "JM Smucker hissesi 134,85 dolarla 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/jm-smucker-hissesi-13485-dolarla-52-haftalk-zirve-yapt-93CH-4044794",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:33:28"
-    },
-    {
-      "title": "Vanguard, Altruist’i satın alarak finansal danışmanlık erişimini genişletiyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/vanguard-altruisti-satn-alarak-finansal-dansmanlk-erisimini-genisletiyor-93CH-4044793",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:33:23"
-    },
-    {
-      "title": "Abercrombie & Fitch hissesi 133,77 dolarda zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/abercrombie--fitch-hissesi-13377-dolarda-zirve-yapt-93CH-4044791",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:33:00"
-    },
-    {
-      "title": "Box hissesi 34,23 dolarlık 52 haftalık zirvesine ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/box-hissesi-3423-dolarlk-52-haftalk-zirvesine-ulast-93CH-4044789",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:32:59"
-    },
-    {
-      "title": "Unrivaled’ın değerlemesi 650 milyon dolara ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/unrivaledn-degerlemesi-650-milyon-dolara-ulast-93CH-4044788",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:32:58"
-    },
-    {
-      "title": "Joyy hissesi 77,0 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/joyy-hissesi-770-dolarda-52-haftalk-zirve-yapt-93CH-4044787",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:32:50"
-    },
-    {
-      "title": "Church & Dwight EVP Hemsey 511 bin dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/church--dwight-evp-hemsey-511-bin-dolarlk-hisse-satt-93CH-4044786",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:32:13"
-    },
-    {
-      "title": "Inuvo yapay zeka platformuna FouAnalytics trafik ölçümünü entegre etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/inuvo-yapay-zeka-platformuna-fouanalytics-trafik-olcumunu-entegre-etti-93CH-4044780",
-      "source": "Investing Türkiye",
-      "published": "2026-08-26T13:29:22"
-    },
-    {
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "summary": "OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech companies.",
-      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-26T13:27:35"
-    },
-    {
-      "title": "ABD'de kişisel tüketim harcamaları beklentileri aştı",
-      "summary": "ABD&#039;de temmuz ayında kişisel gelirler ve tüketici harcamaları piyasa beklentilerinin üzerinde arttı. Harcamalardaki yükseliş hazirana göre yavaşlasa da tahminleri aşarken Fed&#039;in yakından takip ettiği PCE fiyat endeksi aylık yüzde 0,2, yıllık yüzde 3,7 yükseldi.",
-      "url": "https://www.dunya.com/dunya/abdde-kisisel-tuketim-harcamalari-beklentileri-asti-haberi-837698",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-26T13:27:00"
-    },
-    {
-      "title": "Ev sahiplerini ilgilendiren karar Resmi Gazete’de: 2027 emlak vergisi bedelleri değişiyor",
-      "summary": "2027 yılında emlak vergisinin hesaplanmasında kullanılacak bina metrekare normal inşaat maliyet bedelleri belli oldu. Resmi Gazete’de yayımlanan yeni düzenlemeyle konuttan iş yerine, otelden fabrikaya kadar farklı yapı türleri için uygulanacak maliyet bedelleri belirlendi. Yeni rakamlar, 2027 yılı emlak vergisine esas bina vergi değerlerinin hesaplanmasında kullanılacak.",
-      "url": "https://www.dunya.com/foto-galeri/emlak/ev-sahiplerini-ilgilendiren-karar-resmi-gazetede-2027-emlak-vergisi-bedelleri-degisiyor-galeri-837696",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-26T13:22:00"
-    },
-    {
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-      "summary": "Mechanical Turk launched in 2005 as a way to farm out tasks that are easy for humans to complete but too challenging for computers.",
-      "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-26T13:15:24"
-    },
-    {
-      "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-      "summary": "Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic artery.",
-      "url": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-26T13:13:53"
-    },
-    {
-      "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-      "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
-      "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-26T13:06:55"
     }
   ]
 }
