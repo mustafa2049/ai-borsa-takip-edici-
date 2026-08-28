@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-08-27T20:59:40+03:00",
+  "updated_at": "2026-08-28T22:09:49+03:00",
   "news": [
     {
-      "title": "Salesforce leads software rally, rocketing 20% on track for second-best day ever",
-      "summary": "Salesforce reported a strong beat on second-quarter earnings and announced an expanded AI partnership with Anthropic.",
-      "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "summary": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
+      "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-27T17:55:37"
+      "published": "2026-08-28T19:09:34"
     },
     {
-      "title": "Trump, Ontario Gölü'nün adını \"Amerika Gölü\" yaptı",
-      "summary": "ABD Başkanı Donald Trump, ticari gerilimin yükseldiği Kanada&#039;nın sınırında yer alan Ontario Gölü&#039;nün adını &quot;Amerika Gölü&quot; olarak değiştiren başkanlık kararnamesine imza attı.",
-      "url": "https://www.dunya.com/dunya/trump-ontario-golunun-adini-amerika-golu-yapti-haberi-837875",
+      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+      "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
+      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-28T19:05:23"
+    },
+    {
+      "title": "Trump loses bid to transfer New York hush money case to federal court",
+      "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
+      "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-28T19:02:46"
+    },
+    {
+      "title": "Aroundtown 250 milyon euroluk geri alım programını tamamladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/aroundtown-250-milyon-euroluk-geri-alm-programn-tamamlad-93CH-4048542",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:53:12"
+    },
+    {
+      "title": "Horizon Kinetics yönetim kurulu üyesi 5.200 dolar hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-yonetim-kurulu-uyesi-5200-dolar-hisse-ald-93CH-4048541",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:47:01"
+    },
+    {
+      "title": "Strategy hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/strategy-hissesi-bugun-neden-dusuyor-93CH-4048540",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:45:49"
+    },
+    {
+      "title": "Jüri Parse Biosciences’ın Scale patentlerini ihlal ettiğine karar verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/juri-parse-biosciencesn-scale-patentlerini-ihlal-ettigine-karar-verdi-93CH-4048539",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:45:37"
+    },
+    {
+      "title": "Aroundtown geçen hafta 75.549 hisse geri aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/aroundtown-gecen-hafta-75549-hisse-geri-ald-93CH-4048538",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:45:14"
+    },
+    {
+      "title": "Amazon hissesi bugün neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/amazon-hissesi-bugun-neden-yukseliste-93CH-4048537",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:44:13"
+    },
+    {
+      "title": "Blue Owl, IREN için 2,4 milyar dolarlık yapay zeka altyapı finansmanına öncülük etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/blue-owl-iren-icin-24-milyar-dolarlk-yapay-zeka-altyap-finansmanna-onculuk-etti-93CH-4048534",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:37:27"
+    },
+    {
+      "title": "Edison International hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/edison-international-hisseleri-neden-dusuyor-93CH-4048533",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:36:16"
+    },
+    {
+      "title": "PG&E hisseleri neden bugün düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/pge-hisseleri-neden-bugun-dusuyor-93CH-4048532",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:34:03"
+    },
+    {
+      "title": "NVIDIA hisseleri bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/nvidia-hisseleri-bugun-neden-dusuyor-93CH-4048531",
+      "source": "Investing Türkiye",
+      "published": "2026-08-28T18:29:51"
+    },
+    {
+      "title": "Fethiye'de alevler yerleşim yerlerine sıçradı: Evler yanıyor",
+      "summary": "Muğla&#039;nın Fethiye ilçesinde ormanlık alanda çıkan ve rüzgarın şiddetiyle büyüyen yangında bazı evler alevlere teslim oldu. Yangına müdahale devam ederken, evleri tahliye çalışmaları da sürüyor.",
+      "url": "https://www.dunya.com/gundem/fethiyede-alevler-yerlesim-yerlerine-sicradi-evler-yaniyor-haberi-837981",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-27T17:49:00"
+      "published": "2026-08-28T18:22:00"
     },
     {
-      "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
-      "summary": "President Donald Trump signed an executive order that he said will \"immediately\" change the name of Lake Ontario to \"Lake America.\"",
-      "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-27T17:46:43"
-    },
-    {
-      "title": "Brian Sullivan: Gulf nations are unlikely to agree to a toll plan for Strait of Hormuz safe passage",
-      "summary": "Gulf nations will be reluctant to agree to or adhere to a fee or toll for safe passage through the Strait of Hormuz, according to my conversations.",
-      "url": "https://www.cnbc.com/2026/08/27/brian-sullivan-gulf-nations-are-unlikely-to-agree-to-a-toll-plan-for-strait-of-hormuz-safe-passage.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-27T17:45:49"
-    },
-    {
-      "title": "SpaceX shares are doing something very unusual. Options traders are taking note",
-      "summary": "After debuting as the most volatile stock among its large-cap peers, Elon Musk's astronomic equity hasn't moved in three weeks.",
-      "url": "https://www.cnbc.com/2026/08/27/spacex-shares-are-doing-something-very-unusual-options-traders-are-taking-note.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-27T17:42:04"
-    },
-    {
-      "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-      "summary": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
-      "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-27T17:38:15"
-    },
-    {
-      "title": "Smith-Midland Midwest IDEAS’ta: temel pazarlarda rüzgar arkada",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/smithmidland-midwest-ideasta-temel-pazarlarda-ruzgar-arkada-93CH-4047018",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:32:26"
-    },
-    {
-      "title": "Exodus Movement CTO’su 71.640 dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/exodus-movement-ctosu-71640-dolarlk-hisse-satt-93CH-4047017",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:32:14"
-    },
-    {
-      "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-      "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
-      "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
-      "source": "CNBC World Markets",
-      "published": "2026-08-27T17:31:09"
-    },
-    {
-      "title": "Fed’in Hammack’ı enflasyonun yıl sonunda yüzde 3’te olacağını görüyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/fedin-hammack-enflasyonun-yl-sonunda-yuzde-3te-olacagn-goruyor-93CH-4047015",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:29:04"
-    },
-    {
-      "title": "Galantas Gold 110.000 varant kullanımını duyurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/galantas-gold-110000-varant-kullanmn-duyurdu-93CH-4047014",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:25:16"
-    },
-    {
-      "title": "Rosenblatt Marvell’i Temel Uzun Vade Fikri Seçti, Hedefi Yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/rosenblatt-marvelli-temel-uzun-vade-fikri-secti-hedefi-yukseltti-93CH-4047013",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:16:42"
-    },
-    {
-      "title": "Pezeşkiyan: Sorunlar diyalog ve diplomasi yoluyla çözülmelidir",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, İran&#039;ın savaş ve çatışmaların genişlemesini istemediğini belirterek, sorunların savaş ve tehdit yoluyla değil, diyalog ve diplomasi yoluyla çözülmesi gerektiğini söyledi.",
-      "url": "https://www.dunya.com/dunya/pezeskiyan-sorunlar-diyalog-ve-diplomasi-yoluyla-cozulmelidir-haberi-837874",
+      "title": "Fatih Tekke’den istifa kararının ardından ilk açıklama",
+      "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Ferencvaros maçının ardından aldığı istifa kararının yönetim tarafından kabul edilmemesinin ardından ilk kez konuştu. Tekke, “Şimdi dün akşamın üzerine bir çizgi çekip önümüze bakma zamanı” diyerek takıma ve camiaya olan inancını vurguladı.",
+      "url": "https://www.dunya.com/spor/fatih-tekkeden-istifa-kararinin-ardindan-ilk-aciklama-haberi-837980",
       "source": "Dünya Gazetesi",
-      "published": "2026-08-27T17:16:00"
+      "published": "2026-08-28T18:20:00"
     },
     {
-      "title": "Avrupa borsaları, Almanya hariç düşüşle kapandı",
-      "summary": "Avrupa borsaları, ABD&#039;li Nvidia&#039;nın güçlü finansal sonuçları ile merkez bankacılarının Jackson Hole Ekonomi Politikası Sempozyumu öncesindeki temkinli duruşunun etkisiyle günü Almanya hariç düşüşle tamamladı.",
-      "url": "https://www.dunya.com/finans/borsa/avrupa-borsalari-almanya-haric-dususle-kapandi-haberi-837873",
-      "source": "Dünya Gazetesi",
-      "published": "2026-08-27T17:07:00"
-    },
-    {
-      "title": "Paysign 17. Yıllık Midwest IDEAS Konferansı’nda: Büyüme genişliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/paysign-17-yllk-midwest-ideas-konferansnda-buyume-genisliyor-93CH-4047011",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:06:56"
-    },
-    {
-      "title": "Stagwell, Adobe ortaklığını kurumsal büyüme için genişletiyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/stagwell-adobe-ortaklgn-kurumsal-buyume-icin-genisletiyor-93CH-4047010",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:05:42"
-    },
-    {
-      "title": "Stepan Midwest IDEAS’ta: Marj iyileşmesi hız kazanıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/stepan-midwest-ideasta-marj-iyilesmesi-hz-kazanyor-93CH-4047009",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:05:24"
-    },
-    {
-      "title": "Rubrik hissesi 106,65 dolarda tüm zamanların zirvesinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/rubrik-hissesi-10665-dolarda-tum-zamanlarn-zirvesinde-93CH-4047007",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:04:13"
-    },
-    {
-      "title": "Northland, Everpure hissesi için hedef fiyatı 128 dolara yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/northland-everpure-hissesi-icin-hedef-fiyat-128-dolara-yukseltti-93CH-4047005",
-      "source": "Investing Türkiye",
-      "published": "2026-08-27T17:00:07"
-    },
-    {
-      "title": "Okta's stock skyrockets 20%, CrowdStrike's surges 15% as rising AI threat boosts earnings",
-      "summary": "AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta",
-      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+      "summary": "Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking network, Treasury said.",
+      "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
       "source": "CNBC World Markets",
-      "published": "2026-08-27T16:49:13"
+      "published": "2026-08-28T18:13:13"
+    },
+    {
+      "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+      "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
+      "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-28T18:11:45"
+    },
+    {
+      "title": "Zeytinburnu'nda iki tramvay çarpıştı: Yaralılar var",
+      "summary": "Zeytinburnu&#039;nda T1 Kabataş-Bağcılar Tramvay Hattı&#039;nın Pazartekke ile Topkapı durakları arasında iki tramvay çarpıştı. Kazada 9 kişi yaralandı.",
+      "url": "https://www.dunya.com/gundem/zeytinburnunda-iki-tramvay-carpisti-yaralilar-var-haberi-837979",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-28T18:11:00"
+    },
+    {
+      "title": "YÖK'ten Vakıf Üniversitelerine sıkı denetim: Ücret artışına yüzde 25 sınırı",
+      "summary": "Yükseköğretim Kurulu (YÖK), vakıf üniversitelerinde öğrenim ücretlerine ilişkin denetimleri sıkılaştırdı. 2026-2027 akademik yılında ara sınıflardaki ücret artışı yüzde 25&#039;i geçemeyecek, tek dersi kalan öğrenciden tam dönem ücreti alınamayacak ve 9 aya kadar taksitli ödemelerde vade farkı uygulanamayacak.",
+      "url": "https://www.dunya.com/egitim/yokten-vakif-universitelerine-siki-denetim-ucret-artisina-yuzde-25-siniri-haberi-837978",
+      "source": "Dünya Gazetesi",
+      "published": "2026-08-28T17:50:00"
+    },
+    {
+      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+      "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+      "source": "CNBC World Markets",
+      "published": "2026-08-28T17:44:02"
     }
   ]
 }
