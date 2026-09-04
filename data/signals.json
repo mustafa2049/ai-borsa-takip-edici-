@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:28:55+03:00",
+  "updated_at": "2026-09-04T21:32:00+03:00",
   "signals": [
     {
       "symbol": "THYAO",
@@ -40,7 +40,7 @@
       "bollinger_lower": 360.51,
       "high_52w": 434.0,
       "low_52w": 172.1,
-      "pe_ratio": 49.27,
+      "pe_ratio": 49.33,
       "pb_ratio": 5.77,
       "roe": 15.0,
       "profit_margin": 18.1,
@@ -201,7 +201,7 @@
       "bollinger_lower": 199.8,
       "high_52w": 224.0,
       "low_52w": 152.7,
-      "pe_ratio": 23.48,
+      "pe_ratio": 23.51,
       "pb_ratio": 0.69,
       "roe": 6.1,
       "profit_margin": 1.9,
@@ -247,7 +247,7 @@
       "bollinger_lower": 37.89,
       "high_52w": 52.35,
       "low_52w": 32.88,
-      "pe_ratio": 10.59,
+      "pe_ratio": 10.56,
       "pb_ratio": 0.29,
       "roe": 3.5,
       "profit_margin": 4.7,
