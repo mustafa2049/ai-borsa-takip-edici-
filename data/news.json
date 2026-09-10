@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-09T19:48:14+03:00",
+  "updated_at": "2026-09-10T14:58:31+03:00",
   "news": [
     {
-      "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-      "summary": "The Rams spent five years building their brand in Australia. This week, Los Angeles will face San Francisco in the NFL’s first regular-season game Down Under.",
-      "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
+      "summary": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
+      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-09T16:47:24"
+      "published": "2026-09-10T11:54:12"
     },
     {
-      "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
-      "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+      "title": "Axogen hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/axogen-hisseleri-neden-dusuyor-93CH-4061460",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:50:27"
+    },
+    {
+      "title": "TTM Technologies 500 milyon dolarlık kıdemli tahvil ihracı planlıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ttm-technologies-500-milyon-dolarlk-kdemli-tahvil-ihrac-planlyor-93CH-4061458",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:49:33"
+    },
+    {
+      "title": "Galaxy Digital CLO’su 134.960 dolar değerinde hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/galaxy-digital-closu-134960-dolar-degerinde-hisse-satt-93CH-4061452",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:47:02"
+    },
+    {
+      "title": "Reddit hisseleri Piper verilerinde %8 kullanıcı artışıyla yükseldi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/reddit-hisseleri-piper-verilerinde-8-kullanc-artsyla-yukseldi-93CH-4061451",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:46:46"
+    },
+    {
+      "title": "Pyxis Oncology hisse hedef fiyatı 8 dolara yükseltildi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/pyxis-oncology-hisse-hedef-fiyat-8-dolara-yukseltildi-93CH-4061450",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:46:15"
+    },
+    {
+      "title": "Canaccord, 908 Devices hissesi için alım tavsiyesi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/canaccord-908-devices-hissesi-icin-alm-tavsiyesi-verdi-93CH-4061449",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:46:10"
+    },
+    {
+      "title": "MS ilacında ilerleme sonrası H.C. Wainwright Immunic hissesi için görüşünü korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/ms-ilacnda-ilerleme-sonras-hc-wainwright-immunic-hissesi-icin-gorusunu-korudu-93CH-4061448",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:46:04"
+    },
+    {
+      "title": "Ayasofya'da yeni dönem: 1500 yıllık yapı için kritik çalışma başlıyor",
+      "summary": "Ayasofya-i Kebir Cami-i Şerifi&#039;nde yürütülen kapsamlı restorasyon çalışmalarında yeni aşamaya geçiliyor. Ana kubbedeki çalışmalar sürerken, güçlendirme ihtiyacı tespit edilen doğu yarım kubbede de yapısal güçlendirme ve konservasyon uygulamaları başlayacak.",
+      "url": "https://www.dunya.com/foto-galeri/kultur-sanat/ayasofyada-yeni-donem-1500-yillik-yapi-icin-kritik-calisma-basliyor-galeri-839504",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-10T11:46:00"
+    },
+    {
+      "title": "H.C. Wainwright, deneme gecikmesi nedeniyle Ocugen hisse hedefini 9,50 dolara düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-deneme-gecikmesi-nedeniyle-ocugen-hisse-hedefini-950-dolara-dusurdu-93CH-4061447",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:45:59"
+    },
+    {
+      "title": "Northland, Fervo Energy hissesi için alım tavsiyesi verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/northland-fervo-energy-hissesi-icin-alm-tavsiyesi-verdi-93CH-4061445",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:45:57"
+    },
+    {
+      "title": "H.C. Wainwright, Atlas Lithium hissesi için hedef fiyatı düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-atlas-lithium-hissesi-icin-hedef-fiyat-dusurdu-93CH-4061446",
+      "source": "Investing Türkiye",
+      "published": "2026-09-10T11:45:57"
+    },
+    {
+      "title": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
+      "summary": "Goodell spoke with CNBC Sport ahead of the league's first-ever, regular-season game in Australia this week.",
+      "url": "https://www.cnbc.com/2026/09/10/nfl-commissioner-roger-goodell-international-future.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-09T16:46:38"
+      "published": "2026-09-10T11:39:21"
     },
     {
-      "title": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
-      "summary": "Oil prices extended gains on Wednesday as escalating tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies.",
-      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "title": "Treasury yields move higher as investors await key wholesale inflation data",
+      "summary": "Treasury yields moved higher on Thursday as traders await the release of U.S. wholesale inflation data.",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-09T16:40:53"
+      "published": "2026-09-10T11:37:34"
     },
     {
-      "title": "Yunan müziğinin efsane ismi Giorgos Mazonakis hayatını kaybetti",
-      "summary": "Yunan pop ve laiko müziğinin dünyaca ünlü ismi Giorgos Mazonakis, Atina’da geçirdiği kalp krizi sonucu 54 yaşında hayatını kaybetti.",
-      "url": "https://www.dunya.com/dunya/yunan-muziginin-efsane-ismi-giorgos-mazonakis-hayatini-kaybetti-haberi-839397",
+      "title": "IEA tahminini değiştirdi: Düşüş beklentisi yerini rekora bıraktı",
+      "summary": "Hürmüz Boğazı&#039;ndaki LNG sevkiyatlarının azalması ve doğalgaz fiyatlarının yükselmesi, elektrik üretiminde kömüre yönelimi artırdı. Uluslararası Enerji Ajansı (IEA), daha önce düşüş beklediği küresel kömür talebinin bu yıl yüzde 1,2 artarak 8,94 milyar tonla rekor kıracağını öngördü.",
+      "url": "https://www.dunya.com/finans/emtia/iea-tahminini-degistirdi-dusus-beklentisi-yerini-rekora-birakti-haberi-839503",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-09T16:39:00"
+      "published": "2026-09-10T11:31:00"
     },
     {
-      "title": "Fate Therapeutics otoimmün CAR-T programını ilerletiyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/fate-therapeutics-otoimmun-cart-programn-ilerletiyor-93CH-4060044",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:30:17"
-    },
-    {
-      "title": "Lumen Citi’nin 2026 TMT Konferansı’nda: Yapay zeka ağına geçiş",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/lumen-citinin-2026-tmt-konferansnda-yapay-zeka-agna-gecis-93CH-4060042",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:30:05"
-    },
-    {
-      "title": "Sun Communities hissesi 115,9 dolarda 52 haftanın dibini gördü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/sun-communities-hissesi-1159-dolarda-52-haftann-dibini-gordu-93CH-4060041",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:28:30"
-    },
-    {
-      "title": "Nexstar Bank of America konferansında: Ölçek ve borç geri ödemesi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/nexstar-bank-of-america-konferansnda-olcek-ve-borc-geri-odemesi-93CH-4060040",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:28:09"
-    },
-    {
-      "title": "VF Corporation hissesi 12,93 dolarda 52 haftanın dibini gördü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/vf-corporation-hissesi-1293-dolarda-52-haftann-dibini-gordu-93CH-4060039",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:25:55"
-    },
-    {
-      "title": "Türkiye ve 7 ülkeden İngiltere'nin İsrail kararına destek",
-      "summary": "Türkiye, Birleşik Arap Emirlikleri (BAE), Endonezya, Katar, Mısır, Pakistan, Suudi Arabistan ve Ürdün dışişleri bakanları, İngiltere&#039;nin, işgal altındaki Filistin topraklarındaki yasa dışı İsrail yerleşimlerinden mal ithalatını yasaklama ve bu yerleşimlerle bağlantılı hizmetlere kısıtlamalar getirme kararını memnuniyetle karşıladı.",
-      "url": "https://www.dunya.com/dunya/turkiye-ve-7-ulkeden-ingilterenin-israil-kararina-destek-haberi-839392",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-09T16:25:00"
-    },
-    {
-      "title": "Comcast geniş bant kayıpları ve fiber fiyatlaması nedeniyle %7 düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/comcast-genis-bant-kayplar-ve-fiber-fiyatlamas-nedeniyle-7-dustu-4060038",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:23:26"
-    },
-    {
-      "title": "TD Bank Scotiabank zirvesinde: Kâr artışı, yapay zekâ atılımı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/td-bank-scotiabank-zirvesinde-kar-arts-yapay-zeka-atlm-93CH-4060035",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:22:25"
-    },
-    {
-      "title": "Maze Therapeutics Wells Fargo konferansında: boru hattı hız kazanıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/maze-therapeutics-wells-fargo-konferansnda-boru-hatt-hz-kazanyor-93CH-4060036",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:22:25"
-    },
-    {
-      "title": "Whitecap Resources hisseleri neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/whitecap-resources-hisseleri-neden-yukseliyor-93CH-4060034",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:21:40"
-    },
-    {
-      "title": "Silence Therapeutics Cantor konferansında: divesiran ilerliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/silence-therapeutics-cantor-konferansnda-divesiran-ilerliyor-93CH-4060033",
-      "source": "Investing Türkiye",
-      "published": "2026-09-09T16:20:50"
-    },
-    {
-      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "summary": "Macy's posted strong second fiscal quarter results on Thursday and raised its full-year guidance.",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-09T16:17:46"
+      "published": "2026-09-10T11:29:46"
     },
     {
-      "title": "İsrail hapishanesinde vahşet: İşkence kutlamaları ortaya çıktı",
-      "summary": "İsrail’deki Ketziot Cezaevi&#039;nde görevli gardiyanların, Filistinli bir mahkumu darbederek öldürdükleri geceye ve cezaevinde rutin hale gelen ağır işkencelere ilişkin birbirlerine attıkları kutlama mesajları gün yüzüne çıktı.",
-      "url": "https://www.dunya.com/dunya/israil-hapishanesinde-vahset-iskence-kutlamalari-ortaya-cikti-haberi-839391",
+      "title": "TOKİ'nin kiralık konutlarında fiyatlar belli oldu: Piyasanın çok altında",
+      "summary": "İstanbul&#039;da ilk kez hayata geçirilecek &quot;TOKİ kiralık sosyal konut&quot; projesinde en çok merak edilen &quot;TOKİ kira fiyatları&quot; belli oldu. Toplam 15 bin konutun kiraya verileceği projede 1+1&#039;den 4+1&#039;e kadar farklı büyüklükteki evler için piyasanın altında bedeller belirlenirken, ortalama kiralar ile TOKİ&#039;nin kiralık konut fiyatları arasında 30 bin liralık uçurum ol",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/tokinin-kiralik-konutlarinda-fiyatlar-belli-oldu-piyasanin-cok-altinda-galeri-839502",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-09T16:12:00"
+      "published": "2026-09-10T11:29:00"
     },
     {
-      "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-      "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-09T16:03:30"
-    },
-    {
-      "title": "DTÖ: Küresel mal ticareti güçlenmeye devam ediyor",
-      "summary": "Dünya Ticaret Örgütü (DTÖ), küresel mal ticaretinin süregelen jeopolitik ve politik belirsizliklere rağmen 2026 yılının ortalarında da güçlenmeye devam ettiğini bildirdi.",
-      "url": "https://www.dunya.com/ekonomi/dto-kuresel-mal-ticareti-guclenmeye-devam-ediyor-haberi-839390",
+      "title": "Volkswagen küçülmenin faturasını çıkardı: 16 milyar euro",
+      "summary": "Volkswagen’ın tarihindeki en büyük yeniden yapılanmanın maliyeti netleşmeye başladı. İşten çıkarmalar ve dört Alman fabrikasının geleceğine ilişkin planların şirkete yaklaşık 16 milyar euroya mal olabileceği hesaplanıyor.",
+      "url": "https://www.dunya.com/sektorler/otomotiv/volkswagen-kuculmenin-faturasini-cikardi-16-milyar-euro-haberi-839501",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-09T16:03:00"
+      "published": "2026-09-10T11:24:00"
     },
     {
-      "title": "Bakan Fidan Fransız mevkidaşı ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Fransa Dışişleri Bakanı Jean-Noel Barrot ile telefon görüşmesi yaptı.",
-      "url": "https://www.dunya.com/gundem/bakan-fidan-fransiz-mevkidasi-ile-gorustu-haberi-839389",
+      "title": "İstanbul'un hava kirliliği haritası çıkarıldı: İşte en kirli ve en temiz ilçeler",
+      "summary": "İstanbul Teknik Üniversitesi (İTÜ) bünyesinde yapılan çalışmaya göre, İstanbul&#039;da partikül madde kaynaklı hava kirliliği ağustos ayında geçen yılın aynı dönemine göre yüzde 11 arttı. Kentte ölçüm yapılan 26 istasyon arasında en yüksek değer Sultangazi&#039;de kaydedildi.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/istanbulun-hava-kirliligi-haritasi-cikarildi-iste-en-kirli-ve-en-temiz-ilceler-galeri-839500",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-09T16:00:00"
+      "published": "2026-09-10T11:14:00"
+    },
+    {
+      "title": "Faiz kararı sonrası ekonomistlerden kritik değerlendirme",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın (TCMB) politika faizi kararının açıklanmasının ardından ekonomistlerden ilk değerlendirmeler geldi. Ekonomistler, karar metnindeki mesajları ve olası faiz indiriminin zamanlamasına ilişkin açıklamalarda bulundu.",
+      "url": "https://www.dunya.com/ekonomi/faiz-karari-sonrasi-ekonomistlerden-kritik-degerlendirme-haberi-839499",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-10T11:10:00"
     }
   ]
 }
