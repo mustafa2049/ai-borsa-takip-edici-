@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:30:50+03:00",
+  "updated_at": "2026-09-14T21:57:42+03:00",
   "funds": [
     {
       "code": "HKH",
@@ -36,6 +36,15 @@
       "return_3m": 5.27,
       "return_6m": 6.37,
       "return_1y": 30.17
+    },
+    {
+      "code": "TI2",
+      "name": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 0.129844,
+      "return_1m": 3.97,
+      "return_3m": 1.29,
+      "return_6m": 4.06,
+      "return_1y": 27.57
     },
     {
       "code": "GAF",
@@ -117,6 +126,15 @@
       "return_3m": 4.1,
       "return_6m": 44.65,
       "return_1y": 69.94
+    },
+    {
+      "code": "MAC",
+      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
+      "price": 0.753345,
+      "return_1m": -0.69,
+      "return_3m": -8.02,
+      "return_6m": 2.99,
+      "return_1y": 21.3
     },
     {
       "code": "IPJ",
