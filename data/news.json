@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-15T15:22:14+03:00",
+  "updated_at": "2026-09-15T20:10:33+03:00",
   "news": [
     {
-      "title": "25. Dönem PMYO mülakat, sözlü sınav sonuçları açıklandı mı, ne zaman açıklanacak?",
-      "summary": "2026 Yılı 25. Dönem PMYO mülakatları son buldu. Adayların gündeminde sonuçlar yer alırken bu hafta sıkça gelen soru &quot;25. Dönem PMYO mülakat, sözlü sınav sonuçları açıklandı mı, ne zaman açıklanacak&quot; oluyor. İşte detaylar...",
-      "url": "https://www.dunya.com/gundem/25-donem-pmyo-mulakat-sozlu-sinav-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-haberi-840121",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-15T12:19:00"
-    },
-    {
-      "title": "U.S. confirms for first time it has weapons deployed in space",
-      "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
-      "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
+      "summary": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T12:15:22"
+      "published": "2026-09-15T17:03:32"
     },
     {
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-      "summary": "The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.",
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "summary": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-15T17:01:13"
+    },
+    {
+      "title": "Judge blocks Kennedy Center board returning Trump's name to building",
+      "summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-15T16:59:40"
+    },
+    {
+      "title": "Avrupa borsaları düşüşle kapandı",
+      "summary": "Avrupa borsaları, küresel piyasalardaki jeopolitik riskler, enerji maliyetleri ve merkez bankalarının para politikalarına yönelik endişelerin etkisiyle günü düşüşle tamamladı.",
+      "url": "https://www.dunya.com/finans/haberler/avrupa-borsalari-dususle-kapandi-haberi-840166",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-15T16:55:00"
+    },
+    {
+      "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
+      "summary": "Rising yields across the bond market have spooked investors, but the surge from zero interest rates since Covid suggests fixed-income risk-reward has improved.",
+      "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-15T16:53:56"
+    },
+    {
+      "title": "Groupe ADP Ağustos trafiği Paris’teki düşüşe rağmen arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/groupe-adp-agustos-trafigi-paristeki-dususe-ragmen-artt-4067045",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:51:15"
+    },
+    {
+      "title": "Ziff Davis hissesi 58,15 dolarla 52 haftalık zirveye ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ziff-davis-hissesi-5815-dolarla-52-haftalk-zirveye-ulast-93CH-4067043",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:48:12"
+    },
+    {
+      "title": "Phillips 66 hissesi 265,47 dolarla rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/phillips-66-hissesi-26547-dolarla-rekor-krd-93CH-4067041",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:41:55"
+    },
+    {
+      "title": "Octopus Investments, Cerillion’daki payını %7,05’e yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/octopus-investments-cerilliondaki-payn-705e-yukseltti-93CH-4067040",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:41:17"
+    },
+    {
+      "title": "Guardant Health hissesi 176,68 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/guardant-health-hissesi-17668-dolarda-52-haftalk-zirve-yapt-93CH-4067039",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:41:12"
+    },
+    {
+      "title": "Ecopetrol yönetim kurulu üyesi Vélez Galeano istifa etti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ecopetrol-yonetim-kurulu-uyesi-velez-galeano-istifa-etti-93CH-4067038",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:41:06"
+    },
+    {
+      "title": "Marathon Petroleum hissesi 409,63 dolarda rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/marathon-petroleum-hissesi-40963-dolarda-rekor-krd-93CH-4067037",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:40:33"
+    },
+    {
+      "title": "Albion Enterprise VCT genel kurulda tüm kararları onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/albion-enterprise-vct-genel-kurulda-tum-kararlar-onaylad-93CH-4067036",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:37:09"
+    },
+    {
+      "title": "Nijerya’da enflasyon %15,39’a geriledi, faiz indirimi ihtimali arttı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/world-news/nijeryada-enflasyon-1539a-geriledi-faiz-indirimi-ihtimali-artt-93CH-4067034",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:34:19"
+    },
+    {
+      "title": "Peru ekonomisi inşaat ve ticaretteki kazançlarla Temmuz’da %3,56 büyüdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/world-news/peru-ekonomisi-insaat-ve-ticaretteki-kazanclarla-temmuzda-356-buyudu-93CH-4067033",
+      "source": "Investing Türkiye",
+      "published": "2026-09-15T16:34:05"
+    },
+    {
+      "title": "Kolombiya, Türk iş insanı Çankaya'nın kullandığı uçağın enkazına ulaştı",
+      "summary": "Kolombiya&#039;da arama kurtarma ekipleri, kaybolduktan yaklaşık bir gün sonra yeri tespit edilen Türk iş insanı Mehmet Çankaya&#039;nın kullandığı uçağın enkazına zorlu arazi koşullarının hakim olduğu bölgede üç gün sonra karadan ulaştı.",
+      "url": "https://www.dunya.com/dunya/kolombiya-turk-is-insani-cankayanin-kullandigi-ucagin-enkazina-ulasti-haberi-840165",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-15T16:34:00"
+    },
+    {
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+      "summary": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
       "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T12:07:29"
+      "published": "2026-09-15T16:29:43"
     },
     {
-      "title": "Ooma, Starlink kullanıcıları için ev telefonu hizmetini başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ooma-starlink-kullanclar-icin-ev-telefonu-hizmetini-baslatt-93CH-4066422",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:49"
-    },
-    {
-      "title": "Salesforce ve Siemens yapay zeka entegrasyonunda ortaklık kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/salesforce-ve-siemens-yapay-zeka-entegrasyonunda-ortaklk-kurdu-93CH-4066420",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:48"
-    },
-    {
-      "title": "Hermeus, Pratt & Whitney F100 savaş motoru üretecek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/hermeus-pratt--whitney-f100-savas-motoru-uretecek-93CH-4066418",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:36"
-    },
-    {
-      "title": "Honeywell ABD Deniz Piyadeleri için erişim kontrol sistemi kurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/honeywell-abd-deniz-piyadeleri-icin-erisim-kontrol-sistemi-kurdu-93CH-4066419",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:36"
-    },
-    {
-      "title": "RB Global hisse geri alım programını 1 milyar dolara çıkardı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/rb-global-hisse-geri-alm-programn-1-milyar-dolara-ckard-93CH-4066416",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:34"
-    },
-    {
-      "title": "EQ Inc., Pattison Media ile veri platformu anlaşması imzaladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/eq-inc-pattison-media-ile-veri-platformu-anlasmas-imzalad-93CH-4066415",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:29"
-    },
-    {
-      "title": "LB Pharmaceuticals, Susan Kozauer’i tıbbi direktör olarak atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lb-pharmaceuticals-susan-kozaueri-tbbi-direktor-olarak-atad-93CH-4066413",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:26"
-    },
-    {
-      "title": "Amerant Bancorp 50 milyon dolarlık kıdemli tahvil ihracı yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/amerant-bancorp-50-milyon-dolarlk-kdemli-tahvil-ihrac-yapt-93CH-4066414",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:26"
-    },
-    {
-      "title": "SU Group, KM Safety Solution’ı 721.000 dolara satın alacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/su-group-km-safety-solution-721000-dolara-satn-alacak-93CH-4066412",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:25"
-    },
-    {
-      "title": "USA TODAY Co. Babbel CEO’sunu yönetim kuruluna atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/usa-today-co-babbel-ceosunu-yonetim-kuruluna-atad-93CH-4066411",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T12:05:23"
-    },
-    {
-      "title": "Havalimanlarında yeni dönem: Artık cep telefonlarında olacak",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Uçuş Rehberim uygulamasıyla 52 havalimanında interaktif harita ve rota hizmeti sunulduğunu açıkladı. Uygulama kullanıcıları, DHMİ tarafından işletilen havalimanlarında aylık 2 GB ücretsiz Wi-Fi imkanından da yararlanabilecek.",
-      "url": "https://www.dunya.com/gundem/havalimanlarinda-yeni-donem-artik-cep-telefonlarinda-olacak-haberi-840119",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-15T11:59:00"
-    },
-    {
-      "title": "Bitcoin'de yön değişti! Gözler gelecek iki kararda",
-      "summary": "Bitcoin&#039;de pazartesi günkü yükseliş kısa sürdü. fiyat salı sabahı yeniden 78 bin doların altına indi. XRP ve Solana da gerilerken yatırımcılar, ABD&#039;de kripto piyasasının denetimini netleştirecek Clarity Yasası için yapılacak oylamaya ve Fed&#039;in faiz kararına odaklandı.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-yon-degisti-gozler-gelecek-iki-kararda-galeri-840120",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-15T11:55:00"
-    },
-    {
-      "title": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
-      "summary": "Iranian Foreign Minister Abbas Araghchi will visit China on Wednesday for talks, Beijing's foreign ministry announced on Tuesday.",
-      "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "title": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
+      "summary": "Treasury Secretary Scott Bessent is facing questions on rising energy prices, government debt and the Trump team's economic agenda.",
+      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T11:53:36"
+      "published": "2026-09-15T16:23:45"
     },
     {
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-      "summary": "While higher oil is cited as a main reason for the change in view, roughly three quarters of respondents see the inflation problem as broader than just energy prices.",
-      "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+      "summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
+      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T11:52:33"
+      "published": "2026-09-15T16:14:29"
     },
     {
-      "title": "Kahvede hava tersine döndü: Arabica 10 haftanın dibini gördü",
-      "summary": "Arabica kahve fiyatları, Brezilya&#039;da yağışların üretim beklentisini güçlendirmesi ve borsa depolarına yeni ürün girişinin yaklaşmasıyla 10 haftanın en düşük seviyesine geriledi. Piyasada şimdi 300 bin çuvalı aşabilecek stok hareketi izleniyor.",
-      "url": "https://www.dunya.com/ekonomi/kahvede-hava-tersine-dondu-arabica-10-haftanin-dibini-gordu-haberi-840118",
+      "title": "Lavrov’dan Avrupa’ya sert mesaj: Bize saldırırlarsa savaş çok kısa sürer",
+      "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa ülkelerinin Rusya&#039;ya saldırması halinde yaşanacak savaşın öncekilerden farklı olacağını ve çok kısa süreceğini söyledi. Lavrov, Moskova&#039;nın Avrupa ülkelerine saldırma niyetinin bulunmadığını vurgularken, Ukrayna konusunda müzakerelere hazır olduklarını yineledi.",
+      "url": "https://www.dunya.com/dunya/lavrovdan-avrupaya-sert-mesaj-bize-saldirirlarsa-savas-cok-kisa-surer-haberi-840157",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-15T11:48:00"
-    },
-    {
-      "title": "Almanya Başbakanı Merz: Savunmaya çılgın miktarda para harcıyoruz",
-      "summary": "Almanya Başbakanı Friedrich Merz, Avrupa&#039;ya yönelik güvenlik tehditlerinin uzun süre devam edeceğini belirterek, ülkesinin yüksek savunma harcamalarını sürdürmek zorunda olduğunu söyledi. Merz, özellikle deniz altı altyapısının ciddi tehdit altında olduğu uyarısında bulundu.",
-      "url": "https://www.dunya.com/dunya/almanya-basbakani-merz-savunmaya-cilgin-miktarda-para-harciyoruz-haberi-840117",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-15T11:43:00"
-    },
-    {
-      "title": "TUS sonuçları erken açıklanır mı, ne zaman açıklanacak?",
-      "summary": "TUS sonuçları yakın zamanda açıklanacak. ÖSYM&#039;nin vermiş olduğu tarih yaklaşırken sık sık gelen soru ise &quot;TUS sonuçları erken açıklanır mı, ne zaman açıklanacak&quot; oluyor.",
-      "url": "https://www.dunya.com/gundem/tus-sonuclari-erken-aciklanir-mi-ne-zaman-aciklanacak-haberi-840115",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-15T11:37:00"
+      "published": "2026-09-15T16:08:00"
     }
   ]
 }
