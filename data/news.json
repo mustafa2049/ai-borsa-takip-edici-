@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-15T20:10:33+03:00",
+  "updated_at": "2026-09-16T15:19:47+03:00",
   "news": [
     {
-      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
-      "summary": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
-      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
+      "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+      "summary": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
+      "url": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T17:03:32"
+      "published": "2026-09-16T12:14:21"
     },
     {
-      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "summary": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology.",
-      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+      "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T17:01:13"
+      "published": "2026-09-16T12:06:30"
     },
     {
-      "title": "Judge blocks Kennedy Center board returning Trump's name to building",
-      "summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name",
-      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T16:59:40"
+      "published": "2026-09-16T12:02:18"
     },
     {
-      "title": "Avrupa borsaları düşüşle kapandı",
-      "summary": "Avrupa borsaları, küresel piyasalardaki jeopolitik riskler, enerji maliyetleri ve merkez bankalarının para politikalarına yönelik endişelerin etkisiyle günü düşüşle tamamladı.",
-      "url": "https://www.dunya.com/finans/haberler/avrupa-borsalari-dususle-kapandi-haberi-840166",
+      "title": "Takasbank’tan TEFAS açıklaması: Talimat iptali söz konusu değil",
+      "summary": "Takasbank, TEFAS’ta fon alım satım talimatlarının sistem tarafından iptal edildiğine yönelik sosyal medyada yer alan iddialara ilişkin açıklama yaptı. Banka, Takasbank veya TEFAS sistemi kaynaklı herhangi bir talimat iptalinin söz konusu olmadığını bildirdi.",
+      "url": "https://www.dunya.com/ekonomi/takasbanktan-tefas-aciklamasi-talimat-iptali-soz-konusu-degil-haberi-840274",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-15T16:55:00"
+      "published": "2026-09-16T11:58:00"
     },
     {
-      "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
-      "summary": "Rising yields across the bond market have spooked investors, but the surge from zero interest rates since Covid suggests fixed-income risk-reward has improved.",
-      "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-15T16:53:56"
-    },
-    {
-      "title": "Groupe ADP Ağustos trafiği Paris’teki düşüşe rağmen arttı",
+      "title": "Huntington Bancshares hisseleri düşük rehberlik ile geriledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/groupe-adp-agustos-trafigi-paristeki-dususe-ragmen-artt-4067045",
+      "url": "https://tr.investing.com/news/stock-market-news/huntington-bancshares-hisseleri-dusuk-rehberlik-ile-geriledi-93CH-4068122",
       "source": "Investing Türkiye",
-      "published": "2026-09-15T16:51:15"
+      "published": "2026-09-16T11:55:09"
     },
     {
-      "title": "Ziff Davis hissesi 58,15 dolarla 52 haftalık zirveye ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ziff-davis-hissesi-5815-dolarla-52-haftalk-zirveye-ulast-93CH-4067043",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:48:12"
-    },
-    {
-      "title": "Phillips 66 hissesi 265,47 dolarla rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/phillips-66-hissesi-26547-dolarla-rekor-krd-93CH-4067041",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:41:55"
-    },
-    {
-      "title": "Octopus Investments, Cerillion’daki payını %7,05’e yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/octopus-investments-cerilliondaki-payn-705e-yukseltti-93CH-4067040",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:41:17"
-    },
-    {
-      "title": "Guardant Health hissesi 176,68 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/guardant-health-hissesi-17668-dolarda-52-haftalk-zirve-yapt-93CH-4067039",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:41:12"
-    },
-    {
-      "title": "Ecopetrol yönetim kurulu üyesi Vélez Galeano istifa etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ecopetrol-yonetim-kurulu-uyesi-velez-galeano-istifa-etti-93CH-4067038",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:41:06"
-    },
-    {
-      "title": "Marathon Petroleum hissesi 409,63 dolarda rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/marathon-petroleum-hissesi-40963-dolarda-rekor-krd-93CH-4067037",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:40:33"
-    },
-    {
-      "title": "Albion Enterprise VCT genel kurulda tüm kararları onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/albion-enterprise-vct-genel-kurulda-tum-kararlar-onaylad-93CH-4067036",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:37:09"
-    },
-    {
-      "title": "Nijerya’da enflasyon %15,39’a geriledi, faiz indirimi ihtimali arttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/world-news/nijeryada-enflasyon-1539a-geriledi-faiz-indirimi-ihtimali-artt-93CH-4067034",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:34:19"
-    },
-    {
-      "title": "Peru ekonomisi inşaat ve ticaretteki kazançlarla Temmuz’da %3,56 büyüdü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/world-news/peru-ekonomisi-insaat-ve-ticaretteki-kazanclarla-temmuzda-356-buyudu-93CH-4067033",
-      "source": "Investing Türkiye",
-      "published": "2026-09-15T16:34:05"
-    },
-    {
-      "title": "Kolombiya, Türk iş insanı Çankaya'nın kullandığı uçağın enkazına ulaştı",
-      "summary": "Kolombiya&#039;da arama kurtarma ekipleri, kaybolduktan yaklaşık bir gün sonra yeri tespit edilen Türk iş insanı Mehmet Çankaya&#039;nın kullandığı uçağın enkazına zorlu arazi koşullarının hakim olduğu bölgede üç gün sonra karadan ulaştı.",
-      "url": "https://www.dunya.com/dunya/kolombiya-turk-is-insani-cankayanin-kullandigi-ucagin-enkazina-ulasti-haberi-840165",
+      "title": "Fenerbahçe Şampiyonlar ligi maçı ne zaman? Aston Villa Fenerbahçe maçı hangi tarihte, saat kaçta, hangi kanalda?",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi&#039;nin 2. haftasında Astan Villa&#039;nın konuğu olacak. İlk maçta Roma ile berabere kalan Sarı Kanarya İngiliz ekibinden deplasmanda puan ya da puanlar koparmak istiyor. Peki, Aston Villa Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+      "url": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-aston-villa-fenerbahce-maci-hangi-tarihte-saat-kacta-hangi-kanalda-haberi-840273",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-15T16:34:00"
+      "published": "2026-09-16T11:54:00"
     },
     {
-      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-      "summary": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
-      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "title": "Big Digital Energy CEO’su Phil Stanley’in PM Squared’i 13.140 dolar hisselik alım yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/big-digital-energy-ceosu-phil-stanleyin-pm-squaredi-13140-dolar-hisselik-alm-yapt-93CH-4068121",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:47:14"
+    },
+    {
+      "title": "Mortgage demand from homebuyers drops 19% from a year ago, as interest rates surge abruptly higher",
+      "summary": "Mortgage rates have surged to the highest level since the start of 2025, causing a major pullback in mortgage demand.",
+      "url": "https://www.cnbc.com/2026/09/16/mortgage-demand-from-homebuyers-drops-19percent-from-a-year-ago.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-15T16:29:43"
+      "published": "2026-09-16T11:47:11"
     },
     {
-      "title": "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-      "summary": "Treasury Secretary Scott Bessent is facing questions on rising energy prices, government debt and the Trump team's economic agenda.",
-      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-15T16:23:45"
+      "title": "McLaren İngiltere’ye 500 milyon sterlin yatırım yapacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/mclaren-ingiltereye-500-milyon-sterlin-yatrm-yapacak-93CH-4068119",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:47:06"
     },
     {
-      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-      "summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
-      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-15T16:14:29"
+      "title": "XPO CFO’su Kyle Wismans 133.890 dolar değerinde hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/xpo-cfosu-kyle-wismans-133890-dolar-degerinde-hisse-satt-93CH-4068111",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:59"
     },
     {
-      "title": "Lavrov’dan Avrupa’ya sert mesaj: Bize saldırırlarsa savaş çok kısa sürer",
-      "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa ülkelerinin Rusya&#039;ya saldırması halinde yaşanacak savaşın öncekilerden farklı olacağını ve çok kısa süreceğini söyledi. Lavrov, Moskova&#039;nın Avrupa ülkelerine saldırma niyetinin bulunmadığını vurgularken, Ukrayna konusunda müzakerelere hazır olduklarını yineledi.",
-      "url": "https://www.dunya.com/dunya/lavrovdan-avrupaya-sert-mesaj-bize-saldirirlarsa-savas-cok-kisa-surer-haberi-840157",
+      "title": "HRT Financial, Generation Income Properties hisselerini sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/hrt-financial-generation-income-properties-hisselerini-satt-93CH-4068110",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:57"
+    },
+    {
+      "title": "RGC Resources yöneticisi Robert Johnston 8.845 dolar değerinde hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/rgc-resources-yoneticisi-robert-johnston-8845-dolar-degerinde-hisse-ald-93CH-4068108",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:46"
+    },
+    {
+      "title": "Guggenheim, reklam büyümesi görünümüyle Reddit hissesi notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/guggenheim-reklam-buyumesi-gorunumuyle-reddit-hissesi-notunu-korudu-93CH-4068107",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:10"
+    },
+    {
+      "title": "H.C. Wainwright, Novo anlaşması sona erdi, Ascendis hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-novo-anlasmas-sona-erdi-ascendis-hissesi-icin-tavsiyesini-korudu-93CH-4068106",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:03"
+    },
+    {
+      "title": "Cogent hissesi için 55 dolar hedef fiyat FDA başvurusu sonrası korundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/cogent-hissesi-icin-55-dolar-hedef-fiyat-fda-basvurusu-sonras-korundu-93CH-4068105",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:46:01"
+    },
+    {
+      "title": "Telix Pharmaceuticals hisse hedefi H.C. Wainwright tarafından 20 dolar olarak korundu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/telix-pharmaceuticals-hisse-hedefi-hc-wainwright-tarafndan-20-dolar-olarak-korundu-93CH-4068103",
+      "source": "Investing Türkiye",
+      "published": "2026-09-16T11:45:57"
+    },
+    {
+      "title": "6 ay yerin altında bekliyor, rengi değişince kilosu 1700 liraya çıkıyor",
+      "summary": "Karaman&#039;da köylülerin 36 metre derinlikte 6 ay beklettikleri peynir, dünyada başka örneği olmayan bir bakteri türü sayesinde Türkiye&#039;deki en pahalı peynir çeşitlerinden biri oldu. Mağaraya beyaz giren peynir kırmızı renkte çıkarken, Türkiye&#039;nin &#039;rokfor&#039;unun kilosu ise 1700 liradan satılıyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/6-ay-yerin-altinda-bekliyor-rengi-degisince-kilosu-1700-liraya-cikiyor-galeri-840275",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-15T16:08:00"
+      "published": "2026-09-16T11:44:00"
+    },
+    {
+      "title": "Bakan Yumaklı: Almanya ile tarım ticaretinde hedef 5 milyar dolar",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye ile Almanya arasında tarım alanındaki ticaret hacminin yakın gelecekte 5 milyar dolar seviyesine ulaşmasını mümkün gördüklerini belirterek, &quot;Bunun için karşılıklı ticaretimizin önündeki teknik meseleleri çözmeye, firmalarımızın yeni iş bağlantıları kurmasını desteklemeye ve yatırım imkanlarını geliştirmeye devam edeceğiz&quot; dedi.",
+      "url": "https://www.dunya.com/sektorler/tarim/bakan-yumakli-almanya-ile-tarim-ticaretinde-hedef-5-milyar-dolar-haberi-840271",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-16T11:42:00"
+    },
+    {
+      "title": "50 yıl boyunca bisküvi kutusunda sakladı: Eşinin ölümünden sonra servet çıktı",
+      "summary": "İngiltere’de eşinin ölümünün ardından evini boşaltan kadın, atölyede yıllardır duran eski bir bisküvi kutusuyla hayatının sürprizini yaşadı. Kutudan çıkan 62 altın sikke, müzayedede 113 bin sterline satıldı.",
+      "url": "https://www.dunya.com/ekonomi/50-yil-boyunca-biskuvi-kutusunda-sakladi-esinin-olumunden-sonra-servet-cikti-haberi-840272",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-16T11:42:00"
+    },
+    {
+      "title": "Chiesi ve Abdi İbrahim'den stratejik iş birliği",
+      "summary": "Chiesi, Türkiye’deki faaliyetleri için yeni bir iş modelini hayata geçirmek üzere Abdi İbrahim ile stratejik iş birliğine imza attığını duyurdu. 1 Ekim 2026 itibarıyla hayata geçirilecek iş birliği kapsamında Chiesi’nin küresel bilimsel uzmanlığı, yenilikçi ürün portföyü ve yüksek kalite standartları ile Abdi İbrahim’in güçlü yerel yetkinlikleri, yaygın erişimi ve ülke çapındaki ticari altyapısı b",
+      "url": "https://www.dunya.com/is-dunyasi/chiesi-ve-abdi-ibrahimden-stratejik-is-birligi-haberi-840270",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-16T11:30:00"
     }
   ]
 }
