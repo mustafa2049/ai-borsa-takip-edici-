@@ -1,59 +1,14 @@
 {
-  "updated_at": "2026-09-18T19:01:01+03:00",
+  "updated_at": "2026-09-21T16:29:59+03:00",
   "funds": [
-    {
-      "code": "GAF",
-      "name": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.62114,
-      "return_1m": 0.06,
-      "return_3m": -10.74,
-      "return_6m": 2.29,
-      "return_1y": 28.91
-    },
-    {
-      "code": "TI2",
-      "name": "İŞ PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.125817,
-      "return_1m": -0.35,
-      "return_3m": -6.9,
-      "return_6m": 0.42,
-      "return_1y": 16.54
-    },
-    {
-      "code": "MAC",
-      "name": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 0.722156,
-      "return_1m": -3.94,
-      "return_3m": -12.21,
-      "return_6m": -0.47,
-      "return_1y": 8.46
-    },
-    {
-      "code": "IDH",
-      "name": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 12.206976,
-      "return_1m": -4.98,
-      "return_3m": -7.89,
-      "return_6m": 2.95,
-      "return_1y": 16.89
-    },
-    {
-      "code": "GMR",
-      "name": "INVEO PORTFÖY BIST 30 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 1.272525,
-      "return_1m": -6.89,
-      "return_3m": -12.46,
-      "return_6m": -2.35,
-      "return_1y": 8.12
-    },
     {
       "code": "NNF",
       "name": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ (TL) FONU (HİSSE SENEDİ YOĞUN FON)",
-      "price": 21.041524,
-      "return_1m": -7.62,
-      "return_3m": -8.73,
-      "return_6m": -1.77,
-      "return_1y": 2.47
+      "price": 20.673584,
+      "return_1m": -10.75,
+      "return_3m": -10.18,
+      "return_6m": -3.41,
+      "return_1y": 2.05
     }
   ]
 }
