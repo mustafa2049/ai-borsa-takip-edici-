@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-21T21:52:07+03:00",
+  "updated_at": "2026-09-22T15:13:52+03:00",
   "news": [
     {
-      "title": "Flights disrupted into Newark, New York, Philadelphia after cut Verizon cable",
-      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-      "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "title": "Bakan Kacır'dan Amerikan şirketlerine çağrı: Türkiye'de birlikte üretelim ve büyüyelim",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, New York&#039;ta Amerikan şirketlerine Türkiye&#039;de yatırım çağrısında bulundu. Türkiye&#039;nin üretim, teknoloji ve lojistik altyapısına dikkat çeken Kacır, “Amerikan şirketlerini Türkiye&#039;de bizimle birlikte üretmeye, yenilik geliştirmeye ve büyümeye davet ediyoruz” dedi.",
+      "url": "https://www.dunya.com/ekonomi/bakan-kacirdan-amerikan-sirketlerine-cagri-turkiyede-birlikte-uretelim-ve-buyuyelim-haberi-840998",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T12:06:00"
+    },
+    {
+      "title": "Electra AI, Nasdaq kotasyonu öncesi ticari anlaşmalar açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/electra-ai-nasdaq-kotasyonu-oncesi-ticari-anlasmalar-acklad-93CH-4074368",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:45"
+    },
+    {
+      "title": "PDS Biotech, HPV16 tedavisi için 39,3 aylık sağkalım verisi açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/pds-biotech-hpv16-tedavisi-icin-393-aylk-sagkalm-verisi-acklad-93CH-4074367",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:44"
+    },
+    {
+      "title": "Palo Alto Networks yapay zeka destekli güvenlik testi hizmeti başlattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/palo-alto-networks-yapay-zeka-destekli-guvenlik-testi-hizmeti-baslatt-93CH-4074364",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:34"
+    },
+    {
+      "title": "Çin, Adagene’in ADG138 kanser ilacı için IND başvurusunu onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cin-adagenein-adg138-kanser-ilac-icin-ind-basvurusunu-onaylad-93CH-4074363",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:33"
+    },
+    {
+      "title": "Vertex böbrek hastalığı ilacı için olumlu Faz 2b sonuçları açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/vertex-bobrek-hastalg-ilac-icin-olumlu-faz-2b-sonuclar-acklad-93CH-4074362",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:32"
+    },
+    {
+      "title": "FDA, Lantheus’un BRAVNETSA ilacını onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fda-lantheusun-bravnetsa-ilacn-onaylad-93CH-4074360",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:31"
+    },
+    {
+      "title": "Scynexis yönetim kuruluna Steven Burke’ü atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/scynexis-yonetim-kuruluna-steven-burkeu-atad-93CH-4074361",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:31"
+    },
+    {
+      "title": "FDA, Filana’nın simufilam TSC denemesindeki klinik durdurma kararını kaldırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fda-filanann-simufilam-tsc-denemesindeki-klinik-durdurma-kararn-kaldrd-93CH-4074359",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:29"
+    },
+    {
+      "title": "FactSet pazar verisi platformunu genişletmek için BCC Group’u satın aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/factset-pazar-verisi-platformunu-genisletmek-icin-bcc-groupu-satn-ald-93CH-4074358",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:26"
+    },
+    {
+      "title": "Valion Bio, Nasdaq’ın asgari teklif fiyatı uyumunu yeniden sağladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/valion-bio-nasdaqn-asgari-teklif-fiyat-uyumunu-yeniden-saglad-93CH-4074357",
+      "source": "Investing Türkiye",
+      "published": "2026-09-22T12:05:24"
+    },
+    {
+      "title": "2026 YKS ÖZYES tercihleri ne zaman başlıyor? ÖZYES kılavuzu...",
+      "summary": "2026-YKS Kapsamında Spor Bilimleri İçin Özel Yetenek Sınavı (ÖZYES) tercih işlemleri başlıyor. ÖSYM bugün yaptığı duyuru ile tarihleri ilan etti. Peki, başvurular ne zaman başlayacak?",
+      "url": "https://www.dunya.com/gundem/2026-yks-ozyes-tercihleri-ne-zaman-basliyor-ozyes-kilavuzu-haberi-840995",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T12:05:00"
+    },
+    {
+      "title": "Hürmüz umudu fiyatları aşağı çekti: Avrupa'da doğal gaz 3 haftanın dibinde",
+      "summary": "İran&#039;ın, ABD&#039;nin deniz ablukasını kaldırması halinde Hürmüz Boğazı&#039;nı yeniden açabileceğine yönelik haberler Avrupa&#039;da doğal gaz fiyatlarını aşağı çekti. TTF&#039;de fiyat yüzde 5,6 düşerek 69,15 avroya geriledi.",
+      "url": "https://www.dunya.com/enerji/hurmuz-umudu-fiyatlari-asagi-cekti-avrupada-dogal-gaz-3-haftanin-dibinde-haberi-840997",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T12:04:00"
+    },
+    {
+      "title": "Amazon istemedi, Shopify kucakladı: Alışverişte AI savaşı",
+      "summary": "Amazon, Meta’nın yeni yapay zekâ asistanı Muse’un kendi platformunda alışveriş yapmasını engellerken Shopify tam tersine kapıları açtı. Muse, Shopify mağazalarında ürün bulup Shop Pay üzerinden alışverişi tamamlayabilecek.",
+      "url": "https://www.dunya.com/ekonomi/amazon-istemedi-shopify-kucakladi-alisveriste-ai-savasi-haberi-840993",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T11:59:00"
+    },
+    {
+      "title": "TCMB açıkladı: Reel sektörün net döviz pozisyonu açığı rekor seviyede",
+      "summary": "TCMB, finansal kesim dışındaki firmaların temmuz ayına ilişkin döviz tablosunu açıkladı. Firmaların döviz varlıkları 2,3 milyar dolara yakın artarken, yükümlülüklerdeki yükseliş 7,3 milyar doları aştı. Böylece net döviz pozisyonu açığı yalnızca bir ayda 5 milyar doların üzerinde büyüyerek 210 milyar 802 milyon dolara ulaştı.",
+      "url": "https://www.dunya.com/ekonomi/tcmb-acikladi-reel-sektorun-net-doviz-pozisyonu-acigi-rekor-seviyede-haberi-840996",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T11:58:00"
+    },
+    {
+      "title": "Hazine ve Maliye Bakanı Şimşek: KKM'den çıkış ekonominin dayanıklılığını artırdı",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, ABD&#039;li doğrudan yatırımcılarla bir araya gelerek Türkiye ekonomisinin zorlu küresel koşullara rağmen güçlü ve dayanıklı olduğunu söyledi. Şimşek; düşük borçluluk, artan rezervler, azalan dış kırılganlıklar, KKM&#039;den çıkış ve verimlilik artışının ekonominin şoklara karşı dayanıklılığını güçlendirdiğini belirtti.",
+      "url": "https://www.dunya.com/ekonomi/hazine-ve-maliye-bakani-simsek-kkmden-cikis-ekonominin-dayanikliligini-artirdi-haberi-840994",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T11:53:00"
+    },
+    {
+      "title": "Flight disruptions ease at Newark, Philadelphia airports following equipment outage",
+      "summary": "Flight delays continued Tuesday but were far fewer compared with Monday, when an FAA flight data system failed and a damaged cable severed a backup system.",
+      "url": "https://www.cnbc.com/2026/09/22/flight-disruptions-ease-at-newark-philadelphia-after-equipment-outage.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-21T18:52:16"
+      "published": "2026-09-22T11:47:00"
     },
     {
-      "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
-      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "title": "ABD’yi bıraktı, Çin’i seçti: Üretimde rota değişti",
+      "summary": "ABD merkezli batarya şirketi EnerVenue, Kentucky’de 264 milyon dolarlık yatırımla kurmayı planladığı fabrikadan vazgeçerken ilk yüksek hacimli üretim hattını Çin’de devreye almaya hazırlanıyor. Kararın arkasında maliyet kadar tedarik zinciri ve mühendislik kapasitesi bulunuyor.",
+      "url": "https://www.dunya.com/ekonomi/abdyi-birakti-cini-secti-uretimde-rota-degisti-haberi-840992",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T11:46:00"
+    },
+    {
+      "title": "El Nino için kritik uyarı: Yıl sonunda zirve yapacak, etkisi 2027'ye uzanacak",
+      "summary": "Dünya Meteoroloji Örgütü (WMO) Ekstrem Sıcaklık Hizmetleri Teknik Danışmanı Armel Castellan, sıcaklık artışına neden olan El Nino hava olayının hızla güçlendiğini ve kayıtlara geçen en sıcak 2 ayın geride bırakıldığını bildirdi.",
+      "url": "https://www.dunya.com/dunya/el-nino-icin-kritik-uyari-yil-sonunda-zirve-yapacak-etkisi-2027ye-uzanacak-haberi-840991",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-22T11:42:00"
+    },
+    {
+      "title": "Autonomous trucking company Aurora looks to accelerate toward profitability",
+      "summary": "Aurora's founder and CEO told CNBC the company is targeting positive free cash flow by 2028, driven by a substantial increase in the number autonomous trucks.",
+      "url": "https://www.cnbc.com/2026/09/22/aurora-autonomous-semi-ride.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-21T18:41:27"
-    },
-    {
-      "title": "Özbek'ten tartışmalara yanıt: Okan Buruk'la yola devam",
-      "summary": "Galatasaray Başkanı Dursun Özbek, Trabzonspor mağlubiyetinin ardından teknik direktör Okan Buruk’a olan güvenlerinin tam olduğunu belirterek, sarı-kırmızılı ekibin Süper Lig’de üst üste 5. şampiyonluk ve Avrupa hedefleri doğrultusunda yoluna devam edeceğini söyledi.",
-      "url": "https://www.dunya.com/spor/ozbekten-tartismalara-yanit-okan-burukla-yola-devam-haberi-840898",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T18:39:00"
-    },
-    {
-      "title": "Türkiye-ABD ticaretinde hedef 100 milyar dolar! Bolat: Bu hedefe ulaşmak için çok çalışıyoruz",
-      "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile ABD arasındaki ticaret hacminin geçen yıl 38 milyar doları aştığını, bu yıl ise 42-43 milyar dolara ulaşmasının beklendiğini belirterek, 100 milyar dolarlık hedefe ulaşmak için özel sektörün desteğiyle çalıştıklarını söyledi.",
-      "url": "https://www.dunya.com/ekonomi/turkiye-abd-ticaretinde-hedef-100-milyar-dolar-bolat-bu-hedefe-ulasmak-icin-cok-calisiyoruz-haberi-840897",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T18:34:00"
-    },
-    {
-      "title": "Esquire Financial başkan yardımcısı 1,2 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/esquire-financial-baskan-yardmcs-12-milyon-dolarlk-hisse-satt-93CH-4073407",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:32:18"
-    },
-    {
-      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
-      "summary": "Meta's Muse AI personal agent tool had 730,000 downloads over the roughly five days after its launch.",
-      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-21T18:28:51"
-    },
-    {
-      "title": "Eli Lilly CEO says 700,000 new seniors have started GLP-1s after Medicare coverage, and 70% are on Lilly drugs",
-      "summary": "They're the latest metrics on how much the new Medicare coverage is expanding access to GLP-1 medicines since it launched in July.",
-      "url": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-21T18:28:49"
-    },
-    {
-      "title": "Fed’in Musalem’i enflasyonu dizginlemek için daha fazla faiz artırımı gerekebileceğini söyledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/fedin-musalemi-enflasyonu-dizginlemek-icin-daha-fazla-faiz-artrm-gerekebilecegini-soyledi-4073404",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:22:43"
-    },
-    {
-      "title": "Moderna hissesi 176,75 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/moderna-hissesi-17675-dolarda-52-haftalk-zirve-yapt-93CH-4073400",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:18:09"
-    },
-    {
-      "title": "Post Holdings hissesi 75,38 dolarla 52 haftalık dibe vurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/post-holdings-hissesi-7538-dolarla-52-haftalk-dibe-vurdu-93CH-4073397",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:11:38"
-    },
-    {
-      "title": "Bakan Fidan'dan ABD'ye İsrail mesajı: Nüfuzunu daha fazla kullanmasını bekliyoruz",
-      "summary": "Dışişleri Bakanı Hakan Fidan, İran Savaşı, Yemen&#039;deki çatışmalar ve İsrail&#039;in bölgedeki politikalarının Türkiye ve ABD&#039;nin ortak çabalarını sekteye uğratabileceğini belirterek, Washington yönetimine çağrıda bulundu. Fidan, ABD&#039;nin bölgesel ve küresel barış ile istikrarı zedeleyen politikalara son vermesi için İsrail üzerindeki nüfuzunu daha fazla kullanmasını beklediklerini söy",
-      "url": "https://www.dunya.com/gundem/bakan-fidandan-abdye-israil-mesaji-nufuzunu-daha-fazla-kullanmasini-bekliyoruz-haberi-840896",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T18:10:00"
-    },
-    {
-      "title": "Vance’ten Trump’ın medya yasağına destek",
-      "summary": "ABD Başkan Yardımcısı JD Vance, Başkan Donald Trump’ın CNN, MS NOW ve Politico’nun Beyaz Saray’a erişimini kısıtlama kararını savunarak, söz konusu medya kuruluşlarının haber yapma ve yetkililerle görüşme imkanlarının devam ettiğini söyledi.",
-      "url": "https://www.dunya.com/dunya/vanceten-trumpin-medya-yasagina-destek-haberi-840895",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T18:06:00"
-    },
-    {
-      "title": "Ethan Allen’da CEO değişimi sürecinde vekalet savaşı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ethan-allenda-ceo-degisimi-surecinde-vekalet-savas-93CH-4073391",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:05:36"
-    },
-    {
-      "title": "Paramount, Warner Bros Discovery anlaşması için eyaletlerle uzlaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/paramount-warner-bros-discovery-anlasmas-icin-eyaletlerle-uzlast-4073394",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:05:29"
-    },
-    {
-      "title": "Muhammed Salah'a İngiltere'de trafikten men cezası",
-      "summary": "Trabzonspor&#039;un Mısırlı yıldızı Muhammed Salah&#039;a, aracının hız sınırına uymadığı gerekçesiyle İngiltere&#039;de 6 ay trafikten men cezası verildi.",
-      "url": "https://www.dunya.com/spor/muhammed-salaha-ingilterede-trafikten-men-cezasi-haberi-840894",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T18:04:00"
-    },
-    {
-      "title": "Horizon Kinetics Asset Management, RENN Fund hisselerinden 2.298 dolar aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-renn-fund-hisselerinden-2298-dolar-ald-93CH-4073390",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T18:01:40"
-    },
-    {
-      "title": "DTE Energy hissesi 126,23 dolarda 52 haftanın dibini gördü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dte-energy-hissesi-12623-dolarda-52-haftann-dibini-gordu-93CH-4073389",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T17:54:42"
-    },
-    {
-      "title": "Gürlek'ten yatırımcılara güven mesajı: Türkiye öngörülebilir bir ülke",
-      "summary": "Adalet Bakanı Akın Gürlek, Türkiye’nin hukuk alanında güvenilir ve öngörülebilir bir ülke olduğunu belirterek, yatırımcıların hukuki güvenliğinin güçlendirilmesi için yeni düzenlemeler üzerinde çalıştıklarını söyledi.",
-      "url": "https://www.dunya.com/gundem/gurlekten-yatirimcilara-guven-mesaji-turkiye-ongorulebilir-bir-ulke-haberi-840893",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-21T17:51:00"
-    },
-    {
-      "title": "Empire Company hisseleri neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/empire-company-hisseleri-neden-yukseliyor-93CH-4073388",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T17:49:56"
-    },
-    {
-      "title": "Kroger yöneticisi Adcock 4,4 milyon dolarlık hisse sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/kroger-yoneticisi-adcock-44-milyon-dolarlk-hisse-satt-93CH-4073387",
-      "source": "Investing Türkiye",
-      "published": "2026-09-21T17:47:08"
+      "published": "2026-09-22T11:30:01"
     }
   ]
 }
