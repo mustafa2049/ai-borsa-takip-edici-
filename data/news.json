@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-24T15:26:21+03:00",
+  "updated_at": "2026-09-24T20:25:32+03:00",
   "news": [
     {
-      "title": "Deprem tatbikatı sırasında depreme yakalandılar",
-      "summary": "Diyarbakır&#039;da düzenlenen bilim şenliğinde öğrenciler ve protokol üyeleri deprem simülasyonuna katıldı. AFAD İl Müdürü İlami Çakmak&#039;ın &quot;Depremi başlatıyoruz&quot; sözleriyle başlayan tatbikattan yaklaşık 25 dakika sonra Şanlıurfa&#039;nın Karaköprü ilçesinde 5,4 büyüklüğünde gerçek bir deprem meydana geldi. Sarsıntının hissedildiği Diyarbakır&#039;da olumsuz bir durum yaşanmadığı öğr",
-      "url": "https://www.dunya.com/video-galeri/aktuel/deprem-tatbikati-sirasinda-depreme-yakalandilar-video-841305",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-24T12:18:00"
+      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "summary": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-24T17:13:14"
     },
     {
-      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
-      "summary": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18.",
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-24T17:12:04"
+    },
+    {
+      "title": "Mısır merkez bankası faiz oranlarını yüzde 19’da sabit tuttu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/economy-news/msr-merkez-bankas-faiz-oranlarn-yuzde-19da-sabit-tuttu-93CH-4078243",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:10:14"
+    },
+    {
+      "title": "Valmont Industries 25. yıllık konferansta: Kamu hizmetleri büyümesi öne çıkıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/valmont-industries-25-yllk-konferansta-kamu-hizmetleri-buyumesi-one-ckyor-93CH-4078242",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:09:45"
+    },
+    {
+      "title": "TD Cowen, Acadia Pharmaceuticals hisse notunu korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/td-cowen-acadia-pharmaceuticals-hisse-notunu-korudu-93CH-4078241",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:09:40"
+    },
+    {
+      "title": "Yapay zeka ve bellek klasik bir balon değil ancak gelecek getiriler belirsiz",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/yapay-zeka-ve-bellek-klasik-bir-balon-degil-ancak-gelecek-getiriler-belirsiz-4078240",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:07:42"
+    },
+    {
+      "title": "BrightSpring Bernstein forumunda: Büyüme henüz erken aşamada",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/brightspring-bernstein-forumunda-buyume-henuz-erken-asamada-93CH-4078237",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:06:33"
+    },
+    {
+      "title": "Knife River, Starboard Value’nun yatırım mektubuna yanıt verdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/knife-river-starboard-valuenun-yatrm-mektubuna-yant-verdi-93CH-4078236",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:05:30"
+    },
+    {
+      "title": "Belden, Hindistan tesisinde RUCKUS switch üretecek",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/belden-hindistan-tesisinde-ruckus-switch-uretecek-93CH-4078235",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:05:20"
+    },
+    {
+      "title": "BMO, Acadia Pharmaceuticals’ın hisse hedefini düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/bmo-acadia-pharmaceuticalsn-hisse-hedefini-dusurdu-93CH-4078234",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T17:04:05"
+    },
+    {
+      "title": "Milli boksör Havvanur Kethüda Avrupa şampiyonu oldu",
+      "summary": "Son dakika haberine göre, 2026 Avrupa Boks Şampiyonası&#039;nda milli sporcu Havvanur Kethüda altın madalya kazandı.",
+      "url": "https://www.dunya.com/spor/milli-boksor-havvanur-kethuda-avrupa-sampiyonu-oldu-haberi-841356",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-24T17:02:00"
+    },
+    {
+      "title": "Storage Vault Canada hisseleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/storage-vault-canada-hisseleri-neden-dusuyor-93CH-4078231",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T16:59:03"
+    },
+    {
+      "title": "Evolution Petroleum küçük ölçekli sanal konferansta: temettü odaklı büyüme",
+      "summary": "",
+      "url": "https://tr.investing.com/news/transcripts/evolution-petroleum-kucuk-olcekli-sanal-konferansta-temettu-odakl-buyume-93CH-4078230",
+      "source": "Investing Türkiye",
+      "published": "2026-09-24T16:57:39"
+    },
+    {
+      "title": "Student loan borrowers sue Trump administration over forgiven debts on credit reports",
+      "summary": "Student loan holders sued the Education Department on Thursday, claiming they suffered financial damages despite getting their debts forgiven years ago.",
+      "url": "https://www.cnbc.com/2026/09/24/student-loan-borrowers-sue-credit-reports-forgiven-loans.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-24T16:49:40"
+    },
+    {
+      "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+      "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
+      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-24T16:48:38"
+    },
+    {
+      "title": "Etna yeniden harekete geçti: Hava ulaşımı aksadı",
+      "summary": "İtalya&#039;nın Sicilya Adası&#039;ndaki Etna Yanardağı&#039;nın yoğun biçimde kül püskürtmesi hava ulaşımında aksamalara yol açtı. Yaklaşık 4 kilometre yüksekliğe ulaşan kül bulutu nedeniyle Etna üzerindeki hava sahası uçuşlara kapatılırken, Katanya Havalimanı&#039;ndaki seferlere de kısıtlama getirildi.",
+      "url": "https://www.dunya.com/dunya/etna-yeniden-harekete-gecti-hava-ulasimi-aksadi-haberi-841354",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-24T16:42:00"
+    },
+    {
+      "title": "White House allows blocked reporters in after judge lifts Trump ban",
+      "summary": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban the president had announced on Sept. 18.",
       "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-24T12:17:58"
+      "published": "2026-09-24T16:33:20"
     },
     {
-      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
-      "summary": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
-      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-24T12:17:39"
+      "title": "İsrail tahvillerinin Avrupa satışı durdu",
+      "summary": "İsrail&#039;in dış yatırımcılardan borçlanmak amacıyla ihraç ettiği tahvillerin Avrupa Birliği (AB) ülkelerinde satışına imkan sağlayan izahnamenin süresi doldu. İrlanda ve Lüksemburg&#039;un izinleri yenilememesiyle İsrail tahvillerinin AB&#039;deki satışı sona erdi.",
+      "url": "https://www.dunya.com/ekonomi/israil-tahvillerinin-avrupa-satisi-durdu-haberi-841353",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-24T16:32:00"
     },
     {
-      "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-      "summary": "Olive Garden's same-store sales growth has slowed in recent quarters.",
-      "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-24T12:14:24"
-    },
-    {
-      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-      "summary": "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader.",
+      "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
       "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-24T12:10:07"
+      "published": "2026-09-24T16:26:47"
     },
     {
-      "title": "Commerzbank stratejisini koruyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/commerzbank-stratejisini-koruyor-93CH-4077689",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:06:08"
-    },
-    {
-      "title": "Nuvectis’in NXP200 ilacı Çin’de çığır açan tedavi statüsü aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nuvectisin-nxp200-ilac-cinde-cgr-acan-tedavi-statusu-ald-93CH-4077688",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:44"
-    },
-    {
-      "title": "LightSolver çalışması fotonik bilişimin hızlanma potansiyelini gösteriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/lightsolver-calsmas-fotonik-bilisimin-hzlanma-potansiyelini-gosteriyor-93CH-4077685",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:43"
-    },
-    {
-      "title": "MDpanel COO ve müşteri direktörü atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/mdpanel-coo-ve-musteri-direktoru-atad-93CH-4077686",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:43"
-    },
-    {
-      "title": "Annexon retina toplantısında vonaprument verilerini sundu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/annexon-retina-toplantsnda-vonaprument-verilerini-sundu-93CH-4077687",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:43"
-    },
-    {
-      "title": "Newton Golf, Nevada’da kritik mineraller projesi için opsiyon aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/newton-golf-nevadada-kritik-mineraller-projesi-icin-opsiyon-ald-93CH-4077684",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:38"
-    },
-    {
-      "title": "Montreal Kalp Enstitüsü AFib denemesine ilk Kanadalı hastayı kaydetti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/montreal-kalp-enstitusu-afib-denemesine-ilk-kanadal-hastay-kaydetti-93CH-4077683",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:34"
-    },
-    {
-      "title": "Elicio, pankreas kanseri çalışmasının yeni verilerini ESMO’da sunacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/elicio-pankreas-kanseri-calsmasnn-yeni-verilerini-esmoda-sunacak-93CH-4077681",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:29"
-    },
-    {
-      "title": "Absci, ABS-201 için 2027’de faz 2 denemesi planlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/absci-abs201-icin-2027de-faz-2-denemesi-planlyor-93CH-4077682",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:29"
-    },
-    {
-      "title": "Tvardi, kolit için STAT3 inhibitörü hakkında preklinik veri açıkladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/tvardi-kolit-icin-stat3-inhibitoru-hakknda-preklinik-veri-acklad-93CH-4077680",
-      "source": "Investing Türkiye",
-      "published": "2026-09-24T12:05:26"
-    },
-    {
-      "title": "Altın düşüş eğilimini sürdürüyor: Satış baskısı güçlendi",
-      "summary": "Altın fiyatlarında aşağı yönlü hareket hız kazandı. Fed&#039;in faiz politikasına ilişkin değişen beklentiler, petrol fiyatlarındaki yükseliş ve tahvil piyasasındaki sert hareket değerli metal üzerinde baskı oluşturdu.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-dusus-egilimini-surduruyor-satis-baskisi-guclendi-galeri-841304",
+      "title": "Fon soruşturmasında 2 jet ile 1 yata el konuldu",
+      "summary": "İstanbul&#039;da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında yaklaşık 1,8 milyar lira değerindeki 2 özel jet ile bir yata el konuldu.",
+      "url": "https://www.dunya.com/gundem/fon-sorusturmasinda-2-jet-ile-1-yata-el-konuldu-haberi-841352",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-24T11:58:00"
-    },
-    {
-      "title": "Merkez Bankası açıkladı: Rezervler geriledi",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası&#039;nın toplam rezervleri 18 Eylül haftasında 4,3 milyar dolar gerileyerek 174,4 milyar dolara indi. Brüt döviz rezervlerinde 5,6 milyar dolarlık düşüş yaşanırken, altın rezervleri ise yükseldi. Böylece altındaki artışa rağmen döviz rezervlerindeki kayıp, TCMB&#039;nin toplam rezervlerini aşağı çekti.",
-      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-rezervler-geriledi-haberi-841303",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-24T11:46:00"
-    },
-    {
-      "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-      "summary": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.",
-      "url": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
-      "source": "CNBC World Markets",
-      "published": "2026-09-24T11:45:58"
-    },
-    {
-      "title": "Gübre atığından nadir toprak çıkaracaklar",
-      "summary": "Gübre üretiminden kalan milyonlarca tonluk fosfojips, stratejik nadir toprak kaynağına dönüşüyor. Neo Performance Materials ile Rainbow Rare Earths, Güney Afrika’daki Phalaborwa projesi için tedarik ve teknoloji ortaklığı kurdu.",
-      "url": "https://www.dunya.com/ekonomi/gubre-atigindan-nadir-toprak-cikaracaklar-haberi-841300",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-24T11:35:00"
-    },
-    {
-      "title": "Bankacılık sektörünün kredi hacmi 28,2 trilyon liraya geriledi",
-      "summary": "Bankacılık sektörünün toplam kredi hacmi 18 Eylül haftasında 32,1 milyar lira azalarak 28,2 trilyon liraya gerilerken, toplam mevduat 388,1 milyar liralık artışla 32,6 trilyon liraya yükseldi.",
-      "url": "https://www.dunya.com/ekonomi/bankacilik-sektorunun-kredi-hacmi-282-trilyon-liraya-geriledi-haberi-841302",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-24T11:35:00"
+      "published": "2026-09-24T16:25:00"
     }
   ]
 }
