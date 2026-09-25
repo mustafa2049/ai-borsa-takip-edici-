@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-25T15:26:34+03:00",
+  "updated_at": "2026-09-25T20:24:21+03:00",
   "news": [
     {
-      "title": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
-      "summary": "A delayed clinical trial underscores the stakes of federal research funding cuts for children with DIPG, a deadly brain tumor with few treatment options.",
-      "url": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-25T12:18:12"
+      "published": "2026-09-25T17:19:19"
     },
     {
-      "title": "GoDaddy hissesi için Al tavsiyesi Gen Digital devralma söylentileri arasında yinelendi",
+      "title": "Trump says Scott Bessent won't be AI czar",
+      "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
+      "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-25T17:13:37"
+    },
+    {
+      "title": "Moleculin, AACR’de pankreas kanseri verilerini sundu",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/godaddy-hissesi-icin-al-tavsiyesi-gen-digital-devralma-soylentileri-arasnda-yinelendi-93CH-4079315",
+      "url": "https://tr.investing.com/news/company-news/moleculin-aacrde-pankreas-kanseri-verilerini-sundu-93CH-4079672",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T12:18:11"
+      "published": "2026-09-25T17:09:30"
     },
     {
-      "title": "Bernstein, marj endişelerine rağmen Apple hissesi için Outperform görüşünü korudu",
+      "title": "Honeywell hisse başına 0,70 dolar temettü açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/bernstein-marj-endiselerine-ragmen-apple-hissesi-icin-outperform-gorusunu-korudu-93CH-4079314",
+      "url": "https://tr.investing.com/news/company-news/honeywell-hisse-basna-070-dolar-temettu-acklad-93CH-4079671",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T12:18:02"
+      "published": "2026-09-25T17:08:59"
     },
     {
-      "title": "Alibaba hissesi yapay zeka ivmesiyle StoneX’te al tavsiyesi aldı",
+      "title": "Sellas, CDK9 inhibitörü SLS009 hakkında preklinik veri açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/alibaba-hissesi-yapay-zeka-ivmesiyle-stonexte-al-tavsiyesi-ald-93CH-4079313",
+      "url": "https://tr.investing.com/news/company-news/sellas-cdk9-inhibitoru-sls009-hakknda-preklinik-veri-acklad-93CH-4079669",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T12:17:55"
+      "published": "2026-09-25T17:05:26"
     },
     {
-      "title": "CDT Equity 1’e 25 ters hisse bölünmesini onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cdt-equity-1e-25-ters-hisse-bolunmesini-onaylad-93CH-4079309",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:17:27"
-    },
-    {
-      "title": "Compass Therapeutics CAO Neil Lerner, CMPX hisselerinden 2.849 dolar aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/compass-therapeutics-cao-neil-lerner-cmpx-hisselerinden-2849-dolar-ald-93CH-4079308",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:16:54"
-    },
-    {
-      "title": "Hiperöçeklendirme şirketleri başa baş için 300 milyar dolar gelir istiyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/hiperoceklendirme-sirketleri-basa-bas-icin-300-milyar-dolar-gelir-istiyor-4079304",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:11:57"
-    },
-    {
-      "title": "StoneX, Tesla hissesi için Al tavsiyesini yineledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/stonex-tesla-hissesi-icin-al-tavsiyesini-yineledi-93CH-4079299",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:11:49"
-    },
-    {
-      "title": "Cipher Mining hissesi bugün neden yükselişte?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/cipher-mining-hissesi-bugun-neden-yukseliste-93CH-4079297",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:11:26"
-    },
-    {
-      "title": "Abacus 400 milyon dolarlık hayat sigortası menkul kıymetleştirmesini tamamladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/abacus-400-milyon-dolarlk-hayat-sigortas-menkul-kymetlestirmesini-tamamlad-93CH-4079291",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:09:41"
-    },
-    {
-      "title": "Elit Wall Street firmaları Suudi merkezlere direnç gösteriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/elit-wall-street-firmalar-suudi-merkezlere-direnc-gosteriyor-93CH-4079290",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T12:09:40"
-    },
-    {
-      "title": "Ev alacakların tercihi değişti: Oda sayısı aynı kaldı, metrekare küçüldü",
-      "summary": "İstanbul’da konut tercihlerinde yeni bir dönem öne çıkıyor. Alım gücü ve değişen hane yapısı, evlerin metrekarelerini küçültürken oda sayısından vazgeçilmiyor. Sektör temsilcileri özellikle 1+1, 2+1 ve 3+1 konutlarda değişen talebe dikkat çekti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/ev-alacaklarin-tercihi-degisti-oda-sayisi-ayni-kaldi-metrekare-kuculdu-galeri-841453",
+      "title": "Ticaret Bakanı Bolat: Ticaret savaşlarına karşı işbirliği şart",
+      "summary": "Ticaret Bakanı Ömer Bolat, küresel ticarette artan korumacılık ve ticaret savaşlarına karşı tercihli ticaret anlaşmaları ile bölgesel işbirliği bloklarının önem kazandığını belirterek, Türkiye’nin dış ekonomik ilişkilerini tüm ülkelerle geliştirmeyi sürdüreceğini söyledi.",
+      "url": "https://www.dunya.com/ekonomi/ticaret-bakani-bolat-ticaret-savaslarina-karsi-isbirligi-sart-haberi-841484",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T12:06:00"
+      "published": "2026-09-25T17:00:00"
     },
     {
-      "title": "5,4'lük deprem sonrası 3 il için karar: 10 milyon lira aktarıldı",
-      "summary": "Şanlıurfa&#039;nın Karaköprü ilçesinde meydana gelen 5,4 büyüklüğündeki depremin ardından bölge için destek kararı geldi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, depremden etkilenen vatandaşların acil ve temel ihtiyaçlarının karşılanması amacıyla Şanlıurfa, Adıyaman ve Diyarbakır&#039;a toplam 10 milyon liralık kaynak aktarıldığını açıkladı.",
-      "url": "https://www.dunya.com/gundem/54luk-deprem-sonrasi-3-il-icin-karar-10-milyon-lira-aktarildi-haberi-841451",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T12:04:00"
+      "title": "SK Hynix’in Solidigm birimi 2027’de halka arz planlıyor - Reuters",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sk-hynixin-solidigm-birimi-2027de-halka-arz-planlyor--reuters-432SI-4079665",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:59:03"
     },
     {
-      "title": "Maraş biberinde hasat başladı: Kilosu 200 lirayı buluyor",
-      "summary": "Coğrafi işaretli Maraş biberinde hasat dönemi başladı. Yaklaşık 12 bin dekarlık alanda 30 bin ton üretimin beklendiği üründe kilogram fiyatı kalitesine göre 150-200 lira arasında değişirken, işlenen biberler iç pazarın yanı sıra Avrupa, Orta Doğu ve Asya ülkelerine gönderiliyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/maras-biberinde-hasat-basladi-kilosu-200-lirayi-buluyor-galeri-841452",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T12:03:00"
+      "title": "Together Housing denetimli hesap yayınını erteledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/together-housing-denetimli-hesap-yaynn-erteledi-93CH-4079660",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:53:22"
     },
     {
-      "title": "2026 KPSS Lisans sonuçları ne zaman, hangi gün açıklanacak? İşte ÖSYM'nin geçtiği tarih...",
-      "summary": "KPSS Lisans sınavları 13 Eylül&#039;de sona erdi. Bugün itibarıyla sınavın üzerinden yaklaşık 1 buçuk ay geçti. Her geçen gün sonuç tarihi araması sıklaşıyor. Adaylar &quot;2026 KPSS Lisans sonuçları ne zaman açıklanacak&quot; sorusuna cevap arıyor.",
-      "url": "https://www.dunya.com/gundem/2026-kpss-lisans-sonuclari-ne-zaman-hangi-gun-aciklanacak-iste-osymnin-gectigi-tarih-haberi-841449",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:54:00"
+      "title": "Accsys Technologies hissedarları tüm kararları onayladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/accsys-technologies-hissedarlar-tum-kararlar-onaylad-93CH-4079659",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:49:27"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan Trump ve İsrail açıklaması: Türkiye-ABD ilişkilerini üçüncü bir ülke üzerinden tarif etmiyorum",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD merkezli Newsweek dergisine verdiği röportajda Donald Trump ile ilişkilerini, İran meselesini ve İsrail ile yaşanan gerilimi değerlendirdi. Trump&#039;la doğrudan iletişim kurabildiklerini belirten Erdoğan, Türkiye&#039;nin dış politikasını savaş senaryoları üzerinden şekillendirmediğini söyledi.",
-      "url": "https://www.dunya.com/dunya/cumhurbaskani-erdogandan-trump-ve-israil-aciklamasi-turkiye-abd-iliskilerini-ucuncu-bir-ulke-uzerinden-tarif-etmiyorum-haberi-841450",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:50:00"
+      "title": "Coal India’nın birimi SECL, 800 milyon dolarlık halka arz için banka seçti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/coal-indiann-birimi-secl-800-milyon-dolarlk-halka-arz-icin-banka-secti-4079658",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:45:20"
     },
     {
-      "title": "Köyden pazara getiriliyor, tezgaha çıkar çıkmaz ilgi görüyor",
-      "summary": "Bolu’da köylerde yetiştirilen ve hazırlanan ürünler semt pazarlarında doğrudan tüketiciyle buluşuyor. Sebze ve meyveden tereyağına, tarhanadan erişteye kadar birçok ürünün yer aldığı tezgahlar vatandaşlardan ilgi görüyor.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/koyden-pazara-getiriliyor-tezgaha-cikar-cikmaz-ilgi-goruyor-galeri-841448",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:42:00"
+      "title": "Oaktree destekli Utmost, Londra halka arz planlarını erteledi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/oaktree-destekli-utmost-londra-halka-arz-planlarn-erteledi-4079655",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:40:27"
     },
     {
-      "title": "TUS tercihleri ne zaman, hangi tarihte başlıyor?",
-      "summary": "TUS 2. Dönem sınav sonuçlarının ilanının ardından tercih tarihleri gündem oldu. On binlerce kişi ÖSYM&#039;den gelecek duyuruya kulak kesilmiş durumda... Sık sık gelen soru &quot;TUS tercihleri ne zaman, hangi tarihte başlıyor&quot; oluyor. İşte detaylar...",
-      "url": "https://www.dunya.com/gundem/tus-tercihleri-ne-zaman-hangi-tarihte-basliyor-haberi-841446",
+      "title": "Avrupa borsaları Fransa hariç yükselişle kapandı",
+      "summary": "Avrupa borsaları haftanın son işlem gününü Fransa hariç yükselişle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,35 artışla 638,65 puan oldu.",
+      "url": "https://www.dunya.com/finans/borsa/avrupa-borsalari-fransa-haric-yukselisle-kapandi-haberi-841485",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:34:00"
+      "published": "2026-09-25T16:35:00"
     },
     {
-      "title": "Basın kuruluşlarına 8 ayda 5,2 milyar TL'yi aşan resmi ilan ve reklam desteği",
-      "summary": "Basın İlan Kurumu (BİK) Genel Müdürü Abdulkadir Çay, 2026 yılının ilk 8 ayında basın kuruluşlarına 5 milyar 258 milyon liranın üzerinde resmi ilan ve reklam desteği sağlandığını açıkladı. Kredi Garanti Fonu iş birliğiyle 131 milyon lirayı aşan finansman kaynağı sektörün kullanımına sunulurken 1.075 basın işletmesini kapsayan eğitim ve istihdam imkânı hayata geçirildi.",
-      "url": "https://www.dunya.com/ekonomi/basin-kuruluslarina-8-ayda-52-milyar-tlyi-asan-resmi-ilan-ve-reklam-destegi-haberi-841443",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:30:00"
+      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+      "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+      "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-25T16:20:40"
     },
     {
-      "title": "KKTC Başbakanı Üstel: Batan gemideki tüm alanlara ulaşıldı",
-      "summary": "KKTC Başbakanı Ünal Üstel, Girne kenti açıklarında alabora olan gemiye ilişkin açıklama yaptı. Üstel, &quot;Batan gemideki tüm alanlara ulaşıldı, başka naaş bulunamadı. 15 kişi hayatını kaybetti, 13 kayıp var&quot; dedi.",
-      "url": "https://www.dunya.com/gundem/kktc-basbakani-ustel-batan-gemideki-tum-alanlara-ulasildi-haberi-841442",
+      "title": "Galaxy Gaming sermaye harcama limitini artırmak için kredi sözleşmesini değiştirdi",
+      "summary": "",
+      "url": "https://tr.investing.com/news/sec-filings/galaxy-gaming-sermaye-harcama-limitini-artrmak-icin-kredi-sozlesmesini-degistirdi-93CH-4079651",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:14:03"
+    },
+    {
+      "title": "Webull, yapay zeka ticareti gelişirken düzenleyicilerle çalışıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/webull-yapay-zeka-ticareti-gelisirken-duzenleyicilerle-calsyor-4079653",
+      "source": "Investing Türkiye",
+      "published": "2026-09-25T16:13:42"
+    },
+    {
+      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+      "summary": "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
+      "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-25T16:08:25"
+    },
+    {
+      "title": "Milli boksör Busenaz Sürmeneli, Avrupa şampiyonu oldu",
+      "summary": "Bulgaristan&#039;da devam eden 2026 Avrupa Boks Şampiyonası&#039;nda milli sporcu Busenaz Sürmeneli, altın madalya kazandı.",
+      "url": "https://www.dunya.com/spor/milli-boksor-busenaz-surmeneli-avrupa-sampiyonu-oldu-haberi-841481",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T11:29:00"
+      "published": "2026-09-25T16:01:00"
+    },
+    {
+      "title": "Bu hafta yatırım araçlarından hangisi kazandırdı, hangisi kaybettirdi?",
+      "summary": "Bu hafta yatırım araçlarında genel olarak değer kaybı görülürken, dolar/TL yüzde 0,38 yükseldi. BIST 100 yüzde 2,90, gram altın yüzde 1,61 ve avro/TL yüzde 0,18 geriledi. Yatırım fonlarında ise en yüksek getiri yüzde 0,66 ile para piyasası fonlarında gerçekleşti.",
+      "url": "https://www.dunya.com/ekonomi/bu-hafta-yatirim-araclarindan-hangisi-kazandirdi-hangisi-kaybettirdi-haberi-841480",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-25T15:50:00"
+    },
+    {
+      "title": "UEFA Guendouzi'ye verilen 4 maçlık men cezasını düşürdü",
+      "summary": "UEFA, Fenerbahçe&#039;nin Fransız futbolcusu Matteo Guendouzi&#039;ye verilen 4 maçlık men cezasının 3&#039;e düşürüldüğünü açıkladı.",
+      "url": "https://www.dunya.com/spor/uefa-guendouziye-verilen-4-maclik-men-cezasini-dusurdu-haberi-841474",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-25T15:29:00"
+    },
+    {
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,09 değer kazanarak 12.899,35 puandan tamamladı.",
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-841473",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-25T15:27:00"
     }
   ]
 }
