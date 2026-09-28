@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-09-25T20:24:21+03:00",
+  "updated_at": "2026-09-28T17:44:36+03:00",
   "news": [
     {
-      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-      "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "MASAK casusluk soruşturması: 3 kişi tutuklandı",
+      "summary": "MASAK&#039;ın Entegre Mali İstihbarat Sistemi&#039;ne (EMİS) yönelik yürütülen &quot;Siyasal veya Askeri Casusluk&quot; soruşturması kapsamında gözaltına alınan Eda Aydoğan, Güner Eke ve eski MASAK Daire Başkan Yardımcısı İnönü Akgün Alp tutuklandı. Zehra Yılmaz ise adli kontrol şartıyla serbest bırakıldı.",
+      "url": "https://www.dunya.com/gundem/masak-casusluk-sorusturmasi-3-kisi-tutuklandi-haberi-841767",
+      "source": "Dünya Gazetesi",
+      "published": "2026-09-28T14:39:00"
+    },
+    {
+      "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "summary": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-25T17:19:19"
+      "published": "2026-09-28T14:34:23"
     },
     {
-      "title": "Trump says Scott Bessent won't be AI czar",
-      "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
-      "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+      "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+      "summary": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
+      "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-25T17:13:37"
+      "published": "2026-09-28T14:34:21"
     },
     {
-      "title": "Moleculin, AACR’de pankreas kanseri verilerini sundu",
+      "title": "UBS, Darling Ingredients hissesi için 88 dolarlık Al tavsiyesini yineledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/moleculin-aacrde-pankreas-kanseri-verilerini-sundu-93CH-4079672",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-darling-ingredients-hissesi-icin-88-dolarlk-al-tavsiyesini-yineledi-93CH-4081486",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T17:09:30"
+      "published": "2026-09-28T14:31:55"
     },
     {
-      "title": "Honeywell hisse başına 0,70 dolar temettü açıkladı",
+      "title": "UBS, MBX Biosciences hissesi için Al tavsiyesini yineledi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/honeywell-hisse-basna-070-dolar-temettu-acklad-93CH-4079671",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-mbx-biosciences-hissesi-icin-al-tavsiyesini-yineledi-93CH-4081485",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T17:08:59"
+      "published": "2026-09-28T14:31:54"
     },
     {
-      "title": "Sellas, CDK9 inhibitörü SLS009 hakkında preklinik veri açıkladı",
+      "title": "UBS, Vertex’in hisse hedefini böbrek ilacı denemesi nedeniyle 615 dolara yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/sellas-cdk9-inhibitoru-sls009-hakknda-preklinik-veri-acklad-93CH-4079669",
+      "url": "https://tr.investing.com/news/analyst-ratings/ubs-vertexin-hisse-hedefini-bobrek-ilac-denemesi-nedeniyle-615-dolara-yukseltti-93CH-4081484",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T17:05:26"
+      "published": "2026-09-28T14:31:46"
     },
     {
-      "title": "Ticaret Bakanı Bolat: Ticaret savaşlarına karşı işbirliği şart",
-      "summary": "Ticaret Bakanı Ömer Bolat, küresel ticarette artan korumacılık ve ticaret savaşlarına karşı tercihli ticaret anlaşmaları ile bölgesel işbirliği bloklarının önem kazandığını belirterek, Türkiye’nin dış ekonomik ilişkilerini tüm ülkelerle geliştirmeyi sürdüreceğini söyledi.",
-      "url": "https://www.dunya.com/ekonomi/ticaret-bakani-bolat-ticaret-savaslarina-karsi-isbirligi-sart-haberi-841484",
+      "title": "SpaceX’in Starship roketi ilk kez Dünya yörüngesine ulaştı",
+      "summary": "ABD merkezli havacılık ve uzay şirketi SpaceX, Starship roketinin 14’üncü test uçuşunda ilk kez Dünya yörüngesine ulaşmayı başardı. Starship, ilk operasyonel yükünü taşıdığı uçuş kapsamında 26 adet Starlink V3 uydusunu başarılı bir şekilde yörüngeye konuşlandırdı.",
+      "url": "https://www.dunya.com/dunya/spacexin-starship-roketi-ilk-kez-dunya-yorungesine-ulasti-haberi-841766",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T17:00:00"
+      "published": "2026-09-28T14:30:00"
     },
     {
-      "title": "SK Hynix’in Solidigm birimi 2027’de halka arz planlıyor - Reuters",
+      "title": "Oxford Biomedica yöneticisi Londra borsasından hisse aldı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sk-hynixin-solidigm-birimi-2027de-halka-arz-planlyor--reuters-432SI-4079665",
+      "url": "https://tr.investing.com/news/company-news/oxford-biomedica-yoneticisi-londra-borsasndan-hisse-ald-93CH-4081483",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T16:59:03"
+      "published": "2026-09-28T14:29:03"
     },
     {
-      "title": "Together Housing denetimli hesap yayınını erteledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/together-housing-denetimli-hesap-yaynn-erteledi-93CH-4079660",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T16:53:22"
-    },
-    {
-      "title": "Accsys Technologies hissedarları tüm kararları onayladı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/accsys-technologies-hissedarlar-tum-kararlar-onaylad-93CH-4079659",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T16:49:27"
-    },
-    {
-      "title": "Coal India’nın birimi SECL, 800 milyon dolarlık halka arz için banka seçti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/coal-indiann-birimi-secl-800-milyon-dolarlk-halka-arz-icin-banka-secti-4079658",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T16:45:20"
-    },
-    {
-      "title": "Oaktree destekli Utmost, Londra halka arz planlarını erteledi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/oaktree-destekli-utmost-londra-halka-arz-planlarn-erteledi-4079655",
-      "source": "Investing Türkiye",
-      "published": "2026-09-25T16:40:27"
-    },
-    {
-      "title": "Avrupa borsaları Fransa hariç yükselişle kapandı",
-      "summary": "Avrupa borsaları haftanın son işlem gününü Fransa hariç yükselişle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,35 artışla 638,65 puan oldu.",
-      "url": "https://www.dunya.com/finans/borsa/avrupa-borsalari-fransa-haric-yukselisle-kapandi-haberi-841485",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T16:35:00"
-    },
-    {
-      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-      "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
-      "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+      "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+      "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-25T16:20:40"
+      "published": "2026-09-28T14:27:51"
     },
     {
-      "title": "Galaxy Gaming sermaye harcama limitini artırmak için kredi sözleşmesini değiştirdi",
+      "title": "Yapay zeka araştırmacıları ’zeka patlaması’ konusunda uyardı",
       "summary": "",
-      "url": "https://tr.investing.com/news/sec-filings/galaxy-gaming-sermaye-harcama-limitini-artrmak-icin-kredi-sozlesmesini-degistirdi-93CH-4079651",
+      "url": "https://tr.investing.com/news/economy-news/yapay-zeka-arastrmaclar-zeka-patlamas-konusunda-uyard-4081482",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T16:14:03"
+      "published": "2026-09-28T14:27:10"
     },
     {
-      "title": "Webull, yapay zeka ticareti gelişirken düzenleyicilerle çalışıyor",
+      "title": "Altın vadeli işlemleri neden bugün düşüyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/webull-yapay-zeka-ticareti-gelisirken-duzenleyicilerle-calsyor-4079653",
+      "url": "https://tr.investing.com/news/commodities-news/altn-vadeli-islemleri-neden-bugun-dusuyor-93CH-4081480",
       "source": "Investing Türkiye",
-      "published": "2026-09-25T16:13:42"
+      "published": "2026-09-28T14:27:09"
     },
     {
-      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
-      "summary": "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
-      "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
+      "title": "Six Flags hissesi 11,97 dolarla 52 haftalık dibe vurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/six-flags-hissesi-1197-dolarla-52-haftalk-dibe-vurdu-93CH-4081479",
+      "source": "Investing Türkiye",
+      "published": "2026-09-28T14:26:09"
+    },
+    {
+      "title": "Stifel, Mirum Pharmaceuticals hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-mirum-pharmaceuticals-hissesi-icin-tavsiyesini-korudu-93CH-4081478",
+      "source": "Investing Türkiye",
+      "published": "2026-09-28T14:25:47"
+    },
+    {
+      "title": "Gümüş Vadeli İşlemleri neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/gumus-vadeli-islemleri-neden-dusuyor-93CH-4081477",
+      "source": "Investing Türkiye",
+      "published": "2026-09-28T14:24:03"
+    },
+    {
+      "title": "Paramount Skydance hisseleri neden yükselişte?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/paramount-skydance-hisseleri-neden-yukseliste-93CH-4081476",
+      "source": "Investing Türkiye",
+      "published": "2026-09-28T14:23:29"
+    },
+    {
+      "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+      "summary": "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
+      "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
       "source": "CNBC World Markets",
-      "published": "2026-09-25T16:08:25"
+      "published": "2026-09-28T14:14:45"
     },
     {
-      "title": "Milli boksör Busenaz Sürmeneli, Avrupa şampiyonu oldu",
-      "summary": "Bulgaristan&#039;da devam eden 2026 Avrupa Boks Şampiyonası&#039;nda milli sporcu Busenaz Sürmeneli, altın madalya kazandı.",
-      "url": "https://www.dunya.com/spor/milli-boksor-busenaz-surmeneli-avrupa-sampiyonu-oldu-haberi-841481",
+      "title": "Nvidia'dan rekor hisse geri alım yetkisi",
+      "summary": "Nvidia, mevcut hisse geri alım programı kapsamında 150 milyar dolarlık ek yetki verdi. Şirketin program kapsamında kullanılabilecek toplam geri alım yetkisi 235 milyar dolara yükselirken, artışın tarihteki en büyük hisse geri alım yetkisi artışı olduğu bildirildi.",
+      "url": "https://www.dunya.com/sirketler/nvidiadan-rekor-hisse-geri-alim-yetkisi-haberi-841765",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T16:01:00"
+      "published": "2026-09-28T14:09:00"
     },
     {
-      "title": "Bu hafta yatırım araçlarından hangisi kazandırdı, hangisi kaybettirdi?",
-      "summary": "Bu hafta yatırım araçlarında genel olarak değer kaybı görülürken, dolar/TL yüzde 0,38 yükseldi. BIST 100 yüzde 2,90, gram altın yüzde 1,61 ve avro/TL yüzde 0,18 geriledi. Yatırım fonlarında ise en yüksek getiri yüzde 0,66 ile para piyasası fonlarında gerçekleşti.",
-      "url": "https://www.dunya.com/ekonomi/bu-hafta-yatirim-araclarindan-hangisi-kazandirdi-hangisi-kaybettirdi-haberi-841480",
+      "title": "New York borsası düşüşle açıldı",
+      "summary": "New York borsası, yükselen petrol fiyatları ve tahvil faizlerinin piyasalarda baskı oluşturmasıyla haftanın ilk işlem gününe düşüşle başladı.",
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-acildi-haberi-841764",
       "source": "Dünya Gazetesi",
-      "published": "2026-09-25T15:50:00"
+      "published": "2026-09-28T14:04:00"
     },
     {
-      "title": "UEFA Guendouzi'ye verilen 4 maçlık men cezasını düşürdü",
-      "summary": "UEFA, Fenerbahçe&#039;nin Fransız futbolcusu Matteo Guendouzi&#039;ye verilen 4 maçlık men cezasının 3&#039;e düşürüldüğünü açıkladı.",
-      "url": "https://www.dunya.com/spor/uefa-guendouziye-verilen-4-maclik-men-cezasini-dusurdu-haberi-841474",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T15:29:00"
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-28T14:03:43"
     },
     {
-      "title": "Borsa günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,09 değer kazanarak 12.899,35 puandan tamamladı.",
-      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-yukselisle-tamamladi-haberi-841473",
-      "source": "Dünya Gazetesi",
-      "published": "2026-09-25T15:27:00"
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "source": "CNBC World Markets",
+      "published": "2026-09-28T13:43:20"
     }
   ]
 }
