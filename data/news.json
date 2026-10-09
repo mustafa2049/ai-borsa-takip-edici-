@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-10-08T23:01:04+03:00",
+  "updated_at": "2026-10-09T17:00:41+03:00",
   "news": [
     {
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "title": "ICE won't pause enforcement in NY after Bronx shooting, DHS's Mullin says",
+      "summary": "New York Gov. Kathy Hochul said she asked Homeland Security Secretary Mullin and President Donald Trump to immediately halt ICE operations in her state.",
+      "url": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
       "source": "CNBC World Markets",
-      "published": "2026-10-08T19:49:23"
+      "published": "2026-10-09T13:59:14"
     },
     {
-      "title": "DHT Holdings hissesi 24,98 dolarda 52 haftanın zirvesine ulaştı",
+      "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+      "summary": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+      "url": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-09T13:59:12"
+    },
+    {
+      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+      "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-09T13:52:46"
+    },
+    {
+      "title": "NBA Europe için geri sayım başladı: Real Madrid ve Milan da devrede!",
+      "summary": "NBA ve FIBA&#039;nın Avrupa&#039;da kurmayı planladığı yeni basketbol ligi NBA Europe için çalışmalar hız kazandı. Gelecek yıl başlaması hedeflenen projeye Real Madrid Başkanı Florentino Pérez ve Milan&#039;ın sahibi RedBird Capital ilgi gösterirken, Panathinaikos&#039;un sahibi Dimitris Giannakopoulos&#039;tan da dikkat çeken açıklamalar geldi.",
+      "url": "https://www.dunya.com/spor/nba-europe-icin-geri-sayim-basladi-real-madrid-ve-milan-da-devrede-haberi-843275",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-09T13:43:00"
+    },
+    {
+      "title": "Fonların tasfiyesinde ara ödeme hazırlıkları görüşüldü",
+      "summary": "Fonların tasfiye sürecinde ara ödemeler ve kazanç iadeleri için hazırlıklar sürüyor. İletişim Başkanlığı, Meclise sunulacak kanun teklifi kapsamında 1 milyon TL&#039;ye kadar ara ödemelerin teknik çalışmalarının gözden geçirildiğini duyurdu. Cumhurbaşkanı Yardımcısı başkanlığındaki Fon Koordinasyon Kurulu Toplantısı&#039;nda, fahiş kazançların iadesi ve bu süreçte kurumların birlikte atacağı adıml",
+      "url": "https://www.dunya.com/gundem/fonlarin-tasfiyesinde-ara-odeme-hazirliklari-gorusuldu-haberi-843276",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-09T13:43:00"
+    },
+    {
+      "title": "Joby Aviation hissesi bugün neden %5 düştü?",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/dht-holdings-hissesi-2498-dolarda-52-haftann-zirvesine-ulast-93CH-4096336",
+      "url": "https://tr.investing.com/news/stock-market-news/joby-aviation-hissesi-bugun-neden-5-dustu-93CH-4097688",
       "source": "Investing Türkiye",
-      "published": "2026-10-08T19:45:41"
+      "published": "2026-10-09T13:41:58"
     },
     {
-      "title": "Putin'den İran'a destek mesajı",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, İran Cumhurbaşkanı Mesud Pezeşkiyan ile görüşmesinde, İran'ın bölgedeki çatışmaları barışçıl yollarla sona erdirme çabalarını desteklediklerini belirterek, sorunun çözümüne yardımcı olmak için ellerinden gelen her şeyi yapmaya hazır olduklarını söyledi.",
-      "url": "https://www.bloomberght.com/putin-den-iran-a-destek-mesaji-3790884",
+      "title": "Vertical Aerospace hissesi neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/vertical-aerospace-hissesi-neden-yukseliyor-93CH-4097683",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:39:09"
+    },
+    {
+      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-09T13:38:10"
+    },
+    {
+      "title": "Ibotta hissesi 43,47 dolarlık 52 haftalık zirvesine ulaştı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/ibotta-hissesi-4347-dolarlk-52-haftalk-zirvesine-ulast-93CH-4097681",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:37:30"
+    },
+    {
+      "title": "Fortinet hissesi 192,55 dolarda rekor kırdı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/fortinet-hissesi-19255-dolarda-rekor-krd-93CH-4097680",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:37:08"
+    },
+    {
+      "title": "Cadre Holdings hissesi 24,40 dolarla 52 haftalık dibe vurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cadre-holdings-hissesi-2440-dolarla-52-haftalk-dibe-vurdu-93CH-4097679",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:36:55"
+    },
+    {
+      "title": "International Paper yönetim kurulu komitelerine iki direktör atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/international-paper-yonetim-kurulu-komitelerine-iki-direktor-atad-93CH-4097673",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:35:19"
+    },
+    {
+      "title": "Plug Power hissesi 1,7 dolarda 52 haftalık dip yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/plug-power-hissesi-17-dolarda-52-haftalk-dip-yapt-93CH-4097672",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:34:57"
+    },
+    {
+      "title": "Teva hissesi 40,84 dolarlık 52 haftalık zirvede",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/teva-hissesi-4084-dolarlk-52-haftalk-zirvede-93CH-4097671",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:34:26"
+    },
+    {
+      "title": "Joby Aviation hissesi 5,57 dolarda 52 haftalık dip yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/joby-aviation-hissesi-557-dolarda-52-haftalk-dip-yapt-93CH-4097670",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:34:17"
+    },
+    {
+      "title": "Dynatrace hissesi 61,7 dolarda 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/dynatrace-hissesi-617-dolarda-52-haftalk-zirve-yapt-93CH-4097667",
+      "source": "Investing Türkiye",
+      "published": "2026-10-09T13:33:46"
+    },
+    {
+      "title": "Altın yeniden yükselişte: Fiyatlar nereye kadar çıkabilir?",
+      "summary": "Altın yeniden yükselişe geçerken, piyasada toparlanmanın ne kadar süreceği merak ediliyor. Zayıflayan dolar ve gerileyen tahvil faizleriyle ons fiyatı yaklaşık 4.200 dolara çıktı. Fonlara rekor para girişi ve Çin&#039;in kesintisiz alımları da yükselişi destekliyor. Teknik değerlendirmeye göre kritik direncin aşılması yeni kazanımların önünü açabilir. Ancak Fed&#039;in aralık ayında faiz artırma i",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-yeniden-yukseliste-fiyatlar-nereye-kadar-cikabilir-galeri-843274",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-09T13:22:00"
+    },
+    {
+      "title": "Milyonları sinemaya çekmişti: Ünlü oyuncunun şirketi iflas etti",
+      "summary": "Türk sinemasında milyonlarca izleyiciye ulaşan filmlere imza atan ünlü oyuncu Murat Cemcir&#039;in, yönetmen Selçuk Aydemir ile birlikte kurduğu yapım şirketi hakkında iflas kararı verildi.",
+      "url": "https://www.dunya.com/gundem/milyonlari-sinemaya-cekmisti-unlu-oyuncunun-sirketi-iflas-etti-haberi-843273",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-09T13:19:00"
+    },
+    {
+      "title": "Çiftçilerden narenciye ihracatına demiryolu çağrısı",
+      "summary": "Adana Çiftçiler Birliği Başkanı Mutlu Doğru, Karadeniz'deki güvenlik sorunlarının Rusya ve Ukrayna'ya narenciye sevkiyatını zorlaştırdığını belirtti. Doğru, yeni pazarlara erişim için Demir İpek Yolu Projesi'nin Adana ve Mersin'e bağlanmasını istedi.",
+      "url": "https://www.bloomberght.com/ciftcilerden-narenciye-ihracatina-demiryolu-cagrisi-3790991",
       "source": "BloombergHT",
-      "published": "2026-10-08T19:45:31"
+      "published": "2026-10-09T13:17:02"
     },
     {
-      "title": "CME Group 12 Ekim’de beyzbol vadeli işlem sözleşmeleri başlatacak",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/cme-group-12-ekimde-beyzbol-vadeli-islem-sozlesmeleri-baslatacak-93CH-4096334",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:42:54"
-    },
-    {
-      "title": "Mid Penn Bank, Christopher Nestore’u baş risk sorumlusu atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/mid-penn-bank-christopher-nestoreu-bas-risk-sorumlusu-atad-93CH-4096333",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:42:13"
-    },
-    {
-      "title": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
-      "summary": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
-      "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-08T19:38:14"
-    },
-    {
-      "title": "İsmail Saymaz, Murat Ağırel ve Şaban Sevinç ifadeye çağrıldı",
-      "summary": "Fon soruşturması kapsamında kamuoyunu yanıltıcı açıklamalarda bulunduğu belirtilen İsmail Saymaz, Murat Ağırel ve Şaban Sevinç ifade verecek.",
-      "url": "https://www.dunya.com/gundem/ismail-saymaz-murat-agirel-ve-saban-sevinc-ifadeye-cagrildi-haberi-843190",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-08T19:36:00"
-    },
-    {
-      "title": "Michael O’Connor, Rainmaker Worldwide hisselerinden 94.375 dolar sattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/insider-trading-news/michael-oconnor-rainmaker-worldwide-hisselerinden-94375-dolar-satt-93CH-4096331",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:31:48"
-    },
-    {
-      "title": "NANO Nuclear Energy lisanslama sürecinde ilerleme kaydetti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/nano-nuclear-energy-lisanslama-surecinde-ilerleme-kaydetti-93CH-4096330",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:29:36"
-    },
-    {
-      "title": "Putin'den İran'a destek: Her türlü yardıma hazırız",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, İran&#039;ın, bölgedeki çatışmaların barışçıl yollarla çözülmesine yönelik girişimlerini desteklediklerini ve bu konuda İran&#039;a her türlü yardımı sağlamaya hazır olduklarını söyledi.",
-      "url": "https://www.dunya.com/dunya/putinden-irana-destek-her-turlu-yardima-haziriz-haberi-843189",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-08T19:25:00"
-    },
-    {
-      "title": "Kanada tahvil faizleri yükseldi, yatırımcılar faiz görünümünü değerlendiriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/kanada-tahvil-faizleri-yukseldi-yatrmclar-faiz-gorunumunu-degerlendiriyor-4096329",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:24:09"
-    },
-    {
-      "title": "Lovesac 2026 konferansında: pazar payı kazanımları",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/lovesac-2026-konferansnda-pazar-pay-kazanmlar-93CH-4096327",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:22:54"
-    },
-    {
-      "title": "Kanada doları petrol rallisi ve daralan getiri farkıyla yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/forex-news/kanada-dolar-petrol-rallisi-ve-daralan-getiri-farkyla-yukseldi-4096328",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:22:09"
-    },
-    {
-      "title": "STAAR Surgical, Andrew Pilon’u iş geliştirme başkan yardımcısı olarak atadı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/staar-surgical-andrew-pilonu-is-gelistirme-baskan-yardmcs-olarak-atad-93CH-4096325",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:21:22"
-    },
-    {
-      "title": "Silifke Belediyesine yönelik operasyonda 3 şüpheli daha tutuklandı",
-      "summary": "Mersin&#039;in Silifke ilçesinde belediyenin ihale, mal ve hizmet alımı, hakediş, imar ve ruhsat işlemlerinde üçüncü kişilere haksız menfaat sağlandığı iddialarına ilişkin yürütülen soruşturma kapsamında ikinci dalga operasyonda gözaltına alınan 7 şüpheliden aralarında belediye başkan yardımcısının da bulunduğu 3 şüpheli tutuklandı. Böylece Silifke Belediye Başkanı Mustafa Turgut&#039;la birlikte ",
-      "url": "https://www.dunya.com/gundem/silifke-belediyesine-yonelik-operasyonda-3-supheli-daha-tutuklandi-haberi-843188",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-08T19:20:00"
-    },
-    {
-      "title": "AMG hissesi 393,11 dolarla rekor kırdı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/amg-hissesi-39311-dolarla-rekor-krd-93CH-4096324",
-      "source": "Investing Türkiye",
-      "published": "2026-10-08T19:16:43"
-    },
-    {
-      "title": "TMSF, Destek Finans Faktoring'e kayyum olarak atandı",
-      "summary": "Destek Finans Faktoring, Tasarruf Mevduatı Sigorta Fonu'nun (TMSF) şirkete kayyum olarak atandığını duyurdu.",
-      "url": "https://www.bloomberght.com/tmsf-destek-finans-faktoring-e-kayyum-olarak-atandi-3790883",
+      "title": "\"Fon ödemelerinde asla ve kesin şekilde kamu kaynağı kullanılmayacak\"",
+      "summary": "Ak Parti Grup başkanı Abdullah Güler, fon tasfiyesi ile ilgili kanun teklifini açıklarken yaptığı konuşmada, tasfiye edilecek fonların ödemesinde asla ve kesin şekilde kamu kaynağının kullanılmayacağını belirtti.",
+      "url": "https://www.bloomberght.com/abdullah-guler-makroekonomik-istikrarimiz-ust-seviyede-3790989",
       "source": "BloombergHT",
-      "published": "2026-10-08T19:16:14"
-    },
-    {
-      "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-      "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
-      "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-08T19:15:26"
-    },
-    {
-      "title": "Afyonkarahisar Vali Yardımcısı İhsan Ayrancı vefat etti",
-      "summary": "Afyonkarahisar Vali Yardımcısı ve İl Özel İdaresi Genel Sekreteri İhsan Ayrancı, silahla vurulmuş halde bulundu. Ağır yaralanan Ayrancı, sağlık ekiplerinin ilk müdahalesinin ardından hastaneye kaldırıldı. Ayrancı, yapılan tüm müdahalelere rağmen hayatını kaybetti.",
-      "url": "https://www.dunya.com/gundem/afyonkarahisar-vali-yardimcisi-ihsan-ayranci-vefat-etti-haberi-843187",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-08T19:14:00"
-    },
-    {
-      "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-      "summary": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program Thursday.",
-      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-08T18:52:59"
+      "published": "2026-10-09T13:12:47"
     }
   ]
 }
