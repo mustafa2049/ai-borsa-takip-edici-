@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-10-15T20:13:14+03:00",
+  "updated_at": "2026-10-16T15:01:06+03:00",
   "news": [
     {
-      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-      "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
-      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "title": "Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns",
+      "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
       "source": "CNBC World Markets",
-      "published": "2026-10-15T17:00:01"
+      "published": "2026-10-16T11:58:43"
     },
     {
-      "title": "Trump'ın balo salonunun bağışçıları ortaya çıktı",
-      "summary": "Washington Post (WP), ABD Başkanı Donald Trump'ın Beyaz Saray'da yaptırdığı balo salonuna bağışta bulunan 67 kişi ve kuruluşun listesini yayımladı. Toplam bağış tutarının 333 milyon dolara ulaştığı projede, Apple ve Nvidia 25'er milyon dolarla en büyük bağışçılar arasında yer aldı.",
-      "url": "https://www.bloomberght.com/trump-in-balo-salonunun-bagiscilari-ortaya-cikti-3791515",
-      "source": "BloombergHT",
-      "published": "2026-10-15T16:57:32"
-    },
-    {
-      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
-      "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
-      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "title": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions",
+      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
       "source": "CNBC World Markets",
-      "published": "2026-10-15T16:56:07"
+      "published": "2026-10-16T11:57:48"
     },
     {
-      "title": "Idex hissesi, yapay zeka çip büyümesi görünümünde Mizuho’nun tercihi olmaya devam ediyor",
+      "title": "Eni hisseleri 23 Ekim’deki kazanç açıklamasıyla %1,1 hareket edebilir",
       "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/idex-hissesi-yapay-zeka-cip-buyumesi-gorunumunde-mizuhonun-tercihi-olmaya-devam-ediyor-93CH-4105651",
+      "url": "https://tr.investing.com/news/stock-market-news/eni-hisseleri-23-ekimdeki-kazanc-acklamasyla-11-hareket-edebilir-93CH-4106766",
       "source": "Investing Türkiye",
-      "published": "2026-10-15T16:54:04"
+      "published": "2026-10-16T11:55:43"
     },
     {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "title": "Saab AB opsiyonları kazanç açıklaması öncesi %5,7 hareket sinyali veriyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/saab-ab-opsiyonlar-kazanc-acklamas-oncesi-57-hareket-sinyali-veriyor-93CH-4106763",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:54:27"
+    },
+    {
+      "title": "DA Davidson, Martin Marietta Materials için tavsiyeyi al’a yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/da-davidson-martin-marietta-materials-icin-tavsiyeyi-ala-yukseltti-93CH-4106762",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:54:03"
+    },
+    {
+      "title": "Stifel, Semtech’in hisse hedefini değerleme nedeniyle 200 dolara düşürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-semtechin-hisse-hedefini-degerleme-nedeniyle-200-dolara-dusurdu-93CH-4106761",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:54:02"
+    },
+    {
+      "title": "Stifel, yapay zeka desteğiyle Chatham Lodging hedefini yükseltti",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/stifel-yapay-zeka-destegiyle-chatham-lodging-hedefini-yukseltti-93CH-4106760",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:53:59"
+    },
+    {
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
       "source": "CNBC World Markets",
-      "published": "2026-10-15T16:52:16"
+      "published": "2026-10-16T11:53:52"
     },
     {
-      "title": "Stellantis ticari vanlar için dizel-hibrit güç aktarma organı test ediyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/stellantis-ticari-vanlar-icin-dizelhibrit-guc-aktarma-organ-test-ediyor-93CH-4105650",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:51:26"
-    },
-    {
-      "title": "International Paper EMEA ambalaj birimi için teklifleri değerlendiriyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/international-paper-emea-ambalaj-birimi-icin-teklifleri-degerlendiriyor-93CH-4105647",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:47:31"
-    },
-    {
-      "title": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
-      "summary": "The Trump administration pushed Europe to release diesel stocks as prices in the U.S. surged to record highs in September.",
-      "url": "https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-15T16:47:03"
-    },
-    {
-      "title": "Take-Two Interactive hisseleri bugün neden %4 yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/taketwo-interactive-hisseleri-bugun-neden-4-yukseliyor-93CH-4105643",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:41:34"
-    },
-    {
-      "title": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-      "summary": "Sen. Elizabeth Warren and Rep. Robert Garcia are leading new legislation to force banks and some executives to release records related to Jeffrey Epstein.",
-      "url": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-15T16:39:04"
-    },
-    {
-      "title": "Microsoft’un yapay zeka modeli 2,8 trilyon parametreye ulaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/microsoftun-yapay-zeka-modeli-28-trilyon-parametreye-ulast-4105639",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:26:17"
-    },
-    {
-      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
-      "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-15T16:19:09"
-    },
-    {
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
-      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-15T16:15:44"
-    },
-    {
-      "title": "Crucible Clarity Fund, Lendinvest’teki payını %5,14’e yükseltti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/crucible-clarity-fund-lendinvestteki-payn-514e-yukseltti-93CH-4105634",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:11:23"
-    },
-    {
-      "title": "S&P, Prudential’ın görünümünü Japonya risklerine karşı negatife çevirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/sp-prudentialn-gorunumunu-japonya-risklerine-kars-negatife-cevirdi-4105624",
-      "source": "Investing Türkiye",
-      "published": "2026-10-15T16:03:28"
-    },
-    {
-      "title": "Ekrem İmamoğlu hakkında soruşturma başlatıldı",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı, tutuklanmasının ardından İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu hakkında, &quot;İmamoğlu çıkar amaçlı suç örgütü&quot; davasının duruşmasında yargı mensuplarına yönelik sarfettiği sözler nedeniyle &quot;kamu görevlilerine görevi nedeniyle aleni hakaret&quot; suçundan soruşturma başlattı.",
-      "url": "https://www.dunya.com/gundem/ekrem-imamoglu-hakkinda-sorusturma-baslatildi-haberi-844039",
+      "title": "Genç pilot Alp Aksoy, Ferrari Sürücü Akademisi'ne kabul edildi",
+      "summary": "Türk motor sporlarının genç isimlerinden Alp Aksoy, Ferrari Sürücü Akademisi&#039;ne seçilerek kariyerinde önemli bir adım attı. Milli pilot, 2027 sezonunda Avrupa&#039;nın önemli yarış organizasyonlarından birinde piste çıkacak.",
+      "url": "https://www.dunya.com/spor/genc-pilot-alp-aksoy-ferrari-surucu-akademisine-kabul-edildi-haberi-844156",
       "source": "Dünya Gazetesi",
-      "published": "2026-10-15T16:03:00"
+      "published": "2026-10-16T11:51:00"
     },
     {
-      "title": "CT Global Managed Portfolio Trust 100.000 gelir hissesi ihraç etti",
+      "title": "Şampiyonlar Ligi 3. hafta maçları ne zaman? Galatasaray, Fenerbahçe ŞL maç tarihi ve saati...",
+      "summary": "Şampiyonlar Ligi 2. haftası geride kaldı. Galatasaray ve Fenerbahçe puan alamazken 3. hafta maçları merak ediliyor. Futbol tutkunları &quot;Şampiyonlar Ligi 3. hafta maçları ne zaman&quot; diye soruyor.",
+      "url": "https://www.dunya.com/spor/sampiyonlar-ligi-3-hafta-maclari-ne-zaman-galatasaray-fenerbahce-sl-mac-tarihi-ve-saati-haberi-844155",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-16T11:49:00"
+    },
+    {
+      "title": "Halozyme hisseleri için H.C. Wainwright hedef fiyatı korudu",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ct-global-managed-portfolio-trust-100000-gelir-hissesi-ihrac-etti-93CH-4105614",
+      "url": "https://tr.investing.com/news/analyst-ratings/halozyme-hisseleri-icin-hc-wainwright-hedef-fiyat-korudu-93CH-4106738",
       "source": "Investing Türkiye",
-      "published": "2026-10-15T15:57:26"
+      "published": "2026-10-16T11:48:08"
     },
     {
-      "title": "Nvidia CEO’su CoreWeave’in desteğe ihtiyacı olmadığını söyledi",
+      "title": "Anglo Asian Mining bakır üretimini %141 artırdı",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/nvidia-ceosu-coreweavein-destege-ihtiyac-olmadgn-soyledi-4105617",
+      "url": "https://tr.investing.com/news/company-news/anglo-asian-mining-bakr-uretimini-141-artrd-93CH-4106735",
       "source": "Investing Türkiye",
-      "published": "2026-10-15T15:57:23"
+      "published": "2026-10-16T11:45:43"
     },
     {
-      "title": "Tesla uçan Roadster’ı Teksas’ta tanıtmaya hazırlanıyor",
+      "title": "Takip edilmesi gereken en iyi sağlık hisseleri: TD Cowen’ın seçimleri",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tesla-ucan-roadster-teksasta-tantmaya-hazrlanyor-4105615",
+      "url": "https://tr.investing.com/news/stock-market-news/takip-edilmesi-gereken-en-iyi-saglk-hisseleri-td-cowenn-secimleri-4106734",
       "source": "Investing Türkiye",
-      "published": "2026-10-15T15:55:39"
+      "published": "2026-10-16T11:44:42"
     },
     {
-      "title": "Almanya'da yeni girişim sayısında rekor artış",
-      "summary": "Almanya'da 2026'nın ilk yarısında kurulan yeni girişim sayısı, önceki altı aylık döneme göre yüzde 52 artarak 3 bini aştı ve tüm zamanların en yüksek seviyesine ulaştı. Almanya Tasarruf Bankaları Birliği Başkanı Ulrich Reuter, yeni girişimlerdeki artışı ekonomik toparlanmanın en olumlu göstergelerinden biri olarak değerlendirdi.",
-      "url": "https://www.bloomberght.com/almanya-da-yeni-girisim-sayisinda-rekor-artis-3791505",
+      "title": "H.C. Wainwright, KRAS verilerine dayanarak Incyte hissesi için tavsiyesini korudu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/analyst-ratings/hc-wainwright-kras-verilerine-dayanarak-incyte-hissesi-icin-tavsiyesini-korudu-93CH-4106733",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:42:10"
+    },
+    {
+      "title": "Türk müziğinin usta ismi Alpay son yolculuğuna uğurlandı",
+      "summary": "Antalya&#039;da 91 yaşında hayatını kaybeden Türk müziğinin usta isimlerinden şarkıcı ve besteci Alpay Nazikioğlu, Ankara&#039;da son yolculuğuna uğurlandı.",
+      "url": "https://www.dunya.com/gundem/turk-muziginin-usta-ismi-alpay-son-yolculuguna-ugurlandi-haberi-844154",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-16T11:42:00"
+    },
+    {
+      "title": "Omeros hissesi bugün neden düşüyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/omeros-hissesi-bugun-neden-dusuyor-93CH-4106732",
+      "source": "Investing Türkiye",
+      "published": "2026-10-16T11:41:31"
+    },
+    {
+      "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+      "summary": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
+      "url": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-16T11:33:44"
+    },
+    {
+      "title": "AKOM'dan İstanbul için yeni uyarı: Sağanak yarın şiddetlenecek",
+      "summary": "İstanbul&#039;da günlerdir etkili olan kuvvetli sağanağın ardından AKOM&#039;dan yeni bir uyarı geldi. Kent genelinde aralıklarla devam eden yağışların yarın yeniden şiddetleneceği bildirildi. Beykoz, Sarıyer, Şile ve Eyüpsultan başta olmak üzere birçok ilçede kuvvetli yağış beklenirken, İBB ekiplerinin sel ve su baskınları nedeniyle mahsur kalan 622 kişiyi kurtardığı açıklandı.",
+      "url": "https://www.dunya.com/gundem/akomdan-istanbul-icin-yeni-uyari-saganak-yarin-siddetlenecek-haberi-844153",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-16T11:27:00"
+    },
+    {
+      "title": "Fransa ve Almanya, otomotiv sektörlerini korumak için anlaşmaya vardı",
+      "summary": "Almanya ve Fransa, zor durumdaki otomobil sektörlerini korumak için anlaşmaya vardılar. Bu anlaşma, İngiltere'nin yakında yürürlüğe girecek \"Made in Europe\" kuralları kapsamında Avrupa sübvansiyonlarından yararlanmasına olanak sağlamayı da içeriyor.",
+      "url": "https://www.bloomberght.com/fransa-ve-almanya-otomotiv-sektorlerini-korumak-icin-anlasmaya-vardi-3791657",
       "source": "BloombergHT",
-      "published": "2026-10-15T15:51:23"
+      "published": "2026-10-16T11:20:19"
+    },
+    {
+      "title": "Taste Atlas kestane lezzetlerini sıraladı: Türkiye'den de bir ürün listede",
+      "summary": "Dünyaca ünlü gastronomi platformu TasteAtlas, kestaneden yapılan geleneksel lezzetleri paylaştı. Farklı ülkelerde kestanenin nasıl değerlendirildiğini gösteren listede Türkiye de kendine özgü ve sevilen ürünüyle yer aldı.",
+      "url": "https://www.dunya.com/yasam/taste-atlas-kestane-lezzetlerini-siraladi-turkiyeden-de-bir-urun-listede-haberi-844152",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-16T11:18:00"
     }
   ]
 }
