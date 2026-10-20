@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-10-19T23:01:48+03:00",
+  "updated_at": "2026-10-20T15:25:08+03:00",
   "news": [
     {
-      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-      "summary": "President Donald Trump said he would meet with Russian President Vladimir Putin and Chinese President Xi Jinping and criticized Ukraine's Volodymyr Zelenskyy.",
-      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-19T19:58:17"
-    },
-    {
-      "title": "Trump'tan Ukrayna mesajı: Müzakereleri başkasının yürütme zamanı geldi",
-      "summary": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Vladimir Zelenskiy&#039;nin Rusya-Ukrayna Savaşı&#039;nı sona erdirmek için yeterince çaba göstermediğini savunarak, “Artık Ukrayna adına müzakereleri başka birinin yürütmesinin zamanı geldi.” dedi. Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping ile Çin&#039;de üçlü görüşmeye de sıcak baktığını belirtti.",
-      "url": "https://www.dunya.com/dunya/trumptan-ukrayna-mesaji-muzakereleri-baskasinin-yurutme-zamani-geldi-haberi-844490",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-19T19:56:00"
-    },
-    {
-      "title": "Aeromexico, Washington’ın uçuş kısıtlamalarını kaldırmasının ardından ABD’ye genişlemeyi planlıyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/aeromexico-washingtonn-ucus-kstlamalarn-kaldrmasnn-ardndan-abdye-genislemeyi-planlyor-93CH-4109456",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:54:58"
-    },
-    {
-      "title": "Ramp, OCC’den güven bankası lisansı için başvurdu",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/ramp-occden-guven-bankas-lisans-icin-basvurdu-4109455",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:52:29"
-    },
-    {
-      "title": "OpenAI bugging suspect Alfozan ordered held without bail",
-      "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-19T19:50:48"
-    },
-    {
-      "title": "LiveRamp hisseleri FTC’nin Publicis satın almasını onaylamasıyla yükseldi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/liveramp-hisseleri-ftcnin-publicis-satn-almasn-onaylamasyla-yukseldi-4109453",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:48:07"
-    },
-    {
-      "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-      "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
-      "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-19T19:46:07"
-    },
-    {
-      "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
-      "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-19T19:45:28"
-    },
-    {
-      "title": "Array Digital Infrastructure hissesi 32,68 dolara düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/array-digital-infrastructure-hissesi-3268-dolara-dustu-93CH-4109450",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:44:25"
-    },
-    {
-      "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-      "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-19T19:37:51"
-    },
-    {
-      "title": "Match Group hissesi 44,95 dolarda 52 haftalık zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/match-group-hissesi-4495-dolarda-52-haftalk-zirve-yapt-93CH-4109447",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:33:46"
-    },
-    {
-      "title": "Nscale, halka arz öncesi Anthropic ile 45 milyar dolarlık anlaşma görüşmelerinde",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/nscale-halka-arz-oncesi-anthropic-ile-45-milyar-dolarlk-anlasma-gorusmelerinde-4109448",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:32:25"
-    },
-    {
-      "title": "LiveRamp Holdings hissesi 38,31 dolarla zirve yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/liveramp-holdings-hissesi-3831-dolarla-zirve-yapt-93CH-4109444",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:20:15"
-    },
-    {
-      "title": "Estee Lauder, Krista Lee Berger’i Clinique pazarlama başkanı yaptı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/estee-lauder-krista-lee-bergeri-clinique-pazarlama-baskan-yapt-93CH-4109443",
-      "source": "Investing Türkiye",
-      "published": "2026-10-19T19:17:14"
-    },
-    {
-      "title": "Avrupa'da elektrikli araç satışları Eylül'de yüzde 70 arttı",
-      "summary": "Avrupa'da elektrikli araç satışları, Eylül ayında yıllık bazda yüzde 70,3 artarak 300 bin 202'ye ulaştı.",
-      "url": "https://www.bloomberght.com/avrupa-da-elektrikli-arac-satislari-eylul-de-yuzde-70-artti-3791841",
+      "title": "Allianz: İklim krizinin küresel maliyeti 184 milyar euroya ulaştı",
+      "summary": "Allianz Research ve Allianz Trade tarafından yayımlanan İklim Ekonomisi Raporu 2026'ya göre, 2025'te aşırı hava olaylarının yol açtığı ekonomik kayıplar 184 milyar euro oldu.",
+      "url": "https://www.bloomberght.com/allianz-asiri-hava-olaylarinin-kuresel-maliyeti-184-milyar-euroya-ulasti-3791964",
       "source": "BloombergHT",
-      "published": "2026-10-19T19:14:53"
+      "published": "2026-10-20T12:15:10"
     },
     {
-      "title": "Icahn Enterprises hissesi 6,51 dolara düşerek dibe vurdu",
+      "title": "Batı Akdeniz'in ihracat hedefi belli oldu: 3 milyar dolar",
+      "summary": "Batı Akdeniz İhracatçılar Birliği (BAİB) Başkanı Mehmet Ali Can, Antalya, Isparta ve Burdur&#039;u kapsayan bölgenin 15 Ekim itibarıyla 2 milyar 352 milyon dolarlık ihracata ulaştığını açıkladı. Yıl sonunda 3 milyar dolarlık ihracat hedeflediklerini belirten Can, yaş meyve ve sebze sektöründe ise 1 milyar dolar seviyesine ulaşmayı amaçladıklarını söyledi.",
+      "url": "https://www.dunya.com/ihracat/bati-akdenizin-ihracat-hedefi-belli-oldu-3-milyar-dolar-haberi-844586",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-20T12:15:00"
+    },
+    {
+      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-20T12:11:32"
+    },
+    {
+      "title": "Cantor Fitzgerald, Disc Medicine hissesi için hedef fiyatı yükseltti",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/icahn-enterprises-hissesi-651-dolara-duserek-dibe-vurdu-93CH-4109442",
+      "url": "https://tr.investing.com/news/analyst-ratings/cantor-fitzgerald-disc-medicine-hissesi-icin-hedef-fiyat-yukseltti-93CH-4110744",
       "source": "Investing Türkiye",
-      "published": "2026-10-19T19:14:37"
+      "published": "2026-10-20T12:06:12"
     },
     {
-      "title": "Ömer Sarıgül'ün de aralarında olduğu 15 şüpheli tutuklandı",
-      "summary": "İstanbul&#039;da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 17 şüpheliden, aralarında Ömer Sarıgül, Murat Ağırel ve Aylin Kotil&#039;in de bulunduğu 15 kişi tutuklandı.",
-      "url": "https://www.dunya.com/gundem/omer-sarigulun-de-aralarinda-oldugu-15-supheli-tutuklandi-haberi-844489",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-19T19:11:00"
-    },
-    {
-      "title": "Steel Dynamics altı üst düzey terfi açıkladı",
+      "title": "Deutsche Bank, Climb Bio hissesi için al önerisi verdi",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/steel-dynamics-alt-ust-duzey-terfi-acklad-93CH-4109441",
+      "url": "https://tr.investing.com/news/analyst-ratings/deutsche-bank-climb-bio-hissesi-icin-al-onerisi-verdi-93CH-4110743",
       "source": "Investing Türkiye",
-      "published": "2026-10-19T19:07:18"
+      "published": "2026-10-20T12:06:10"
     },
     {
-      "title": "SPK'dan Peker GYO kararı: Tera Yatırım'ın bazı payları borsada işlem göremeyecek",
-      "summary": "Sermaye Piyasası Kurulu (SPK), Peker Gayrimenkul Yatırım Ortaklığı AŞ&#039;de (Peker GYO) yönetim kontrolünü elde eden Tera Yatırım Holding AŞ&#039;nin zorunlu pay alım teklifi yükümlülüğünü yerine getirmemesi nedeniyle bazı fonların donmuş oy haklarının çözülmesine, diğer ilgili payların ise yükümlülük tamamlanana kadar borsada işlem görememesine karar verdi.",
-      "url": "https://www.dunya.com/sirketler/spkdan-peker-gyo-karari-tera-yatirimin-bazi-paylari-borsada-islem-goremeyecek-haberi-844488",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-19T19:02:00"
+      "title": "Apogee Minerals, Knife Lake projesinde beş ruhsat alanı satın alacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/apogee-minerals-knife-lake-projesinde-bes-ruhsat-alan-satn-alacak-93CH-4110742",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:58"
     },
     {
-      "title": "Trabzonspor, sahasında Beşiktaş'ı 2-0 mağlup etti",
-      "summary": "Trendyol Süper Lig’in 8. haftasında Trabzonspor ile Beşiktaş karşı karşıya geldi. Müsabaka bordo-mavililerin 2-0 üstünlüğüyle tamamlandı.",
-      "url": "https://www.dunya.com/spor/trabzonspor-sahasinda-besiktasi-2-0-maglup-etti-haberi-844487",
+      "title": "PDS Biotechnology yönetim kuruluna üç yönetici atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/pds-biotechnology-yonetim-kuruluna-uc-yonetici-atad-93CH-4110740",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:46"
+    },
+    {
+      "title": "Apple yeni iPhone’lar için ABD tedarikçi ortaklıklarını genişletiyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/apple-yeni-iphonelar-icin-abd-tedarikci-ortaklklarn-genisletiyor-93CH-4110738",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:43"
+    },
+    {
+      "title": "Revolution Medicines akciğer kanseri ilacı için faz 3 denemesine başladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/revolution-medicines-akciger-kanseri-ilac-icin-faz-3-denemesine-baslad-93CH-4110739",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:43"
+    },
+    {
+      "title": "Suja Life yönetim kuruluna iki bağımsız üye atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/suja-life-yonetim-kuruluna-iki-bagmsz-uye-atad-93CH-4110737",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:38"
+    },
+    {
+      "title": "ABM Respiratory Care, Trinity Capital’den 20 milyon dolar aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/abm-respiratory-care-trinity-capitalden-20-milyon-dolar-ald-93CH-4110735",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:33"
+    },
+    {
+      "title": "Rezolve Ai, ödül dağıtımı için Revolut ile ortaklık kurdu",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/rezolve-ai-odul-dagtm-icin-revolut-ile-ortaklk-kurdu-93CH-4110736",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:33"
+    },
+    {
+      "title": "Terrestrial Energy, David Williams’ı ticari direktör olarak atadı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/terrestrial-energy-david-williams-ticari-direktor-olarak-atad-93CH-4110733",
+      "source": "Investing Türkiye",
+      "published": "2026-10-20T12:05:32"
+    },
+    {
+      "title": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+      "summary": "Apple is adding a U.S. titanium supplier for its new iPhone Duo and expanding domestic production of camera components for the iPhone 18 Pro.",
+      "url": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-20T12:00:02"
+    },
+    {
+      "title": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
+      "summary": "NBA star Draymond Green said he would love to retire as a member of the Warriors but plans to keep playing next season even if that means joining another team.",
+      "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-20T12:00:02"
+    },
+    {
+      "title": "1 milyon TL'ye kadar konut desteği: Düşük gelirli olmak yetmiyor",
+      "summary": "Evini onaracak veya sağlıklı bir konuta kavuşacak gücü olmayanlara devlet desteği sağlanıyor. Yardımın üst sınırı 1 milyon TL&#039;ye ulaşırken, yalnızca düşük gelirli olmak yetmiyor. Kimlerin başvurabileceği ve ödeme şartları önemli.",
+      "url": "https://www.dunya.com/foto-galeri/gundem/1-milyon-tlye-kadar-konut-destegi-dusuk-gelirli-olmak-yetmiyor-galeri-844583",
       "source": "Dünya Gazetesi",
-      "published": "2026-10-19T18:50:00"
+      "published": "2026-10-20T11:58:00"
+    },
+    {
+      "title": "118 yıllık ayakkabı devinde işler tersine döndü: Satış ihtimali konuşuluyor",
+      "summary": "Nike&#039;ın 2003 yılında satın aldığı 118 yıllık ayakkabı markası Converse, sert satışların ardından zorlu bir viraja girdi. Son çeyrekte gelirleri yüzde 28 gerileyen marka Nike&#039;ın toparlanma sürecini de zorlaştırırken, Converse&#039;in elden çıkarılması değerlendiriliyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/118-yillik-ayakkabi-devinde-isler-tersine-dondu-satis-ihtimali-konusuluyor-galeri-844584",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-20T11:55:00"
+    },
+    {
+      "title": "Mekke Ortak Savunma Anlaşması TBMM'ye sunuldu",
+      "summary": "Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması&#039;nın onaylanmasına ilişkin kanun teklifi TBMM&#039;ye sunuldu. İletişim Başkanı Burhanettin Duran, bu adımı üç ülkenin stratejik işbirliği açısından önemli bir aşama olarak değerlendirirken ortaklığın caydırıcılığı güçlendirmeyi, savunma kapasitesini artırmayı ve bölgesel istikrarı korumayı hedeflediğini beli",
+      "url": "https://www.dunya.com/gundem/mekke-ortak-savunma-anlasmasi-tbmmye-sunuldu-haberi-844585",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-20T11:50:00"
+    },
+    {
+      "title": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
+      "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-20T11:49:45"
+    },
+    {
+      "title": "Dağlarda kendiliğinden yetişiyor, kilosu 100 TL'den satılıyor: Yılda sadece bir ay bulunuyor",
+      "summary": "Sivas&#039;ın dağlık bölgelerinde ve yüksek kesimlerinde yetişen meyve, kısa süren hasat döneminin ardından tezgahlarda yerini aldı. Yılda yaklaşık bir ay tüketilebilen ürün, kilosu 70 ile 100 TL arasında değişen fiyatlarla alıcı buluyor.",
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/daglarda-kendiliginden-yetisiyor-kilosu-100-tlden-satiliyor-yilda-sadece-bir-ay-bulunuyor-galeri-844582",
+      "source": "Dünya Gazetesi",
+      "published": "2026-10-20T11:46:00"
     }
   ]
 }
