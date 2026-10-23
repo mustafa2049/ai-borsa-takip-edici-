@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-10-23T15:17:57+03:00",
+  "updated_at": "2026-10-23T20:19:48+03:00",
   "news": [
+    {
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-23T17:19:39"
+    },
+    {
+      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+      "summary": "Six melanoma specialists said the Moderna and Merck vaccine results represent a clinically meaningful result for melanoma patients who underwent surgery.",
+      "url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-23T17:15:08"
+    },
+    {
+      "title": "Intapp hissesi 47,99 dolarla 52 haftalık zirve yaptı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/intapp-hissesi-4799-dolarla-52-haftalk-zirve-yapt-93CH-4118209",
+      "source": "Investing Türkiye",
+      "published": "2026-10-23T17:07:11"
+    },
+    {
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-23T17:04:14"
+    },
+    {
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-23T17:04:10"
+    },
+    {
+      "title": "Nvidia CEO'su Huang: Kazakistan küresel yapay zeka merkezi olabilir",
+      "summary": "NVIDIA CEO'su Jensen Huang, Kazakistan'ın enerji kaynakları ve nitelikli insan gücü sayesinde küresel bir fiziksel yapay zeka merkezi olabileceğini belirtti. Huang, ülkenin enerji kaynaklarını yapay zeka kapasitesine dönüştürerek bu alanda ihracat yapabileceğini vurguladı.",
+      "url": "https://www.bloomberght.com/nvidia-ceo-su-huang-kazakistan-kuresel-yapay-zeka-merkezi-olabilir-3792444",
+      "source": "BloombergHT",
+      "published": "2026-10-23T17:03:58"
+    },
+    {
+      "title": "Aim ImmunoTech CEO’su Equels 5.093 dolar değerinde hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/aim-immunotech-ceosu-equels-5093-dolar-degerinde-hisse-ald-93CH-4118208",
+      "source": "Investing Türkiye",
+      "published": "2026-10-23T17:01:59"
+    },
+    {
+      "title": "Buğday, soya fasulyesi ve şeker bakırı geride bıraktı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/commodities-news/bugday-soya-fasulyesi-ve-seker-bakr-geride-brakt-4118207",
+      "source": "Investing Türkiye",
+      "published": "2026-10-23T16:56:55"
+    },
+    {
+      "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+      "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "source": "CNBC World Markets",
+      "published": "2026-10-23T16:55:37"
+    },
     {
       "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
       "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
       "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
       "source": "CNBC World Markets",
-      "published": "2026-10-23T12:11:48"
+      "published": "2026-10-23T16:51:21"
     },
     {
-      "title": "Bitcoin fonlarında sert dönüş: Bir günde 635 milyon dolar çıktı",
-      "summary": "ABD&#039;deki spot Bitcoin ETF’lerinden bir günde net 635 milyon dolar çekilmesi, üç günlük para girişini sonlandırdı. Hazirandan bu yana en büyük günlük çıkışla ekim ayı toplamı yeniden negatife dönerken, haftalık bilanço artıda kaldı.",
-      "url": "https://www.dunya.com/finans/kripto-para/bitcoin-fonlarinda-sert-donus-bir-gunde-635-milyon-dolar-cikti-haberi-845037",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-23T12:00:00"
-    },
-    {
-      "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
-      "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-      "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-23T11:58:40"
-    },
-    {
-      "title": "Türk şirketlerine üç bölgede finansman desteği: Kanada ile imzalar atıldı",
-      "summary": "Türk Eximbank ile Kanada&#039;nın ihracat destek kuruluşu EDC arasında yeni finansman işbirliği anlaşması imzalandı. Afrika, Orta Doğu ve Orta Asya&#039;da ortak projelerin önü açılırken iki ülke arasındaki serbest ticaret görüşmeleri için de tarih netleşti.",
-      "url": "https://www.dunya.com/ekonomi/turk-sirketlerine-uc-bolgede-finansman-destegi-kanada-ile-imzalar-atildi-haberi-845035",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-23T11:55:00"
-    },
-    {
-      "title": "45 dakikalık yol 24 dakikaya düştü: Yıllık 560 milyon lira tasarruf sağlanacak",
-      "summary": "Çankırı&#039;da 29 kilometrelik Korgun-Kurşunlu Yolu hizmete açıldı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yeni güzergâhla seyahat süresinin 45 dakikadan 24 dakikaya düştüğünü açıkladı. Proje sayesinde zamandan 381 milyon, akaryakıttan 179 milyon lira olmak üzere yıllık toplam 560 milyon lira tasarruf sağlanması bekleniyor.",
-      "url": "https://www.dunya.com/gundem/45-dakikalik-yol-24-dakikaya-dustu-yillik-560-milyon-lira-tasarruf-saglanacak-haberi-845036",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-23T11:53:00"
-    },
-    {
-      "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-      "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-      "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-      "source": "CNBC World Markets",
-      "published": "2026-10-23T11:51:59"
-    },
-    {
-      "title": "Edible Garden maliyetleri düşürmek için Tennessee çiftliğiyle anlaştı",
+      "title": "Popular hisse başına 0,90 dolar temettü açıkladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/edible-garden-maliyetleri-dusurmek-icin-tennessee-ciftligiyle-anlast-93CH-4117354",
+      "url": "https://tr.investing.com/news/company-news/popular-hisse-basna-090-dolar-temettu-acklad-93CH-4118205",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:45:29"
+      "published": "2026-10-23T16:49:03"
     },
     {
-      "title": "Kasım ara tatil ne zaman başlıyor? İlk ara tatil tarihi...",
-      "summary": "Hafta sonuna girilirken öğrenciler de ilk ara tatil için gün sayıyor. Kısa bir mola için bekleyiş sürerken &quot;Ara tatil ne zaman başlıyor&quot; sorusu sıklaşıyor.",
-      "url": "https://www.dunya.com/gundem/kasim-ara-tatil-ne-zaman-basliyor-ilk-ara-tatil-tarihi-haberi-845034",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-23T11:45:00"
-    },
-    {
-      "title": "İngiltere'den vatandaşlara \"en az üç gün yetecek kadar gıda ve su stoku yapın\" çağrısı",
-      "summary": "İngiltere hükümeti, aşırı hava olayları, siber saldırılar ve devlet kaynaklı güvenlik tehditlerine karşı vatandaşlara en az 3 gün yetecek kadar gıda ve su stoku yapmaları tavsiyesinde bulundu.",
-      "url": "https://www.bloomberght.com/ingiltere-den-vatandaslara-en-az-uc-gun-yetecek-kadar-gida-ve-su-stoku-yapin-cagrisi-3792409",
+      "title": "Bakan Kurum: COP31'e 1,5 milyon ziyaretçi bekliyoruz",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 9-20 Kasım tarihlerinde Antalya'da düzenlenecek COP31'e yaklaşık 1,5 milyon ziyaretçi beklediklerini açıkladı. Kurum, 85 devlet ve hükümet başkanının katılım bildirdiğini, yaklaşık 3 bin gazetecinin de organizasyon için akredite olduğunu belirtti.",
+      "url": "https://www.bloomberght.com/bakan-kurum-cop31-e-1-5-milyon-ziyaretci-bekliyoruz-3792443",
       "source": "BloombergHT",
-      "published": "2026-10-23T11:43:29"
+      "published": "2026-10-23T16:44:06"
     },
     {
-      "title": "İngiltere halktan evde üç günlük acil durum stoku tutmasını istedi",
+      "title": "Lycia Therapeutics halka arzda 317,5 milyon dolar topladı",
       "summary": "",
-      "url": "https://tr.investing.com/news/economy-news/ingiltere-halktan-evde-uc-gunluk-acil-durum-stoku-tutmasn-istedi-93CH-4117347",
+      "url": "https://tr.investing.com/news/stock-market-news/lycia-therapeutics-halka-arzda-3175-milyon-dolar-toplad-4118201",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:39:26"
+      "published": "2026-10-23T16:33:47"
     },
     {
-      "title": "Tango Therapeutics hisseleri neden düşüyor?",
+      "title": "Palo Alto Networks hisseleri neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/tango-therapeutics-hisseleri-neden-dusuyor-93CH-4117336",
+      "url": "https://tr.investing.com/news/stock-market-news/palo-alto-networks-hisseleri-neden-yukseliyor-93CH-4118199",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:37:38"
+      "published": "2026-10-23T16:32:18"
     },
     {
-      "title": "Revolution Medicines pankreas kanseri çalışmasından alt grup verileri sundu",
+      "title": "Check Point Software hissesi neden yükselişte?",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/revolution-medicines-pankreas-kanseri-calsmasndan-alt-grup-verileri-sundu-93CH-4117335",
+      "url": "https://tr.investing.com/news/stock-market-news/check-point-software-hissesi-neden-yukseliste-93CH-4118198",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:37:36"
+      "published": "2026-10-23T16:30:57"
     },
     {
-      "title": "Takeda’dan mide kanseri ilacı için olumlu faz 3 sonuçları",
+      "title": "Plains GP Holdings LP hissesi 28,71 dolarda zirve yaptı",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/takedadan-mide-kanseri-ilac-icin-olumlu-faz-3-sonuclar-93CH-4117334",
+      "url": "https://tr.investing.com/news/company-news/plains-gp-holdings-lp-hissesi-2871-dolarda-zirve-yapt-93CH-4118197",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:37:32"
+      "published": "2026-10-23T16:29:36"
     },
     {
-      "title": "Meme kanserinde hastalık ilerlemesi yüzde 59 azaldı",
+      "title": "SentinelOne hissesi bugün neden yükseliyor?",
       "summary": "",
-      "url": "https://tr.investing.com/news/company-news/meme-kanserinde-hastalk-ilerlemesi-yuzde-59-azald-93CH-4117333",
+      "url": "https://tr.investing.com/news/stock-market-news/sentinelone-hissesi-bugun-neden-yukseliyor-93CH-4118196",
       "source": "Investing Türkiye",
-      "published": "2026-10-23T11:37:28"
+      "published": "2026-10-23T16:29:06"
     },
     {
-      "title": "Suudi Arabistan'da iki büyük forum ertelendi: Bölgesel gerilim takvimi bozuyor",
-      "summary": "Suudi Arabistan, kasım ayında Riyad’da düzenlenmesi planlanan Birleşmiş Milletler Dünya Veri Forumu ile Suudi İstatistik Forumunu 2027’ye erteledi. Karar, ülkenin uluslararası etkinlik takviminde yeni bir değişikliğe yol açarken, yeni tarihler henüz açıklanmadı.",
-      "url": "https://www.dunya.com/gundem/suudi-arabistanda-iki-buyuk-forum-ertelendi-bolgesel-gerilim-takvimi-bozuyor-haberi-845033",
+      "title": "SentinelOne hissesi bugün neden yükseliyor?",
+      "summary": "",
+      "url": "https://tr.investing.com/news/stock-market-news/sentinelone-hissesi-bugun-neden-yukseliyor-93CH-4118195",
+      "source": "Investing Türkiye",
+      "published": "2026-10-23T16:28:54"
+    },
+    {
+      "title": "Türkiye ile Slovakya arasında enerji mutabakatı",
+      "summary": "Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarında işbirliğinin geliştirilmesine yönelik mutabakat zaptı imzalandı.",
+      "url": "https://www.bloomberght.com/turkiye-ile-slovakya-arasinda-enerji-mutabakati-3792442",
+      "source": "BloombergHT",
+      "published": "2026-10-23T16:10:04"
+    },
+    {
+      "title": "Bu hafta yatırım araçlarından en çok kazandıran ve kaybettirenler",
+      "summary": "Borsa İstanbul&#039;da işlem gören hisse senetleri haftalık bazda ortalama yüzde 5,16, altının gram fiyatı yüzde 4,18 değer kaybederken, dolar/TL yüzde 0,36 ve avro/TL yüzde 0,03 değer kazandı.",
+      "url": "https://www.dunya.com/ekonomi/bu-hafta-yatirim-araclarindan-en-cok-kazandiran-ve-kaybettirenler-haberi-845062",
       "source": "Dünya Gazetesi",
-      "published": "2026-10-23T11:37:00"
-    },
-    {
-      "title": "Needham, Diodes hissesini büyüme görünümüyle al önerisiyle başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/analyst-ratings/needham-diodes-hissesini-buyume-gorunumuyle-al-onerisiyle-baslatt-93CH-4117331",
-      "source": "Investing Türkiye",
-      "published": "2026-10-23T11:35:58"
-    },
-    {
-      "title": "InvestingPro, PEKGY’nin %50’lik düşüşünü 20 ay önceden işaret etti",
-      "summary": "",
-      "url": "https://tr.investing.com/news/investment-ideas/investingpro-pekgynin-50lik-dususunu-20-ay-onceden-isaret-etti-93CH-4117329",
-      "source": "Investing Türkiye",
-      "published": "2026-10-23T11:35:33"
-    },
-    {
-      "title": "Olumlu kanser denemesi verilerine rağmen Tango hisseleri düştü",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/olumlu-kanser-denemesi-verilerine-ragmen-tango-hisseleri-dustu-4117330",
-      "source": "Investing Türkiye",
-      "published": "2026-10-23T11:34:15"
-    },
-    {
-      "title": "Belimo hissesi bugün neden yükseliyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/belimo-hissesi-bugun-neden-yukseliyor-93CH-4117322",
-      "source": "Investing Türkiye",
-      "published": "2026-10-23T11:34:08"
-    },
-    {
-      "title": "Altın yatırımcısının gözü bu gelişmede: Ünlü fon yöneticisi yeni yükselişin şifresini verdi",
-      "summary": "Küresel piyasalarda altın fiyatlarının yönüne ilişkin belirsizlik sürerken, Gabelli Gold Fund yöneticisi Chris Mancini&#039;den dikkat çeken bir değerlendirme geldi. Altının önündeki engellerin geçici olduğunu savunan Mancini, yeni yükselişin hangi gelişmeyle başlayabileceğine işaret etti.",
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisinin-gozu-bu-gelismede-unlu-fon-yoneticisi-yeni-yukselisin-sifresini-verdi-galeri-845032",
-      "source": "Dünya Gazetesi",
-      "published": "2026-10-23T11:24:00"
+      "published": "2026-10-23T15:53:00"
     }
   ]
 }
