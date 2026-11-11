@@ -1,145 +1,145 @@
 {
-  "updated_at": "2026-11-11T17:50:11+03:00",
+  "updated_at": "2026-11-12T00:39:51+03:00",
   "news": [
     {
-      "title": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "source": "CNBC World Markets",
+      "published": "2026-11-11T21:33:17"
+    },
+    {
+      "title": "Guardant Health 500 milyon dolarlık tahvil ihracı planlıyor",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/guardant-health-500-milyon-dolarlk-tahvil-ihrac-planlyor-93CH-4153608",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:21:47"
+    },
+    {
+      "title": "CPC Biotech, Quattroflow HTX pompa tahrik sistemini piyasaya sürdü",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/cpc-biotech-quattroflow-htx-pompa-tahrik-sistemini-piyasaya-surdu-93CH-4153607",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:21:44"
+    },
+    {
+      "title": "Huntsman hisse başına 0,0875 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/huntsman-hisse-basna-00875-dolar-temettu-acklad-93CH-4153606",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:21:01"
+    },
+    {
+      "title": "EnerSys hisse başına 0,2875 dolar temettü dağıtacak",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/enersys-hisse-basna-02875-dolar-temettu-dagtacak-93CH-4153605",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:21:00"
+    },
+    {
+      "title": "EastGroup Properties portföy doluluk oranını açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/eastgroup-properties-portfoy-doluluk-orann-acklad-93CH-4153601",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:17:46"
+    },
+    {
+      "title": "RLI 3 dolar özel temettü ve 0,18 dolar düzenli temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/rli-3-dolar-ozel-temettu-ve-018-dolar-duzenli-temettu-acklad-93CH-4153600",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:17:45"
+    },
+    {
+      "title": "Kinsale Capital hisse başına 0,25 dolar temettü açıkladı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/company-news/kinsale-capital-hisse-basna-025-dolar-temettu-acklad-93CH-4153597",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:17:18"
+    },
+    {
+      "title": "Provident Financial yöneticisi Blunden 5.700 hisse sattı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/provident-financial-yoneticisi-blunden-5700-hisse-satt-93CH-4153596",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:16:59"
+    },
+    {
+      "title": "Citizens & Northern yöneticisi Frank Pellegrino 7.167 dolar hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/citizens--northern-yoneticisi-frank-pellegrino-7167-dolar-hisse-ald-93CH-4153595",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:16:47"
+    },
+    {
+      "title": "Citizens & Northern yöneticisi Katherine Shattuck 197 dolar hisse aldı",
+      "summary": "",
+      "url": "https://tr.investing.com/news/insider-trading-news/citizens--northern-yoneticisi-katherine-shattuck-197-dolar-hisse-ald-93CH-4153594",
+      "source": "Investing Türkiye",
+      "published": "2026-11-11T21:16:41"
+    },
+    {
+      "title": "Zelenskiy: Üçlü zirve için görüşmeler sürüyor",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşı sona erdirmek amacıyla ABD, Rusya ve Ukrayna liderlerini bir araya getirecek bir zirve için görüşmelerin sürdüğünü açıkladı.",
+      "url": "https://www.bloomberght.com/zelenskiy-uclu-zirve-icin-gorusmeler-suruyor-3794256",
+      "source": "BloombergHT",
+      "published": "2026-11-11T21:12:48"
+    },
+    {
+      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
       "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
       "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
       "source": "CNBC World Markets",
-      "published": "2026-11-11T14:40:44"
+      "published": "2026-11-11T21:11:26"
     },
     {
-      "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
-      "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-      "source": "CNBC World Markets",
-      "published": "2026-11-11T14:37:45"
+      "title": "Resmi Gazete'de bugün (12.11.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-12112026-3794255",
+      "source": "BloombergHT",
+      "published": "2026-11-11T21:05:00"
     },
     {
       "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
       "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
       "source": "CNBC World Markets",
-      "published": "2026-11-11T14:35:23"
+      "published": "2026-11-11T21:04:36"
     },
     {
-      "title": "Katar Emiri Al Sani, Ahmed Şara ile görüştü",
-      "summary": "Katar Emiri Şeyh Temim bin Hamed Al Sani, Suriye Cumhurbaşkanı Ahmed Şara ile bir araya gelerek ikili ilişkileri ve bölgesel gelişmeleri ele aldı.",
-      "url": "https://www.dunya.com/dunya/katar-emiri-al-sani-ahmed-sara-ile-gorustu-haberi-847293",
+      "title": "Teknoloji yatırımlarımızla daha düşük karbonlu bir gelecek inşa ediyoruz",
+      "summary": "Türk Telekom, teknolojiyi sürdürülebilir bir geleceğin en güçlü araçlarından biri olarak konumlandırıyor. Sürdürülebilirliği iş stratejilerinin merkezine yerleştirdiklerini anlatan Türk Telekom CEO’su Ebubekir Şahin, “Yarına Sözümüz Var” yaklaşımıyla yeşil dönüşümü uzun vadeli yatırım stratejisinin merkezine yerleştirdiklerini belirtti.",
+      "url": "https://www.dunya.com/sirketler/teknoloji-yatirimlarimizla-daha-dusuk-karbonlu-bir-gelecek-insa-ediyoruz-haberi-847314",
       "source": "Dünya Gazetesi",
-      "published": "2026-11-11T14:29:00"
+      "published": "2026-11-11T21:00:00"
     },
     {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "source": "CNBC World Markets",
-      "published": "2026-11-11T14:24:28"
-    },
-    {
-      "title": "Asgari ücret ne kadar olacak? Asgari ücret 40 bin lira olur mu?",
-      "summary": "Asgari ücret ocak ayında zamlanacak. Görüşmeler ise aralık ayında başlayacak. Milyonlar zam oranlarını merak ederken &quot;Asgari ücret ne kadar olacak&quot; sorusu yoğun şekilde geliyor.",
-      "url": "https://www.dunya.com/gundem/asgari-ucret-ne-kadar-olacak-asgari-ucret-40-bin-lira-olur-mu-haberi-847292",
+      "title": "Koç Holding Yönetim Kurulu Başkan Vekili Ali Koç: Dünya yatırım için yer arıyor, neden Türkiye olmasın",
+      "summary": "Koç Holding Yönetim Kurulu Başkan Vekili Ali Koç ile enerji dönüşümünün Türkiye için sunduğu fırsatları, enerji bağımsızlığını, kritik minerallerin stratejik önemini ve Türkiye’nin küresel yatırım pastasından alabileceği payı konuştuk. Koç, “Dünyada çok para var ve gidecek yer arıyor. Niye bize gelmesin” diyerek Türkiye’nin potansiyeline dikkat çekti.",
+      "url": "https://www.dunya.com/ekonomi/koc-holding-yonetim-kurulu-baskan-vekili-ali-koc-dunya-yatirim-icin-yer-ariyor-neden-turkiye-olmasin-haberi-847315",
       "source": "Dünya Gazetesi",
-      "published": "2026-11-11T14:19:00"
+      "published": "2026-11-11T21:00:00"
     },
     {
-      "title": "G7'den yapay zeka teknolojilerinde güvenlik vurgusu",
-      "summary": "G7 ülkelerinin dışişleri bakanları, gelişen yapay zeka teknolojilerinin toplumsal ve ekonomik bazı riskler barındırdığına ve bu teknolojilerin kötü niyetli aktörler tarafından siber saldırı ve suç eylemleri için kullanılabileceğine işaret ederek, yapay zeka yönetişiminde güvenliğin önemini vurguladı.",
-      "url": "https://www.bloomberght.com/g7-den-yapay-zeka-teknolojilerinde-guvenlik-vurgusu-3794233",
-      "source": "BloombergHT",
-      "published": "2026-11-11T14:16:47"
+      "title": "İklim direncinin kaldıracı sigortacılık olacak",
+      "summary": "COP31 kapsamında Antal­ya’da açılan Sigorta Evi ve düzenlenen Küresel Sigortacı­lık ve Dayanıklılık Zirvesi’nde konuşan sektör ve ekonomi yö­netimi temsilcileri, afet riskle­rinin yalnızca gerçekleşmesi­nin ardından karşılanmasının yeterli olmayacağına, risklerin önceden ölçülmesi, azaltılması ve finansal sistem içinde payla­şılması gerektiğine dikkat çek­ti.",
+      "url": "https://www.dunya.com/sektorler/sigortacilik/iklim-direncinin-kaldiraci-sigortacilik-olacak-haberi-847316",
+      "source": "Dünya Gazetesi",
+      "published": "2026-11-11T21:00:00"
     },
     {
-      "title": "FlexGen, Batı Virginia’da 86MW’lık güneş projesini entegre edecek",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/flexgen-bat-virginiada-86mwlk-gunes-projesini-entegre-edecek-93CH-4153139",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:13:43"
+      "title": "Üretimdeki kayıp enerjiyi yapay zekâ bulacak",
+      "summary": "Yapay zekâ uygulamaları, KOBİ’lerde enerji tüketiminin optimize edilmesinden üretim firelerinin azaltılmasına, su yönetiminden karbon emisyonlarının ölçülmesine kadar pek çok alanda verimlilik sağlıyor. Küçük işletmelerin maliyetlerini düşürürken yeşil dönüşüm ve dijitalleşme süreçlerini hızlandıran teknoloji, küresel tedarik zincirlerinde rekabet gücünü korumak açısından da kritik önem taşıyor.",
+      "url": "https://www.dunya.com/ekonomi/uretimdeki-kayip-enerjiyi-yapay-zeka-bulacak-haberi-847318",
+      "source": "Dünya Gazetesi",
+      "published": "2026-11-11T21:00:00"
     },
     {
-      "title": "JAKKS Pacific, Invincible oyuncakları için Skybound ile anlaştı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/jakks-pacific-invincible-oyuncaklar-icin-skybound-ile-anlast-93CH-4153138",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:13:42"
-    },
-    {
-      "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-      "summary": "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
-      "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-      "source": "CNBC World Markets",
-      "published": "2026-11-11T14:13:40"
-    },
-    {
-      "title": "KORU Medical Canaccord Genuity forumunda: Çekirdek işin ötesinde büyüme",
-      "summary": "",
-      "url": "https://tr.investing.com/news/transcripts/koru-medical-canaccord-genuity-forumunda-cekirdek-isin-otesinde-buyume-93CH-4153119",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:11:14"
-    },
-    {
-      "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-      "summary": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-      "url": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-      "source": "CNBC World Markets",
-      "published": "2026-11-11T14:10:19"
-    },
-    {
-      "title": "IMCD hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/imcd-hissesi-bugun-neden-dusuyor-93CH-4153115",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:08:05"
-    },
-    {
-      "title": "Azelis hissesi bugün neden düşüyor?",
-      "summary": "",
-      "url": "https://tr.investing.com/news/stock-market-news/azelis-hissesi-bugun-neden-dusuyor-93CH-4153114",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:07:55"
-    },
-    {
-      "title": "NexGel borç dönüşümü için yüzde 95 destek aldı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/nexgel-borc-donusumu-icin-yuzde-95-destek-ald-93CH-4153113",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:05:58"
-    },
-    {
-      "title": "RYET, ortak yatırımcıyla 2 milyon yuan’lık yapay zeka film programı başlattı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/ryet-ortak-yatrmcyla-2-milyon-yuanlk-yapay-zeka-film-program-baslatt-93CH-4153112",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:05:48"
-    },
-    {
-      "title": "QuantumScape, Osprey katı hal batarya platformunu tanıttı",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/quantumscape-osprey-kat-hal-batarya-platformunu-tantt-93CH-4153111",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:05:46"
-    },
-    {
-      "title": "PharmaCyte 1’e 19 ters hisse bölünmesi gerçekleştirdi",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/pharmacyte-1e-19-ters-hisse-bolunmesi-gerceklestirdi-93CH-4153110",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:05:42"
-    },
-    {
-      "title": "SINTX 3D baskı tesisini tamamladı, 2027’de ürün lansmanı hedefliyor",
-      "summary": "",
-      "url": "https://tr.investing.com/news/company-news/sintx-3d-bask-tesisini-tamamlad-2027de-urun-lansman-hedefliyor-93CH-4153109",
-      "source": "Investing Türkiye",
-      "published": "2026-11-11T14:05:40"
-    },
-    {
-      "title": "\"35 by 35 iddialı ancak gerçekçi bir hedef\"",
-      "summary": "BofA Uluslararası Yönetim Komitesi Üyesi Elif Bilgi Zapparoli \"2035'e kadar enerji tüketiminde elektriğin payının yüzde 35'e çıkarılmasını öngören '35 by 35' hedefinin \"iddialı ancak gerçekçi bir hedef\" olduğunu belirtti.",
-      "url": "https://www.bloomberght.com/35-by-35-iddiali-ancak-gercekci-bir-hedef-3794230",
-      "source": "BloombergHT",
-      "published": "2026-11-11T14:02:39"
+      "title": "Sanayinin ana arteri OSB’ler dönüşümün ateşleyicisi olacak",
+      "summary": "Türkiye genelinde sayısı 420’ye ulaşan OSB’ler, 2,7 milyon kişilik istihdam gücüyle ülke ekonomisinin üretim üssü olma özelliği taşıyor. Sanayinin ülke geneline yayılmasını sağlayan bu model bölgesel kalkınmayı destekledi. Yakın gelecekteyse OSB’ler, yeşil dönüşüm, dijitalleşme ve teknoloji odaklı yatırımlarla Türkiye’nin küresel rekabet gücünü artırmaya hazırlanıyor.",
+      "url": "https://www.dunya.com/ekonomi/sanayinin-ana-arteri-osbler-donusumun-atesleyicisi-olacak-haberi-847319",
+      "source": "Dünya Gazetesi",
+      "published": "2026-11-11T21:00:00"
     }
   ]
 }
